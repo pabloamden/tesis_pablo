@@ -1,0 +1,22 @@
+Estos resultados son salidos del CLAN
+
+vocd-CDS:
+vocd ../*.cha +d3 +s"[+ CHI]"
+
+vocd-CDS-speakersAgrupados:
+vocd ../*.cha +d3 +s"[+ CHI]" +o3
+
+Este último viene sin decirte el archivo (...) pero agarre el output y lo procesé en python para obtener los SES. ( orden-archivos -> orden-ses )
+
+Hay menos individuos porque no se pudo calcular VOCD
+
+código:
+ses = [] 
+with open("./orden-archivos.txt", "r") as f: 
+     for l in f.readlines(): 
+         s = l[(l.rfind("-")+1):-6]
+         ses.append(s)
+for s in ses: 
+     print(s)
+
+

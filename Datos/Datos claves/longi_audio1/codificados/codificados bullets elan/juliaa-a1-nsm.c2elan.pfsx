@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1616,876</Object>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>7</Int>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>CHI</String>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Sender">
+            <Int>0</Int>
+        </pref>
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Creation Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Tier">
+            <Int>75</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Recipient">
+            <Int>0</Int>
+        </pref>
+        <pref key="Start Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Initials">
+            <Int>75</Int>
+        </pref>
+        <pref key="End Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Start Time</String>
+        <String>End Time</String>
+        <String>Tier</String>
+        <String>Initials</String>
+        <String>Comment</String>
+        <String>Thread</String>
+        <String>Sender</String>
+        <String>Recipient</String>
+        <String>Creation Date</String>
+        <String>Modification Date</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">-8,-8</Object>
+    </pref>
+    <prefList key="ExportToolbox.selectedTiers">
+        <String>CHI</String>
+        <String>ELANBegin</String>
+        <String>ELANEnd</String>
+        <String>ELANParticipant</String>
+        <String>act</String>
+        <String>com</String>
+        <String>mor</String>
+        <String>gra</String>
+        <String>tim</String>
+        <String>MIR</String>
+        <String>pra</String>
+        <String>dad</String>
+        <String>LIS</String>
+        <String>MU1</String>
+        <String>JUA</String>
+        <String>JUS</String>
+        <String>MOT</String>
+    </prefList>
+    <pref key="SelectionBeginTime">
+        <Long>0</Long>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+    </prefGroup>
+    <pref key="TimeScaleBeginTime">
+        <Long>20725810</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>20732063</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="MOT">
+            <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="CHI">
+            <Object class="java.awt.Color">160,0,160</Object>
+        </pref>
+        <pref key="JUA">
+            <Object class="java.awt.Color">160,90,0</Object>
+        </pref>
+        <pref key="MIR">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="LIS">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="MU1">
+            <Object class="java.awt.Color">160,90,160</Object>
+        </pref>
+        <pref key="JUS">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>CHI</String>
+        <String>act@CHI</String>
+        <String>com@CHI</String>
+        <String>mor@CHI</String>
+        <String>gra@CHI</String>
+        <String>tim@CHI</String>
+        <String>MIR</String>
+        <String>mor@MIR</String>
+        <String>gra@MIR</String>
+        <String>pra@MIR</String>
+        <String>dad@MIR</String>
+        <String>act@MIR</String>
+        <String>com@MIR</String>
+        <String>tim@MIR</String>
+        <String>LIS</String>
+        <String>mor@LIS</String>
+        <String>gra@LIS</String>
+        <String>com@LIS</String>
+        <String>act@LIS</String>
+        <String>tim@LIS</String>
+        <String>MU1</String>
+        <String>mor@MU1</String>
+        <String>gra@MU1</String>
+        <String>pra@MU1</String>
+        <String>dad@MU1</String>
+        <String>JUA</String>
+        <String>mor@JUA</String>
+        <String>gra@JUA</String>
+        <String>tim@JUA</String>
+        <String>com@JUA</String>
+        <String>act@JUA</String>
+        <String>JUS</String>
+        <String>MOT</String>
+        <String>mor@MOT</String>
+        <String>gra@MOT</String>
+        <String>pra@MOT</String>
+        <String>dad@MOT</String>
+        <String>com@MOT</String>
+    </prefList>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>1</Int>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
+</preferences>

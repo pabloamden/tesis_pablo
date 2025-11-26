@@ -1,0 +1,5020 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	SI1 Sister, MU2 Female, BR2 Brother, NIN Child, BR1 Brother,
+	BR4 Franco Brother, BRO Emanuel Brother, SIS Sister, MU1 Naty
+	Female, MUJ Female, MOT María Mother, CHI Simón Target_Child
+@ID:	spa|change_corpus_later|SI1||female|||Sister|||
+@ID:	spa|change_corpus_later|MU2||female|||Female|||
+@ID:	spa|change_corpus_later|BR2||male|||Brother|||
+@ID:	spa|change_corpus_later|NIN|||||Child|||
+@ID:	spa|change_corpus_later|BR1||female|||Brother|||
+@ID:	spa|change_corpus_later|BR4||male|||Brother|||
+@ID:	spa|change_corpus_later|BRO||male|||Brother|||
+@ID:	spa|change_corpus_later|SIS||female|||Sister|||
+@ID:	spa|change_corpus_later|MU1||female|||Female|||
+@ID:	spa|change_corpus_later|MUJ||female|||Female|||
+@ID:	spa|change_corpus_later|MOT||female|||Mother|||
+@ID:	spa|change_corpus_later|CHI|0;09.|male|||Target_Child|||
+@Birth of CHI:	30-JUN-2014
+@Transcriber:	Laura Ramírez
+@Date:	25-MAR-2015
+@Location:
+@Time Duration:
+@Time Start:
+@Situation:	Simón arranca 11:32:03  Se arranca a desgrabar a las
+	12:32:02, del audio cortado comienza en 58:25
+*BR1:	Ema va así .
+%mor:	n:prop|Ema v|i-3S&PRES=go adv|así=thus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*BRO:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	para .
+%mor:	prep|para=for .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	tiene que ir al xxx el nene .
+%mor:	v|tene-3S&PRES=have pro:rel|que=that inf|i-INF=go
+	aprep|a~det:art|el&m=to det:art|el&m&SG=the co:voc|nene=baby .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|APREP 5|7|DET 6|7|DET 7|4|POBJ 8|1|PUNCT
+*CHI:	&=balbucea .
+*BR1:	xxx tira .
+%mor:	imp|tira-2S&IMP=throw .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	tomá .
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	no el perro .
+%mor:	adv|no=no det:art|el&m&SG=the n|perro-m=dog .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|PUNCT
+*BR2:	&=grita .
+*BR1:	xxx el perro xxx .
+%mor:	det:art|el&m&SG=the n|perro-m=dog .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx .
+*BR1:	xxx .
+*BRO:	el Osito_pu .
+%mor:	det:art|el&m&SG=the n:prop|Osito_pu .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MUJ:	xxx .
+*MOT:	xxx .
+*MUJ:	no es el Osito_pu es el xxx . [+ OCH]
+%mor:	adv|no=no cop|se-3S&PRES=be det:art|el&m&SG=the n:prop|Osito_pu
+	cop|se-3S&PRES=be det:art|el&m&SG=the .
+%gra:	1|2|JCT 2|5|SUBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*BRO:	no el Osito_pu .
+%mor:	adv|no=no det:art|el&m&SG=the n:prop|Osito_pu .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|PUNCT
+*MOT:	que lo sacás todo eso al xxx . [+ OCH]
+%mor:	pro:rel|que=that pro:obj|lo&m=him v|saca-2S&PRES=bring_out
+	det:indef|todo-m=all pro:dem|eso=that_one aprep|a~det:art|el&m=to .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|CMOD 4|5|MOD 5|3|OBJ 6|5|APREP 7|6|POBJ 8|1|PUNCT
+*MUJ:	xxx .
+*BRO:	ese no e(s) el Osito_pu .
+%mor:	det:dem|ese=that adv|no=no cop|se-3S&PRES=be det:art|el&m&SG=the
+	n:prop|Osito_pu .
+%gra:	1|2|DET 2|3|JCT 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*MOT:	de dónde lo sacaste a ese gato ? [+ OCH]
+%mor:	prep|de=of pro:int|dónde=where pro:obj|lo&m=him
+	v|saca-2S&PRET=bring_out aprep|a=to det:dem|ese=that n|gato-m=cat ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|3|CMOD 5|4|APREP 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*BR2:	no me lo tapo .
+%mor:	adv|no=no pro:obj|me=me pro:obj|lo&m=him v|tapa-1S&PRES=cover .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*BR4:	me lo encontré .
+%mor:	pro:obj|me=me pro:obj|lo&m=him v|encontra-1S&PRET=find .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	mirá te llena todo de sangre .
+%mor:	co|mirá pro:obj|te=you v|llena-3S&PRES=fill det:indef|todo-m=all
+	prep|de=of n|sangre&f=blood .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*BR4:	xxx .
+*MOT:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	en la cola .
+%mor:	prep|en=in det:art|el&f&SG=the n|cola&f=tail .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MOT:	el culito de ella .
+%mor:	det:art|el&m&SG=the n|culo&m-DIM=buttocks prep|de=of
+	pro:sub|ello-f=he .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	y las bolas también le lastimaron .
+%mor:	coord|y=and det:art|el&f-PL=the n|bola&f-PL=ball adv|también=also
+	pro:ind|le=him v|lastima-3P&PRET=pity .
+%gra:	1|0|ROOT 2|3|DET 3|6|SUBJ 4|5|JCT 5|6|SUBJ 6|1|COORD 7|1|PUNCT
+*MOT:	viste ?
+%mor:	v|ve-2S&PRET=see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MUJ:	ya estaba así .
+%mor:	adv|ya=already cop|esta-13S&PAS=be adv|así=thus .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	&=balbucea .
+*MUJ:	otro lado así xxx .
+%mor:	pro:indef|otro-m=other n|lado&m=side adv|así=thus .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*BRO:	xxx .
+%com:	Simón parece estar jugando con un autito o algo así
+*BRO:	xxx .
+%com:	es medio complicado entender qué dicen
+*SIS:	dónde está xxx ?
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx .
+*MUJ:	xxx .
+*CHI:	&=balbucea .
+*MUJ:	está en esta casa porque la casa esa muy tirada no puede tener xxx .
+%mor:	cop|esta-3S&PRES=be prep|en=in det:dem|este-f=this n|casa&f=house
+	conj|porque=because det:art|el&f&SG=the n|casa&f=house
+	det:dem|ese-f=that adv|muy=very part|tira-PPART-f=throw adv|no=no
+	v|pode-3S&PRES=can inf|tene-INF=have .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PRED 6|7|DET 7|5|OBJ 8|7|MOD
+	9|10|MOD 10|8|JCT 11|12|JCT 12|10|POBJ 13|12|COMP 14|1|PUNCT
+*SIS:	xxx .
+*MUJ:	por eso a ella no hay que hacerlo castrar para que no quiera andar con
+	otra gata .
+%mor:	prep|por=for pro:dem|eso=that_one aprep|a=to pro:sub|ello-f=he
+	adv|no=no v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|hace-INF~pro:clit|OBJ&m=do ?|castrar prep|para=for
+	pro:rel|que=that adv|no=no imp|quere-3S&IMP=want inf|anda-INF=walk
+	prep|con=with det:indef|otro-f=other n|gato-f=cat .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|APREP 4|6|JCT 5|6|JCT 6|3|POBJ 7|6|REL 8|7|COMP
+	9|8|OBJ2 10|8|OBJ 11|10|JCT 12|11|REL 13|14|JCT 14|12|CMOD 15|14|COMP
+	16|15|JCT 17|18|DET 18|16|POBJ 19|1|PUNCT
+*MUJ:	me entendés ?
+%mor:	pro:obj|me=me v|entende-2S&PRES=understand ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx .
+*MUJ:	entendiste ?
+%mor:	v|entende-2S&PRET=understand ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	no xxx .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR2:	&=grita .
+*BR2:	mamá [=! grita] .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&umm dame ma(má) .
+%mor:	imp|da-2S&IMP~pro:clit|1S=give n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	xxx .
+*SIS:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MUJ:	esta no quiere xxx .
+%mor:	det:dem|este-f=this co|no v|quere-3S&PRES=want .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%tim:	12:34:06-1:00:29
+*SIS:	xxx .
+*BRO:	ma(má) !
+%mor:	n|mamá&f=mommy !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué podemos hacer para comer ?
+%mor:	pro:int|qué=what v|pode-1P&PRES=can inf|hace-INF=do prep|para=for
+	inf|come-INF=eat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|INF 5|3|OBJ 6|2|PUNCT
+*BR4:	milanesas .
+%mor:	n|milanesa&f-PL=breaded_meat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*SIS:	xxx .
+*MUJ:	xxx se lo comen .
+%mor:	pro:refl|se=itself pro:obj|lo&m=him v|come-3P&PRES=eat .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	no [/] no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	&=grita .
+*CHI:	&=balbucea .
+*BRO:	&=grita .
+*SIS:	dale [/] dale [/] dale .
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+%tim:	12:34:29
+*BRO:	xxx .
+*MUJ:	xxx que te pongan el mismo .
+%mor:	pro:rel|que=that pro:obj|te=you v|pone-3P&SUB&PRES=put
+	det:art|el&m&SG=the adj|mismo-m=same .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*SIS:	por qué hacés así ?
+%mor:	prep|por=for pro:int|qué=what v|hace-2S&PRES=do adv|así=thus ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|3|JCT 5|1|PUNCT
+*BRO:	xxx .
+*MUJ:	xxx .
+*BR4:	mami no .
+%mor:	n|mami&f=mommy adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*BRO:	&=balbucea .
+*CHI:	&=balbucea .
+*BR4:	&=canta .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%tim:	12:34:54
+*SIS:	alguno tiene xxx ?
+%mor:	det:indef|algún-m=some v|tene-3S&PRES=have ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+%tim:	12:34:58 1:01:25
+*BRO:	dale .
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*BRO:	xxx .
+*MOT:	qué pachó [: pasó] ? [+ CHI]
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	&eh ? [+ CHI]
+*BRO:	esto .
+%mor:	pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=balbucea .
+*BRO:	xxx !
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	cuando xxx .
+%mor:	conj|cuando=when .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	&eh &gaga . [+ CHI]
+*SIS:	mirá .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%tim:	12:35:27
+*CHI:	&=balbucea .
+*BRO:	&=lloriquea .
+*CHI:	&=balbucea .
+*MOT:	xxx &ay andá [/] andá . [+ OCH]
+%mor:	co|andá=come_on .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=lloriquea .
+*MOT:	así xxx la puerta . [+ OCH]
+%mor:	adv|así=thus det:art|el&f&SG=the n|puerta&f=door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*BR4:	qué puerta ?
+%mor:	pro:int|qué=what n|puerta&f=door ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BR4:	cuál ma(má) ?
+%mor:	pro:int|cuál=which n|mamá&f=mommy ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	&=lloriquea .
+*BR4:	vení dale [/] dale corré . [+ OCH]
+%mor:	imp|veni-2S&IMP=come co|dale imp|corre-2S&IMP=run .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*BRO:	no xxx .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=grita .
+*MOT:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&balbucea .
+*MOT:	Ema vení . [+ OCH]
+%mor:	n:prop|Ema imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*BR4:	xxx .
+*SIS:	xxx .
+*SIS:	xxx .
+*MOT:	xxx .
+*SIS:	xxx .
+%com:	algo roza el chalequito de Simón
+*CHI:	&=balbucea .
+*MOT:	cincuenta pesos le diste .
+%mor:	det:num|cincuenta&m=fifty n|peso&m-PL=weight pro:ind|le=him
+	v|da-2S&PRET=give .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|4|PUNCT
+*MOT:	la hora cincuenta pesos hizo cuatro horas .
+%mor:	det:art|el&f&SG=the n|hora&f=hour det:num|cincuenta&m=fifty
+	n|peso&m-PL=weight v|hace-3S&PRET=do det:num|cuatro=four
+	n|hora&f-PL=hour .
+%gra:	1|2|DET 2|4|SUBJ 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*MOT:	el Franco era ?
+%mor:	det:art|el&m&SG=the n:prop|Franco cop|se-13S&PAS=be ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea .
+*MOT:	qué te hizo Franco ? [+ CHI]
+%mor:	pro:int|qué=what pro:obj|te=you v|hace-3S&PRET=do n:prop|Franco ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*MOT:	le pegó a xxx ? [+ CHI]
+%mor:	pro:ind|le=him v|pega-3S&PRET=hit_adhere aprep|a=to ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|APREP 4|2|PUNCT
+*SIS:	hola .
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR2:	Simón . [+ CHI]
+%mor:	n:prop|Simón .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=ríe .
+*BR2:	Simón mirá &ah . [+ CHI]
+%mor:	n:prop|Simón co|mirá .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*BRO:	cerralo xxx .
+%mor:	imp|cerra-2S&IMP~pro:clit|OBJ&m=close .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	a la mañana hay primero ahí en la escuela de ustedes ?
+%mor:	aprep|a=to det:art|el&f&SG=the adv|mañana=tomorrow
+	v|habe-3S&PRES&SPEC=have adv|primero=first adv|ahí=there prep|en=in
+	det:art|el&f&SG=the n|escuela&f=school prep|de=of
+	pro:sub|usted-PL=you ?
+%gra:	1|4|SUBJ 2|3|DET 3|1|POBJ 4|0|ROOT 5|6|JCT 6|4|JCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|JCT 11|10|POBJ 12|4|PUNCT
+*BRO:	mirá [/] mirá .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	primer grado ?
+%mor:	adj:num|primer&m=first n|grado&m=grade ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	estoy hablando .
+%mor:	aux|esta-1S&PRES=be part|habla-PRPART=speak .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*SIS:	xxx .
+*MOT:	xxx .
+%com:	se las escucha medio lejos .
+*SIS:	xxx te moviste xxx .
+%mor:	pro:obj|te=you v|move-2S&PRET=move .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	esta xxx .
+%mor:	det:dem|este-f=this .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR2:	el primero que xxx .
+%mor:	det:art|el&m&SG=the adv|primero=first pro:rel|que=that .
+%gra:	1|2|DET 2|0|ROOT 3|2|REL 4|2|PUNCT
+*MOT:	esto xxx .
+%mor:	pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+%tim:	12:38:24
+*MUJ:	si este tiene la misma remera que vos . [+ OCH]
+%mor:	conj|si=if det:dem|este=this v|tene-3S&PRES=have
+	det:art|el&f&SG=the adj|mismo-f=same n|remera&f=tshirt
+	pro:rel|que=that pro:obj|vos=you .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|REL 8|7|CMOD
+	9|3|PUNCT
+*NIN:	xxx .
+*MOT:	y el talón .
+%mor:	coord|y=and det:art|el&m&SG=the adj|tal-AUG=such .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|PUNCT
+*MUJ:	y el talón que tenían nuestros .
+%mor:	coord|y=and det:art|el&m&SG=the adj|tal-AUG=such pro:rel|que=that
+	v|tene-3P&PAS=have det:poss|nuestro-m-PL=our .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|3|REL 5|4|CMOD 6|5|OBJ 7|1|PUNCT
+*NIN:	&=balbucea .
+*CHI:	&=balbucea .
+*MUJ:	tercero igual que ustedes .
+%mor:	adj:num|tercer-m=third co|igual=equal pro:rel|que=that
+	pro:sub|usted-PL=you .
+%gra:	1|0|ROOT 2|1|REL 3|2|REL 4|3|CMOD 5|1|PUNCT
+*SIS:	a ver xxx .
+%mor:	aprep|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*MUJ:	los nenes están en cuarto .
+%mor:	det:art|el&m-PL=the n|nene&m-PL=child cop|esta-3P&PRES=be
+	prep|en=in n|cuarto&m=quarter .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MUJ:	no y delante también .
+%mor:	adv|no=no coord|y=and adv|delante=in_front adv|también=also .
+%gra:	1|0|ROOT 2|1|CONJ 3|4|JCT 4|2|COORD 5|1|PUNCT
+*CHI:	&=balbucea .
+*MUJ:	porque se junta con el xxx .
+%mor:	conj|porque=because pro:refl|se=itself v|junta-3S&PRES=assemble
+	prep|con=with det:art|el&m&SG=the .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*NIN:	&=balbucea .
+*MUJ:	al viejo ponele .
+%mor:	aprep|a~det:art|el&m=to adj|viejo-m=old
+	imp|pone-2S&IMP~pro:clit|3S=put .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|4|OBJ2 6|1|PUNCT
+*MU2:	xxx .
+*MUJ:	xxx .
+*MOT:	xxx .
+*MUJ:	quinto tenía que tomar .
+%mor:	n|quinto&m=conscript v|tene-13S&PAS=have pro:rel|que=that
+	inf|toma-INF=take .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|3|COMP 5|2|PUNCT
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MUJ:	si no le xxx .
+%mor:	conj|si=if adv|no=no pro:ind|le=him .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|1|PUNCT
+*MUJ:	lapices de colores .
+%mor:	n|lápiz&m-PL=pencil prep|de=of v|colora-2S&SUB&PRES=color .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MUJ:	lápiz goma todo xxx .
+%mor:	n|lápiz&m=pencil n|goma&f=gum pro:indef|todo-m=all .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*SIS:	&=grita .
+*MOT:	no [/] no [/] no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*MUJ:	comprar cuaderno .
+%mor:	inf|compra-INF=buy n|cuaderno&m=note_book .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MUJ:	un cuaderno grande para xxx .
+%mor:	det:art|un&m=one n|cuaderno&m=note_book adj|grande=big
+	imp|para-2S&IMP=stop .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|4|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MUJ:	la mochila [/] la mochila ahí .
+%mor:	det:art|el&f&SG=the det:art|el&f&SG=the n|mochila&f=backpack
+	adv|ahí=there .
+%gra:	1|3|DET 2|3|DET 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*SIS:	cuál ?
+%mor:	pro:int|cuál=which ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MUJ:	sí xxx .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	Ema venía acá dale . [+ OCH]
+%mor:	n:prop|Ema v|veni-13S&PAS=come adv|acá=there co|dale .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|OBJ 5|2|PUNCT
+*MOT:	dale . [+ OCH]
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR2:	vienen los piratas !
+%mor:	v|veni-3P&PRES=come det:art|el&m-PL=the n|pirata&m-PL=pirate !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*BRO:	xxx .
+*BR4:	&tocol (.) qué mal !
+%mor:	pro:int|qué=what adv|mal=badly !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	entrá cómo vas a ir a xxx . [+ OCH]
+%mor:	imp|entra-2S&IMP=come_in pro:int|cómo=how v|i-2S&PRES=go aprep|a=to
+	inf|i-INF=go aprep|a=to .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*BRO:	xxx .
+*NIN:	&=balbucea .
+*BR2:	damelo [/] damelo [/] damelo . [+ CHI]
+%mor:	imp|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&m=give .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ2 4|1|PUNCT
+*BR2:	porque xxx . [+ CHI]
+%mor:	conj|porque=because .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	el preguntó gritando .
+%mor:	det:art|el&m&SG=the v|pregunta-3S&PRET=ask part|grita-PRPART=shout
+	.
+%gra:	1|2|DET 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%tim:	12:40:03
+*SIS:	xxx .
+*BRO:	&=ríe .
+*BRO:	se acabó el tiempo Zaira .  [+ OCH]
+%mor:	pro:refl|se=itself v|acaba-3S&PRET=finish det:art|el&m&SG=the
+	n|tiempo&m=season n:prop|Zaira .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|2|PUNCT
+*BR2:	correte xxx .
+%mor:	imp|corre-2S&IMP~pro:clit|2S=run .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*SIS:	no xxx .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	no vos también .
+%mor:	adv|no=no pro:obj|vos=you adv|también=also .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*SIS:	mamá xxx .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	no se corre de la tele(visión) .
+%mor:	adv|no=no pro:refl|se=itself v|corre-3S&PRES=run prep|de=of
+	det:art|el&f&SG=the n|televisión&f=television .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*BRO:	quiero xxx .
+%mor:	v|quere-1S&PRES=want .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	ma(má) vení .
+%mor:	n|mamá&f=mommy imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*SIS:	xxx el juguete .
+%mor:	det:art|el&m&SG=the n|juguete&m=toy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	ese el xxx .
+%mor:	det:dem|ese=that det:art|el&m&SG=the .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*BRO:	xxx .
+*BRO:	xxx .
+*SIS:	me diste .
+%mor:	pro:obj|me=me v|da-2S&PRET=give .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*BRO:	no sabés xxx .
+%mor:	adv|no=no v|sabe-2S&PRES=know .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	te quedás xxx .
+%mor:	pro:obj|te=you v|queda-2S&PRES=stay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	me hace acordar a xxx .
+%mor:	pro:obj|me=me v|hace-3S&PRES=do inf|acorda-INF=remind aprep|a=to .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|OBJ 5|2|PUNCT
+*BRO:	xxx un poquito .
+%mor:	det:art|un&m=one pro:indef|poquito=little .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx .
+*CHI:	&=balbucea .
+%tim:	12:41:11
+*BRO:	esto ?
+%mor:	pro:dem|esto=this_one ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	a qué saliste vos ? [+ OCH]
+%mor:	aprep|a=to pro:int|qué=what v|sali-2S&PRET=leave pro:obj|vos=you ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|1|POBJ 5|1|PUNCT
+*BRO:	&=lloriquea .
+*MOT:	no sé . [+ OCH]
+%mor:	adv|no=no v|sabe-1S&PRES=know .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MUJ:	a qué xxx .
+%mor:	aprep|a=to pro:int|qué=what .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*BRO:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MUJ:	mi mamá ?
+%mor:	det:poss|mi=my n|mamá&f=mommy ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%com:	de fondo uno de los hermanitos parece jugar a que pelea
+*BRO:	no dale .
+%mor:	co|no co|dale .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*SIS:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	ahora no xxx .
+%mor:	adv|ahora=now adv|no=no .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	&=grita .
+*MOT:	xxx .
+*BRO:	pero mamá .
+%mor:	conj|pero=but n|mamá&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*BRO:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&tio .
+*MUJ:	te va a coser y te va a enganchar con esto .
+%mor:	pro:obj|te=you v|i-3S&PRES=go aprep|a=to inf|cose-INF=sew
+	coord|y=and pro:obj|te=you v|i-3S&PRES=go aprep|a=to
+	inf|engancha-INF=hook prep|con=with pro:dem|esto=this_one .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|2|APREP 4|3|POBJ 5|4|CONJ 6|5|COORD 7|0|ROOT
+	8|9|INF 9|7|COMP 10|9|JCT 11|10|POBJ 12|7|PUNCT
+*SIS:	&tía .
+%com:	está la tele prendida pero se escucha muy bajito .
+*BRO:	ma(má) mirá acá hay un xxx .
+%mor:	n|mamá&f=mommy co|mirá adv|acá=there v|habe-3S&PRES&SPEC=have
+	det:art|un&m=one .
+%gra:	1|4|SUBJ 2|1|MOD 3|4|JCT 4|0|ROOT 5|6|DET 6|4|PUNCT
+*MOT:	pero sobra ?
+%mor:	conj|pero=but v|sobra-3S&PRES=remain ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MUJ:	juntá tubo .
+%mor:	imp|junta-2S&IMP=assemble n|tubo&m=tube .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*MUJ:	xxx .
+*CHI:	&=balbucea .
+*MUJ:	xxx .
+*MOT:	tengo cinco tengo seis tengo demasiados .
+%mor:	v|tene-1S&PRES=have det:num|cinco=five v|tene-1S&PRES=have
+	det:num|seis=six v|tene-1S&PRES=have adj|demasiado-m-PL=excessive .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|MOD 7|3|PUNCT
+*CHI:	&=balbucea .
+*MUJ:	xxx .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*MUJ:	xxx .
+*MOT:	tiene también él .
+%mor:	v|tene-3S&PRES=have adv|también=also pro:sub|él&m=he .
+%gra:	1|0|ROOT 2|3|JCT 3|1|OBJ 4|1|PUNCT
+*SIS:	xxx .
+*MOT:	querés venir ?
+%mor:	v|quere-2S&PRES=want inf|veni-INF=come ?
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*BR2:	vení .
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR2:	tomá .
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	nah [: no] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR2:	tomá .
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	nah [: no] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR2:	tomá .
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	nah [: no] .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no traiganme .
+%mor:	adv|no=no ?|traiganme .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	traé un ratito a ver .
+%mor:	imp|trae-2S&IMP=carry det:art|un&m=one n|rato&m-DIM=time aprep|a=to
+	inf|ve-INF=see .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|INF 5|3|MOD 6|1|PUNCT
+*MOT:	cuanto es diez pesos más deben ser .
+%mor:	pro:indef|cuanto-m=how_much cop|se-3S&PRES=be det:num|diez=ten
+	n|peso&m-PL=weight adv|más=more v|debe-3P&PRES=must cop|se-INF=be .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|4|MOD 4|6|SUBJ 5|6|JCT 6|7|SUBJ 7|0|ROOT 8|7|PRED
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*MUJ:	xxx .
+*CHI:	&=balbucea .
+*MUJ:	sesenta .
+%mor:	det:num|sesenta&m=sixty .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	le doy a xxx también .
+%mor:	pro:ind|le=him v|da-1S&PRES=give aprep|a=to adv|también=also .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|APREP 4|3|POBJ 5|2|PUNCT
+*MUJ:	seiscientos .
+%mor:	det:num|seisciento&m-PL=six_hundred .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MUJ:	es según cuánto te sale todo .
+%mor:	cop|se-3S&PRES=be prep|según=according_to
+	det:indef|cuánto-m=how_much pro:obj|te=you v|sali-3S&PRES=leave
+	pro:indef|todo-m=all .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|4|CMOD 6|5|OBJ 7|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	no porque el otro día fundieron todo las otras lapiceras ustedes .
+	[+ OCH]
+%mor:	adv|no=no conj|porque=because det:art|el&m&SG=the
+	pro:indef|otro-m=other n|día&m=day v|fundi-3P&PRET=fuse
+	det:indef|todo-m=all det:art|el&f-PL=the det:indef|otro-f-PL=other
+	n|lapicera&f-PL=pen pro:sub|usted-PL=you .
+%gra:	1|2|JCT 2|6|SUBJ 3|5|DET 4|5|DET 5|6|SUBJ 6|0|ROOT 7|10|MOD 8|10|DET
+	9|10|DET 10|6|OBJ 11|10|MOD 12|6|PUNCT
+*CHI:	&=balbucea .
+*MUJ:	xxx .
+*BRO:	xxx quiero .
+%mor:	v|quere-1S&PRES=want .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*MOT:	xxx lapicera .
+%mor:	n|lapicera&f=pen .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	en xxx .
+%mor:	prep|en=in .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx te da la seño(rita) acá .
+%mor:	pro:obj|te=you v|da-3S&PRES=give det:art|el&f&SG=the
+	n|señora&f-DIM=lady adv|acá=there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|2|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%tim:	12:44:01
+%com:	parece agarrar algo con lo que juega, se sigue escuchando la tele muy
+	bajito
+*MOT:	qué te xxx .
+%mor:	pro:int|qué=what pro:obj|te=you .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*SIS:	&=ríe .
+*SIS:	te tiraste el xxx .
+%mor:	pro:obj|te=you v|tira-2S&PRET=throw det:art|el&m&SG=the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PUNCT
+*SIS:	el pirata dormilón .
+%mor:	det:art|el&m&SG=the n|pirata&m=pirate n|dormilón&m=sleepyhead .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*SIS:	el pirata dormilón .
+%mor:	det:art|el&m&SG=the n|pirata&m=pirate n|dormilón&m=sleepyhead .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*SIS:	el pirata xxx .
+%mor:	det:art|el&m&SG=the n|pirata&m=pirate .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	al pirata dormilón (.) al pirata dormilón .
+%mor:	aprep|a~det:art|el&m=to n|pirata&m=pirate n|dormilón&m=sleepyhead
+	aprep|a~det:art|el&m=to n|pirata&m=pirate n|dormilón&m=sleepyhead .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|MOD 5|1|APREP 6|7|DET 7|5|POBJ 8|7|MOD
+	9|1|PUNCT
+*SIS:	al pirata dormilón .
+%mor:	aprep|a~det:art|el&m=to n|pirata&m=pirate n|dormilón&m=sleepyhead .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|MOD 5|1|PUNCT
+*SIS:	xxx .
+*CHI:	&=balbucea .
+%com:	parece seguir con el objeto que suena como de plástico
+*SIS:	el pirata dormilón .
+%mor:	det:art|el&m&SG=the n|pirata&m=pirate n|dormilón&m=sleepyhead .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	despiértenlo !
+%mor:	imp|desperta-3P&IMP~pro:clit|OBJ&m=wake_up !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*SIS:	el pirata dormilón el pirata dormilón .
+%mor:	det:art|el&m&SG=the n|pirata&m=pirate n|dormilón&m=sleepyhead
+	det:art|el&m&SG=the n|pirata&m=pirate n|dormilón&m=sleepyhead .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|5|DET 5|2|MOD 6|5|MOD 7|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	los bebés duermen (.) los bebés duermen [=! canta] . [+ CHI]
+%mor:	det:art|el&m-PL=the n|bebé&m-PL=baby v|dormi-3P&PRES=sleep
+	det:art|el&m-PL=the n|bebé&m-PL=baby v|dormi-3P&PRES=sleep .
+%gra:	1|2|DET 2|3|SUBJ 3|6|SUBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*SIS:	los bebés duermen (.) los bebés duermen [=! canta] . [+ CHI]
+%mor:	det:art|el&m-PL=the n|bebé&m-PL=baby v|dormi-3P&PRES=sleep
+	det:art|el&m-PL=the n|bebé&m-PL=baby v|dormi-3P&PRES=sleep .
+%gra:	1|2|DET 2|3|SUBJ 3|6|SUBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*SIS:	los bebés duermen [=! canta] . [+ CHI]
+%mor:	det:art|el&m-PL=the n|bebé&m-PL=baby v|dormi-3P&PRES=sleep .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea .
+*BRO:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	alejado
+*BRO:	xxx .
+*BRO:	&tic &tac &tic &tac .
+*BRO:	xxx .
+*SIS:	los bebés duermen . [+ CHI]
+%mor:	det:art|el&m-PL=the n|bebé&m-PL=baby v|dormi-3P&PRES=sleep .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*SIS:	salí .
+%mor:	imp|sali-2S&IMP=leave .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx este juguete .
+%mor:	det:dem|este=this n|juguete&m=toy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	&=grita .
+%com:	Simón parece seguir jugando con el cosito
+*BRO:	xxx .
+*SIS:	xxx .
+*SIS:	&=tose .
+*BRO:	xxx .
+*BRO:	xxx .
+*BRO:	y mami ?
+%mor:	coord|y=and n|mami&f=mommy ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*BRO:	xxx .
+*BRO:	ahora .
+%mor:	adv|ahora=now .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+%com:	alguno de los nenes sigue jugando a las peleas de fondo, y Simón
+	parece seguir con lo que tiene en la mano
+*BRO:	para .
+%mor:	prep|para=for .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	se escucha correr agua
+*BRO:	qué xxx .
+%mor:	pro:int|qué=what .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	jugá con Mickey_mouse . [+ CHI]
+%mor:	imp|juga-2S&IMP=play prep|con=with n:prop|Mickey_mouse .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*BRO:	con Mickey_mouse solo . [+ CHI]
+%mor:	prep|con=with n:prop|Mickey_mouse adj|solo-m=alone .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT
+*BRO:	con este no . [+ CHI]
+%mor:	prep|con=with det:dem|este=this co|no .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+%tim:	12:50:07
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	Cande no le des este juguete . [+ OCH]
+%mor:	n:prop|Cande adv|no=no pro:ind|le=him v|da-2S&SUB&PRES=give
+	det:dem|este=this n|juguete&m=toy .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*BRO:	Simón te va a tirar con este . [+ OCH]
+%mor:	n:prop|Simón pro:obj|te=you v|i-3S&PRES=go aprep|a=to
+	inf|tira-INF=throw prep|con=with det:dem|este=this .
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*BRO:	se va a lastimar . [+ OCH]
+%mor:	pro:refl|se=itself v|i-3S&PRES=go aprep|a=to inf|lastima-INF=pity .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+*CHI:	&=lloriquea .
+*MUJ:	xxx . [+ OCH]
+*BRO:	vamos .
+%mor:	co|vamos=go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MUJ:	querés dormir ? [+ CHI]
+%mor:	v|quere-2S&PRES=want inf|dormi-INF=sleep ?
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*MUJ:	sí ? [+ CHI]
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*MUJ:	qué te da tu hermano ? [+ CHI]
+%mor:	pro:int|qué=what pro:obj|te=you v|da-3S&PRES=give det:poss|tu=your
+	n|hermano-m=sibling ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MUJ:	está rico xxx . [+ CHI]
+%mor:	cop|esta-3S&PRES=be adj|rico-m=rich .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*BRO:	&=grita .
+*BRO:	tiene la xxx .
+%mor:	v|tene-3S&PRES=have det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	xxx de Simón . [+ OCH]
+%mor:	prep|de=of n:prop|Simón .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	pendeja .
+%mor:	n|pendejo-f=asshole .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	mirá .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	alejado
+*CHI:	&=lloriquea .
+*SIS:	xxx .
+*BRO:	&=grita .
+*BRO:	&=balbucea .
+*BRO:	ma(má) xxx .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*CHI:	&=lloriquea .
+%tim:	12:52:17
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*SIS:	xxx mi favorito .
+%mor:	det:poss|mi=my adj|favorito-m=favorite .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*SIS:	te presto mi juguete dale ? [+ CHI]
+%mor:	pro:obj|te=you v|presta-1S&PRES=lend det:poss|mi=my n|juguete&m=toy
+	co|dale ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|2|PUNCT
+*SIS:	se hace así . [+ CHI]
+%mor:	pro:refl|se=itself v|hace-3S&PRES=do adv|así=thus .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*SIS:	hacé así (.) y xxx . [+ CHI]
+%mor:	imp|hace-2S&IMP=do adv|así=thus coord|y=and .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*BRO:	la verdad .
+%mor:	det:art|el&f&SG=the n|verdad&f=truth .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	xxx .
+*BRO:	xxx poco .
+%mor:	adv|poco=few .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx este juguete . [+ CHI]
+%mor:	det:dem|este=this n|juguete&m=toy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	más juguetes quiere .
+%mor:	adv|más=more n|juguete&m-PL=toy v|quere-3S&PRES=want .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*SIS:	no no llores . [+ CHI]
+%mor:	adv|no=no adv|no=no v|llora-2S&SUB&PRES=cry .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea .
+%com:	juegan a las peleas de fondo
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*SIS:	ma(má) xxx .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*SIS:	&=balbucea .
+*MOT:	tomá sacala .
+%mor:	imp|toma-2S&IMP=take imp|saca-2S&IMP~pro:clit|OBJ&f=bring_out .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ2 4|1|PUNCT
+%tim:	12:53:59 1:20:38
+*MUJ:	tiene que xxx .
+%mor:	v|tene-3S&PRES=have pro:rel|que=that .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	te pica el culito xxx ? [+ CHI]
+%mor:	pro:obj|te=you v|pica-3S&PRES=prick/dive det:art|el&m&SG=the
+	n|culo&m-DIM=buttocks ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	no te tiene que tocar el culito . [+ CHI]
+%mor:	adv|no=no pro:obj|te=you v|tene-3S&PRES=have pro:rel|que=that
+	inf|toca-INF=touch det:art|el&m&SG=the n|culo&m-DIM=buttocks .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|REL 5|4|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	&=besa .
+*MOT:	&ay que ser tonto Franco &eh .
+%mor:	pro:rel|que=that cop|se-INF=be adj|tonto-m=stupid n:prop|Franco .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|MOD 4|2|PRED 5|1|PUNCT
+*BRO:	ma(má) xxx así ?
+%mor:	n|mamá&f=mommy adv|así=thus ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*MOT:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*MUJ:	y cuánto te quedó ahí ?
+%mor:	coord|y=and det:indef|cuánto-m=how_much pro:obj|te=you
+	v|queda-3S&PRET=stay adv|ahí=there ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|4|JCT 6|1|COORD
+*BRO:	xxx para cocinar ?
+%mor:	prep|para=for inf|cocina-INF=cook ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*BRO:	con papa y con huevo y con carne ?
+%mor:	prep|con=with n|papa&f=potato coord|y=and prep|con=with
+	n|huevo&m=egg coord|y=and prep|con=with n|carne&f=meat ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|3|JCT 5|4|POBJ 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*MOT:	xxx .
+*BRO:	xxx tiene lastimado .
+%mor:	v|tene-3S&PRES=have part|lastima-PPART-m=pity .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*MOT:	&uh Franco .
+%mor:	n:prop|Franco .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	no [/] no trajo pan .
+%mor:	adv|no=no v|trae-3S&PRET=carry n|pan&m=bread .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	está un poco xxx .
+%mor:	cop|esta-3S&PRES=be det:art|un&m=one adv|poco=few .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	&=besa .
+*MOT:	le hace  la papita mamá .
+%mor:	pro:ind|le=him v|hace-3S&PRES=do det:art|el&f&SG=the
+	n|papa&f-DIM=potato n|mamá&f=mommy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|2|PUNCT
+*MOT:	el plástico del carrito pasame Franca .
+%mor:	det:art|el&m&SG=the n|plástico&m=plastic prep|de~det:art|el&m=of
+	n|carro&m-DIM=cart imp|pasa-2S&IMP~pro:clit|1S=pass n:prop|Franca .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|6|OBJ2 8|5|APP
+	9|2|PUNCT
+*MOT:	mirá lo estás apretando con la silla lo vas a romper .
+%mor:	co|mirá pro:obj|lo&m=him aux|esta-2S&PRES=be
+	part|apreta-PRPART=tighten prep|con=with det:art|el&f&SG=the
+	n|silla&f=chair pro:obj|lo&m=him v|i-2S&PRES=go aprep|a=to
+	inf|rompe-INF=break .
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|7|MOD
+	9|1|PUNCT 10|11|INF 11|9|ROOT 12|11|PUNCT
+*MOT:	Franca !
+%mor:	n:prop|Franca !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx cuidado !
+%mor:	co|cuidado=careful !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	levantá la silla Franca .
+%mor:	imp|levanta-2S&IMP=raise det:art|el&f&SG=the n|silla&f=chair
+	n:prop|Franca .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*BRO:	xxx mentiroso él .
+%mor:	n|mentiroso&m=liar pro:sub|él&m=he .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*BR2:	qué mentiroso .
+%mor:	pro:int|qué=what n|mentiroso&m=liar .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BR2:	xxx .
+*MOT:	qué le pica a Simón xxx la cacona ? [+ CHI]
+%mor:	pro:int|qué=what pro:ind|le=him v|pica-3S&PRES=prick/dive
+	aprep|a=to n:prop|Simón det:art|el&f&SG=the n|caca&f-AUG=feces ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|APREP 5|4|POBJ 6|7|DET 7|4|POBJ
+	8|3|PUNCT
+*BRO:	xxx .
+*BRO:	xxx .
+*BRO:	señor de los damos .
+%mor:	co:voc|señor=sir prep|de=of det:art|el&m-PL=the
+	v|da-1P&PRES&PRET=give .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	&ay un xxx más . [+ CHI]
+%mor:	det:art|un&m=one adv|más=more .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	lo ama mamá a su nenito . [+ CHI]
+%mor:	pro:obj|lo&m=him v|ama-3S&PRES=love n|mamá&f=mommy aprep|a=to
+	det:poss|su&3S=his n|neni&m-DIM=little_person .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ 4|3|APREP 5|6|DET 6|4|POBJ 7|1|PUNCT
+*MOT:	quién ama a Simón ? [+ CHI]
+%mor:	pro:int|quién=who v|ama-3S&PRES=love aprep|a=to n:prop|Simón ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|APREP 4|3|POBJ 5|2|PUNCT
+*MOT:	mamá . [+ CHI]
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*BR2:	cabeza .
+%mor:	n|cabeza&f=head .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=ríe .
+*BRO:	xxx .
+*BRO:	xxx .
+*SIS:	xxx .
+*MOT:	el plato de Simón este . [+ CHI]
+%mor:	det:art|el&m&SG=the n|plato&m=dish prep|de=of n:prop|Simón
+	det:dem|este=this .
+%gra:	1|2|DET 2|5|SUBJ 3|2|JCT 4|3|POBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*MOT:	vení adentro Emanuel . [+ OCH]
+%mor:	imp|veni-2S&IMP=come adv|adentro=inside n:prop|Emanuel .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%tim:	12:56:30
+*MOT:	dale . [+ OCH]
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	qué te pasa &eh ? [+ CHI]
+%mor:	pro:int|qué=what pro:obj|te=you v|pasa-3S&PRES=pass ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	qué querés Simón ? [+ CHI]
+%mor:	pro:int|qué=what v|quere-2S&PRES=want n:prop|Simón ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	tiene hambre mi bebé ? [+ CHI]
+%mor:	v|tene-3S&PRES=have n|hambre&f=hunger det:poss|mi=my n|bebé&m=baby
+	?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|2|MOD 5|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	tiene hambre mi bebé bonito . [+ CHI]
+%mor:	v|tene-3S&PRES=have n|hambre&f=hunger det:poss|mi=my n|bebé&m=baby
+	adj|bonito-m=pretty .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|4|MOD 6|1|PUNCT
+*MOT:	pero mamá todavía no hizo nada . [+ CHI]
+%mor:	conj|pero=but n|mamá&f=mommy adv|todavía=still adv|no=no
+	v|hace-3S&PRET=do v|nada-3S&PRES=swim .
+%gra:	1|2|DET 2|5|SUBJ 3|4|JCT 4|5|JCT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	querés tomar la teta y dormir un rato . [+ CHI]
+%mor:	v|quere-2S&PRES=want inf|toma-INF=take det:art|el&f&SG=the
+	n|teta&f=breast coord|y=and inf|dormi-INF=sleep det:art|un&m=one
+	n|rato&m=time .
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*MOT:	así mamá va a preparar . [+ CHI]
+%mor:	adv|así=thus n|mamá&f=mommy v|i-3S&PRES=go aprep|a=to
+	inf|prepara-INF=prepare .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	vamos . [+ CHI]
+%mor:	co|vamos=go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	cuando te despertás ya va a estar si ? [+ CHI]
+%mor:	conj|cuando=when pro:obj|te=you v|desperta-2S&PRES=wake_up
+	adv|ya=already v|i-3S&PRES=go aprep|a=to inf|esta-INF=be conj|si=if
+	?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|5|SUBJ 4|3|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*MOT:	&=besa .
+*MOT:	cerrá la puerta Ema . [+ OCH]
+%mor:	imp|cerra-2S&IMP=close det:art|el&f&SG=the n|puerta&f=door
+	n:prop|Ema .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*MOT:	dale . [+ OCH]
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	tomá teta sí . [+ CHI]
+%mor:	imp|toma-2S&IMP=take n|teta&f=breast co|sí=yes .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*MOT:	tomá la teta . [+ CHI]
+%mor:	imp|toma-2S&IMP=take det:art|el&f&SG=the n|teta&f=breast .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	bueno ya está . [+ CHI]
+%mor:	co|bueno=good adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|3|SUBJ 2|1|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	&=lloriquea .
+*SIS:	te vas ?
+%mor:	pro:obj|te=you v|i-2S&PRES=go ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	xxx .
+*SIS:	xxx .
+*CHI:	&=lloriquea .
+*MOT:	dejá acá . [+ OCH]
+%mor:	imp|deja-2S&IMP=leave adv|acá=there .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*SIS:	xxx .
+*BRO:	xxx .
+*MOT:	no [/] no voy a preparar el jugo ahora más voy a preparar . [+ OCH]
+%mor:	adv|no=no v|i-1S&PRES=go aprep|a=to inf|prepara-INF=prepare
+	det:art|el&m&SG=the n|jugo&m=juice adv|ahora=now adv|más=more
+	v|i-1S&PRES=go aprep|a=to inf|prepara-INF=prepare .
+%gra:	1|2|JCT 2|0|ROOT 3|2|APREP 4|7|JCT 5|6|DET 6|4|OBJ 7|3|POBJ 8|9|JCT
+	9|2|PUNCT 10|11|INF 11|9|ROOT 12|11|PUNCT
+*BRO:	papa va a hacer .
+%mor:	n|papa&f=potato v|i-3S&PRES=go aprep|a=to inf|hace-INF=do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*BRO:	mirá .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no dejá ahí que estoy poniendo mi pie porque estoy dando la teta a
+	Simón . [+ OCH]
+%mor:	adv|no=no imp|deja-2S&IMP=leave adv|ahí=there prep|que=than
+	aux|esta-1S&PRES=be part|pone-PRPART=put det:poss|mi=my n|pie&m=foot
+	conj|porque=because aux|esta-1S&PRES=be part|da-PRPART=give
+	det:art|el&f&SG=the n|teta&f=breast aprep|a=to n:prop|Simón .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|AUX 6|4|POBJ 7|8|DET 8|2|OBJ
+	9|8|MOD 10|11|AUX 11|9|CMOD 12|13|DET 13|11|OBJ 14|13|APREP 15|14|POBJ
+	16|2|PUNCT
+*BRO:	mirá .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ay Ema ! [+ OCH]
+%mor:	n:prop|Ema !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*SIS:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	esto es lo que xxx .
+%mor:	pro:dem|esto=this_one cop|se-3S&PRES=be pro:obj|lo&m=him
+	pro:rel|que=that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|REL 5|2|PUNCT
+*BRO:	&=grita .
+*BRO:	&=grita .
+*SIS:	xxx .
+*SIS:	xxx .
+*BRO:	ma(má) no se escucha el volumen .
+%mor:	n|mamá&f=mommy adv|no=no pro:refl|se=itself
+	v|escucha-3S&PRES=listen det:art|el&m&SG=the n|volumen&m=volume .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*BRO:	voy a poner más el volumen .
+%mor:	v|i-1S&PRES=go aprep|a=to inf|pone-INF=put adv|más=more
+	det:art|el&m&SG=the n|volumen&m=volume .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|6|MOD 5|6|DET 6|3|OBJ 7|1|PUNCT
+*BRO:	&=balbucea .
+*BRO:	&=balbucea .
+*BRO:	&=balbucea .
+*BRO:	&=grita .
+*BRO:	&=grita .
+%tim:	12:59:07
+*SIS:	malo .
+%mor:	adj|malo-m=bad .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=grita .
+*MOT:	&shh . [+ OCH]
+*BRO:	&=canta .
+*BR2:	está en el baño .
+%mor:	cop|esta-3S&PRES=be prep|en=in det:art|el&m&SG=the n|baño&m=bath .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	y tiralo para qué me mostrás ? [+ OCH]
+%mor:	coord|y=and imp|tira-2S&IMP~pro:clit|OBJ&m=throw prep|para=for
+	pro:int|qué=what pro:obj|me=me v|mostra-2S&PRES=show ?
+%gra:	1|0|ROOT 2|1|COORD 3|7|SUBJ 4|5|INF 5|7|SUBJ 6|7|SUBJ 7|1|COORD
+	8|1|COORD
+*MOT:	o querés fumar vos también ? [+ OCH]
+%mor:	coord|o=or v|quere-2S&PRES=want inf|fuma-INF=smoke pro:obj|vos=you
+	adv|también=also ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|1|COORD 6|1|COORD
+*BRO:	&=canturrea .
+*MOT:	xxx fuma .
+%mor:	imp|fuma-2S&IMP=smoke .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&=ríe .
+*BR2:	soltá la &chochi porque xxx . [+ CHI]
+%mor:	imp|solta-2S&IMP=release det:art|el&f&SG=the conj|porque=because .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MOT:	dale Simón así voy a hacer la comida sino qué vamos a hacer . [+ CHI]
+%mor:	co|dale n:prop|Simón adv|así=thus v|i-1S&PRES=go aprep|a=to
+	inf|hace-INF=do det:art|el&f&SG=the n|comida&f=food conj|sino=except
+	pro:int|qué=what v|i-1P&PRES=go aprep|a=to inf|hace-INF=do .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|MOD 10|6|OBJ 11|10|CMOD 12|13|INF 13|11|ROOT 14|13|PUNCT
+*MOT:	tiene hambre y no quiere comer pared .
+%mor:	v|tene-3S&PRES=have n|hambre&f=hunger coord|y=and adv|no=no
+	v|quere-3S&PRES=want inf|come-INF=eat n|pared&f=wall .
+%gra:	1|2|DET 2|0|ROOT 3|2|CONJ 4|5|JCT 5|3|COORD 6|5|COMP 7|6|OBJ 8|2|PUNCT
+%tim:	12:59:52
+*BRO:	xxx .
+*BRO:	xxx ma(má) .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	milanesas con puré de papa .
+%mor:	n|milanesa&f-PL=breaded_meat prep|con=with n|puré&m=puree_soup
+	prep|de=of n|papa&f=potato .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MOT:	sí me deja hacer el Simón voy a hacer . [+ OCH]
+%mor:	co|sí=yes pro:obj|me=me v|deja-3S&PRES=leave inf|hace-INF=do
+	det:art|el&m&SG=the n:prop|Simón v|i-1S&PRES=go aprep|a=to
+	inf|hace-INF=do .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT 8|9|INF
+	9|7|ROOT 10|9|PUNCT
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*SIS:	alto ahí señor . [+ CHI]
+%mor:	adj|alto-m=tall adv|ahí=there co:voc|señor=sir .
+%gra:	1|3|MOD 2|3|MOD 3|0|ROOT 4|3|PUNCT
+%tim:	13:00:36
+*SIS:	xxx .
+*SIS:	xxx .
+*BRO:	xxx .
+*SIS:	soy la princesa Ana .
+%mor:	cop|se-1S&PRES=be det:art|el&f&SG=the n|princesa&f=princess
+	n:prop|Ana .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|MOD 5|1|PUNCT
+*BRO:	xxx .
+*SIS:	xxx pirata ?
+%mor:	n|pirata&m=pirate ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*MOT:	mirá ahora viene xxx .
+%mor:	co|mirá adv|ahora=now v|veni-3S&PRES=come .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*BRO:	sí !
+%mor:	co|sí=yes !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx !
+*SIS:	xxx .
+%com:	se escucha como que lo nenes conversan de fondo pero no se llega a
+	entender qué dicen
+*SIS:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	dame . [+ CHI]
+%mor:	imp|da-2S&IMP~pro:clit|1S=give .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	afuera los dos dale . [+ OCH]
+%mor:	adv|afuera=outside det:art|el&m-PL=the det:num|dos=two co|dale .
+%gra:	1|4|JCT 2|3|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*MOT:	ya se pasan ustedes &eh . [+ OCH]
+%mor:	adv|ya=already pro:refl|se=itself v|pasa-3P&PRES=pass
+	pro:sub|usted-PL=you .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	dale ! [+ OCH]
+%mor:	co|dale !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	salí [/] salí . [+ OCH]
+%mor:	imp|sali-2S&IMP=leave .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	salí [/] salí !
+%mor:	imp|sali-2S&IMP=leave !
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=lloriquea .
+*MOT:	dale [/] dale . [+ OCH]
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*MOT:	bueno pero que no me moleste entonces . [+ OCH]
+%mor:	co|bueno=good conj|pero=but pro:rel|que=that adv|no=no
+	pro:obj|me=me v|molesta-13S&SUB&PRES=bother adv|entonces=then .
+%gra:	1|2|MOD 2|0|ROOT 3|2|REL 4|5|JCT 5|6|SUBJ 6|3|CMOD 7|6|JCT 8|2|PUNCT
+*MOT:	lo voy a sacar afuera . [+ OCH]
+%mor:	pro:obj|lo&m=him v|i-1S&PRES=go aprep|a=to inf|saca-INF=bring_out
+	adv|afuera=outside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*BRO:	&=grita .
+*BRO:	&=grita .
+*CHI:	&=balbucea .
+*MOT:	o encerralo en la pieza . [+ OCH]
+%mor:	coord|o=or imp|encerra-2S&IMP~pro:clit|OBJ&m=enclose prep|en=in
+	det:art|el&f&SG=the n|pieza&f=piece .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*BRO:	dónde está ?
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	que no me venga a molestar &eh . [+ OCH]
+%mor:	pro:rel|que=that adv|no=no pro:obj|me=me v|veni-13S&SUB&PRES=come
+	aprep|a=to inf|molesta-INF=bother .
+%gra:	1|0|ROOT 2|3|MOD 3|4|SUBJ 4|1|COMP 5|6|INF 6|4|COMP 7|1|PUNCT
+*MOT:	porque lo voy a sacar afuera ya dije . [+ OCH]
+%mor:	conj|porque=because pro:obj|lo&m=him v|i-1S&PRES=go aprep|a=to
+	inf|saca-INF=bring_out adv|afuera=outside adv|ya=already
+	v|deci-1S&PRET=say .
+%gra:	1|3|SUBJ 2|1|SCL 3|8|SUBJ 4|5|INF 5|8|SUBJ 6|7|JCT 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*BRO:	xxx .
+*MOT:	mirá . [+ OCH]
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ve(s) ? [+ OCH]
+%mor:	co|ves=see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=grita .
+%tim:	13:02:05
+*BRO:	vení acá Milena . [+ OCH]
+%mor:	imp|veni-2S&IMP=come adv|acá=there n:prop|Milena .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*SIS:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	lleválo poné adentro de la pieza . [+ OCH]
+%mor:	imp|lleva-2S&IMP~pro:clit|OBJ&m=carry imp|pone-2S&IMP=put
+	adv|adentro=inside prep|de=of det:art|el&f&SG=the n|pieza&f=piece .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|COMP 4|3|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*BRO:	xxx ?
+*MOT:	sí encerralo adentro de la pieza dale . [+ OCH]
+%mor:	co|sí=yes imp|encerra-2S&IMP~pro:clit|OBJ&m=enclose
+	adv|adentro=inside prep|de=of det:art|el&f&SG=the n|pieza&f=piece
+	co|dale .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ2 4|2|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|MOD
+	9|1|PUNCT
+*BRO:	y si se me van .
+%mor:	coord|y=and conj|si=if pro:refl|se=itself pro:obj|me=me
+	v|i-3P&PRES=go .
+%gra:	1|0|ROOT 2|1|COORD 3|5|SUBJ 4|5|SUBJ 5|1|COORD 6|1|PUNCT
+*BRO:	vení para acá .
+%mor:	imp|veni-2S&IMP=come prep|para=for adv|acá=there .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	xxx !
+*BRO:	xxx .
+*MOT:	dale !
+%mor:	co|dale !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx así .
+%mor:	adv|así=thus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	mami tome [/] tome . [+ OCH]
+%mor:	n|mami&f=mommy v|toma-13S&SUB&PRES=take .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*BRO:	tome [/] tome . [+ OCH]
+%mor:	imp|toma-3S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	tome ahí tiene .
+%mor:	imp|toma-3S&IMP=take adv|ahí=there v|tene-3S&PRES=have .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	agarralo ! [+ OCH]
+%mor:	imp|agarra-2S&IMP~pro:clit|OBJ&m=grab !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*BRO:	yo lo xxx .
+%mor:	pro:sub|yo=I pro:obj|lo&m=him .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	cerrá bien la puerta dale . [+ OCH]
+%mor:	imp|cerra-2S&IMP=close adv|bien=well det:art|el&f&SG=the
+	n|puerta&f=door co|dale .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|OBJ 5|4|MOD 6|1|PUNCT
+%com:	quieren atrapar a un gatito
+*MOT:	fuerte cerrá . [+ OCH]
+%mor:	adj|fuerte=strong imp|cerra-2S&IMP=close .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*MOT:	cosa que no pueda salir . [+ OCH]
+%mor:	v|cose-13S&SUB&PRES=sew pro:rel|que=that adv|no=no
+	imp|pode-3S&IMP=can inf|sali-INF=leave .
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|2|COMP 5|4|COMP 6|1|PUNCT
+*BRO:	ma(má) listo .
+%mor:	n|mamá&f=mommy adj|listo-m=ready .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*BRO:	ma(má) cuando terminás de cocinar lo dejo ir ?
+%mor:	n|mamá&f=mommy conj|cuando=when v|termina-2S&PRES=end prep|de=of
+	inf|cocina-INF=cook pro:obj|lo&m=him v|deja-1S&PRES=leave
+	inf|i-INF=go ?
+%gra:	1|3|SUBJ 2|1|POBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|OBJ 7|8|INF 8|6|COMP
+	9|3|PUNCT
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	(bue)no .
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sino se pone insoportable el gato ese . [+ OCH]
+%mor:	conj|sino=except pro:refl|se=itself v|pone-3S&PRES=put
+	adj|insoportable=unbearable det:art|el&m&SG=the n|gato-m=cat
+	det:dem|ese=that .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|6|MOD 5|6|DET 6|3|OBJ 7|6|MOD 8|1|PUNCT
+*BRO:	xxx .
+*BRO:	lo quiero mucho .
+%mor:	pro:obj|lo&m=him v|quere-1S&PRES=want adv|mucho=much .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	&=balbucea .
+%com:	se escucha a la mamá cocinar
+*BRO:	bueno así xxx .
+%mor:	co|bueno=good adv|así=thus .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*SIS:	ya viene .
+%mor:	adv|ya=already v|veni-3S&PRES=come .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BRO:	ya viene .
+%mor:	adv|ya=already v|veni-3S&PRES=come .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx .
+*BRO:	pone a la vecina .
+%mor:	v|pone-3S&PRES=put aprep|a=to det:art|el&f&SG=the
+	n|vecino-f=neighbor .
+%gra:	1|0|ROOT 2|1|APREP 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	xxx sacala afuera . [+ OCH]
+%mor:	imp|saca-2S&IMP~pro:clit|OBJ&f=bring_out adv|afuera=outside .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|1|PUNCT
+*MOT:	abrí la puerta y echala . [+ OCH]
+%mor:	imp|abri-2S&IMP=open det:art|el&f&SG=the n|puerta&f=door
+	coord|y=and imp|echa-2S&IMP~pro:clit|OBJ&f=throw .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|4|COORD 6|5|OBJ2 7|1|PUNCT
+*MOT:	no hace falta que la agarres . [+ OCH]
+%mor:	adv|no=no v|hace-3S&PRES=do v|falta-3S&PRES=be_lacking
+	prep|que=than det:art|el&f&SG=the v|agarra-2S&SUB&PRES=grab .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*BRO:	mamá !
+%mor:	n|mamá&f=mommy !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	otra vez !
+%mor:	det:indef|otro-f=other n|vez&f=turn !
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	&ya !
+*MOT:	abrí la puerta . [+ OCH]
+%mor:	imp|abri-2S&IMP=open det:art|el&f&SG=the n|puerta&f=door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	abrí la puerta ! [+ OCH]
+%mor:	imp|abri-2S&IMP=open det:art|el&f&SG=the n|puerta&f=door !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*BRO:	dale !
+%mor:	co|dale !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	saque [/] saque !
+%mor:	v|saca-13S&SUB&PRES=bring_out !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vos también . [+ OCH]
+%mor:	pro:obj|vos=you adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*BRO:	pero no le diste ma(má) .
+%mor:	conj|pero=but adv|no=no pro:ind|le=him v|da-2S&PRET=give
+	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|3|COMP 5|4|OBJ 6|1|PUNCT
+*MOT:	no lo tires . [+ OCH]
+%mor:	adv|no=no pro:obj|lo&m=him v|tira-2S&SUB&PRES=throw .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*SIS:	xxx .
+*BRO:	&=grita .
+*BRO:	xxx .
+*NIN:	&=grita .
+%com:	alejado
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*BRO:	&ah .
+*BRO:	xxx .
+*BRO:	&=tose .
+*BRO:	xxx .
+%com:	la mamá parece freír algo
+*MOT:	&=tose .
+*SIS:	ahí tenés limón .
+%mor:	adv|ahí=there v|tene-2S&PRES=have n|limón&m=lemon .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*SIS:	sí ma(má) .
+%mor:	co|sí=yes n|mamá&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	acá .
+%mor:	adv|acá=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx salió de la ventana .
+%mor:	v|sali-3S&PRET=leave prep|de=of det:art|el&f&SG=the
+	n|ventana&f=window .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%tim:	13:06:13 1:32:38
+*MOT:	y sí . [+ OCH]
+%mor:	coord|y=and co|sí=yes .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*BRO:	xxx .
+*MOT:	no abras Cande . [+ OCH]
+%mor:	adv|no=no v|abri-2S&SUB&PRES=open n:prop|Cande .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*SIS:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	por que ahí está la vecina .
+%mor:	prep|por=for pro:rel|que=that adv|ahí=there cop|esta-3S&PRES=be
+	det:art|el&f&SG=the n|vecino-f=neighbor .
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|2|COMP 5|6|DET 6|4|PRED 7|1|PUNCT
+*SIS:	xxx .
+*SI1:	ya está ma(má) ?
+%mor:	adv|ya=already cop|esta-3S&PRES=be n|mamá&f=mommy ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*SI1:	ya está .
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*SI1:	Meshina [: vecina] !
+%mor:	n|vecino-f=neighbor !
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx ?
+*BRO:	xxx .
+*SI1:	xxx sacarle ?
+%mor:	inf|saca-INF~pro:clit|3S=bring_out ?
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*SI1:	vos sos varón ?
+%mor:	pro:obj|vos=you cop|se-3S&PRES=be n|varón&m=male ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*SI1:	vos sos varón y xxx .
+%mor:	pro:obj|vos=you cop|se-3S&PRES=be n|varón&m=male coord|y=and .
+%gra:	1|0|ROOT 2|1|REL 3|2|PRED 4|3|MOD 5|1|PUNCT
+*SI1:	xxx .
+*CHI:	&=balbucea .
+%tim:	13:07:19
+*SI1:	soy nena .
+%mor:	cop|se-1S&PRES=be n|nena&f=baby .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*SI1:	xxx .
+%com:	parece tener un palito o algo
+*SI1:	acá xxx acá xxx .
+%mor:	adv|acá=there adv|acá=there .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BRO:	ahí está tu xxx .
+%mor:	adv|ahí=there cop|esta-3S&PRES=be det:poss|tu=your .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*BRO:	xxx .
+*SI1:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*SI1:	la hace en un minuto .
+%mor:	pro:obj|la&f=she v|hace-3S&PRES=do prep|en=in det:art|un&m=one
+	n|minuto&m=minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*SI1:	este estoy yendo a la casa .
+%mor:	det:dem|este=this aux|esta-1S&PRES=be part|i-PRPART=go aprep|a=to
+	det:art|el&f&SG=the n|casa&f=house .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|APREP 5|6|DET 6|4|POBJ 7|3|PUNCT
+*SI1:	cerrar esto .
+%mor:	inf|cerra-INF=close pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	bajate !
+%mor:	imp|baja-2S&IMP~pro:clit|2S=come_down !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	salí [/] salí .
+%mor:	imp|sali-2S&IMP=leave .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	pero la puta madre .
+%mor:	conj|pero=but det:art|el&f&SG=the n|puta&f=whore n|madre&f=mother .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*MOT:	salí !
+%mor:	imp|sali-2S&IMP=leave !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	abrí la puerta ! [+ OCH]
+%mor:	imp|abri-2S&IMP=open det:art|el&f&SG=the n|puerta&f=door !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	salí [/] salí [/] salí !
+%mor:	imp|sali-2S&IMP=leave !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	salí !
+%mor:	imp|sali-2S&IMP=leave !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	cerra !
+%mor:	imp|cerra-2S&IMP=close !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	el xxx abrió la puerta ?
+%mor:	det:art|el&m&SG=the v|abri-3S&PRET=open det:art|el&f&SG=the
+	n|puerta&f=door ?
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*SIS:	&=canturrea .
+*SIS:	salí .
+%mor:	imp|sali-2S&IMP=leave .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*SIS:	xxx .
+%tim:	13:09:14
+*SI1:	está xxx .
+%mor:	cop|esta-3S&PRES=be .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SI1:	&=canta .
+%com:	se escucha a la mamá cocinar y los nenes medio hablando de fondo
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*SI1:	&=grita .
+*BRO:	Cande no abras la puerta sino va a entrar eso .
+%mor:	n:prop|Cande adv|no=no v|abri-2S&SUB&PRES=open det:art|el&f&SG=the
+	n|puerta&f=door conj|sino=except v|i-3S&PRES=go aprep|a=to
+	inf|entra-INF=come_in pro:dem|eso=that_one .
+%gra:	1|3|SUBJ 2|3|JCT 3|7|SUBJ 4|5|DET 5|7|SUBJ 6|5|MOD 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|7|PUNCT
+*SIS:	xxx .
+*SI1:	&=grita .
+*BRO:	&=tose .
+*SI1:	quiero el xxx .
+%mor:	v|quere-1S&PRES=want det:art|el&m&SG=the .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*SI1:	denme el xxx .
+%mor:	imp|da-3P&IMP~pro:clit|1S=give det:art|el&m&SG=the .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|PUNCT
+%com:	uno de los nenes vuelve a jugar a las peleas
+*BRO:	xxx tan rápido se cayó .
+%mor:	adv|tan=such adj|rápido-m=rapid pro:refl|se=itself
+	v|cae-3S&PRET=fall .
+%gra:	1|2|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*BRO:	xxx de mí dice xxx .
+%mor:	prep|de=of pro:prep|mí=me v|deci-3S&PRES=say .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|1|PUNCT
+*BRO:	una bomba .
+%mor:	det:art|un-f=one n|bomba&f=bomb .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx .
+*MOT:	Franco te podés . [+ OCH]
+%mor:	n:prop|Franco pro:obj|te=you v|pode-2S&PRES=can .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*BRO:	xxx .
+*MOT:	qué querés ahora ? [+ OCH]
+%mor:	pro:int|qué=what v|quere-2S&PRES=want adv|ahora=now ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*BRO:	xxx .
+*BR1:	xxx .
+*MOT:	sí pero tienen que esperar . [+ OCH]
+%mor:	co|sí=yes conj|pero=but v|tene-3P&PRES=have pro:rel|que=that
+	inf|espera-INF=wait .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|REL 5|4|COMP 6|3|PUNCT
+*MOT:	sentate a esperar que yo le(s) dé . [+ OCH]
+%mor:	imp|senta-2S&IMP~pro:clit|2S=sit aprep|a=to inf|espera-INF=wait
+	pro:rel|que=that pro:sub|yo=I pro:ind|le-PL=them imp|da-3S&IMP=give
+	.
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|INF 4|1|COMP 5|4|REL 6|5|CMOD 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*MOT:	si vienen y se corre la mesa . [+ OCH]
+%mor:	conj|si=if v|veni-3P&PRES=come coord|y=and pro:refl|se=itself
+	v|corre-3S&PRES=run det:art|el&f&SG=the n|mesa&f=table .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	&=balbucea .
+*BRO:	se corren la mesa y vienen ?
+%mor:	pro:refl|se=itself v|corre-3P&PRES=run det:art|el&f&SG=the
+	n|mesa&f=table coord|y=and v|veni-3P&PRES=come ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	y si igual un gatito . [+ CHI]
+%mor:	coord|y=and conj|si=if co|igual=equal det:art|un&m=one
+	n|gato&m-DIM=cat .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*BRO:	&shishishi gatito . [+ CHI]
+%mor:	n|gato&m-DIM=cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&=tose .
+*BRO:	&shishishi gatito . [+ CHI]
+%mor:	n|gato&m-DIM=cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&shishishi gatito . [+ CHI]
+%mor:	n|gato&m-DIM=cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&shishishi &eh &miau . [+ CHI]
+*BRO:	&miau &miau . [+ CHI]
+*BRO:	xxx gatito . [+ CHI]
+%mor:	n|gato&m-DIM=cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	ma(má) hay que venga &miau .
+%mor:	n|mamá&f=mommy v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	co|venga=come_on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|3|CMOD 5|2|PUNCT
+*BRO:	Franca !
+%mor:	n:prop|Franca !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx &miau xxx &miau .
+*SIS:	&eh &eh !
+*BRO:	xxx .
+*BRO:	lo que te importa .
+%mor:	pro:obj|lo&m=him pro:rel|que=that pro:obj|te=you
+	v|importa-3S&PRES=matter .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|CMOD 5|1|PUNCT
+*BRO:	&miau !
+*BRO:	mucho antes .
+%mor:	adv|mucho=much adv|antes=before .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*SIS:	hay que darle la .
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|da-INF~pro:clit|3S=give det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|OBJ2 5|3|OBJ 6|1|PUNCT
+*BRO:	&umm &umm .
+%tim:	13:11:48
+*BRO:	junto con esto .
+%mor:	v|junta-1S&PRES=assemble prep|con=with pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*SIS:	mentira .
+%mor:	n|mentira&f=lie .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	te estás comiendo todo .
+%mor:	pro:obj|te=you aux|esta-2S&PRES=be part|come-PRPART=eat
+	pro:indef|todo-m=all .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*SIS:	xxx .
+*BRO:	bueno que no te sirva la medicina .
+%mor:	co|bueno=good pro:rel|que=that adv|no=no pro:obj|te=you
+	v|servi-13S&SUB&PRES=serve det:art|el&f&SG=the n|medicina&f=medicine
+	.
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|5|SUBJ 5|2|CMOD 6|7|DET 7|5|OBJ 8|1|PUNCT
+*BR1:	la medicina no tomé le hizo .
+%mor:	det:art|el&f&SG=the n|medicina&f=medicine adv|no=no
+	v|toma-1S&PRET=take pro:ind|le=him v|hace-3S&PRET=do .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*BR1:	&eh ?
+*BR1:	xxx .
+*BRO:	dame la xxx .
+%mor:	imp|da-2S&IMP~pro:clit|1S=give det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*MOT:	dale más .
+%mor:	co|dale adv|más=more .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	mirá .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	ma(má) tenemos xxx .
+%mor:	n|mamá&f=mommy v|tene-1P&PRES=have .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	tenemos papel xxx aparato .
+%mor:	v|tene-1P&PRES=have n|papel&m=paper n|aparato&m=apparatus .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|MOD 4|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	ma(má) el Ema apago el xxx esto la tele(visión) el aparato .
+%mor:	n|mamá&f=mommy det:art|el&m&SG=the n:prop|Ema
+	v|apaga-1S&PRES=turn_off det:art|el&m&SG=the pro:dem|esto=this_one
+	det:art|el&f&SG=the n|televisión&f=television det:art|el&m&SG=the
+	n|aparato&m=apparatus .
+%gra:	1|4|SUBJ 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|DET 8|6|OBJ
+	9|10|DET 10|8|OBJ 11|4|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	ponete esta xxx ponete .
+%mor:	imp|pone-2S&IMP~pro:clit|2S=put det:dem|este-f=this
+	imp|pone-2S&IMP~pro:clit|2S=put .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|3|POBJ 5|4|OBJ2 6|1|PUNCT
+*SIS:	mirá .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+%com:	un hermano parece estar interactuando con el bebé pero lo interpreto
+	del ruido que se escucha de sus movimientos
+*SIS:	mirá movete .
+%mor:	co|mirá imp|move-2S&IMP~pro:clit|2S=move .
+%gra:	1|0|ROOT 2|1|REL 3|2|OBJ2 4|1|PUNCT
+*BR1:	&=tararea .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*BR1:	&=tararea .
+*MOT:	Ema por qué tocás ? [+ OCH]
+%mor:	n:prop|Ema prep|por=for pro:int|qué=what v|toca-2S&PRES=touch ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|2|POBJ 5|1|PUNCT
+*BRO:	xxx .
+*BRO:	se escondió .
+%mor:	pro:refl|se=itself v|esconde-3S&PRET=hide .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	sentate . [+ OCH]
+%mor:	imp|senta-2S&IMP~pro:clit|2S=sit .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	ahora va a prender .
+%mor:	adv|ahora=now v|i-3S&PRES=go aprep|a=to inf|prende-INF=ignite .
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+*BR1:	la pongo xxx .
+%mor:	pro:obj|la&f=she v|pone-1S&PRES=put .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	muy bien .
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	no toques más Emanuel ! [+ OCH]
+%mor:	adv|no=no v|toca-2S&SUB&PRES=touch adv|más=more n:prop|Emanuel !
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|POBJ 5|2|PUNCT
+*BRO:	vos no toques nada .
+%mor:	pro:obj|vos=you adv|no=no v|toca-2S&SUB&PRES=touch
+	v|nada-3S&PRES=swim .
+%gra:	1|3|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	&=balbucea .
+*BRO:	le voy a sacar las pilas para que le nene no toque nada .
+%mor:	pro:ind|le=him v|i-1S&PRES=go aprep|a=to inf|saca-INF=bring_out
+	det:art|el&f-PL=the n|pila&f-PL=cattle_trough prep|para=for
+	pro:rel|que=that pro:ind|le=him n|nene&m=child adv|no=no
+	v|toca-13S&SUB&PRES=touch v|nada-3S&PRES=swim .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|6|JCT 8|7|REL
+	9|10|DET 10|12|SUBJ 11|12|JCT 12|13|SUBJ 13|8|CMOD 14|2|PUNCT
+*BR1:	ma(má) ?
+%mor:	n|mamá&f=mommy ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	dale ?
+%mor:	co|dale ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BR1:	en el coso ese tiene la xxx .
+%mor:	prep|en=in det:art|el&m&SG=the n|coso&m=thingamabob
+	det:dem|ese=that v|tene-3S&PRES=have det:art|el&f&SG=the .
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|3|MOD 5|0|ROOT 6|7|DET 7|5|PUNCT
+*BR1:	tiene para que la grabes ?
+%mor:	v|tene-3S&PRES=have prep|para=for pro:rel|que=that
+	det:art|el&f&SG=the v|graba-2S&SUB&PRES=engrave ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|REL 4|5|DET 5|3|CMOD 6|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	voy a hacer la xxx .
+%mor:	v|i-1S&PRES=go aprep|a=to inf|hace-INF=do det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	&=ríe .
+*BR1:	&jaaaa .
+*BR1:	xxx a Papo a la montaña más alta . [+ CHI]
+%mor:	aprep|a=to n:prop|Papo aprep|a=to det:art|el&f&SG=the
+	n|montaña&f=mountain adv|más=more n|alta&m=discharge .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|APREP 4|5|DET 5|3|POBJ 6|7|MOD 7|5|MOD 8|1|PUNCT
+*BR1:	más alta &ahgg . [+ CHI]
+%mor:	adv|más=more n|alta&m=discharge .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*BR1:	&uh ! [+ CHI]
+*BRO:	mira ese .
+%mor:	v|mira-3S&PRES=look det:dem|ese=that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*BR1:	qué <pasa> [=! alarga] te xxx en la boca ? [+ CHI]
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass pro:obj|te=you prep|en=in
+	det:art|el&f&SG=the n|boca&f=mouth ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BR1:	xxx así . [+ CHI]
+%mor:	adv|así=thus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BR1:	xxx . [+ CHI]
+*BR1:	mirá . [+ CHI]
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*SIS:	dale xxx que no quiero la galletita !
+%mor:	co|dale pro:rel|que=that adv|no=no v|quere-1S&PRES=want
+	det:art|el&f&SG=the n|galleta&f-DIM=biscuit !
+%gra:	1|0|ROOT 2|1|REL 3|4|JCT 4|2|CMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+%tim:	13:14:13
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BR1:	xxx .
+*SIS:	xxx una galletita .
+%mor:	det:art|un-f=one n|galleta&f-DIM=biscuit .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%com:	se escucha ruido de cocina
+*SIS:	yo quiero mi galletita .
+%mor:	pro:sub|yo=I v|quere-1S&PRES=want det:poss|mi=my
+	n|galleta&f-DIM=biscuit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*SIS:	xxx galletita .
+%mor:	n|galleta&f-DIM=biscuit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=grita .
+*SIS:	xxx paquete .
+%mor:	n|paquete&m=packet .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=grita .
+*CHI:	&=balbucea .
+*BR1:	xxx de acá .
+%mor:	prep|de=of adv|acá=there .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*BRO:	quiero que xxx la pelota .
+%mor:	v|quere-1S&PRES=want pro:rel|que=that det:art|el&f&SG=the
+	n|pelota&f=ball .
+%gra:	1|0|ROOT 2|1|REL 3|4|DET 4|2|COMP 5|1|PUNCT
+*BRO:	puedo tirar la galletita .
+%mor:	v|pode-1S&PRES=can inf|tira-INF=throw det:art|el&f&SG=the
+	n|galleta&f-DIM=biscuit .
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+*SIS:	no xxx .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	es mi color favorito .
+%mor:	cop|se-3S&PRES=be det:poss|mi=my n|color&m=hue
+	adj|favorito-m=favorite .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|MOD 5|1|PUNCT
+*BR1:	dónde está ?
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	ahí tiene que estar xxx .
+%mor:	adv|ahí=there v|tene-3S&PRES=have pro:rel|que=that inf|esta-INF=be
+	.
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|3|COMP 5|2|PUNCT
+*SIS:	&=llora .
+*BRO:	está esta también .
+%mor:	cop|esta-3S&PRES=be det:dem|este-f=this adv|también=also .
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	y dame !
+%mor:	coord|y=and imp|da-2S&IMP~pro:clit|1S=give !
+%gra:	1|0|ROOT 2|1|COORD 3|2|OBJ2 4|1|COORD
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	hola . [+ CHI]
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no tires juguetes xxx Ema . [+ OCH]
+%mor:	adv|no=no v|tira-2S&SUB&PRES=throw n|juguete&m-PL=toy n:prop|Ema .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|MOD 5|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	no . [+ OCH]
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	basta .
+%mor:	imp|basta-2S&IMP=suffice .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	esto ?
+%mor:	pro:dem|esto=this_one ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=grita .
+*CHI:	&=balbucea .
+*BR1:	ahí hay una bolsita de xxx pan lactal .
+%mor:	adv|ahí=there v|habe-3S&PRES&SPEC=have det:art|un-f=one
+	n|bolsa&f-DIM=purse prep|de=of n|pan&m=bread ?|lactal .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|5|POBJ 7|6|MOD 8|2|PUNCT
+%com:	se escucha la tele
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	bien !
+%mor:	adv|bien=well !
+%gra:	1|0|ROOT 2|1|PUNCT
+%tim:	13:16:42
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	qué ? [+ CHI]
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	xxx ma(má) .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BR1:	xxx .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+%com:	sonido de ollas
+*BR1:	xxx .
+*BRO:	&=grita .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*BRO:	&=balbucea .
+*BRO:	&=grita .
+*MOT:	dejá xxx . [+ OCH]
+%mor:	imp|deja-2S&IMP=leave .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*SIS:	ya está [/] ya está [/] ya está . [+ CHI]
+%mor:	adv|ya=already adv|ya=already adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	&=balbucea .
+*SIS:	ya está [/] ya está . [+ CHI]
+%mor:	adv|ya=already adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea .
+*SIS:	xxx . [+ CHI]
+*CHI:	&=balbucea .
+*SIS:	xxx . [+ CHI]
+*BRO:	xxx .
+%com:	parecen estar haciendo ruido de autitos pero no llego a distinguir .
+*SIS:	xxx .
+*MOT:	cerrá Ema te dije la puerta . [+ OCH]
+%mor:	imp|cerra-2S&IMP=close n:prop|Ema pro:obj|te=you v|deci-1S&PRET=say
+	det:art|el&f&SG=the n|puerta&f=door .
+%gra:	1|0|ROOT 2|1|APP 3|1|COMP 4|3|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+*MOT:	ustedes van y vienen miren el barro que hay adentro ya . [+ OCH]
+%mor:	pro:sub|usted-PL=you v|i-3P&PRES=go coord|y=and v|veni-3P&PRES=come
+	v|mira-3P&SUB&PRES=look det:art|el&m&SG=the n|barro&m=clay
+	pro:rel|que=that v|habe-3S&PRES&SPEC=have adv|adentro=inside
+	adv|ya=already .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|4|COMP 6|7|DET 7|5|OBJ 8|7|REL
+	9|8|CMOD 10|11|JCT 11|9|JCT 12|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	a ver .
+%mor:	aprep|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*BRO:	&tita .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	se escucha la tele .
+*MOT:	Ema quedate quieto Emanuel . [+ OCH]
+%mor:	n:prop|Ema imp|queda-2S&IMP~pro:clit|2S=stay adj|quieto-m=still
+	n:prop|Emanuel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*BRO:	&=lloriquea .
+*SIS:	a mí se (.) golpeó solo .
+%mor:	aprep|a=to pro:prep|mí=me pro:refl|se=itself v|golpea-3S&PRET=beat
+	adj|solo-m=alone .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|JCT 4|3|POBJ 5|4|MOD 6|1|PUNCT
+*BRO:	&=lloriquea .
+*CHI:	&=balbucea .
+%com:	la mamá parece seguir cocinando
+*SIS:	a ver .
+%mor:	aprep|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+%com:	alejada
+*SIS:	no ella !
+%mor:	adv|no=no pro:sub|ello-f=he !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx .
+*SIS:	mirá !
+%mor:	co|mirá !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*SIS:	xxx .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*SIS:	xxx !
+*CHI:	&=lloriquea .
+*MOT:	qué mi nene ? [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|nene=baby ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	&=lloriquea .
+%tim:	13:20:55
+*SIS:	xxx .
+*SIS:	ya está xxx .
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*SIS:	xxx .
+*BRO:	corre .
+%mor:	imp|corre-2S&IMP=run .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	ya está !
+%mor:	adv|ya=already cop|esta-3S&PRES=be !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*BRO:	&=grita .
+*CHI:	&=lloriquea .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*BRO:	&=grita .
+*SIS:	xxx .
+*BRO:	&=grita .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	la Cande ensució ma(má) .
+%mor:	det:art|el&f&SG=the n:prop|Cande v|ensucia-3S&PRET=dirty
+	n|mamá&f=mommy .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*BRO:	xxx .
+*SIS:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	me das el sandwich o me xxx .
+%mor:	pro:obj|me=me v|da-2S&PRES=give det:art|el&m&SG=the
+	n|sandwich&m=sandwich coord|o=or pro:obj|me=me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+%tim:	13:22:05
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	yo ?
+%mor:	pro:sub|yo=I ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	parece que quiere dormir .
+%mor:	v|parece-3S&PRES=seem pro:rel|que=that v|quere-3S&PRES=want
+	inf|dormi-INF=sleep .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|COMP 5|1|PUNCT
+*BRO:	quiere dormir Simón .
+%mor:	v|quere-3S&PRES=want inf|dormi-INF=sleep n:prop|Simón .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+*CHI:	&=lloriquea .
+*SIS:	por qué ?
+%mor:	prep|por=for pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*BRO:	porque xxx .
+%mor:	conj|porque=because .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sale !
+%mor:	imp|sali-2S&IMP=leave !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	tanta hambre va a tener esa gata .
+%mor:	det:indef|tanto-f=so_much n|hambre&f=hunger v|i-3S&PRES=go
+	aprep|a=to inf|tene-INF=have det:dem|ese-f=that n|gato-f=cat .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*BRO:	ella siempre te pide carne .
+%mor:	pro:sub|ello-f=he adv|siempre=always pro:obj|te=you
+	v|pedi-3S&PRES=request n|carne&f=meat .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*BRO:	siempre salta de xxx .
+%mor:	adv|siempre=always v|salta-3S&PRES=jump prep|de=of .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*BRO:	&=canta .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+%com:	ruido de cocina
+*BRO:	te dije que no juegues .
+%mor:	pro:obj|te=you v|deci-1S&PRET=say pro:rel|que=that adv|no=no
+	v|juga-2S&SUB&PRES=play .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|5|JCT 5|3|CMOD 6|2|PUNCT
+*BRO:	a eso no juegues .
+%mor:	aprep|a=to pro:dem|eso=that_one adv|no=no v|juga-2S&SUB&PRES=play .
+%gra:	1|0|ROOT 2|4|JCT 3|4|JCT 4|1|POBJ 5|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	con eso .
+%mor:	prep|con=with pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*BRO:	&=llora .
+*BRO:	&=grita .
+*MOT:	junten eso del piso dale ! [+ OCH]
+%mor:	v|junta-3P&SUB&PRES=assemble pro:dem|eso=that_one
+	prep|de~det:art|el&m=of n|piso&m=floor co|dale !
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|1|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	el volumen ? [+ OCH]
+%mor:	det:art|el&m&SG=the n|volumen&m=volume ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	de acá lo xxx .
+%mor:	prep|de=of adv|acá=there pro:obj|lo&m=him .
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*BRO:	xxx le bajó todo el volumen .
+%mor:	pro:ind|le=him v|baja-3S&PRET=come_down det:indef|todo-m=all
+	det:art|el&m&SG=the n|volumen&m=volume .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|DET 5|2|OBJ 6|2|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	pero no se escucha .
+%mor:	conj|pero=but adv|no=no pro:refl|se=itself v|escucha-3S&PRES=listen
+	.
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*BRO:	salí .
+%mor:	imp|sali-2S&IMP=leave .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=grita .
+*SIS:	&=llora .
+*BRO:	salite [/] salite .
+%mor:	?|salite .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=llora .
+*BRO:	un poquito más porque no se escucha .
+%mor:	det:art|un&m=one pro:indef|poquito=little adv|más=more
+	conj|porque=because adv|no=no pro:refl|se=itself
+	v|escucha-3S&PRES=listen .
+%gra:	1|2|DET 2|7|SUBJ 3|4|MOD 4|7|SUBJ 5|6|JCT 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*SIS:	&=lloriquea .
+%com:	suben el volumen de la tele
+*CHI:	&=balbucea .
+%tim:	13:25:08
+*SIS:	xxx no [/] no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*SIS:	dale .
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+%tim:	13:25:23 1:51:49
+*CHI:	&=balbucea .
+*BRO:	hola . [+ CHI]
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	hola &cheche . [+ CHI]
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	hola . [+ CHI]
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	querés este ? [+ CHI]
+%mor:	v|quere-2S&PRES=want det:dem|este=this ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*BRO:	&waaa . [+ CHI]
+*BRO:	ma(má) yo no quiero mi juguete .
+%mor:	n|mamá&f=mommy pro:sub|yo=I adv|no=no v|quere-1S&PRES=want
+	det:poss|mi=my n|juguete&m=toy .
+%gra:	1|4|SUBJ 2|1|MOD 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*BRO:	quiere toca(r) .
+%mor:	v|quere-3S&PRES=want inf|toca-INF=touch .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*BR1:	xxx .
+*BRO:	no digas &maiu .
+%mor:	adv|no=no v|deci-2S&SUB&PRES=say .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BR1:	&miau &miau &miau &miau .
+*BRO:	la gata .
+%mor:	det:art|el&f&SG=the n|gato-f=cat .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BR1:	&miau &miau &miau &miau .
+*BR1:	&miau &miau .
+*BRO:	voy a tomar mi agua .
+%mor:	v|i-1S&PRES=go aprep|a=to inf|toma-INF=take det:poss|mi=my
+	n|agua&f=water .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*SIS:	xxx .
+*SIS:	xxx .
+*BRO:	el peine ? [+ OCH]
+%mor:	det:art|el&m&SG=the n|peine&m=comb ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	ese ? [+ OCH]
+%mor:	det:dem|ese=that ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	este . [+ OCH]
+%mor:	det:dem|este=this .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	cuál ? [+ OCH]
+%mor:	pro:int|cuál=which ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	este . [+ OCH]
+%mor:	det:dem|este=this .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	ese no . [+ OCH]
+%mor:	det:dem|ese=that co|no .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	quiere la quiere ese ma(má) .
+%mor:	v|quere-3S&PRES=want det:art|el&f&SG=the v|quere-3S&PRES=want
+	det:dem|ese=that n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	&=balbucea .
+%tim:	13:26:34
+*CHI:	&=balbucea .
+*BRO:	&=tose .
+*CHI:	&=balbucea .
+*BRO:	&=tose .
+*CHI:	&=balbucea .
+*SIS:	ma(má) poné el jugo .
+%mor:	n|mamá&f=mommy imp|pone-2S&IMP=put det:art|el&m&SG=the
+	n|jugo&m=juice .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	ahora después . [+ OCH]
+%mor:	adv|ahora=now adv|después=after .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*SIS:	si xxx .
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	cuando ya esté la comida ?
+%mor:	conj|cuando=when adv|ya=already imp|esta-3S&IMP=be
+	det:art|el&f&SG=the n|comida&f=food ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MOT:	sí (.) cuando está sí . [+ OCH]
+%mor:	co|sí=yes pro:rel|cuando=when cop|esta-3S&PRES=be co|sí=yes .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|PRED 5|1|PUNCT
+*SIS:	quiero jugo .
+%mor:	v|quere-1S&PRES=want n|jugo&m=juice .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*SIS:	jugo [/] jugo .
+%mor:	n|jugo&m=juice .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	quiero jugo .
+%mor:	v|quere-1S&PRES=want n|jugo&m=juice .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	xxx !
+%tim:	13:27:06
+%com:	la mamá debe seguir cocinando
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*SIS:	xxx Ema .
+%mor:	n:prop|Ema .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*MOT:	&ag .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	qué papá ? [+ CHI]
+%mor:	pro:int|qué=what n|papá&m=father ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	ya te voy a agarrar esperá un poquito . [+ CHI]
+%mor:	adv|ya=already pro:obj|te=you v|i-1S&PRES=go aprep|a=to
+	inf|agarra-INF=grab imp|espera-2S&IMP=wait det:art|un&m=one
+	pro:indef|poquito=little .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	esperá . [+ CHI]
+%mor:	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	quiere lechita ?
+%mor:	v|quere-3S&PRES=want n|leche&f-DIM=milk ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	esperá papi un ratito . [+ CHI]
+%mor:	imp|espera-2S&IMP=wait n|papi&m=daddy det:art|un&m=one
+	n|rato&m-DIM=time .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	aguantá . [+ CHI]
+%mor:	imp|aguanta-2S&IMP=endure .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*CHI:	&=llora .
+*MOT:	ya está mi bebé . [+ CHI]
+%mor:	adv|ya=already cop|esta-3S&PRES=be det:poss|mi=my n|bebé&m=baby .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	gato dormido .
+%mor:	n|gato-m=cat part|dormi-PPART-m=sleep .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*BRO:	xxx .
+*MOT:	xxx .
+*CHI:	&=lloriquea .
+*BRO:	yo quería una xxx .
+%mor:	pro:sub|yo=I v|quere-13S&PAS=want det:art|un-f=one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	Cande !
+%mor:	n:prop|Cande !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx una pizza .
+%mor:	det:art|un-f=one n|pizza&f=pizza .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	&=grita .
+*CHI:	&=lloriquea .
+%tim:	13:28:46
+*SIS:	vení .
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*BRO:	xxx .
+*SIS:	no xxx .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=tose .
+*CHI:	&=lloriquea .
+*SIS:	galletita [=! canta] . [+ CHI]
+%mor:	n|galleta&f-DIM=biscuit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	galletita ! [+ CHI]
+%mor:	n|galleta&f-DIM=biscuit !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx &uh se cayó galletita . [+ CHI]
+%mor:	pro:refl|se=itself v|cae-3S&PRET=fall n|galleta&f-DIM=biscuit .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*SIS:	agarró Simón .
+%mor:	v|agarra-3S&PRET=grab n:prop|Simón .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*SIS:	ma(má) Simón quería galletita .
+%mor:	n|mamá&f=mommy n:prop|Simón v|quere-13S&PAS=want
+	n|galleta&f-DIM=biscuit .
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*SIS:	él quería galletita solo .
+%mor:	pro:head|él&m=he v|quere-13S&PAS=want n|galleta&f-DIM=biscuit
+	adj|solo-m=alone .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|3|MOD 5|1|PUNCT
+%tim:	13:29:30
+*SIS:	acá tiene dos .
+%mor:	adv|acá=there v|tene-3S&PRES=have det:num|dos=two .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*SIS:	le voy a dar dos .
+%mor:	pro:ind|le=him v|i-1S&PRES=go aprep|a=to inf|da-INF=give
+	det:num|dos=two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*SIS:	xxx .
+*BRO:	xxx .
+*SIS:	le voy a .
+%mor:	pro:ind|le=him v|i-1S&PRES=go aprep|a=to .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|APREP 4|2|PUNCT
+*SIS:	Ema ! [+ OCH]
+%mor:	n:prop|Ema !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&ñaca &ñaca .
+*SIS:	ahí voy a dejarle .
+%mor:	adv|ahí=there v|i-1S&PRES=go aprep|a=to
+	inf|deja-INF~pro:clit|3S=leave .
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ2 6|2|PUNCT
+*SIS:	ahí voy a dar cuando tenga hambre .
+%mor:	adv|ahí=there v|i-1S&PRES=go aprep|a=to inf|da-INF=give
+	pro:rel|cuando=when v|tene-13S&SUB&PRES=have n|hambre&f=hunger .
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|COMP 5|4|REL 6|5|CMOD 7|6|OBJ 8|2|PUNCT
+*SIS:	tomá [/] tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	cierren la puerta . [+ OCH]
+%mor:	v|cerra-3P&SUB&PRES=close det:art|el&f&SG=the n|puerta&f=door .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*BRO:	xxx de página .
+%mor:	prep|de=of n|página&f=page .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*SIS:	&chucu &chuchu chiquito . [+ CHI]
+%mor:	n|chico&m-DIM=child .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+%tim:	13:29:58
+%com:	parecen conversar alejados los hermanos pero no se llega a entender
+*MOT:	cerrá la puerta ! [+ OCH]
+%mor:	imp|cerra-2S&IMP=close det:art|el&f&SG=the n|puerta&f=door !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*BRO:	xxx .
+*SI1:	ya viene .
+%mor:	adv|ya=already v|veni-3S&PRES=come .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*SI1:	xxx .
+*SI1:	ma(má) .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	Simón . [+ CHI]
+%mor:	n:prop|Simón .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx . [+ CHI]
+*CHI:	&=balbucea .
+*SIS:	qué pasa ? [+ CHI]
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	oculista . [+ CHI]
+%mor:	n|oculista&m=opthalmologist .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	ya vimos . [+ CHI]
+%mor:	adv|ya=already v|ve-1P&PRES&PRET=see .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*SIS:	este es el almuerzo . [+ CHI]
+%mor:	det:dem|este=this cop|se-3S&PRES=be det:art|el&m&SG=the
+	n|almuerzo&m=lunch .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%com:	se escucha a los hermanitos de fondo pero no se llega a entender
+*SI1:	&=tose .
+*SI1:	&=tose .
+*CHI:	&=balbucea .
+%tim:	13:32:11 1:58:36
+%com:	se escucha la tele
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	&=grita .
+*BRO:	los vecinos ya están durmiendo .
+%mor:	det:art|el&m-PL=the n|vecino-m-PL=neighbor adv|ya=already
+	aux|esta-3P&PRES=be part|dormi-PRPART=sleep .
+%gra:	1|2|DET 2|5|SUBJ 3|2|JCT 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*SIS:	&=grita .
+*BRO:	los vecinos están durmiendo .
+%mor:	det:art|el&m-PL=the n|vecino-m-PL=neighbor aux|esta-3P&PRES=be
+	part|dormi-PRPART=sleep .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*BRO:	está adentro .
+%mor:	cop|esta-3S&PRES=be adv|adentro=inside .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*BRO:	está adentro .
+%mor:	cop|esta-3S&PRES=be adv|adentro=inside .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	xxx encerrado xxx .
+%mor:	part|encerra-PPART-m=enclose .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	no ! [+ CHI]
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	esto era para llevar ! [+ CHI]
+%mor:	pro:dem|esto=this_one cop|se-13S&PAS=be prep|para=for
+	inf|lleva-INF=carry !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|PRED 5|2|PUNCT
+*BRO:	xxx . [+ CHI]
+*BRO:	son para llevar . [+ CHI]
+%mor:	cop|se-3P&PRES=be prep|para=for inf|lleva-INF=carry .
+%gra:	1|0|ROOT 2|3|INF 3|1|PRED 4|1|PUNCT
+*BRO:	está comiendo solo la galletita . [+ CHI]
+%mor:	aux|esta-3S&PRES=be part|come-PRPART=eat adj|solo-m=alone
+	det:art|el&f&SG=the n|galleta&f-DIM=biscuit .
+%gra:	1|2|AUX 2|0|ROOT 3|5|MOD 4|5|DET 5|2|OBJ 6|2|PUNCT
+*BRO:	mamá xxx galletita .
+%mor:	n|mamá&f=mommy n|galleta&f-DIM=biscuit .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*BRO:	xxx .
+*SI1:	&=llora .
+%com:	ruido de agua
+*SI1:	&=llora .
+%tim:	13:34:10
+*SI1:	&=llora .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	alguno de los nenes patea algo
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	mirá .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx no ?
+%mor:	adv|no=no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	esta puerta viste mamá ?
+%mor:	det:dem|este-f=this n|puerta&f=door v|vesti-3S&PRES=dress
+	n|mamá&f=mommy ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*BRO:	xxx .
+*SIS:	la azul .
+%mor:	det:art|el&f&SG=the adj|azul=blue .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	uno dos .
+%mor:	det:num|uno=one det:num|dos=two .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*BRO:	&ay me xxx .
+%mor:	pro:obj|me=me .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	xxx .
+%com:	roza el grabador con algo y no se escucha bien
+*SIS:	xxx y azul xxx .
+%mor:	coord|y=and adj|azul=blue .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*SIS:	ahora falta esta .
+%mor:	adv|ahora=now v|falta-3S&PRES=be_lacking det:dem|este-f=this .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*SI1:	&=balbucea .
+*SI1:	&=lloriquea .
+*CHI:	&=balbucea .
+*MOT:	a ver ! [+ OCH]
+%mor:	aprep|a=to inf|ve-INF=see !
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*SI1:	&=lloriquea .
+*MOT:	escuchá . [+ OCH]
+%mor:	imp|escucha-2S&IMP=listen .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	mirá . [+ OCH]
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	me parece que se lo dice a la hermanita que está llorando
+*SI1:	xxx .
+%com:	se los escucha de fondo a los hermanitos pero no se entiende
+*BRO:	dale .
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	dale .
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	xxx estaba comiendo el pastel de verdad .
+%mor:	cop|esta-13S&PAS=be part|come-PRPART=eat det:art|el&m&SG=the
+	n|pastel&m=pie prep|de=of n|verdad&f=truth .
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%tim:	13:36:16
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*BRO:	mamá .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SI1:	yo porque xxx .
+%mor:	pro:sub|yo=I conj|porque=because .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*SIS:	&=grita .
+*BRO:	xxx .
+*BRO:	&=grita .
+*BRO:	&=grita .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*SIS:	me das torta [/] me das torta ?
+%mor:	pro:obj|me=me v|da-2S&PRES=give pro:obj|me=me v|da-2S&PRES=give
+	n|torta&f=tart ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|DET 5|2|OBJ 6|2|PUNCT
+%tim:	13:37:07
+*SIS:	me das torta ?
+%mor:	pro:obj|me=me v|da-2S&PRES=give n|torta&f=tart ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	xxx .
+*MOT:	&=tose .
+*CHI:	&=balbucea .
+*SIS:	acá tiene .
+%mor:	adv|acá=there v|tene-3S&PRES=have .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*SIS:	ma(má) !
+%mor:	n|mamá&f=mommy !
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	me das xxx .
+%mor:	pro:obj|me=me v|da-2S&PRES=give .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*BRO:	xxx .
+*SIS:	mami .
+%mor:	n|mami&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*BR1:	ma(má) ya está ?
+%mor:	n|mamá&f=mommy adv|ya=already cop|esta-3S&PRES=be ?
+%gra:	1|3|SUBJ 2|1|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	no falta todavía . [+ OCH]
+%mor:	adv|no=no v|falta-3S&PRES=be_lacking adv|todavía=still .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*SIS:	me das torta ?
+%mor:	pro:obj|me=me v|da-2S&PRES=give n|torta&f=tart ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	tomá .
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*MOT:	tomá Franca ! [+ OCH]
+%mor:	imp|toma-2S&IMP=take n:prop|Franca !
+%gra:	1|0|ROOT 2|1|APP 3|1|PUNCT
+*MOT:	por qué te vas llorando ? [+ OCH]
+%mor:	prep|por=for pro:int|qué=what pro:obj|te=you v|i-2S&PRES=go
+	part|llora-PRPART=cry ?
+%gra:	1|0|ROOT 2|1|POBJ 3|2|JCT 4|5|AUX 5|3|POBJ 6|1|PUNCT
+*SIS:	xxx .
+*MOT:	tomá . [+ OCH]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*BRO:	eso son para bebé .
+%mor:	pro:dem|eso=that_one cop|se-3P&PRES=be prep|para=for n|bebé&m=baby
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*BRO:	hay que comprar ese xxx .
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that inf|compra-INF=buy
+	det:dem|ese=that .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|OBJ 5|1|PUNCT
+*BRO:	xxx hay que comprarle .
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|compra-INF~pro:clit|3S=buy .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|OBJ2 5|1|PUNCT
+*BRO:	xxx .
+*SIS:	una bañera .
+%mor:	det:art|un-f=one n|bañera&f=bath_tub .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	una bañera ?
+%mor:	det:art|un-f=one n|bañera&f=bath_tub ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	xxx .
+*BRO:	xxx .
+*BRO:	hay que comprarle un juguete para jugar .
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|compra-INF~pro:clit|3S=buy det:art|un&m=one n|juguete&m=toy
+	prep|para=for inf|juga-INF=play .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|OBJ2 5|6|DET 6|3|OBJ 7|8|INF 8|6|CMOD
+	9|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+%tim:	13:38:47
+*SIS:	xxx .
+*SIS:	bien .
+%mor:	adv|bien=well .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	la mamá sigue cocinando
+*CHI:	&=lloriquea .
+*BRO:	xxx la Cande cambió de canal .
+%mor:	det:art|el&f&SG=the n:prop|Cande v|cambia-3S&PRET=change prep|de=of
+	n|canal&m=canal .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	Ema jugá con el xxx .
+%mor:	n:prop|Ema imp|juga-2S&IMP=play prep|con=with det:art|el&m&SG=the .
+%gra:	1|0|ROOT 2|1|MOD 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	ma(má) le di el jugo para que juegue .
+%mor:	n|mamá&f=mommy pro:ind|le=him imp|deci-2S&IMP=say
+	det:art|el&m&SG=the n|jugo&m=juice prep|para=for pro:rel|que=that
+	v|juga-13S&SUB&PRES=play .
+%gra:	1|0|ROOT 2|1|MOD 3|1|CMOD 4|5|DET 5|3|OBJ 6|5|JCT 7|6|REL 8|7|CMOD
+	9|1|PUNCT
+*MOT:	bueno .
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	juga a eso .
+%mor:	imp|juga-2S&IMP=play aprep|a=to pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|1|APREP 3|2|POBJ 4|1|PUNCT
+*BRO:	juga a eso mirá eso .
+%mor:	imp|juga-2S&IMP=play aprep|a=to pro:dem|eso=that_one co|mirá
+	pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|1|APREP 3|2|POBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MOT:	&=tose .
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*SIS:	xxx .
+%com:	Simón parece frotar el juguito contra el chalequito
+*CHI:	&=lloriquea .
+*BRO:	ma(má) no quiere galletita .
+%mor:	n|mamá&f=mommy adv|no=no v|quere-3S&PRES=want
+	n|galleta&f-DIM=biscuit .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*SIS:	xxx .
+*CHI:	&=lloriquea .
+*MOT:	xxx .
+%tim:	13:40:35
+*BRO:	ahí mami .
+%mor:	adv|ahí=there n|mami&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&=besa .
+*SIS:	puedo comer ?
+%mor:	v|pode-1S&PRES=can inf|come-INF=eat ?
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*MOT:	no esperá que esté todo ahora . [+ OCH]
+%mor:	co|no imp|espera-2S&IMP=wait pro:rel|que=that
+	cop|esta-13S&SUB&PRES=be pro:indef|todo-m=all adv|ahora=now .
+%gra:	1|0|ROOT 2|1|REL 3|2|REL 4|3|CMOD 5|4|PRED 6|5|JCT 7|1|PUNCT
+*SIS:	quiero la carne .
+%mor:	v|quere-1S&PRES=want det:art|el&f&SG=the n|carne&f=meat .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	esperá también &eh . [+ OCH]
+%mor:	imp|espera-2S&IMP=wait adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*BRO:	&=grita .
+*SIS:	hay que esperar xxx .
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that inf|espera-INF=wait .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|1|PUNCT
+*SIS:	hay que esperar .
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that inf|espera-INF=wait .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|1|PUNCT
+*MOT:	ahí está . [+ OCH]
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx .
+*MOT:	tomá este vos Ema . [+ OCH]
+%mor:	imp|toma-2S&IMP=take det:dem|este=this pro:obj|vos=you n:prop|Ema .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*BRO:	caliente ?
+%mor:	adj|caliente=hot ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&auu .
+*SIS:	dejalo ahí que se enfríe .
+%mor:	imp|deja-2S&IMP~pro:clit|OBJ&m=leave adv|ahí=there pro:rel|que=that
+	pro:refl|se=itself v|enfria-13S&SUB&PRES=cool_down .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|3|REL 5|6|SUBJ 6|4|CMOD 7|1|PUNCT
+*SIS:	xxx .
+%com:	ruido de cocina
+*MOT:	está preparando la comida con mamá . [+ CHI]
+%mor:	aux|esta-3S&PRES=be part|prepara-PRPART=prepare det:art|el&f&SG=the
+	n|comida&f=food prep|con=with n|mamá&f=mommy .
+%gra:	1|2|AUX 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	está preparando la comidita con mami . [+ CHI]
+%mor:	aux|esta-3S&PRES=be part|prepara-PRPART=prepare det:art|el&f&SG=the
+	n|comida&f-DIM=food prep|con=with n|mami&f=mommy .
+%gra:	1|2|AUX 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%tim:	13:42:28 2:08:54
+*MOT:	&=besa .
+*MOT:	ya está .
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx .
+*BRO:	xxx .
+*SIS:	xxx .
+*BRO:	xxx .
+*BRO:	xxx .
+*BRO:	ma(má) !
+%mor:	n|mamá&f=mommy !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ay qué rico ! [+ CHI]
+%mor:	pro:int|qué=what adj|rico-m=rich !
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*BRO:	&jajaja .
+*BRO:	xxx .
+*MOT:	junten eso ! [+ OCH]
+%mor:	v|junta-3P&SUB&PRES=assemble pro:dem|eso=that_one !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*SIS:	quiero más .
+%mor:	v|quere-1S&PRES=want adv|más=more .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	no esperá te dije ! [+ OCH]
+%mor:	adv|no=no imp|espera-2S&IMP=wait pro:obj|te=you v|deci-1S&PRET=say
+	!
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	no puedo terminar de hacer todavía . [+ OCH]
+%mor:	adv|no=no v|pode-1S&PRES=can inf|termina-INF=end prep|de=of
+	inf|hace-INF=do adv|todavía=still .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|3|JCT 5|4|POBJ 6|5|JCT 7|2|PUNCT
+*SIS:	xxx .
+*SIS:	xxx .
+%com:	la mamá sigue cocinando
+*SIS:	xxx .
+*SIS:	xxx .
+*SIS:	sí !
+%mor:	co|sí=yes !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*SI1:	xxx ?
+*SIS:	&=canta .
+*BRO:	&=grita .
+*SIS:	xxx .
+*SIS:	te quema .
+%mor:	pro:obj|te=you v|quema-3S&PRES=burn .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*SI1:	todo .
+%mor:	det:indef|todo-m=all .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	papa ?
+%mor:	n|papa&f=potato ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	papa ?
+%mor:	n|papa&f=potato ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí dije .
+%mor:	co|sí=yes v|deci-1S&PRET=say .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*BRO:	acá hay mucho xxx .
+%mor:	adv|acá=there v|habe-3S&PRES&SPEC=have adv|mucho=much .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*BRO:	papa con carne .
+%mor:	n|papa&f=potato prep|con=with n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	xxx .
+*BRO:	a mí me gusta papa con carne .
+%mor:	aprep|a=to pro:prep|mí=me pro:obj|me=me v|gusta-3S&PRES=like
+	n|papa&f=potato prep|con=with n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|3|CMOD 5|4|OBJ 6|5|JCT 7|6|POBJ 8|1|PUNCT
+*SIS:	papa con carne .
+%mor:	n|papa&f=potato prep|con=with n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*SI1:	a vos te gusta ?
+%mor:	aprep|a=to pro:obj|vos=you pro:obj|te=you v|gusta-3S&PRES=like ?
+%gra:	1|0|ROOT 2|4|JCT 3|4|SUBJ 4|1|POBJ 5|1|PUNCT
+*SIS:	xxx .
+*MOT:	tomá . [+ OCH]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	tomá ! [+ OCH]
+%mor:	imp|toma-2S&IMP=take !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx cantidad . [+ CHI]
+%mor:	n|cantidad&f=quantity .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	comé [/] comé . [+ CHI]
+%mor:	imp|come-2S&IMP=eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	se escucha que siguen friendo .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*BRO:	basta yo .
+%mor:	v|basta-3S&PRES=suffice pro:sub|yo=I .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*BRO:	xxx .
+*SIS:	xxx .
+%com:	parecen estar hablando pero no se les entiende mucho
+*BRO:	&=balbucea .
+%com:	golpea un vaso de plástico o similar
+%tim:	13:46:35 2:13:00
+*BRO:	xxx .
+*BRO:	&=balbucea .
+*SIS:	te gustan los xxx ?
+%mor:	pro:obj|te=you v|gusta-3P&PRES=like det:art|el&m-PL=the ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PUNCT
+*SIS:	todavía no está ma(má) ?
+%mor:	adv|todavía=still adv|no=no cop|esta-3S&PRES=be n|mamá&f=mommy ?
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	ya va a estar (.) falta una no_más . [+ OCH]
+%mor:	adv|ya=already v|i-3S&PRES=go aprep|a=to inf|esta-INF=be
+	v|falta-3S&PRES=be_lacking det:art|un-f=one adv|no_más=no_more .
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|7|DET 7|5|JCT 8|2|PUNCT
+*SIS:	falta una ?
+%mor:	v|falta-3S&PRES=be_lacking det:art|un-f=one ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*SIS:	puré ?
+%mor:	n|puré&m=puree_soup ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=balbucea .
+*BR2:	a mí me gusta el puré .
+%mor:	aprep|a=to pro:prep|mí=me pro:obj|me=me v|gusta-3S&PRES=like
+	det:art|el&m&SG=the n|puré&m=puree_soup .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|1|POBJ 5|6|DET 6|4|OBJ 7|1|PUNCT
+*CHI:	&=balbucea .
+%com:	algo se cae
+*BRO:	&=grita .
+*SIS:	xxx .
+*BRO:	&=grita .
+*SIS:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&aggg &ggg .
+*BRO:	&=balbucea . [+ CHI]
+*CHI:	&=lloriquea .
+*BRO:	&ahg &ahg . [+ CHI]
+*CHI:	&=lloriquea .
+*SIS:	xxx .
+*CHI:	&=lloriquea . [+ CHI]
+*SIS:	xxx .
+*CHI:	&=lloriquea . [+ CHI]
+*SIS:	xxx .
+*BR1:	&uhg torta [/] torta .
+%mor:	n|torta&f=tart .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*BRO:	xxx .
+%tim:	13:47:44
+*SIS:	&=tose .
+*BRO:	xxx .
+*SIS:	xxx sí ?
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	algo se golpetea
+*CHI:	&=lloriquea .
+*MOT:	qué mi amor ya te . [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|amor=love adv|ya=already
+	pro:obj|te=you .
+%gra:	1|2|MOD 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*MOT:	dale que xxx . [+ OCH]
+%mor:	co|dale pro:rel|que=that .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&=lloriquea .
+*SIS:	Ema abrí la puerta a Uli .
+%mor:	n:prop|Ema imp|abri-2S&IMP=open det:art|el&f&SG=the n|puerta&f=door
+	aprep|a=to n:prop|Uli .
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|OBJ 5|4|APREP 6|5|POBJ 7|1|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*BRO:	&=balbucea .
+*CHI:	&=lloriquea .
+%tim:	13:48:19
+*BRO:	&=balbucea .
+*CHI:	&=lloriquea .
+*SIS:	la galletita .
+%mor:	det:art|el&f&SG=the n|galleta&f-DIM=biscuit .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	&=grita .
+%com:	la mamá sigue cocinando
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+%com:	los hermanitos parecen hablar entre ellos alejados de Simón
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*SIS:	ahí está .
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	&=canta .
+*CHI:	&=lloriquea .
+*BRO:	xxx ?
+*BRO:	&ay &ay &ay .
+*CHI:	&=lloriquea .
+%tim:	13:49:14
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	dale [/] dale .
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	caca mami caca .
+%mor:	n|caca&f=feces n|mami&f=mommy n|caca&f=feces .
+%gra:	1|0|ROOT 2|1|MOD 3|2|MOD 4|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	vengan el xxx .
+%mor:	v|venga-3P&PRES=avenge det:art|el&m&SG=the .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*BRO:	dónde está Mema ?
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be n:prop|Mema ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	tenemos que comer .
+%mor:	v|tene-1P&PRES=have pro:rel|que=that inf|come-INF=eat .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|1|PUNCT
+%tim:	13:50:03 2:16:24
+*BRO:	a ver .
+%mor:	aprep|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx mirá xxx .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	dale entrá [/] entrá . [+ OCH]
+%mor:	co|dale imp|entra-2S&IMP=come_in .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*BR1:	esperá . [+ OCH]
+%mor:	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	esperá . [+ OCH]
+%mor:	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx con adulto .
+%mor:	prep|con=with n|adulto-m=adult .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	y xxx .
+%mor:	coord|y=and .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	a mí tres xxx .
+%mor:	aprep|a=to pro:prep|mí=me det:num|tres=three .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|1|PUNCT
+%com:	ruido de pelota
+*BRO:	a ver entralo que xxx .
+%mor:	aprep|a=to inf|ve-INF=see imp|entra-2S&IMP~pro:clit|OBJ&m=come_in
+	pro:rel|que=that .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|3|OBJ2 5|3|REL 6|2|PUNCT
+*BR1:	&=tararea .
+*BRO:	muñeco .
+%mor:	n|muñeco-m=doll .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	&=tararea .
+*MOT:	andá a comprar .
+%mor:	co|andá=come_on aprep|a=to inf|compra-INF=buy .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+*BRO:	xxx .
+*SIS:	ma(má) ya está ?
+%mor:	n|mamá&f=mommy adv|ya=already cop|esta-3S&PRES=be ?
+%gra:	1|3|SUBJ 2|1|JCT 3|0|ROOT 4|3|PUNCT
+*BRO:	&=tararea .
+*BR1:	mami me servís ?
+%mor:	n|mami&f=mommy pro:obj|me=me v|servi-2P&PRES=serve ?
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*MOT:	yo ya la xxx .
+%mor:	pro:sub|yo=I adv|ya=already det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|1|PUNCT
+*BR1:	yo estoy en el baño .
+%mor:	pro:sub|yo=I aux|esta-1S&PRES=be prep|en=in det:art|el&m&SG=the
+	n|baño&m=bath .
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%com:	ruido de comida
+*BR1:	mami xxx .
+%mor:	n|mami&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=grita .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	ruido como de que hablan pero no se llega a entender
+*BR1:	qué [/] qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	xxx .
+*CHI:	&=balbucea .
+%tim:	13:51:25
+*MOT:	dejame Zaira los platos ! [+ OCH]
+%mor:	imp|deja-2S&IMP~pro:clit|1S=leave n:prop|Zaira det:art|el&m-PL=the
+	n|plato&m-PL=dish !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*SIS:	&=balbucea .
+*BR1:	&=grita .
+*CHI:	&=balbucea .
+*BRO:	&=grita .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	quién falta ? [+ OCH]
+%mor:	pro:int|quién=who v|falta-3S&PRES=be_lacking ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	xxx .
+*BRO:	la Cande .
+%mor:	det:art|el&f&SG=the n:prop|Cande .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	la Cande Benja . [+ OCH]
+%mor:	det:art|el&f&SG=the n:prop|Cande n:prop|Benja .
+%gra:	1|2|DET 2|0|ROOT 3|2|APP 4|2|PUNCT
+*CHI:	&=balbucea .
+*SIS:	&=grita .
+*BRO:	me fui a xxx .
+%mor:	pro:obj|me=me v|i-3S&PRET=go aprep|a=to .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|APREP 4|2|PUNCT
+*SIS:	mirá .
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	este es del Ema . [+ OCH]
+%mor:	det:dem|este=this cop|se-3S&PRES=be prep|de~det:art|el&m=of
+	n:prop|Ema .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*SIS:	quiero xxx .
+%mor:	v|quere-1S&PRES=want .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx lo que atrás mío .
+%mor:	pro:obj|lo&m=him pro:rel|que=that adv|atrás=back
+	pro:poss|mío-m=mine .
+%gra:	1|0|ROOT 2|1|REL 3|4|MOD 4|2|CMOD 5|1|PUNCT
+*SIS:	xxx .
+*BRO:	entendí un xxx .
+%mor:	v|entende-1S&PRET=understand det:art|un&m=one .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	qué querés ?
+%mor:	pro:int|qué=what v|quere-2S&PRES=want ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	xxx cuchara .
+%mor:	n|cuchara&f=spoon .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*SIS:	quiero cuchara .
+%mor:	v|quere-1S&PRES=want n|cuchara&f=spoon .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	xxx .
+%com:	griterio
+*MOT:	pasame una papa . [+ OCH]
+%mor:	imp|pasa-2S&IMP~pro:clit|1S=pass det:art|un-f=one n|papa&f=potato .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|2|OBJ 5|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	una cuchara . [+ OCH]
+%mor:	det:art|un-f=one n|cuchara&f=spoon .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	quiero puré con carne .
+%mor:	v|quere-1S&PRES=want n|puré&m=puree_soup prep|con=with
+	n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*BRO:	quiero partir mi carne .
+%mor:	v|quere-1S&PRES=want inf|parti-INF=divide det:poss|mi=my
+	n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	dale Benja . [+ OCH]
+%mor:	co|dale n:prop|Benja .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	dame xxx .
+%mor:	imp|da-2S&IMP~pro:clit|1S=give .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*BRO:	xxx .
+*SIS:	mamá quiero que me cortes la carne .
+%mor:	n|mamá&f=mommy v|quere-1S&PRES=want pro:rel|que=that pro:obj|me=me
+	v|corta-2S&SUB&PRES=cut det:art|el&f&SG=the n|carne&f=meat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|3|COMP 5|4|COMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*MOT:	(es)perá que voy a cortarle a Ema primero . [+ OCH]
+%mor:	imp|espera-2S&IMP=wait pro:rel|que=that v|i-1S&PRES=go aprep|a=to
+	inf|corta-INF~pro:clit|3S=cut aprep|a=to n:prop|Ema
+	adv|primero=first .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|5|INF 5|3|COMP 6|5|OBJ2 7|5|APREP 8|7|POBJ
+	9|5|OBJ 10|1|PUNCT
+*BRO:	al Ema ?
+%mor:	aprep|a~det:art|el&m=to n:prop|Ema ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*SIS:	no me gusta .
+%mor:	adv|no=no pro:obj|me=me v|gusta-3S&PRES=like .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	no querés comer ? [+ OCH]
+%mor:	adv|no=no v|quere-2S&PRES=want inf|come-INF=eat ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|2|PUNCT
+*SIS:	xxx .
+*MOT:	papa no querés ? [+ OCH]
+%mor:	n|papa&f=potato adv|no=no v|quere-2S&PRES=want ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	carne ? [+ OCH]
+%mor:	n|carne&f=meat ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=lloriquea .
+*SI1:	esta xxx es mía .
+%mor:	det:dem|este-f=this cop|se-3S&PRES=be pro:poss|mío-f=mine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	esperá que xxx .
+%mor:	imp|espera-2S&IMP=wait pro:rel|que=that .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	dale una cuchara al Ema . [+ OCH]
+%mor:	co|dale det:art|un-f=one n|cuchara&f=spoon aprep|a~det:art|el&m=to
+	n:prop|Ema .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|APREP 5|6|DET 6|4|POBJ 7|1|PUNCT
+*MOT:	ahí está . [+ OCH]
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BRO:	tomá Ema . [+ OCH]
+%mor:	imp|toma-2S&IMP=take n:prop|Ema .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*BRO:	cuchara . [+ OCH]
+%mor:	n|cuchara&f=spoon .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	para Simón .
+%mor:	prep|para=for n:prop|Simón .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*BRO:	este es para Simón ?
+%mor:	det:dem|este=this cop|se-3S&PRES=be prep|para=for n:prop|Simón ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	ya está . [+ OCH]
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	nunca me cortan el mío .
+%mor:	adv|nunca=never pro:obj|me=me v|corta-3P&PRES=cut
+	det:art|el&m&SG=the pro:poss|mío-m=mine .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	ahí voy . [+ OCH]
+%mor:	adv|ahí=there v|i-1S&PRES=go .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	a ver que este es del Ema dame . [+ OCH]
+%mor:	aprep|a=to inf|ve-INF=see pro:rel|que=that cop|esta-13S&SUB&PRES=be
+	cop|se-3S&PRES=be prep|de~det:art|el&m=of n:prop|Ema
+	imp|da-2S&IMP~pro:clit|1S=give .
+%gra:	1|2|INF 2|0|ROOT 3|2|REL 4|3|COMP 5|4|PRED 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|MOD 10|9|OBJ2 11|2|PUNCT
+*MOT:	dame . [+ OCH]
+%mor:	imp|da-2S&IMP~pro:clit|1S=give .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=grita .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*BRO:	es mío .
+%mor:	cop|se-3S&PRES=be pro:poss|mío-m=mine .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*BRO:	este de acá .
+%mor:	det:dem|este=this prep|de=of adv|acá=there .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*BRO:	es mío .
+%mor:	cop|se-3S&PRES=be pro:poss|mío-m=mine .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	ponele una silla al Emanuel Franca . [+ OCH]
+%mor:	imp|pone-2S&IMP~pro:clit|3S=put det:art|un-f=one n|silla&f=chair
+	aprep|a~det:art|el&m=to n:prop|Emanuel n:prop|Franca .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|APREP 6|7|DET 7|5|POBJ 8|7|APP
+	9|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*BRO:	xxx si vos querés dar de comer .
+%mor:	conj|si=if pro:obj|vos=you v|quere-2S&PRES=want inf|da-INF=give
+	prep|de=of inf|come-INF=eat .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	sí ya le voy a dar de comer . [+ OCH]
+%mor:	co|sí=yes adv|ya=already pro:ind|le=him v|i-1S&PRES=go aprep|a=to
+	inf|da-INF=give prep|de=of inf|come-INF=eat .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*MOT:	ahí esta .
+%mor:	adv|ahí=there det:dem|este-f=this .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	&=grita .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+%tim:	13:54:57
+*SIS:	ma(má) dónde se sienta el Ema ?
+%mor:	n|mamá&f=mommy pro:int|dónde=where pro:refl|se=itself
+	v|senta-3S&PRES=sit det:art|el&m&SG=the n:prop|Ema ?
+%gra:	1|0|ROOT 2|1|MOD 3|1|REL 4|3|CMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+*MOT:	ahí ponele en la punta . [+ OCH]
+%mor:	adv|ahí=there imp|pone-2S&IMP~pro:clit|3S=put prep|en=in
+	det:art|el&f&SG=the n|punta&f=point .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	ahí tenés Ema . [+ OCH]
+%mor:	adv|ahí=there v|tene-2S&PRES=have n:prop|Ema .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*BRO:	&=grita .
+*CHI:	&=lloriquea .
+*BRO:	papá !
+%mor:	n|papá&m=father !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+%tim:	13:55:24
+*MOT:	qué pasó ?
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	córrete de Ema .
+%mor:	imp|corre-2S&IMP~pro:clit|2S=run prep|de=of n:prop|Ema .
+%gra:	1|0|ROOT 2|1|OBJ2 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	andá a sentarte allá . [+ OCH]
+%mor:	co|andá=come_on aprep|a=to inf|senta-INF~pro:clit|2S=sit
+	adv|allá=there .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ2 5|3|OBJ 6|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	acá . [+ OCH]
+%mor:	adv|acá=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	esperá un poquito esperá . [+ CHI]
+%mor:	imp|espera-2S&IMP=wait det:art|un&m=one pro:indef|poquito=little
+	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|APP 5|1|PUNCT
+*MOT:	ahora te doy . [+ CHI]
+%mor:	adv|ahora=now pro:obj|te=you v|da-1S&PRES=give .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	esperá [/] esperá . [+ CHI]
+%mor:	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=lloriquea .
+*MOT:	esperá que le tengo que dar de comer a tu hermano también Ema . [+ OCH]
+%mor:	imp|espera-2S&IMP=wait pro:rel|que=that pro:ind|le=him
+	v|tene-1S&PRES=have pro:rel|que=that inf|da-INF=give prep|de=of
+	inf|come-INF=eat aprep|a=to det:poss|tu=your n|hermano-m=sibling
+	adv|también=also n:prop|Ema .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|COMP 5|4|REL 6|5|COMP 7|6|JCT 8|7|POBJ
+	9|8|APREP 10|9|POBJ 11|10|JCT 12|13|MOD 13|11|POBJ 14|1|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	ma(má) .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ay todavía ni comió nada y ya quiere agua . [+ OCH]
+%mor:	adv|todavía=still coord|ni=nor v|come-3S&PRET=eat
+	pro:indef|nada=nothing coord|y=and adv|ya=already
+	v|quere-3S&PRES=want n|agua&f=water .
+%gra:	1|2|MOD 2|0|ROOT 3|2|COORD 4|2|COORD 5|2|CONJ 6|7|JCT 7|5|COORD 8|7|OBJ
+	9|2|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	xxx .
+*MOT:	vení mi amor vení .
+%mor:	imp|veni-2S&IMP=come det:poss|mi=my co:voc|amor=love
+	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	xxx bebé . [+ CHI]
+%mor:	n|bebé&m=baby .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	mi rey . [+ CHI]
+%mor:	det:poss|mi=my n|rey&m=king .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*MOT:	dejalo . [+ CHI]
+%mor:	imp|deja-2S&IMP~pro:clit|OBJ&m=leave .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	tomá papá tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take n|papá&m=father imp|toma-2S&IMP=take .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	comé comida .
+%mor:	imp|come-2S&IMP=eat n|comida&f=food .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx mi bebé . [+ CHI]
+%mor:	det:poss|mi=my n|bebé&m=baby .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%tim:	13:56:24
+*CHI:	&=balbucea .
+*MOT:	a ver . [+ OCH]
+%mor:	aprep|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	tomé juguito . [+ CHI]
+%mor:	v|toma-1S&PRET=take n|jugo&m-DIM=juice .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	pobrecito xxx . [+ CHI]
+%mor:	co:voc|pobrecito=poor_thing .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí . [+ CHI]
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*MOT:	dame . [+ CHI]
+%mor:	imp|da-2S&IMP~pro:clit|1S=give .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	te bajás &eh . [+ OCH]
+%mor:	pro:obj|te=you v|baja-2S&PRES=come_down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	no Simón acá . [+ CHI]
+%mor:	co|no n:prop|Simón adv|acá=there .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT
+*MOT:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+%tim:	13:57:38 2:23:56
+*MOT:	y bebito qué va a comer . [+ CHI]
+%mor:	coord|y=and n|bebito&m=baby pro:int|qué=what v|i-3S&PRES=go
+	aprep|a=to inf|come-INF=eat .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|6|INF 6|4|COMP 7|1|PUNCT
+%com:	comen
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	&ay Franco . [+ OCH]
+%mor:	n:prop|Franco .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	pará el juguete . [+ OCH]
+%mor:	imp|para-2S&IMP=stop det:art|el&m&SG=the n|juguete&m=toy .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*MOT:	&ujum .
+*MOT:	abrile . [+ OCH]
+%mor:	?|abrile .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*MOT:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx la papa .
+%mor:	det:art|el&f&SG=the n|papa&f=potato .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	agarrá . [+ CHI]
+%mor:	imp|agarra-2S&IMP=grab .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí Franco . [+ OCH]
+%mor:	co|sí=yes n:prop|Franco .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	Dante por qué no te vas a comer ? [+ OCH]
+%mor:	n:prop|Dante prep|por=for pro:int|qué=what adv|no=no pro:obj|te=you
+	v|i-2S&PRES=go aprep|a=to inf|come-INF=eat ?
+%gra:	1|6|SUBJ 2|1|JCT 3|5|MOD 4|5|JCT 5|2|POBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|6|PUNCT
+*CHI:	&=balbucea .
+*BRO:	dame xxx .
+%mor:	imp|da-2S&IMP~pro:clit|1S=give .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	ese .
+%mor:	det:dem|ese=that .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bueno andá a sentarte a comer porque va a agarrar el gato tu carne .
+	[+ OCH]
+%mor:	co|bueno=good co|andá=come_on aprep|a=to
+	inf|senta-INF~pro:clit|2S=sit aprep|a=to inf|come-INF=eat
+	conj|porque=because v|i-3S&PRES=go aprep|a=to inf|agarra-INF=grab
+	det:art|el&m&SG=the n|gato-m=cat det:poss|tu=your n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|COMP 3|4|INF 4|2|COMP 5|4|OBJ2 6|7|INF 7|4|COMP 8|7|OBJ
+	9|8|COMP 10|11|INF 11|9|COMP 12|13|DET 13|11|OBJ 14|15|DET 15|13|MOD
+	16|1|PUNCT
+*MOT:	tomá Simón . [+ CHI]
+%mor:	imp|toma-2S&IMP=take n:prop|Simón .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*BRO:	xxx .
+*MOT:	está frío . [+ CHI]
+%mor:	cop|esta-3S&PRES=be n|frío&m=cold .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	&ujum . [+ OCH]
+*BRO:	ahí ?
+%mor:	adv|ahí=there ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ay pasame está por ahí . [+ OCH]
+%mor:	imp|pasa-2S&IMP~pro:clit|1S=pass cop|esta-3S&PRES=be prep|por=for
+	adv|ahí=there .
+%gra:	1|3|SUBJ 2|1|OBJ2 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*BRO:	hola [/] hola !
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	teléfono
+%tim:	14:00:01 2:26:30
+*MOT:	&ay .
+*MOT:	Naty .
+%mor:	n:prop|Naty .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	hablando .
+%mor:	part|habla-PRPART=speak .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	teléfono
+*MOT:	callate tarado . [+ OCH]
+%mor:	imp|calla-2S&IMP~pro:clit|2S=silence adj|tarado-m=stupid .
+%gra:	1|0|ROOT 2|1|OBJ2 3|2|MOD 4|1|PUNCT
+*MU1:	hola May todo bien ?
+%mor:	co|hola=hi n:prop|May pro:indef|todo-m=all adv|bien=well ?
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|3|JCT 5|1|PUNCT
+%com:	voz en altavoz
+*BRO:	xxx .
+*MOT:	sí todo bien .
+%mor:	co|sí=yes pro:indef|todo-m=all adv|bien=well .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	estoy dando de comer a Simón .
+%mor:	aux|esta-1S&PRES=be part|da-PRPART=give prep|de=of inf|come-INF=eat
+	aprep|a=to n:prop|Simón .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|APREP 6|5|POBJ 7|2|PUNCT
+*MU1:	qué hacías ?
+%mor:	pro:int|qué=what v|hace-2S&PAS=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	que le estoy dando de comer a Simón .
+%mor:	pro:rel|que=that pro:ind|le=him aux|esta-1S&PRES=be
+	part|da-PRPART=give prep|de=of inf|come-INF=eat aprep|a=to
+	n:prop|Simón .
+%gra:	1|0|ROOT 2|1|COMP 3|4|AUX 4|2|PRED 5|4|JCT 6|5|POBJ 7|6|APREP 8|7|POBJ
+	9|1|PUNCT
+*MOT:	recién están comiendo .
+%mor:	adv|recién=recently aux|esta-3P&PRES=be part|come-PRPART=eat .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MU1:	xxx .
+*SIS:	mami .
+%mor:	n|mami&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	está(s) en tu casa vo(s) ?
+%mor:	cop|esta-2S&PRES=be prep|en=in det:poss|tu=your n|casa&f=house
+	pro:obj|vos=you ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|MOD 6|1|PUNCT
+%com:	al teléfono
+*MU1:	sí estoy yendo a la psicóloga .
+%mor:	co|sí=yes aux|esta-1S&PRES=be part|i-PRPART=go aprep|a=to
+	det:art|el&f&SG=the n|psicólogo-f=psychologist .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|APREP 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MU1:	tengo una y media .
+%mor:	v|tene-1S&PRES=have det:art|un-f=one coord|y=and n|media&f=stocking
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*MOT:	y de loca estás Naty &eh .
+%mor:	coord|y=and prep|de=of adj|loco-f=crazy aux|esta-2S&PRES=be
+	n:prop|Naty .
+%gra:	1|0|ROOT 2|1|JCT 3|5|MOD 4|5|AUX 5|2|POBJ 6|1|PUNCT
+*MU1:	y así de loca xxx cinco de la tarde .
+%mor:	coord|y=and adv|así=thus prep|de=of adj|loco-f=crazy
+	det:num|cinco=five prep|de=of det:art|el&f&SG=the adv|tarde=late .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|5|MOD 5|3|POBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*MOT:	&ah bueno .
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	los chicos cómo andan ?
+%mor:	det:art|el&m-PL=the n|chico-m-PL=child pro:int|cómo=how
+	v|anda-3P&PRES=walk ?
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|4|PUNCT
+*MU1:	bien acá haciendo calor .
+%mor:	adv|bien=well adv|acá=there part|hace-PRPART=do n|calor&m=heat .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|OBJ 5|1|PUNCT
+*MU1:	muchos fines de semana largo y empezaron otra vez y tienen tarea .
+%mor:	det:indef|mucho-m-PL=many n|fin&m-PL=end prep|de=of n|semana&f=week
+	v|larga-1S&PRES=go_away coord|y=and v|empeza-3P&PRET=begin
+	det:indef|otro-f=other n|vez&f=turn coord|y=and v|tene-3P&PRES=have
+	n|tarea&f=task .
+%gra:	1|2|DET 2|5|SUBJ 3|2|JCT 4|3|POBJ 5|0|ROOT 6|5|CONJ 7|6|COORD 8|9|DET
+	9|7|OBJ 10|9|CONJ 11|10|COORD 12|11|OBJ 13|5|PUNCT
+*MOT:	y la loca ?
+%mor:	coord|y=and det:art|el&f&SG=the adj|loco-f=crazy ?
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD
+*MU1:	y la loca durmiendo .
+%mor:	coord|y=and det:art|el&f&SG=the adj|loco-f=crazy
+	part|dormi-PRPART=sleep .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|COORD 5|1|PUNCT
+*MU1:	llegó del jardín xxx llegó comió y xxx .
+%mor:	v|llega-3S&PRET=arrive prep|de~det:art|el&m=of n|jardín&m=garden
+	v|llega-3S&PRET=arrive v|come-3S&PRET=eat coord|y=and .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|5|SUBJ 5|2|POBJ 6|1|PUNCT 7|6|CONJ 8|7|COORD
+*MOT:	&ah bueno le encanta el jardín ahora .
+%mor:	co|bueno=good pro:ind|le=him v|encanta-3S&PRES=enchant
+	det:art|el&m&SG=the n|jardín&m=garden adv|ahora=now .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|MOD 7|3|PUNCT
+*MU1:	si camina ahora xxx va re contenta .
+%mor:	conj|si=if v|camina-3S&PRES=walk adv|ahora=now v|i-3S&PRES=go
+	adv|re=really v|contenta-3S&PRES=satisfy .
+%gra:	1|2|SUBJ 2|4|SUBJ 3|4|JCT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*MU1:	encima estamos yendo re cerca de mi casa xxx mami comprame ese xxx .
+%mor:	adv|encima=on_top aux|esta-1P&PRES&PRET=be part|i-PRPART=go
+	adv|re=really adv|cerca=near prep|de=of det:poss|mi=my
+	n|casa&f=house n|mami&f=mommy imp|compra-2S&IMP~pro:clit|1S=buy
+	det:dem|ese=that .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|JCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|MOD 10|8|MOD 11|10|OBJ2 12|10|ROOT 13|12|PUNCT
+*MU1:	y tiene un montón de xxx .
+%mor:	coord|y=and v|tene-3S&PRES=have det:art|un&m=one n|monte&m-AUG=hill
+	prep|de=of .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|2|OBJ 5|4|JCT 6|1|PUNCT
+*SIS:	mami quiero jugo .
+%mor:	n|mami&f=mommy v|quere-1S&PRES=want n|jugo&m=juice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	&=ríe .
+*MOT:	falta un montón todavía y ya quiere comprar ropita ella .
+%mor:	v|falta-3S&PRES=be_lacking det:art|un&m=one n|monte&m-AUG=hill
+	adv|todavía=still coord|y=and adv|ya=already v|quere-3S&PRES=want
+	inf|compra-INF=buy n|ropa&f-DIM=clothes pro:sub|ello-f=he .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|JCT 5|3|CONJ 6|7|JCT 7|5|COORD 8|7|COMP
+	9|8|OBJ 10|9|MOD 11|1|PUNCT
+*SIS:	ma(má) .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	va a ser abuelita también .
+%mor:	v|i-3S&PRES=go aprep|a=to cop|se-INF=be n|abuelo&f-DIM=grandparent
+	adv|también=also .
+%gra:	1|0|ROOT 2|1|APREP 3|2|POBJ 4|3|PRED 5|3|PRED 6|1|PUNCT
+*SIS:	jugo .
+%mor:	n|jugo&m=juice .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	decile a Mariano que te dé . [+ OCH]
+%mor:	?|decile aprep|a=to n:prop|Mariano pro:rel|que=that pro:obj|te=you
+	imp|da-3S&IMP=give .
+%gra:	1|0|ROOT 2|1|APREP 3|2|POBJ 4|1|REL 5|4|CMOD 6|5|PRED 7|1|PUNCT
+*MU1:	sí un babero re lindo xxx y una cadenita re linda no sé qué cosa .
+%mor:	co|sí=yes det:art|un&m=one n|babero&m=bib adv|re=really
+	adj|lindo-m=pretty coord|y=and det:art|un-f=one n|cadena&f-DIM=chain
+	adv|re=really adj|lindo-f=pretty adv|no=no v|sabe-1S&PRES=know
+	pro:int|qué=what n|cosa&f=thing .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|JCT 5|3|MOD 6|3|CONJ 7|8|DET 8|6|COORD
+	9|10|JCT 10|8|MOD 11|12|JCT 12|10|CMOD 13|14|DET 14|12|OBJ 15|1|PUNCT
+*MU1:	y ese vamos a comprarle para la Flor dice .
+%mor:	coord|y=and det:dem|ese=that v|i-1P&PRES=go aprep|a=to
+	inf|compra-INF~pro:clit|3S=buy prep|para=for det:art|el&f&SG=the
+	n:prop|Flor v|deci-3S&PRES=say .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|INF 5|3|COMP 6|5|OBJ2 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|OBJ 11|1|PUNCT
+*MOT:	&=ríe .
+*MOT:	ni el Ernesto le compra eso y ella le quiere comprar .
+%mor:	coord|ni=nor det:art|el&m&SG=the n:prop|Ernesto pro:ind|le=him
+	v|compra-3S&PRES=buy pro:dem|eso=that_one coord|y=and
+	pro:sub|ello-f=he pro:ind|le=him v|quere-3S&PRES=want
+	inf|compra-INF=buy .
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD 5|4|COMP 6|5|OBJ 7|6|CONJ
+	8|7|COORD 9|6|SCON 10|9|COMP 11|10|COMP 12|1|PUNCT
+*MU1:	xxx y eso vamo(s) a regalarle para la Flor porque hay que cuidarla
+	porque tiene nuditos .
+%mor:	coord|y=and pro:dem|eso=that_one co|vamos=go aprep|a=to
+	inf|regala-INF~pro:clit|3S=give_present prep|para=for
+	det:art|el&f&SG=the n:prop|Flor conj|porque=because
+	v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|cuida-INF~pro:clit|OBJ&f=take_care conj|porque=because
+	v|tene-3S&PRES=have n|nudo&m-DIM-PL=knot .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|INF 5|1|COORD 6|1|COORD 7|6|JCT
+	8|9|DET 9|7|POBJ 10|1|COORD 11|1|COORD 12|11|REL 13|12|COMP 14|13|OBJ2
+	15|13|JCT 16|17|DET 17|15|POBJ 18|1|PUNCT
+*MU1:	una nena una bebé va a tener dice .
+%mor:	det:art|un-f=one n|nena&f=baby det:art|un-f=one n|bebé&m=baby
+	v|i-3S&PRES=go aprep|a=to inf|tene-INF=have v|deci-3S&PRES=say .
+%gra:	1|2|DET 2|5|SUBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*MOT:	otra loca más como la Liguen .
+%mor:	det:indef|otro-f=other adj|loco-f=crazy adv|más=more adv|como=like
+	det:art|el&f&SG=the n:prop|Liguen .
+%gra:	1|2|MOD 2|0|ROOT 3|2|JCT 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*MU1:	sí otra loca más .
+%mor:	co|sí=yes det:indef|otro-f=other adj|loco-f=crazy adv|más=more .
+%gra:	1|0|ROOT 2|3|MOD 3|4|MOD 4|1|JCT 5|1|PUNCT
+*MOT:	(es)perá que estoy comiendo .
+%mor:	imp|espera-2S&IMP=wait prep|que=than aux|esta-1S&PRES=be
+	part|come-PRPART=eat .
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|1|PUNCT
+*MU1:	y vos cómo andás con tu tema .
+%mor:	coord|y=and pro:obj|vos=you pro:int|cómo=how v|anda-2S&PRES=walk
+	prep|con=with det:poss|tu=your n|tema&f=theme .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|4|JCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+*CHI:	&=balbucea .
+*MU1:	acá bien xxx sola .
+%mor:	adv|acá=there adv|bien=well adj|solo-f=alone .
+%gra:	1|3|JCT 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*MU1:	xxx .
+*CHI:	&=balbucea .
+*MU1:	de mi casa son ocho cuadras .
+%mor:	prep|de=of det:poss|mi=my n|casa&f=house cop|se-3P&PRES=be
+	n|ocho&m=number_eight n|cuadra&f-PL=ward .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|POBJ 5|4|PRED 6|5|MOD 7|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	&ah es cerca yo pensé que tenía que viajar como .
+%mor:	cop|se-3S&PRES=be adv|cerca=near pro:sub|yo=I v|pensa-1S&PRET=think
+	pro:rel|que=that v|tene-13S&PAS=have pro:rel|que=that
+	inf|viaja-INF=travel adv|como=like .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|REL 6|5|CMOD 7|6|REL 8|7|COMP
+	9|8|OBJ 10|4|PUNCT
+*BRO:	xxx .
+*MU1:	diez cuadras nueve tiene que ser .
+%mor:	det:num|diez=ten n|cuadra&f-PL=ward det:num|nueve=nine
+	v|tene-3S&PRES=have pro:rel|que=that cop|se-INF=be .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|4|REL 6|5|CMOD 7|4|PUNCT
+*CHI:	&=balbucea .
+*MU1:	que me voy caminando .
+%mor:	pro:rel|que=that pro:obj|me=me v|i-1S&PRES=go
+	part|camina-PRPART=walk .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|OBJ 5|1|PUNCT
+*BRO:	allá hay una .
+%mor:	adv|allá=there v|habe-3S&PRES&SPEC=have det:art|un-f=one .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|PUNCT
+*MU1:	y cuando me doy cuenta ya llegué .
+%mor:	coord|y=and conj|cuando=when pro:obj|me=me v|da-1S&PRES=give
+	n|cuenta&f=bill adv|ya=already v|llega-1S&PRET=arrive .
+%gra:	1|0|ROOT 2|1|COORD 3|7|SUBJ 4|7|DET 5|7|SUBJ 6|7|JCT 7|1|COORD
+	8|1|PUNCT
+*MOT:	&ah bueno un par de cuadras .
+%mor:	co|bueno=good det:art|un&m=one n|par&m=pair prep|de=of
+	n|cuadra&f-PL=ward .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MOT:	cómo te está yendo ahí Naty ?
+%mor:	pro:int|cómo=how pro:obj|te=you aux|esta-3S&PRES=be
+	part|i-PRPART=go adv|ahí=there n:prop|Naty ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*BRO:	&=balbucea .
+*MU1:	xxx .
+*MU1:	xxx el alta .
+%mor:	det:art|el&m&SG=the n|alta&m=discharge .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	de verdad ?
+%mor:	prep|de=of n|verdad&f=truth ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	&ah bueno xxx .
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MU1:	xxx porque mañana tengo entrevista para llevar a los chicos .
+%mor:	conj|porque=because adv|mañana=tomorrow v|tene-1S&PRES=have
+	v|entrevista-3S&PRES=interview prep|para=for inf|lleva-INF=carry
+	aprep|a=to det:art|el&m-PL=the adj|chico-m-PL=small .
+%gra:	1|3|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|APREP 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*BRO:	&=balbucea .
+*MU1:	para que me digan que xxx lo que me hacían ellos .
+%mor:	prep|para=for pro:rel|que=that pro:obj|me=me v|deci-3P&SUB&PRES=say
+	pro:rel|que=that pro:obj|lo&m=him pro:rel|que=that pro:obj|me=me
+	v|hace-3P&PAS=do pro:sub|ello-m-PL=he .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|COMP 5|4|REL 6|5|CMOD 7|6|REL 8|9|SUBJ
+	9|7|CMOD 10|9|OBJ 11|1|PUNCT
+*BRO:	&=lloriquea .
+*MOT:	&ah bueno porque estás cobrando el xxx vos sola no .
+%mor:	co|bueno=good conj|porque=because aux|esta-2S&PRES=be
+	part|cobra-PRPART=charge det:art|el&m&SG=the pro:obj|vos=you
+	adj|solo-f=alone adv|no=no .
+%gra:	1|0|ROOT 2|1|COMP 3|4|AUX 4|2|COMP 5|6|DET 6|4|OBJ 7|8|MOD 8|6|JCT
+	9|1|PUNCT
+*CHI:	&=lloriquea .
+*MU1:	este mes recién cobré encima cobré tres ochenta porque me
+	descontaron todo lo que me tenían que descontar y fue tres ochenta .
+%mor:	det:dem|este=this n|mes&m=month adv|recién=recently
+	v|cobra-1S&PRET=charge adv|encima=on_top v|cobra-1S&PRET=charge
+	det:num|tres=three n|ochenta&m=number_eighty conj|porque=because
+	pro:obj|me=me des#v|conta-3P&PRET=count_tell det:indef|todo-m=all
+	pro:obj|lo&m=him pro:rel|que=that pro:obj|me=me v|tene-3P&PAS=have
+	prep|que=than des#inf|conta-INF=count_tell coord|y=and
+	cop|se-3S&PRET=be det:num|tres=three n|ochenta&m=number_eighty .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|JCT 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|MOD 10|9|SCL 11|10|COMP 12|13|MOD 13|11|COMP 14|13|REL 15|14|COMP
+	16|15|COMP 17|16|JCT 18|17|POBJ 19|18|CONJ 20|19|COORD 21|22|DET 22|20|PRED
+	23|4|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	&ah bueno .
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	mucho no es pero bueno bastante .
+%mor:	adv|mucho=much adv|no=no cop|se-3S&PRES=be conj|pero=but
+	co|bueno=good adv|bastante=enough .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PRED 5|4|SCL 6|5|JCT 7|3|PUNCT
+*MOT:	tomá tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	&ay este . [+ CHI]
+%mor:	det:dem|este=this .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MU1:	&che hablando de eso xxx .
+%mor:	part|habla-PRPART=speak prep|de=of pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*BRO:	&=llora .
+*MU1:	todos los meses cobró ella .
+%mor:	det:indef|todo-m-PL=all det:art|el&m-PL=the n|mes&m-PL=month
+	v|cobra-3S&PRET=charge pro:sub|ello-f=he .
+%gra:	1|4|SUBJ 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MU1:	o sea los meses que no estuvieron con ella xxx .
+%mor:	coord|o=or cop|se-13S&SUB&PRES=be det:art|el&m-PL=the
+	n|mes&m-PL=month pro:rel|que=that adv|no=no aux|esta-3P&PRET=be
+	prep|con=with pro:sub|ello-f=he .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|1|COORD 5|4|REL 6|7|JCT 7|5|CMOD 8|7|JCT
+	9|8|POBJ 10|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	esperá [/] esperá un cachito esperá . [+ CHI]
+%mor:	imp|espera-2S&IMP=wait det:art|un&m=one n|cacho&m-DIM=slice
+	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*MOT:	estos pendejos .
+%mor:	det:dem|este-m-PL=this n|pendejo-m-PL=asshole .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	&=lloriquea .
+*MU1:	xxx pero bueno hay como xxx .
+%mor:	conj|pero=but co|bueno=good v|habe-3S&PRES&SPEC=have adv|como=like
+	.
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*BRO:	comé .
+%mor:	imp|come-2S&IMP=eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y esperá que no puedo con los dos temas .
+%mor:	coord|y=and imp|espera-2S&IMP=wait pro:rel|que=that adv|no=no
+	v|pode-1S&PRES=can prep|con=with det:art|el&m-PL=the det:num|dos=two
+	n|tema&f-PL=theme .
+%gra:	1|0|ROOT 2|1|COORD 3|2|REL 4|5|JCT 5|3|CMOD 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|1|PUNCT
+*MOT:	que estoy con el Simón acá dándole jugo agua .
+%mor:	pro:rel|que=that cop|esta-1S&PRES=be prep|con=with
+	det:art|el&m&SG=the n:prop|Simón adv|acá=there
+	part|da-PRPART~pro:clit|3S=give n|jugo&m=juice n|agua&f=water .
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|5|DET 5|3|POBJ 6|7|JCT 7|5|APP 8|9|DET
+	9|7|OBJ 10|9|MOD 11|1|PUNCT
+*BRO:	xxx .
+*MU1:	bueno te llamo cuando vuelvo del psicólogo .
+%mor:	co|bueno=good pro:obj|te=you v|llama-1S&PRES=call
+	pro:rel|cuando=when v|volve-1S&PRES=turn prep|de~det:art|el&m=of
+	n|psicólogo-m=psychologist .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|REL 5|4|CMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*MOT:	bueno dale listo .
+%mor:	co|bueno=good co|dale adj|listo-m=ready .
+%gra:	1|0|ROOT 2|1|REL 3|2|MOD 4|1|PUNCT
+*MOT:	chau suerte .
+%mor:	co|chau=ciao n|suerte&f=luck .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	tomá [/] tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MU1:	bueno dale chau [/] chau .
+%mor:	co|bueno=good co|dale co|chau=ciao .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	&=balbucea .
+%tim:	14:05:25 2:31:46
+*MOT:	xxx .
+*MOT:	xxx puré también .
+%mor:	n|puré&m=puree_soup adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	dejale que coma . [+ OCH]
+%mor:	imp|deja-2S&IMP~pro:clit|3S=leave pro:rel|que=that
+	v|come-13S&SUB&PRES=eat .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|REL 4|3|CMOD 5|1|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*BRO:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	ahí esta .
+%mor:	adv|ahí=there det:dem|este-f=this .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	ponele lo que estaba mirando él Mariano . [+ OCH]
+%mor:	imp|pone-2S&IMP~pro:clit|3S=put pro:obj|lo&m=him pro:rel|que=that
+	cop|esta-13S&PAS=be part|mira-PRPART=look pro:head|él&m=he
+	n:prop|Mariano .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|REL 4|3|REL 5|3|CMOD 6|5|PRED 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*BRO:	pelota otra pelota .
+%mor:	n|pelota&f=ball det:indef|otro-f=other n|pelota&f=ball .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*BRO:	estaba mirando xxx .
+%mor:	aux|esta-13S&PAS=be part|mira-PRPART=look .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx dale .
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sentate bien . [+ CHI]
+%mor:	imp|senta-2S&IMP~pro:clit|2S=sit adv|bien=well .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|1|PUNCT
+*BRO:	xxx .
+*MOT:	comé Simón dale . [+ CHI]
+%mor:	imp|come-2S&IMP=eat n:prop|Simón co|dale .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*MOT:	xxx sucio . [+ CHI]
+%mor:	adj|sucio-m=dirty .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	sucio [/] sucio [=! bajo] . [+ CHI]
+%mor:	adj|sucio-m=dirty .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	comé . [+ CHI]
+%mor:	imp|come-2S&IMP=eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*MOT:	xxx .
+%tim:	14:07:22
+*SIS:	xxx .
+*BRO:	&ay !
+*BRO:	xxx Cande .
+%mor:	n:prop|Cande .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	al Ema no le gusta la papa .
+%mor:	aprep|a~det:art|el&m=to n:prop|Ema adv|no=no pro:ind|le=him
+	v|gusta-3S&PRES=like det:art|el&f&SG=the n|papa&f=potato .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|5|JCT 5|1|POBJ 6|1|POBJ 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+*BRO:	xxx .
+*SIS:	tomá papa .
+%mor:	imp|toma-2S&IMP=take n|papa&f=potato .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	otra vez ?
+%mor:	det:indef|otro-f=other n|vez&f=turn ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*MOT:	tomá .
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	por qué xxx .
+%mor:	prep|por=for pro:int|qué=what .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	y porque no hay más . [+ OCH]
+%mor:	coord|y=and conj|porque=because adv|no=no v|habe-3S&PRES&SPEC=have
+	adv|más=more .
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|4|JCT 6|1|PUNCT
+*BRO:	xxx .
+*SIS:	mío .
+%mor:	pro:poss|mío-m=mine .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*BRO:	xxx .
+*MOT:	cocido .
+%mor:	part|coce-PPART-m=cook .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	mate cocido .
+%mor:	n|mate&m=mate_infusion part|coce-PPART-m=cook .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	espera ahí te doy no hay más . [+ CHI]
+%mor:	v|espera-3S&PRES=wait adv|ahí=there pro:obj|te=you
+	v|da-1S&PRES=give adv|no=no v|habe-3S&PRES&SPEC=have adv|más=more .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*BRO:	xxx .
+*CHI:	&=lloriquea .
+*MOT:	comiste todo vos ? [+ OCH]
+%mor:	v|come-2S&PRET=eat det:indef|todo-m=all pro:obj|vos=you ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*BRO:	xxx no quiero más .
+%mor:	adv|no=no v|quere-1S&PRES=want adv|más=more .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	bueno . [+ OCH]
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*MOT:	vos por comer eso . [+ OCH]
+%mor:	pro:obj|vos=you prep|por=for inf|come-INF=eat pro:dem|eso=that_one
+	.
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|OBJ 5|1|PUNCT
+*MOT:	más tarde vas a tener hambre . [+ OCH]
+%mor:	adv|más=more adv|tarde=late v|i-2S&PRES=go aprep|a=to
+	inf|tene-INF=have n|hambre&f=hunger .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|APREP 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	&=balbucea .
+*MOT:	no xxx ahora . [+ OCH]
+%mor:	adv|no=no adv|ahora=now .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*MOT:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*MOT:	tomá [/] tomá [/] tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	escuchá .
+%mor:	imp|escucha-2S&IMP=listen .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=tose .
+*BRO:	&=lloriquea .
+*MOT:	xxx para Simón ? [+ OCH]
+%mor:	prep|para=for n:prop|Simón ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	Ema tomá vení . [+ CHI]
+%mor:	n:prop|Ema imp|toma-2S&IMP=take imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*BRO:	a este .
+%mor:	aprep|a=to det:dem|este=this .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	no comiste todo todavía ? [+ OCH]
+%mor:	adv|no=no v|come-2S&PRET=eat pro:indef|todo-m=all adv|todavía=still
+	?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|JCT 5|2|PUNCT
+*MOT:	xxx .
+%com:	tele prendida .
+*BRO:	estaba re rica la papa por eso comí toda la papa .
+%mor:	cop|esta-13S&PAS=be adv|re=really adj|rico-f=rich
+	det:art|el&f&SG=the n|papa&f=potato prep|por=for
+	pro:dem|eso=that_one v|come-1S&PRET=eat det:indef|todo-f=all
+	det:art|el&f&SG=the n|papa&f=potato .
+%gra:	1|8|SUBJ 2|3|JCT 3|8|SUBJ 4|5|DET 5|8|SUBJ 6|5|JCT 7|6|POBJ 8|0|ROOT
+	9|8|COMP 10|11|DET 11|9|OBJ 12|8|PUNCT
+*MOT:	estaba rica la papa ? [+ OCH]
+%mor:	cop|esta-13S&PAS=be adj|rico-f=rich det:art|el&f&SG=the
+	n|papa&f=potato ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|DET 4|1|PRED 5|1|PUNCT
+*MOT:	te gustó ? [+ OCH]
+%mor:	pro:obj|te=you v|gusta-3S&PRET=like ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*BRO:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	te gustó Franca ? [+ OCH]
+%mor:	pro:obj|te=you v|gusta-3S&PRET=like n:prop|Franca ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*SIS:	sí xxx .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*SIS:	xxx .
+%tim:	14:10:00
+*SIS:	xxx más ?
+%mor:	adv|más=more ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no no hay más papa si ni para mí dejaron . [+ OCH]
+%mor:	adv|no=no adv|no=no v|habe-3S&PRES&SPEC=have adv|más=more
+	n|papa&f=potato conj|si=if coord|ni=nor prep|para=for pro:prep|mí=me
+	v|deja-3P&PRET=leave .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|MOD 7|6|CONJ 8|9|INF
+	9|10|SUBJ 10|7|COORD 11|3|PUNCT
+*MOT:	Ema no querés la papa ? [+ OCH]
+%mor:	n:prop|Ema adv|no=no v|quere-2S&PRES=want det:art|el&f&SG=the
+	n|papa&f=potato ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	traé que le doy a Simón . [+ OCH]
+%mor:	imp|trae-2S&IMP=carry pro:rel|que=that pro:ind|le=him
+	v|da-1S&PRES=give aprep|a=to n:prop|Simón .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|CMOD 5|4|APREP 6|5|POBJ 7|1|PUNCT
+*BRO:	xxx .
+*MOT:	traé la papa que le voy a dar a Simón . [+ OCH]
+%mor:	imp|trae-2S&IMP=carry det:art|el&f&SG=the n|papa&f=potato
+	pro:rel|que=that pro:ind|le=him v|i-1S&PRES=go aprep|a=to
+	inf|da-INF=give aprep|a=to n:prop|Simón .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|REL 5|6|SUBJ 6|4|CMOD 7|8|INF 8|6|COMP
+	9|8|APREP 10|9|POBJ 11|1|PUNCT
+*SIS:	&=canta .
+*BRO:	jugo .
+%mor:	n|jugo&m=juice .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	traé así le damos a Simón . [+ OCH]
+%mor:	imp|trae-2S&IMP=carry adv|así=thus pro:ind|le=him
+	v|da-1P&PRES&PRET=give aprep|a=to n:prop|Simón .
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|APREP 6|5|POBJ 7|4|PUNCT
+*MOT:	que él sí quiere papá . [+ OCH]
+%mor:	pro:rel|que=that pro:head|él&m=he co|sí=yes v|quere-3S&PRES=want
+	n|papá&m=father .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MOT:	tomá xxx poné allá . [+ OCH]
+%mor:	imp|toma-2S&IMP=take imp|pone-2S&IMP=put adv|allá=there .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*SIS:	&=canta .
+%com:	la canción de la tele
+*SIS:	xxx Franca .
+%mor:	n:prop|Franca .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	esto no me xxx .
+%mor:	pro:dem|esto=this_one adv|no=no pro:obj|me=me .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	tía .
+%mor:	n|tío-f=uncle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*MOT:	no . [+ CHI]
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*BRO:	Franca xxx .
+%mor:	n:prop|Franca .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ah ! [+ OCH]
+*MOT:	vení dale . [+ OCH]
+%mor:	imp|veni-2S&IMP=come co|dale .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*BRO:	xxx .
+*BRO:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+%tim:	14:12:03
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+%com:	sigue la tele prendida
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=grita .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+%tim:	14:14:36 2:41:00
+*CHI:	&=balbucea .
+*MOT:	&uhmm . [+ CHI]
+*CHI:	&=balbucea .
+*MOT:	tomá mirá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take co|mirá .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	pero agarrá con la manito . [+ CHI]
+%mor:	conj|pero=but imp|agarra-2S&IMP=grab prep|con=with
+	det:art|el&f&SG=the n|manito&m=hand .
+%gra:	1|0|ROOT 2|1|SCL 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MOT:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	comé . [+ CHI]
+%mor:	imp|come-2S&IMP=eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	comé . [+ CHI]
+%mor:	imp|come-2S&IMP=eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ah por qué tirás ? [+ CHI]
+%mor:	prep|por=for pro:int|qué=what v|tira-2S&PRES=throw ?
+%gra:	1|3|JCT 2|1|POBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*BRO:	xxx equivocado .
+%mor:	part|equivoca-PPART-m=be_mistaken .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	qué xxx .
+%mor:	pro:int|qué=what .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	equivocado [/] equivocado xxx .
+%mor:	part|equivoca-PPART-m=be_mistaken .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	xxx .
+*BRO:	el cartel el cartel ese donde estaba .
+%mor:	det:art|el&m&SG=the n|cartel&m=cartel det:art|el&m&SG=the
+	n|cartel&m=cartel det:dem|ese=that pro:rel|donde=where
+	cop|esta-13S&PAS=be .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|MOD 6|5|REL 7|6|CMOD 8|2|PUNCT
+*BRO:	xxx .
+*BR1:	la flechita .
+%mor:	det:art|el&f&SG=the n|flecha&f-DIM=arrow .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%com:	los hermanitos coversan alejados
+*BRO:	&ey camino equivocado .
+%mor:	n|camino&m=road part|equivoca-PPART-m=be_mistaken .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	Franca me xxx los platos xxx .
+%mor:	n:prop|Franca pro:obj|me=me det:art|el&m-PL=the n|plato&m-PL=dish .
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*MOT:	ya está ? [+ CHI]
+%mor:	adv|ya=already cop|esta-3S&PRES=be ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	vení . [+ CHI]
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx .
+*BR1:	xxx .
+*CHI:	&=balbucea .
+*MOT:	queré(s) una ? [+ CHI]
+%mor:	v|quere-2S&PRES=want det:art|un-f=one ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*MOT:	tomá . [+ CHI]
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . [+ CHI]
+*BRO:	xxx .
+*MOT:	acá . [+ CHI]
+%mor:	adv|acá=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea .
+*MOT:	traeme agua Franca (.) por favor . [+ OCH]
+%mor:	imp|trae-2S&IMP~pro:clit|1S=carry n|agua&f=water n:prop|Franca
+	prep|por=for n|favor&m=favor .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*BRO:	y dale un poco de jugo .
+%mor:	coord|y=and co|dale det:art|un&m=one adv|poco=few prep|de=of
+	n|jugo&m=juice .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|1|COORD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*BRO:	para mí quiere un poco de jugo .
+%mor:	prep|para=for pro:prep|mí=me v|quere-3S&PRES=want det:art|un&m=one
+	adv|poco=few prep|de=of n|jugo&m=juice .
+%gra:	1|2|INF 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*SIS:	xxx .
+*MOT:	va a tomar todo &eh . [+ OCH]
+%mor:	v|i-3S&PRES=go aprep|a=to inf|toma-INF=take pro:indef|todo-m=all .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*BRO:	no tomar no !
+%mor:	co|no inf|toma-INF=take adv|no=no !
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+*BRO:	&=lloriquea .
+*SIS:	&=grita .
+*BRO:	no !
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	sí !
+%mor:	co|sí=yes !
+%gra:	1|0|ROOT 2|1|PUNCT
+%tim:	14:17:11
+*MOT:	vo(s) no_má(s) ofreciste . [+ OCH]
+%mor:	pro:obj|vos=you adv|no_más=no_more v|ofrece-2S&PRET=offer .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*BRO:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	hiciste la cacona . [+ CHI]
+%mor:	v|hace-2S&PRET=do det:art|el&f&SG=the n|caca&f-AUG=feces .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*SIS:	ma(má) mirá una luna .
+%mor:	n|mamá&f=mommy co|mirá det:art|un-f=one n|luna&f=moon .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*BRO:	dejá ahí . [+ CHI]
+%mor:	imp|deja-2S&IMP=leave adv|ahí=there .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*BRO:	damela . [+ CHI]
+%mor:	imp|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&f=give .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ2 4|1|PUNCT
+*BRO:	xxx te pincha . [+ CHI]
+%mor:	pro:obj|te=you v|pincha-3S&PRES=pinch .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*BRO:	como a ese xxx . [+ CHI]
+%mor:	adv|como=like aprep|a=to det:dem|ese=that .
+%gra:	1|0|ROOT 2|1|APREP 3|2|POBJ 4|1|PUNCT
+*BR1:	eso pica .
+%mor:	pro:dem|eso=that_one v|pica-3S&PRES=prick/dive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*BR1:	eso pica .
+%mor:	pro:dem|eso=that_one v|pica-3S&PRES=prick/dive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	&=lloriquea .
+*BRO:	te pinchan acá y después te pica .
+%mor:	pro:obj|te=you v|pincha-3P&PRES=pinch adv|acá=there coord|y=and
+	adv|después=after pro:obj|te=you v|pica-3S&PRES=prick/dive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|CONJ 5|6|JCT 6|7|SUBJ 7|4|COORD 8|2|PUNCT
+*CHI:	&=balbucea .
+*BRO:	ma(má) ya comí todo yo .
+%mor:	n|mamá&f=mommy adv|ya=already v|come-1S&PRET=eat
+	det:indef|todo-m=all pro:sub|yo=I .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%tim:	14:17:46 2:44:11
+*CHI:	&=balbucea .
+*BRO:	Ema tiene un montón de carne .
+%mor:	n:prop|Ema v|tene-3S&PRES=have det:art|un&m=one n|monte&m-AUG=hill
+	prep|de=of n|carne&f=meat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*MOT:	y ese qué tenés ahí ? [+ OCH]
+%mor:	coord|y=and det:dem|ese=that pro:int|qué=what v|tene-2S&PRES=have
+	adv|ahí=there ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|4|JCT 6|1|COORD
+*BRO:	damelo a mí .
+%mor:	imp|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&m=give aprep|a=to
+	pro:prep|mí=me .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ2 4|1|APREP 5|4|POBJ 6|1|PUNCT
+*BR1:	no a mí dame .
+%mor:	adv|no=no aprep|a=to pro:prep|mí=me imp|da-2S&IMP~pro:clit|1S=give
+	.
+%gra:	1|0|ROOT 2|1|APREP 3|2|POBJ 4|3|COMP 5|4|OBJ2 6|1|PUNCT
+*BRO:	xxx .
+*SIS:	&=tose .
+*BRO:	el xxx .
+%mor:	det:art|el&m&SG=the .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	el xxx viste ? [+ CHI]
+%mor:	det:art|el&m&SG=the v|ve-2S&PRET=see ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*BRO:	el camino equivocado .
+%mor:	det:art|el&m&SG=the n|camino&m=road
+	part|equivoca-PPART-m=be_mistaken .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+%com:	golpetea la mesa
+*BRO:	qué ?
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=balbucea .
+*SIS:	&=tose .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	&=ríe .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	xxx tenía este .
+%mor:	v|tene-13S&PAS=have det:dem|este=this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*SIS:	quiero este .
+%mor:	v|quere-1S&PRES=want det:dem|este=this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*SIS:	sí .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	no [/] no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&=balbucea .
+*BRO:	equivocado .
+%mor:	part|equivoca-PPART-m=be_mistaken .
+%gra:	1|0|ROOT 2|1|PUNCT
+%tim:	14:19:54
+*BRO:	el camino equivocado el camino equivocado .
+%mor:	det:art|el&m&SG=the n|camino&m=road
+	part|equivoca-PPART-m=be_mistaken det:art|el&m&SG=the
+	n|camino&m=road part|equivoca-PPART-m=be_mistaken .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|MOD 7|3|PUNCT
+*SIS:	&=balbucea .
+*BRO:	camino equivocado .
+%mor:	n|camino&m=road part|equivoca-PPART-m=be_mistaken .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*BRO:	el camino equivocado xxx .
+%mor:	det:art|el&m&SG=the n|camino&m=road
+	part|equivoca-PPART-m=be_mistaken .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*SIS:	xxx .
+*SIS:	&=balbucea .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+%com:	ruido de platos y tele
+*BRO:	xxx .
+*MOT:	xxx .
+*SIS:	cayó en la calle ?
+%mor:	v|cae-3S&PRET=fall prep|en=in det:art|el&f&SG=the n|calle&f=street
+	?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*SIS:	la calle la calle la calle .
+%mor:	det:art|el&f&SG=the n|calle&f=street det:art|el&f&SG=the
+	n|calle&f=street det:art|el&f&SG=the n|calle&f=street .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|DET 6|4|OBJ 7|2|PUNCT
+*BRO:	&=grita .
+*SIS:	calle !
+%mor:	v|calla-13S&SUB&PRES=silence !
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	dejan en la mesa .
+%mor:	v|deja-3P&PRES=leave prep|en=in det:art|el&f&SG=the n|mesa&f=table
+	.
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	&=grita .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	xxx .
+*BRO:	xxx agua .
+%mor:	imp|agua-2S&IMP=water_down .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*BRO:	la agarré de la canilla .
+%mor:	det:art|el&f&SG=the v|agarra-1S&PRET=grab prep|de=of
+	det:art|el&f&SG=the n|cana&f-DIM=grey_hair .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MOT:	xxx .
+*CHI:	&=lloriquea .
+*SIS:	&=grita .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	ahora sí vení . [+ OCH]
+%mor:	adv|ahora=now co|sí=yes imp|veni-2S&IMP=come .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	ya está . [+ CHI]
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BRO:	xxx no [/] no [/] no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx así .
+%mor:	adv|así=thus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	deja arriba .
+%mor:	v|deja-3S&PRES=leave adv|arriba=above .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	ya no tiene nada ?
+%mor:	adv|ya=already adv|no=no v|tene-3S&PRES=have v|nada-3S&PRES=swim ?
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*BRO:	xxx .
+*BRO:	qué rico !
+%mor:	pro:int|qué=what adj|rico-m=rich !
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	a ver . [+ CHI]
+%mor:	aprep|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	vamos a sacar el pañal . [+ CHI]
+%mor:	v|i-1P&PRES=go aprep|a=to inf|saca-INF=bring_out
+	det:art|el&m&SG=the n|pañal&m=napkin .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	no hay más pañal (.) hasta que abra el kiosco . [+ CHI]
+%mor:	adv|no=no v|habe-3S&PRES&SPEC=have adv|más=more n|pañal&m=napkin
+	prep|hasta=until pro:rel|que=that v|abri-13S&SUB&PRES=open
+	det:art|el&m&SG=the n|kiosco&m=kiosk .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|JCT 6|5|REL 7|6|CMOD 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+*MOT:	no tenés pañal hasta que abra el kiosco nenito . [+ CHI]
+%mor:	adv|no=no v|tene-2S&PRES=have n|pañal&m=napkin prep|hasta=until
+	pro:rel|que=that v|abri-13S&SUB&PRES=open det:art|el&m&SG=the
+	n|kiosco&m=kiosk n|neni&m-DIM=little_person .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|REL 6|5|CMOD 7|8|DET 8|6|OBJ
+	9|8|MOD 10|2|PUNCT
+*BRO:	dejalo así un rato .
+%mor:	imp|deja-2S&IMP~pro:clit|OBJ&m=leave adv|así=thus det:art|un&m=one
+	n|rato&m=time .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MOT:	y sí lo voy a dejar un rato sin pañal . [+ OCH]
+%mor:	coord|y=and co|sí=yes pro:obj|lo&m=him v|i-1S&PRES=go aprep|a=to
+	inf|deja-INF=leave det:art|un&m=one n|rato&m=time prep|sin=without
+	n|pañal&m=napkin .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|1|COORD 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|JCT 10|9|POBJ 11|1|PUNCT
+*MOT:	qué hizo Simón ? [+ CHI]
+%mor:	pro:int|qué=what v|hace-3S&PRET=do n:prop|Simón ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*BRO:	cacona .
+%mor:	n|caca&f-AUG=feces .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué se hizo el Simón dije ? [+ CHI]
+%mor:	pro:int|qué=what pro:refl|se=itself v|hace-3S&PRET=do
+	det:art|el&m&SG=the n:prop|Simón v|deci-1S&PRET=say ?
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|SUBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*BRO:	cacona se hizo .
+%mor:	n|caca&f-AUG=feces pro:refl|se=itself v|hace-3S&PRET=do .
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|3|PUNCT
+*BRO:	y qué es qué es eso ?
+%mor:	coord|y=and pro:int|qué=what cop|se-3S&PRES=be pro:int|qué=what
+	cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|1|COORD 6|1|COORD 7|1|COORD
+*MOT:	caramelos . [+ OCH]
+%mor:	n|caramelo&m-PL=caramel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	de café ?
+%mor:	prep|de=of n|café&m=coffee ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	café chocolate dulce de leche . [+ OCH]
+%mor:	n|café&m=coffee n|chocolate&m=chocolate n|dulce&m=sweet prep|de=of
+	n|leche&f=milk .
+%gra:	1|0|ROOT 2|1|MOD 3|2|MOD 4|2|JCT 5|4|POBJ 6|1|PUNCT
+*BRO:	xxx .
+*MOT:	sí pero está cerrado no lo abrí todavía . [+ OCH]
+%mor:	co|sí=yes conj|pero=but cop|esta-3S&PRES=be
+	part|cerra-PRPART-m=close adv|no=no pro:obj|lo&m=him
+	imp|abri-2S&IMP=open adv|todavía=still .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|JCT 6|4|POBJ 7|6|PRED 8|7|JCT
+	9|3|PUNCT
+%tim:	14:26:16 2:52:42
+*BRO:	parece igualitos a los del kiosco .
+%mor:	imp|parece-2S&IMP=seem adj|igual-DIM-PL=equal aprep|a=to
+	det:art|el&m-PL=the prep|de~det:art|el&m=of n|kiosco&m=kiosk .
+%gra:	1|0|ROOT 2|3|MOD 3|1|APREP 4|3|POBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*MOT:	y son de esos . [+ OCH]
+%mor:	coord|y=and cop|se-3P&PRES=be prep|de=of det:dem|ese-m-PL=that .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	pero está cerrado eso ahora . [+ OCH]
+%mor:	conj|pero=but cop|esta-3S&PRES=be part|cerra-PPART-m=close
+	pro:dem|eso=that_one adv|ahora=now .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|4|JCT 6|2|PUNCT
+*BRO:	hay de dulce .
+%mor:	v|habe-3S&PRES&SPEC=have prep|de=of n|dulce&m=sweet .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*BRO:	y también de dulce de leche .
+%mor:	coord|y=and adv|también=also prep|de=of n|dulce&m=sweet prep|de=of
+	n|leche&f=milk .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*MOT:	no Simón que tenés la cacona en la bolita dejá ! [+ CHI]
+%mor:	co|no n:prop|Simón pro:rel|que=that v|tene-2S&PRES=have
+	det:art|el&f&SG=the n|caca&f-AUG=feces prep|en=in
+	det:art|el&f&SG=the n|bola&f-DIM=ball imp|deja-2S&IMP=leave !
+%gra:	1|2|JCT 2|0|ROOT 3|2|REL 4|3|COMP 5|6|DET 6|4|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|MOD 11|2|PUNCT
+*BRO:	puedo ver ?
+%mor:	v|pode-1S&PRES=can inf|ve-INF=see ?
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*BRO:	xxx los que son color (a)naranjado .
+%mor:	det:art|el&m-PL=the pro:rel|que=that cop|se-3P&PRES=be
+	n|color&m=hue adj|anaranjado-m=orange .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|PRED 5|4|MOD 6|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	&=imita .
+*MOT:	ahora dame un besito . [+ CHI]
+%mor:	adv|ahora=now imp|da-2S&IMP~pro:clit|1S=give det:art|un&m=one
+	n|beso&m-DIM=kiss .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|5|DET 5|2|OBJ 6|2|PUNCT
+*MOT:	un pocote [: beso] a mamá un pocote [: beso] . [+ CHI]
+%mor:	det:art|un&m=one n|beso&m=kiss aprep|a=to n|mamá&f=mommy
+	det:art|un&m=one n|beso&m=kiss .
+%gra:	1|2|DET 2|0|ROOT 3|2|APREP 4|3|POBJ 5|6|DET 6|3|POBJ 7|2|PUNCT
+*MOT:	&um &mua . [+ CHI]
+*BRO:	puedo ir al baño ma(má) .
+%mor:	v|pode-1S&PRES=can inf|i-INF=go aprep|a~det:art|el&m=to
+	n|baño&m=bath n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|COMP 3|2|APREP 4|5|DET 5|3|POBJ 6|5|MOD 7|1|PUNCT
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	&=imita .
+*MOT:	xxx .
+*CHI:	&=ríe .
+*MOT:	dame otro pocote [: beso] &mua . [+ CHI]
+%mor:	imp|da-2S&IMP~pro:clit|1S=give pro:indef|otro-m=other n|beso&m=kiss
+	.
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	&=ríe .
+*MOT:	se desmaya mamá con esos piquitos [: beso] . [+ CHI]
+%mor:	pro:refl|se=itself v|desmaya-3S&PRES=lose_heart n|mamá&f=mommy
+	prep|con=with det:dem|ese-m-PL=that n|beso&m=kiss .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	&=ríe .
+*MOT:	y vos te tocaste tu cochinita bola y mirá te llenaste de cacona . [+ CHI]
+%mor:	coord|y=and pro:obj|vos=you pro:obj|te=you v|toca-2S&PRET=touch
+	det:poss|tu=your n|cochino&f-DIM=hog n|bola&f=ball coord|y=and
+	co|mirá pro:obj|te=you v|llena-2S&PRET=fill prep|de=of
+	n|caca&f-AUG=feces .
+%gra:	1|0|ROOT 2|1|COORD 3|4|SUBJ 4|1|COORD 5|6|DET 6|4|OBJ 7|6|MOD 8|6|CONJ
+	9|8|COORD 10|1|COORD 11|10|PRED 12|11|JCT 13|12|POBJ 14|1|PUNCT
+*MOT:	&ay cochino . [+ CHI]
+%mor:	n|cochino-m=hog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	y se hizo en el baño .
+%mor:	coord|y=and pro:refl|se=itself v|hace-3S&PRET=do prep|en=in
+	det:art|el&m&SG=the n|baño&m=bath .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*MOT:	qué te hizo el Simón ? [+ CHI]
+%mor:	pro:int|qué=what pro:obj|te=you v|hace-3S&PRET=do
+	det:art|el&m&SG=the n:prop|Simón ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*BRO:	una xxx ver tele(visión) .
+%mor:	det:art|un-f=one inf|ve-INF=see n|televisión&f=television .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+*BRO:	no puedo ver xxx .
+%mor:	adv|no=no v|pode-1S&PRES=can inf|ve-INF=see .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|2|PUNCT
+*BRO:	&=grita .
+*MOT:	mirá qué suerte acá hay un pañal . [+ CHI]
+%mor:	co|mirá pro:int|qué=what n|suerte&f=luck adv|acá=there
+	v|habe-3S&PRES&SPEC=have det:art|un&m=one n|pañal&m=napkin .
+%gra:	1|5|SUBJ 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MOT:	&=ríe .
+*MOT:	qué suerte le encontramos un pañal . [+ CHI]
+%mor:	pro:int|qué=what n|suerte&f=luck pro:ind|le=him
+	v|encontra-1P&PRES&PRET=find det:art|un&m=one n|pañal&m=napkin .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*SIS:	es el que yo xxx .
+%mor:	cop|se-3S&PRES=be det:art|el&m&SG=the pro:rel|que=that pro:sub|yo=I
+	.
+%gra:	1|0|ROOT 2|1|PRED 3|2|REL 4|3|CMOD 5|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	yo dije que había un pañal ahí .
+%mor:	pro:sub|yo=I v|deci-1S&PRET=say pro:rel|que=that
+	v|habe-13S&PAS=have det:art|un&m=one n|pañal&m=napkin adv|ahí=there
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|3|CMOD 5|6|DET 6|4|OBJ 7|6|MOD 8|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	mamá . [+ CHI]
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	que yo tiré un pañal ahí .
+%mor:	pro:rel|que=that pro:sub|yo=I v|tira-1S&PRET=throw det:art|un&m=one
+	n|pañal&m=napkin adv|ahí=there .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|CMOD 4|5|DET 5|3|OBJ 6|5|MOD 7|1|PUNCT
+*MOT:	esperá que el Simón va a decir mamá . [+ OCH]
+%mor:	imp|espera-2S&IMP=wait pro:rel|que=that det:art|el&m&SG=the
+	n:prop|Simón v|i-3S&PRES=go aprep|a=to inf|deci-INF=say
+	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|REL 3|4|DET 4|5|SUBJ 5|2|CMOD 6|5|APREP 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*MOT:	a ver . [+ CHI]
+%mor:	aprep|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*SIS:	su primer palabra es mamá .
+%mor:	det:poss|su&3S=his adj:num|primer&m=first n|palabra&f=word
+	cop|se-3S&PRES=be n|mamá&f=mommy .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*MOT:	mamá . [+ CHI]
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	a ver cómo dice mamá . [+ CHI]
+%mor:	aprep|a=to inf|ve-INF=see pro:int|cómo=how v|deci-3S&PRES=say
+	n|mamá&f=mommy .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|3|COMP 5|4|OBJ 6|2|PUNCT
+*MOT:	mamá . [+ CHI]
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	mamá [=! espacia] . [+ CHI]
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	mi carne ?
+%mor:	det:poss|mi=my n|carne&f=meat ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	y se la comieron . [+ OCH]
+%mor:	coord|y=and pro:refl|se=itself det:art|el&f&SG=the
+	v|come-3P&PRET=eat .
+%gra:	1|0|ROOT 2|1|COORD 3|4|DET 4|1|COORD 5|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	y xxx .
+%mor:	coord|y=and .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	vos comiste mi carne ? [+ OCH]
+%mor:	pro:obj|vos=you v|come-2S&PRET=eat det:poss|mi=my n|carne&f=meat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*BRO:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx no fue .
+%mor:	adv|no=no v|i-3S&PRET=go .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	a ver . [+ CHI]
+%mor:	aprep|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	mamá . [+ CHI]
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	xxx se la comió .
+%mor:	pro:refl|se=itself pro:obj|la&f=she v|come-3S&PRET=eat .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	esperá que . [+ OCH]
+%mor:	imp|espera-2S&IMP=wait pro:rel|que=that .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	ma(má) .
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=ríe .
+*MOT:	no te dije . [+ CHI]
+%mor:	adv|no=no pro:obj|te=you v|deci-1S&PRET=say .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=ríe .
+*MOT:	mamá . [+ CHI]
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	&=grita .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	vos comiste mi carne ?
+%mor:	pro:obj|vos=you v|come-2S&PRET=eat det:poss|mi=my n|carne&f=meat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	no . [+ OCH]
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	entonces xxx .
+%mor:	adv|entonces=then .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea .
+*MOT:	papá no . [+ CHI]
+%mor:	n|papá&m=father adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%tim:	14:28:47
+*CHI:	&=balbucea .
+*BRO:	Simón comió tu carne .
+%mor:	n:prop|Simón v|come-3S&PRET=eat det:poss|tu=your n|carne&f=meat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	decí mamá Simón a ver . [+ CHI]
+%mor:	imp|deci-2S&IMP=say n|mamá&f=mommy n:prop|Simón aprep|a=to
+	inf|ve-INF=see .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|5|INF 5|2|COMP 6|2|PUNCT
+*SIS:	no .
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	mamá . [+ CHI]
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	que decí mamá te estoy diciendo . [+ CHI]
+%mor:	pro:rel|que=that imp|deci-2S&IMP=say n|mamá&f=mommy pro:obj|te=you
+	aux|esta-1S&PRES=be part|deci-PRPART=say .
+%gra:	1|0|ROOT 2|3|DET 3|1|CMOD 4|3|JCT 5|6|AUX 6|4|POBJ 7|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	a esto lo voy a llamar xxx .
+%mor:	aprep|a=to pro:dem|esto=this_one pro:obj|lo&m=him v|i-1S&PRES=go
+	aprep|a=to inf|llama-INF=call .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|1|PUNCT 5|6|INF 6|4|ROOT 7|6|PUNCT
+*CHI:	&=balbucea .
+*SIS:	&=canta .
+*SI1:	mejor me largo .
+%mor:	adj|mejor=better pro:obj|me=me v|larga-1S&PRES=go_away .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea .
+*SIS:	mira caracol del mar .
+%mor:	v|mira-3S&PRES=look n|caracol&m=snail prep|de~det:art|el&m=of
+	n|mar&f=sea .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	este Simón xxx ves ?
+%mor:	det:dem|este=this n:prop|Simón co|ves=see ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	Simón tiene xxx .
+%mor:	n:prop|Simón v|tene-3S&PRES=have .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	eso es un autito que tiene un botón ahí . [+ CHI]
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be det:art|un&m=one
+	n|auto&m-DIM=judicial_decree pro:rel|que=that v|tene-3S&PRES=have
+	det:art|un&m=one n|botón&m=button adv|ahí=there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|REL 6|5|CMOD 7|8|DET 8|6|OBJ
+	9|8|MOD 10|2|PUNCT
+*SIS:	tiene un botón .
+%mor:	v|tene-3S&PRES=have det:art|un&m=one n|botón&m=button .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	es un colectivo . [+ OCH]
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|colectivo&m=bus .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*CHI:	&=balbucea .
+*SIS:	es un colectivo ?
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|colectivo&m=bus ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*BRO:	este el auto y este coetivo [: colectivo] .
+%mor:	det:dem|este=this det:art|el&m&SG=the n|auto&m=judicial_decree
+	coord|y=and det:dem|este=this n|colectivo&m=bus .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	tiene un botón ahí .
+%mor:	v|tene-3S&PRES=have det:art|un&m=one n|botón&m=button adv|ahí=there
+	.
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*CHI:	&=balbucea .
+*BRO:	acá adelante tiene un botón .
+%mor:	adv|acá=there adv|adelante=forward v|tene-3S&PRES=have
+	det:art|un&m=one n|botón&m=button .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	&=ríe .
+*SIS:	no le veo . [+ OCH]
+%mor:	adv|no=no pro:ind|le=him v|ve-1S&PRES=see .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*BRO:	acá está . [+ OCH]
+%mor:	adv|acá=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*BRO:	no no lo toques vos xxx . [+ OCH]
+%mor:	adv|no=no adv|no=no pro:obj|lo&m=him v|toca-2S&SUB&PRES=touch
+	pro:obj|vos=you .
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*SIS:	acá ? [+ OCH]
+%mor:	adv|acá=there ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	&ujum . [+ OCH]
+*MOT:	quién vino acá ? [+ OCH]
+%mor:	pro:int|quién=who n|vino&m=wine adv|acá=there ?
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	&=balbucea .
+*MOT:	el xxx ? [+ OCH]
+%mor:	det:art|el&m&SG=the ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	sí xxx .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	vos sos pica Ema . [+ OCH]
+%mor:	pro:obj|vos=you cop|se-3S&PRES=be v|pica-3S&PRES=prick/dive
+	n:prop|Ema .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|2|PUNCT
+*BR1:	vos sos pica . [+ OCH]
+%mor:	pro:obj|vos=you cop|se-3S&PRES=be v|pica-3S&PRES=prick/dive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*BR1:	vos sos Jey vos sos Kay . [+ OCH]
+%mor:	pro:obj|vos=you cop|se-3S&PRES=be n:prop|Jey pro:obj|vos=you
+	cop|se-3S&PRES=be n:prop|Kay .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|2|PRED 4|3|MOD 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*SIS:	mirá xxx . [+ OCH]
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	vos sos Jay y Pica vos sos . [+ OCH]
+%mor:	pro:obj|vos=you cop|se-3S&PRES=be n:prop|Jay coord|y=and
+	n:prop|Pica pro:obj|vos=you cop|se-3S&PRES=be .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|2|PRED 4|2|CONJ 5|4|COORD 6|4|COORD 7|0|ROOT
+	8|7|PUNCT
+*BRO:	xxx .
+*SIS:	Picá ? [+ OCH]
+%mor:	n:prop|Picá ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BRO:	una mosca ! [+ OCH]
+%mor:	det:art|un-f=one n|mosca&f=fly !
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*SIS:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	&ay .
+*BRO:	Simón [/] Simón ! [+ CHI]
+%mor:	n:prop|Simón !
+%gra:	1|0|ROOT 2|1|PUNCT
+*BR1:	tenía una mosca xxx .
+%mor:	v|tene-13S&PAS=have det:art|un-f=one n|mosca&f=fly .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*BRO:	decí mami mami . [+ CHI]
+%mor:	imp|deci-2S&IMP=say n|mami&f=mommy n|mami&f=mommy .
+%gra:	1|3|DET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*BRO:	a ver . [+ CHI]
+%mor:	aprep|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*BR1:	&=grita .
+*BRO:	&ay tiene un montón el Simón tiene un montón . [+ OCH]
+%mor:	v|tene-3S&PRES=have det:art|un&m=one n|monte&m-AUG=hill
+	det:art|el&m&SG=the n:prop|Simón v|tene-3S&PRES=have
+	det:art|un&m=one n|monte&m-AUG=hill .
+%gra:	1|6|SUBJ 2|3|DET 3|6|SUBJ 4|5|DET 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*BR1:	&=grita .
+*CHI:	&=tose .
+%tim:	14:31:06
+*MOT:	&=ríe .
+*MOT:	tiene olor a caca en la mano . [+ OCH]
+%mor:	v|tene-3S&PRES=have n|olor&m=smell aprep|a=to n|caca&f=feces
+	prep|en=in det:art|el&f&SG=the n|mano&f=hand .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|APREP 4|3|POBJ 5|1|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*BRO:	&=grita .
+*BR1:	tiene olor a caca ?
+%mor:	v|tene-3S&PRES=have n|olor&m=smell aprep|a=to n|caca&f=feces ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|APREP 4|3|POBJ 5|1|PUNCT
+*MOT:	sí se toco cuando xxx . [+ CHI]
+%mor:	co|sí=yes pro:refl|se=itself v|toca-1S&PRES=touch
+	pro:rel|cuando=when .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|REL 5|3|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	andá mojarme este trapo ponele un poquito del jabón que se lavan las
+	manos ustedes . [+ OCH]
+%mor:	co|andá=come_on inf|moja-INF~pro:clit|1S=moisten det:dem|este=this
+	n|trapo&m=rag imp|pone-2S&IMP~pro:clit|3S=put det:art|un&m=one
+	pro:indef|poquito=little prep|de~det:art|el&m=of n|jabón&m=soap
+	pro:rel|que=that pro:refl|se=itself v|lava-3P&PRES=wash
+	det:art|el&f-PL=the n|mano&f-PL=hand pro:sub|usted-PL=you .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ2 4|5|DET 5|2|OBJ 6|2|OBJ 7|6|OBJ2 8|9|DET
+	9|6|COMP 10|9|JCT 11|12|DET 12|10|POBJ 13|12|REL 14|13|CMOD 15|14|CMOD
+	16|17|DET 17|15|OBJ 18|17|MOD 19|1|PUNCT
+*MOT:	para pasarle en las manitos de él . [+ OCH]
+%mor:	prep|para=for inf|pasa-INF~pro:clit|3S=pass prep|en=in
+	det:art|el&f-PL=the n|manito&m-PL=hand prep|de=of pro:sub|él&m=he .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ2 4|2|JCT 5|6|DET 6|4|POBJ 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+*CHI:	&=balbucea .
+*BRO:	jabón ?
+%mor:	n|jabón&m=soap ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí ese xxx .
+%mor:	co|sí=yes det:dem|ese=that .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	xxx las manos .
+%mor:	det:art|el&f-PL=the n|mano&f-PL=hand .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	ahí del frasquito Zaira para lavar las manos . [+ OCH]
+%mor:	adv|ahí=there prep|de~det:art|el&m=of n|frasco&m-DIM=flask
+	n:prop|Zaira prep|para=for inf|lava-INF=wash det:art|el&f-PL=the
+	n|mano&f-PL=hand .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|MOD 6|7|INF 7|1|COMP 8|9|DET
+	9|7|OBJ 10|1|PUNCT
+*MOT:	ese ponele y un poquito de agua . [+ OCH]
+%mor:	det:dem|ese=that imp|pone-2S&IMP~pro:clit|3S=put coord|y=and
+	det:art|un&m=one pro:indef|poquito=little prep|de=of n|agua&f=water
+	.
+%gra:	1|2|DET 2|0|ROOT 3|2|OBJ2 4|2|CONJ 5|6|DET 6|4|COORD 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=lloriquea .
+*CHI:	&=balbucea .
+*MOT:	&ay pero dejá que saque a ver . [+ OCH]
+%mor:	conj|pero=but imp|deja-2S&IMP=leave pro:rel|que=that
+	v|saca-13S&SUB&PRES=bring_out aprep|a=to inf|ve-INF=see .
+%gra:	1|0|ROOT 2|1|SCL 3|2|REL 4|3|COMP 5|6|INF 6|4|COMP 7|1|PUNCT
+*CHI:	&=balbucea .
+%tim:	14:32:00 2:58:25
+@End

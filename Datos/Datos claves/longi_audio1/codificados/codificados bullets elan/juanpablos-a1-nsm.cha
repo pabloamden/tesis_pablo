@@ -1,0 +1,5075 @@
+@UTF8
+@Begin
+@Languages:	spa, eng
+@Participants:	MOT Mother, CHI Juan Target_Child,
+	FEL Felipe Brother
+@ID:	spa|change_corpus_later|MOT||female|NSM||Mother|||
+@ID:	spa|change_corpus_later|CHI|0;11.|male|NSM||Target_Child|||
+@ID:	spa|change_corpus_later|FEL|2;1.|male|NSM||Brother|||
+@Birth of CHI:	21-APR-2014
+@Transcriber:	Soledad Martinez
+@Media:	JuanPablo-nsm-1audio , audio
+@Date:	19-MAR-2015
+@Location:	Target_chil's home , Buenos Aires , Argentina .
+@Time Duration:	00:03:33-02:05:00
+@Time Start:	00:03:33
+@Situation:	Juan Pablo esta en su casa con su mamá y su hermano .
+@Activities:	juegan con agua y con jueguetes hablan por teléfono caminan .
+*CHI:	&=balbucea . 3587841_3600582
+%tim:	01:00:00
+*FEL:	xxx . 3600582_3619242
+*FEL:	&mm . 3619242_3631325
+*FEL:	xxx . 3631325_3634538
+*CHI:	&=balbucea . 3634538_3639571
+*FEL:	miá [: mirá] . 3639571_3640611
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué hacés ? [+ OCH] 3640611_3643287
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	&aah . [+ OCH] 3643287_3644527
+*FEL:	esto bote grande . 3644527_3646032
+%mor:	pro:dem|esto=this_one n|bote&m=boat adj|grande=big .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	&=balbucea . 3646032_3646866
+*FEL:	esto bote grande . 3646866_3649050
+%mor:	pro:dem|esto=this_one n|bote&m=boat adj|grande=big .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	&uuu [=! balbucea] . 3649050_3650847
+*FEL:	esto bote grande . 3650847_3651824
+%mor:	pro:dem|esto=this_one n|bote&m=boat adj|grande=big .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*MOT:	es un bote ? [+ OCH] 3651824_3652396
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|bote&m=boat ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	a ver manejalo . [+ OCH] 3652396_3653836
+%mor:	prepart|a=to inf|ve-INF=see imp|maneja-2S&IMP~pro:clit|OBJ&m=drive
+	.
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|3|OBJ2 5|1|PUNCT
+*FEL:	no et [: es] una moto de agua . 3653836_3663154
+%mor:	adv|no=no cop|se-3S&PRES=be det:art|un-f=one n|moto&m=guide_post
+	prep|de=of n|agua&f=water .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|PRED 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*FEL:	et [: es] una moto de agua . 3663154_3666422
+%mor:	cop|se-3S&PRES=be det:art|un-f=one n|moto&m=guide_post prep|de=of
+	n|agua&f=water .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	&mm [=! balbucea] . 3666422_3666825
+*FEL:	et [: es] una moto de agua . 3666825_3668494
+%mor:	cop|se-3S&PRES=be det:art|un-f=one n|moto&m=guide_post prep|de=of
+	n|agua&f=water .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MOT:	una moto de agua ? [+ OCH] 3668494_3670073
+%mor:	det:art|un-f=one n|moto&m=guide_post prep|de=of n|agua&f=water ?
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	si . 3670073_3673896
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	anda rápido ? [+ OCH] 3673896_3674686
+%mor:	v|anda-3S&PRES=walk adj|rápido-m=rapid ?
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*FEL:	si . 3674686_3675243
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 3675243_3680498
+*FEL:	xxx . 3680498_3685944
+*CHI:	&aah [=! balbucea] . 3685944_3686827
+*FEL:	xxx . 3686827_3690160
+*FEL:	bueno [=! grita] . 3690160_3691869
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&ama [=! balbucea] . 3691869_3692764
+*FEL:	xxx . 3692764_3693754
+*FEL:	xxx . 3693754_3694810
+*CHI:	&=suspira . 3694810_3696403
+*FEL:	xxx . 3696403_3704644
+%com:	golpea un objeto .
+*FEL:	xxx . 3704644_3724389
+*CHI:	&=balbucea . 3724389_3730912
+*CHI:	&=llora . 3730912_3735399
+*MOT:	qué pasa gordo ? [+ CHI] 3735399_3742048
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass adj|gordo-m=fat ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ 4|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=llora . 3742048_3744799
+*MOT:	qué pa(sa) ? [+ CHI] 3744799_3750673
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	y . [+ CHI] 3750673_3755769
+%mor:	coord|y=and .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=llora . 3755769_3756492
+*MOT:	qué pasa ? [+ CHI] 3756492_3757073
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=llora . 3757073_3757628
+*CHI:	mamá mamá . 3757628_3758201
+%mor:	n|mamá&f=mommy n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	mamá . [+ CHI] 3758201_3758949
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DEN
+%dad:	$IND
+*FEL:	sentate ! 3758949_3759459
+%mor:	imp|senta-2S&IMP~pro:clit|2S=sit !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*CHI:	&=balbucea . 3759459_3760010
+*MOT:	&ma &ma &má . 3760010_3760534
+*FEL:	sentate ! 3760534_3761447
+%mor:	imp|senta-2S&IMP~pro:clit|2S=sit !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*CHI:	&=balbucea . 3761447_3763551
+*FEL:	sentate ! 3763551_3764078
+%mor:	imp|senta-2S&IMP~pro:clit|2S=sit !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*CHI:	&=llora . 3764078_3764748
+*MOT:	qué . 3764748_3765375
+%mor:	pro:int|qué=what .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	sentate ! 3765375_3765922
+%mor:	imp|senta-2S&IMP~pro:clit|2S=sit !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	estoy sentada . [+ OCH] 3765922_3766490
+%mor:	cop|esta-1S&PRES=be part|senta-PRPART-f=sit .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*CHI:	&=llora . 3766490_3767940
+*FEL:	no xxx . 3767940_3768815
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . 3768815_3770585
+*CHI:	&=llora . 3770585_3772598
+*FEL:	no xxx . 3772598_3773279
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	acá ? [+ OCH] 3773279_3773980
+%mor:	adv|acá=here ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=llora . 3773980_3775171
+*FEL:	no xxx . 3775171_3775956
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	cómo ? [+ OCH] 3775956_3776558
+%mor:	pro:int|cómo=how ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 3776558_3777287
+*CHI:	&=llora . 3777287_3777865
+*MOT:	&aa sí ya sé . [+ OCH] 3777865_3778323
+%mor:	co|sí=yes adv|ya=already v|sabe-1S&PRES=know .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	así ? [+ OCH] 3778323_3779437
+%mor:	adv|así=thus ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . 3779437_3781987
+*MOT:	listo ? [+ OCH] 3781987_3782607
+%mor:	adj|listo-m=ready ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&mmm &mmm &mm &mmm  [=! balbucea] . 3782607_3783499
+*CHI:	&mm &mm [=! balbucea] . 3783499_3792143
+*FEL:	un poquito de agua . 3792143_3798251
+%mor:	det:art|un&m=one pro:indef|poquito=little prep|de=of n|agua&f=water
+	.
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	&mm &mm [=! balbucea] . 3798251_3802317
+*CHI:	&=balbucea . 3802317_3811669
+*MOT:	xxx . 3811669_3815390
+*CHI:	&=balbucea . 3815390_3816601
+*CHI:	&aaa  [=! protesta] . 3816601_3817707
+*CHI:	&aa &aay [=! susurra] . 3817707_3895800
+*MOT:	xxx . 3895800_3898643
+*FEL:	xxx . 3898643_3901134
+*MOT:	qué robaste ahí ? [+ OCH] 3901134_3901835
+%mor:	pro:int|qué=what v|roba-2S&PRET=rob adv|ahí=there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	no . [+ OCH] 3901835_3902613
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué es eso ? [+ OCH] 3902613_3903841
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	qué es eso ? [+ OCH] 3903841_3907183
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	&mmm [=! balbucea] . 3907183_3908410
+*MOT:	&aa me estás curando la nana en la rodilla ahí ? [+ OCH] 3908410_3912267
+%mor:	pro:obj|me=me aux|esta-2S&PRES=be part|cura-PRPART=cure
+	det:art|el&f&SG=the n|nana&f=grandma prep|en=in det:art|el&f&SG=the
+	n|rodilla&f=knee adv|ahí=there ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|MOD 10|3|PUNCT
+*MOT:	acá ?  [+ OCH] 3912267_3914771
+%mor:	adv|acá=here ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	acá . 3914771_3918822
+%mor:	adv|acá=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	acá xxx . 3918822_3921335
+%mor:	adv|acá=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué es eso ? [+ CHI] 3921335_3922104
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*MOT:	qué es eso ? [+ CHI] 3922104_3922863
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*CHI:	&=balbucea . 3922863_3925068
+*MOT:	qué es eso ? [+ CHI] 3925068_3927012
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*CHI:	&=balbucea . 3927012_3928644
+*MOT:	qué más hay acá ? [+ CHI] 3928644_3929449
+%mor:	pro:int|qué=what adv|más=more v|habe-3S&PRES&SPEC=have adv|acá=here
+	?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*MOT:	qué más hay ? [+ CHI] 3929449_3930570
+%mor:	pro:int|qué=what adv|más=more v|habe-3S&PRES&SPEC=have ?
+%gra:	1|3|SUBJ 2|3|MOD 3|0|ROOT 4|3|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*MOT:	ésto ? [+ CHI] 3930570_3931949
+%mor:	pro:dem|éste-m=this_one ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*MOT:	qué es eso ? [+ CHI] 3931949_3933416
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*MOT:	xxx en el pie te ponés ? [+ OCH] 3933416_3936839
+%mor:	prep|en=in det:art|el&m&SG=the n|pie&m=foot pro:obj|te=you
+	v|pone-2S&PRES=put ?
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|3|MOD 5|0|ROOT 6|5|PUNCT
+*FEL:	xxx . 3936839_3939153
+*MOT:	acá [/] acá xxx . 3939153_3940522
+%mor:	adv|acá=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no . 3940522_3941955
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	a ésta la curo . 3941955_3943477
+%mor:	prepart|a=to pro:dem|éste-f=this_one det:art|el&f&SG=the
+	v|cura-1S&PRES=cure .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|DET 4|0|ROOT 5|4|PUNCT
+*MOT:	xxx . 3943477_3944508
+*FEL:	ahí también . 3944508_3949545
+%mor:	adv|ahí=there adv|también=also .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	qué hacemos ? [+ CHI] 3949545_3955449
+%mor:	pro:int|qué=what v|hace-1P&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$PVV
+%dad:	$IND
+*MOT:	qué hacés ? [+ CHI] 3955449_3957297
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$PVV
+%dad:	$IND
+*FEL:	listo . 3957297_3959910
+%mor:	adj|listo-m=ready .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 3959910_3964905
+*FEL:	un telulat [: celular] . 3964905_3969867
+%mor:	det:art|un&m=one n|celular&m=cell_phone .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	no [/] no [/] no . [+ OCH] 3969867_3971901
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	el celular no xxx . [+ OCH] 3971901_3973854
+%mor:	det:art|el&m&SG=the n|celular&m=cell_phone adv|no=no .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*FEL:	no el telulat [: celular] chiquitito . 3973854_3974544
+%mor:	adv|no=no det:art|el&m&SG=the adj|celular=cellular
+	n|chico&m-DIM-DIM=child .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*MOT:	&ah es tuyo ? [+ OCH] 3974544_3977746
+%mor:	cop|se-3S&PRES=be pro:poss|tuyo-m=yours ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*FEL:	sí . 3977746_3978405
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx hoy ? [+ OCH] 3978405_3979915
+%mor:	adv|hoy=today ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	es el mío . 3979915_3983037
+%mor:	cop|se-3S&PRES=be det:art|el&m&SG=the pro:poss|mío-m=mine .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	en el brazo . [+ OCH] 3983037_3984093
+%mor:	prep|en=in det:art|el&m&SG=the n|brazo&m=arm .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MOT:	en el brazo xxx . [+ OCH] 3984093_3985004
+%mor:	prep|en=in det:art|el&m&SG=the n|brazo&m=arm .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*FEL:	no el telular [: celular] . 3985004_3985676
+%mor:	adv|no=no det:art|el&m&SG=the n|celular&m=cell_phone .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|PUNCT
+*FEL:	el telular [: celular] chiquitito . 3985676_3989506
+%mor:	det:art|el&m&SG=the adj|celular=cellular n|chico&m-DIM-DIM=child .
+%gra:	1|3|DET 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*MOT:	bueno anda a buscarlo . [+ OCH] 3989506_3990212
+%mor:	co|bueno=good v|anda-3S&PRES=walk prepart|a=to
+	inf|busca-INF~pro:clit|OBJ&m=search .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ2 6|2|PUNCT
+*MOT:	por ahí xxx . [+ OCH] 3990212_3991106
+%mor:	prep|por=for adv|ahí=there .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	&=balbucea . 3991106_3992118
+*FEL:	mía . 3992118_3992965
+%mor:	pro:poss|mío-f=mine .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	es mía . 3992965_3993539
+%mor:	cop|se-3S&PRES=be pro:poss|mío-f=mine .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*FEL:	xxx &eh &emm el telular [: celular] es mía . 3993539_3995949
+%mor:	det:art|el&m&SG=the n|celular&m=cell_phone cop|se-3S&PRES=be
+	pro:poss|mío-f=mine .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	bueno a ver si lo encontrás ahí . [+ OCH] 3995949_3999997
+%mor:	co|bueno=good prepart|a=to inf|ve-INF=see conj|si=if
+	pro:obj|le-m=him v|encontra-2S&PRES=find adv|ahí=there .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|4|JCT 6|5|POBJ 7|6|JCT 8|1|PUNCT
+*MOT:	yo xxx . [+ OCH] 3999997_4001961
+%mor:	pro:sub|yo=I .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 4001961_4003084
+*FEL:	a ver ? 4003084_4005189
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	vamos a cambiar el pañal Mini ? [+ CHI] 4005189_4006806
+%mor:	v|i-1P&PRES=go prepart|a=to inf|cambia-INF=change
+	det:art|el&m&SG=the n|pañal&m=napkin n:prop|Mini ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|5|MOD 7|1|PUNCT
+%pra:	$PVN
+%dad:	$HIG
+%com:	la mamá utiliza la palabra Mini para referirise a CHI .
+*FEL:	xxx . 4006806_4010878
+*MOT:	bueno ya está Feli(pe) basta con ese perfume (.) lo vas a gastar .
+	[+ OCH] 4010878_4015522
+%mor:	co|bueno=good adv|ya=already cop|esta-3S&PRES=be n:prop|Felipe
+	v|basta-3S&PRES=suffice prep|con=with det:dem|ese=that
+	n|perfume&m=perfume pro:obj|le-m=him v|i-2S&PRES=go prepart|a=to
+	inf|gasta-INF=spend .
+%gra:	1|2|JCT 2|3|JCT 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|MOD 10|5|OBJ 11|12|INF 12|10|COMP 13|5|PUNCT
+*FEL:	no . 4015522_4016494
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no . 4016494_4017561
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	un ratito más . 4017561_4017796
+%mor:	det:art|un&m=one n|rato&m-DIM=time adv|más=more .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	&=balbucea . 4017796_4023737
+*FEL:	un ratito más . 4023737_4024309
+%mor:	det:art|un&m=one n|rato&m-DIM=time adv|más=more .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	bueno . [+ OCH] 4024309_4028592
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	último . [+ OCH] 4028592_4030284
+%mor:	adj|último-m=last .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	un poquito más . 4030284_4034480
+%mor:	det:art|un&m=one pro:indef|poquito=little adv|más=more .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	no mirá estas chorreando todo Feli(pe) . [+ OCH] 4034480_4035822
+%mor:	co|no co|mirá det:dem|este-f-PL=this part|chorrea-PRPART=drip
+	qn|todo-m=all n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|JCT 3|4|AUX 4|2|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*MOT:	xxx . 4035822_4038104
+*FEL:	&=llora . 4038104_4038814
+*MOT:	dónde está el celu(lar) ? [+ OCH] 4038814_4040385
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n|celular&m=cell_phone ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	dónde está el celu(lar) ? [+ OCH] 4040385_4042396
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n|celular&m=cell_phone ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FEL:	el celular . 4042396_4043041
+%mor:	det:art|el&m&SG=the n|celular&m=cell_phone .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx . 4043041_4046518
+*FEL:	xxx . 4046518_4047791
+*MOT:	dónde está ? [+ OCH] 4047791_4049683
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	Mini (.) ese libro es de papi . [+ CHI] 4049683_4050197
+%mor:	n:prop|Mini det:dem|ese=that n|libro&m=book cop|se-3S&PRES=be
+	prep|de=of n|papi&m=daddy .
+%gra:	1|3|SUBJ 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%pra:	$DEN
+%dad:	$HIG
+*FEL:	el celular . 4050197_4051345
+%mor:	det:art|el&m&SG=the n|celular&m=cell_phone .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	dónde está el celular ? 4051345_4053967
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n|celular&m=cell_phone ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	el celular . 4053967_4055686
+%mor:	det:art|el&m&SG=the n|celular&m=cell_phone .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	dónde está el celular ?  [+ OCH] 4055686_4056763
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n|celular&m=cell_phone ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FEL:	el celular ? 4056763_4058901
+%mor:	det:art|el&m&SG=the n|celular&m=cell_phone ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	el celular ? 4058901_4060995
+%mor:	det:art|el&m&SG=the n|celular&m=cell_phone ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	el celular ? [+ OCH] 4060995_4063526
+%mor:	det:art|el&m&SG=the n|celular&m=cell_phone ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	el celular ? 4063526_4090484
+%mor:	det:art|el&m&SG=the n|celular&m=cell_phone ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx [=! grita] . 4090484_4091610
+*CHI:	&=balbucea . 4091610_4093618
+*MOT:	a ver mi amor ? [+ CHI] 4093618_4150581
+%mor:	prepart|a=to inf|ve-INF=see det:poss|mi=my co|amor=love ?
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*CHI:	&ah [=! balbucea] . 4150581_4151702
+*MOT:	a ver . [+ CHI] 4151702_4152533
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	vamos a cambiar el pañal ? [+ CHI] 4152533_4153347
+%mor:	v|i-1P&PRES=go prepart|a=to inf|cambia-INF=change
+	det:art|el&m&SG=the n|pañal&m=napkin ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%pra:	$PVN
+%dad:	$HIG
+*MOT:	xxx el pañal . [+ CHI] 4153347_4154773
+%mor:	det:art|el&m&SG=the n|pañal&m=napkin .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%pra:	$DEN
+%dad:	$HIG
+*CHI:	&=balbucea . 4154773_4157342
+*MOT:	&aa &aa [=! canta] . [+ CHI] 4157342_4161190
+%pra:	$IND
+%dad:	$HIG
+*MOT:	&aa &aa [=! canta] . [+ CHI] 4161190_4164333
+%pra:	$IND
+%dad:	$HIG
+%com:	apagan un aire acondicionado .
+*MOT:	&aa &ee [=! susurra] . [+ CHI] 4164333_4168239
+%pra:	$IND
+%dad:	$HIG
+*MOT:	qué fue ese ruidito ? [+ CHI] 4168239_4174721
+%mor:	pro:int|qué=what v|i-3S&PRET=go det:dem|ese=that
+	n|ruido&m-DIM=noise ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%pra:	$PVN
+%dad:	$HIG
+*MOT:	qué fue ese ruido ? [+ CHI] 4174721_4176498
+%mor:	pro:int|qué=what v|i-3S&PRET=go det:dem|ese=that n|ruido&m=noise ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%pra:	$PVN
+%dad:	$HIG
+*MOT:	qué fue ese ruido ? [+ CHI] 4176498_4179207
+%mor:	pro:int|qué=what v|i-3S&PRET=go det:dem|ese=that n|ruido&m=noise ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%pra:	$PVN
+%dad:	$HIG
+%com:	parece que la mamá le está cambiando los pañales .
+*CHI:	&aa [=! balbucea] . 4179207_4184103
+*MOT:	no . [+ CHI] 4184103_4187406
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	mirá . [+ CHI] 4187406_4188323
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	jugá con ésto . [+ CHI] 4188323_4189979
+%mor:	imp|juga-2S&IMP=play prep|con=with pro:dem|éste-m=this_one .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%pra:	$DAA
+%dad:	$HIG
+*MOT:	&chiqui &chiqui &chiqui . [+ CHI] 4189979_4193449
+%pra:	$IND
+%dad:	$HIG
+%tim:	01:10:00
+*CHI:	&mmm [=! balbucea] . 4193449_4208466
+*MOT:	&=hace ruido con la boca . [+ CHI] 4208466_4221880
+%mor:	n|ruido&m=noise prep|con=with det:art|el&f&SG=the n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	así que fuiste a pasear con la abuela vos ? [+ CHI] 4221880_4227578
+%mor:	adv|así=thus prep|que=than v|i-2S&PRET=go prepart|a=to
+	inf|pasea-INF=stroll prep|con=with det:art|el&f&SG=the
+	n|abuelo-f=grandparent pro:obj|vos=you ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|MOD 10|1|PUNCT
+%pra:	$PVN
+%dad:	$HIG:CAB
+*MOT:	&eeh ? [+ CHI] 4227578_4229043
+%pra:	$IND
+%dad:	$HIG:CAB
+*MOT:	fuiste a pasear ? [+ CHI] 4229043_4230650
+%mor:	v|i-2S&PRET=go prepart|a=to inf|pasea-INF=stroll ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+%pra:	$PVV
+%dad:	$HIG:CAB
+*MOT:	te llevó a pasear la abuela ? [+ CHI] 4230650_4232615
+%mor:	pro:obj|te=you v|lleva-3S&PRET=carry prepart|a=to
+	inf|pasea-INF=stroll det:art|el&f&SG=the n|abuelo-f=grandparent ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%pra:	$PVN
+%dad:	$HIG:CAB
+*MOT:	viste un guau guau ? [+ CHI] 4232615_4235167
+%mor:	v|vesti-3S&PRES=dress det:art|un&m=one n|guau&m=dog n|guau&m=dog ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+%pra:	$PVN
+%dad:	$HIG:CAB
+*CHI:	&=balbucea . 4235167_4237659
+*MOT:	viste un guau guau ? [+ CHI] 4237659_4240659
+%mor:	v|vesti-3S&PRES=dress det:art|un&m=one n|guau&m=dog n|guau&m=dog ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+%pra:	$PVN
+%dad:	$HIG:CAB
+*MOT:	eh ? [+ CHI] 4240659_4242867
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$HIG:CAB
+*MOT:	qué mas hiciste ? [+ CHI] 4242867_4245065
+%mor:	pro:int|qué=what conj|mas=moreover v|hace-2S&PRET=do ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%pra:	$PVV
+%dad:	$HIG:CAB
+*MOT:	comiste una medialuna ? [+ CHI] 4245065_4246450
+%mor:	v|come-2S&PRET=eat det:art|un-f=one n|medialuna&f=croissant ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%pra:	$PVN
+%dad:	$HIG:CAB
+*MOT:	&=hace ruido con la boca . [+ CHI] 4246450_4256550
+%mor:	n|ruido&m=noise prep|con=with det:art|el&f&SG=the n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$HIG:CAB
+*MOT:	cuatro ratoncitos salen de la cueva [=! canta] .  [+ CHI] 4256550_4267352
+%mor:	det:num|cuatro=four n|rata-AUG-DIM-m-PL=mouse v|sali-3P&PRES=leave
+	prep|de=of det:art|el&f&SG=the n|cueva&f=cave .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	xxx [=! canta] .  [+ CHI] 4267352_4270269
+%pra:	$IND
+%dad:	$HIG
+*CHI:	&=balbucea . 4270269_4272056
+*MOT:	&eeh &eeh .  [+ CHI] 4272056_4274604
+%pra:	$IND
+%dad:	$HIG
+*MOT:	saco una manito la hago bailar &chi &chi la cierro la abro y la
+	vuelvo a guardar [=! canta] . [+ CHI] 4274604_4293295
+%mor:	v|saca-1S&PRES=bring_out det:art|un-f=one n|manito&m=hand
+	det:art|el&f&SG=the v|hace-1S&PRES=do inf|baila-INF=dance
+	det:art|el&f&SG=the v|cerra-1S&PRES=close det:art|el&f&SG=the
+	v|abri-1S&PRES=open coord|y=and pro:obj|la-f=she
+	v|volve-1S&PRES=turn prepart|a=to inf|guarda-INF=guard .
+%gra:	1|5|SUBJ 2|3|DET 3|5|SUBJ 4|5|DET 5|0|ROOT 6|5|COMP 7|8|DET 8|6|OBJ
+	9|10|DET 10|8|OBJ 11|10|CONJ 12|11|COORD 13|12|PRED 14|15|INF 15|13|COMP
+	16|5|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	saco otra manito la hago bailar &chi &chi la cierro la abro y la
+	vuelvo a guardar [=! canta] . [+ CHI] 4293295_4306938
+%mor:	v|saca-1S&PRES=bring_out qn|otro-f=other n|manito&m=hand
+	det:art|el&f&SG=the v|hace-1S&PRES=do inf|baila-INF=dance
+	det:art|el&f&SG=the v|cerra-1S&PRES=close det:art|el&f&SG=the
+	v|abri-1S&PRES=open coord|y=and pro:obj|la-f=she
+	v|volve-1S&PRES=turn prepart|a=to inf|guarda-INF=guard .
+%gra:	1|5|SUBJ 2|3|DET 3|5|SUBJ 4|5|DET 5|0|ROOT 6|5|COMP 7|8|DET 8|6|OBJ
+	9|10|DET 10|13|SUBJ 11|10|CONJ 12|11|COORD 13|8|OBJ 14|15|INF 15|13|COMP
+	16|5|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	&chiqui &chiqui . [+ CHI] 4306938_4309726
+%pra:	$IND
+%dad:	$HIG
+*MOT:	bravo . [+ CHI] 4309726_4311360
+%mor:	co|bravo=bravo .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	&=hace ruido con la boca . [+ CHI] 4311360_4318249
+%mor:	n|ruido&m=noise prep|con=with det:art|el&f&SG=the n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	&=silba . [+ CHI] 4318249_4320434
+%pra:	$IND
+%dad:	$HIG
+*CHI:	&=ríe . 4320434_4323794
+*MOT:	&=silba . [+ CHI] 4323794_4325356
+%pra:	$IND
+%dad:	$HIG
+*CHI:	&=ríe . 4325356_4332419
+*CHI:	&=balbucea . 4332419_4335824
+*MOT:	&aja . [+ CHI] 4335824_4344253
+%pra:	$IND
+%dad:	$HIG
+*CHI:	&=balbucea . 4344253_4345778
+*MOT:	qué te resulta gracioso a vos ? [+ CHI] 4345778_4348735
+%mor:	pro:int|qué=what pro:obj|te=you v|resulta-3S&PRES=result
+	adj|gracioso-m=graceful prepart|a=to pro:obj|vos=you ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|MOD 5|6|INF 6|3|OBJ 7|1|PUNCT
+%pra:	$PVV
+%dad:	$HIG
+*CHI:	&=balbucea . 4348735_4350144
+*MOT:	xxx gracioso a vos ? [+ CHI] 4350144_4351475
+%mor:	adj|gracioso-m=graceful prepart|a=to pro:obj|vos=you ?
+%gra:	1|2|MOD 2|3|INF 3|0|ROOT 4|3|PUNCT
+%pra:	$PVV
+%dad:	$HIG
+*CHI:	&=balbucea . 4351475_4352386
+*MOT:	qué te resulta gracioso a vos ? [+ CHI] 4352386_4353240
+%mor:	pro:int|qué=what pro:obj|te=you v|resulta-3S&PRES=result
+	adj|gracioso-m=graceful prepart|a=to pro:obj|vos=you ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|MOD 5|6|INF 6|3|OBJ 7|1|PUNCT
+%pra:	$PVV
+%dad:	$HIG
+*MOT:	eh ? [+ CHI] 4353240_4354110
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$PVV
+%dad:	$HIG
+*MOT:	venga para acá . [+ CHI] 4354110_4358037
+%mor:	co|venga=come_on prep|para=for adv|acá=here .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%pra:	$DAA
+%dad:	$HIG
+*MOT:	&=ríe . 4358037_4359059
+*MOT:	&=hace ruido con la boca . [+ CHI] 4359059_4364767
+%mor:	n|ruido&m=noise prep|con=with det:art|el&f&SG=the n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	con ese chalequito pareces un terrorista vos !  [+ CHI] 4364767_4367225
+%mor:	prep|con=with det:dem|ese=that n|chaleco&m-DIM=vest
+	v|parece-2S&PRES=seem det:art|un&m=one n|terrorista&m=terrorist
+	pro:obj|vos=you !
+%gra:	1|4|JCT 2|3|DET 3|1|POBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|MOD 8|4|PUNCT
+%pra:	$DEN
+%dad:	$HIG
+*MOT:	&=ríe . 4367225_4368154
+*CHI:	&=ríe . 4368154_4368653
+*MOT:	&ooh &pum . [+ CHI] 4368653_4373594
+%pra:	$IND
+%dad:	$HIG
+*MOT:	&=ríe . 4373594_4375836
+*CHI:	&=ríe . 4375836_4376914
+*MOT:	&ee &ee . [+ CHI] 4376914_4378762
+%pra:	$IND
+%dad:	$HIG
+*MOT:	&=hace ruido con la boca . [+ CHI] 4378762_4382777
+%mor:	n|ruido&m=noise prep|con=with det:art|el&f&SG=the n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	a ver xxx acá . [+ CHI] 4382777_4389265
+%mor:	prepart|a=to inf|ve-INF=see adv|acá=here .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	a ver ? [+ CHI] 4389265_4390794
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*CHI:	&mm [=! balbucea] . 4390794_4391609
+*MOT:	mirá . [+ CHI] 4391609_4392205
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	&=hace ruido con la boca . [+ CHI] 4392205_4409049
+%mor:	n|ruido&m=noise prep|con=with det:art|el&f&SG=the n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+%com:	parece que la mamá abre algunos cajones y prende un juguete con
+	música .
+*CHI:	&aa [=! balbucea] . 4409049_4423512
+%com:	se escucha la música .
+*CHI:	&aa [=! balbucea] . 4423512_4439763
+%com:	sigue la música que proviene de un juguete .
+%tim:	01:15:00
+*FEL:	mami . 4439763_4503866
+%mor:	n|mami&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . 4503866_4505213
+*FEL:	xxx . 4505213_4508880
+*MOT:	está guardado mami . [+ OCH] 4508880_4509855
+%mor:	cop|esta-3S&PRES=be part|guarda-PRPART-m=guard n|mami&f=mommy .
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+*CHI:	&=llora . 4509855_4513088
+*CHI:	&=balbucea . 4513088_4527750
+*FEL:	&aaaa . 4527750_4542248
+*CHI:	&=balbucea . 4542248_4547892
+*FEL:	&uuu &uuu . 4547892_4549282
+*CHI:	&=llora . 4549282_4549762
+*MOT:	&ey despacito [/] despacito . [+ CHI] 4549762_4550480
+%mor:	adj|despacio-DIM=slowly .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*CHI:	&mmm [=! balbucea] . 4550480_4552817
+*FEL:	meni [: vení] . 4552817_4554950
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué mamita ? [+ OCH] 4554950_4555647
+%mor:	pro:int|qué=what n|mama&f-DIM=mamma ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	qué pasa ? [+ OCH] 4555647_4556221
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FEL:	vení . 4556221_4557209
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	a dónde ? [+ OCH] 4557209_4557918
+%mor:	prepart|a=to pro:int|dónde=where ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	querés que vea la tele con vos mami ? [+ OCH] 4557918_4558669
+%mor:	v|quere-2S&PRES=want pro:rel|que=that v|ve-13S&SUB&PRES=see
+	det:art|el&f&SG=the n|tele&m=television prep|con=with
+	pro:obj|vos=you n|mami&f=mommy ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	&= balbucea . 4558669_4559601
+%mor:	v|balbucea-3S&PRES=stammer .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	si . 4559601_4560055
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	si ? [+ OCH] 4560055_4560537
+%mor:	conj|si=if ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bue(no) dale . [+ OCH] 4560537_4561494
+%mor:	co|bueno=good co|dale .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*FEL:	xxx acá ? 4561494_4562194
+%mor:	adv|acá=here ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx ? [+ OCH] 4562194_4563967
+*MOT:	no están dando . [+ OCH] 4563967_4564869
+%mor:	adv|no=no cop|esta-3P&PRES=be part|da-PRPART=give .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	a ver ? [+ OCH] 4564869_4566931
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	vení vamos a ver si xxx dando ? [+ OCH] 4566931_4568163
+%mor:	imp|veni-2S&IMP=come v|i-1P&PRES=go prepart|a=to inf|ve-INF=see
+	conj|si=if part|da-PRPART=give ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|AUX 6|4|OBJ 7|2|PUNCT
+*FEL:	no no están dando xxx . 4568163_4573495
+%mor:	co|no adv|no=no cop|esta-3P&PRES=be part|da-PRPART=give .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	&=balbucea . 4573495_4574140
+*CHI:	&mm &mm [=! balbucea] . 4574140_4576417
+*CHI:	&ule [=! balbucea] . 4576417_4578308
+*CHI:	&ee [=! balbucea] . 4578308_4593879
+*CHI:	&ee &ee [=! balbucea] . 4593879_4614574
+*CHI:	&=balbucea . 4614574_4655436
+*CHI:	&mm [=! balbucea] . 4655436_4669029
+*CHI:	&=balbucea . 4669029_4675486
+*MOT:	xxx acá . 4675486_4681350
+%mor:	adv|acá=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . 4681350_4696611
+%com:	la mamá habla alejada de CHI .
+*CHI:	&eee [=! balbucea] . 4696611_4712837
+*FEL:	&iii . 4712837_4748984
+*MOT:	qué hacés acá Mini ? [+ CHI] 4748984_4749447
+%mor:	pro:int|qué=what v|hace-2S&PRES=do adv|acá=here n:prop|Mini ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|1|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*MOT:	qué hacés en el balcón ? [+ CHI] 4749447_4750621
+%mor:	pro:int|qué=what v|hace-2S&PRES=do prep|en=in det:art|el&m&SG=the
+	n|balcón&m=balcony ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*MOT:	&eh ? [+ CHI] 4750621_4752485
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 4752485_4754063
+*MOT:	qué hacés ? [+ CHI] 4754063_4754778
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$PVV
+%dad:	$IND
+*MOT:	qué haces en el balcón ? [+ CHI] 4754778_4755362
+%mor:	pro:int|qué=what v|hace-2S&PRES=do prep|en=in det:art|el&m&SG=the
+	n|balcón&m=balcony ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*CHI:	&aah [=! balbucea] . 4755362_4756164
+*MOT:	&eh ? [+ CHI] 4756164_4757824
+%pra:	$IND
+%dad:	$IND
+*MOT:	está lindo el balcón ? [+ CHI] 4757824_4759190
+%mor:	cop|esta-3S&PRES=be adj|lindo-m=pretty det:art|el&m&SG=the
+	n|balcón&m=balcony ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|DET 4|1|PRED 5|1|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*MOT:	&eh ? [+ CHI] 4759190_4760149
+%pra:	$IND
+%dad:	$IND
+*MOT:	(es)tá lindo el balcón ? [+ CHI] 4760149_4765121
+%mor:	cop|esta-3S&PRES=be adj|lindo-m=pretty det:art|el&m&SG=the
+	n|balcón&m=balcony ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|DET 4|1|PRED 5|1|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*MOT:	&eeh ? [+ CHI] 4765121_4766360
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 4766360_4767762
+*MOT:	qué ? [+ CHI] 4767762_4768705
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 4768705_4771031
+*CHI:	&aam [=! balbucea] . 4771031_4773470
+*CHI:	&=balbucea . 4773470_4781046
+*CHI:	&iii [=! balbucea] . 4781046_4801979
+*CHI:	&=suspira . 4801979_4850602
+*MOT:	qué mi amor (.) qué querés ? [+ OCH] 4850602_4860889
+%mor:	pro:int|qué=what det:poss|mi=my co|amor=love pro:int|qué=what
+	v|quere-2S&PRES=want ?
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	querés juguito ? [+ OCH] 4860889_4862308
+%mor:	v|quere-2S&PRES=want n|jugo&m-DIM=juice ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*FEL:	xxx . 4862308_4863660
+*MOT:	&aa xxx ésto ?  [+ OCH] 4863660_4865254
+%mor:	pro:dem|éste-m=this_one ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	&aay Feli(pe) que xxx .  [+ OCH] 4865254_4875431
+%mor:	n:prop|Felipe pro:rel|que=that .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	Mini . [+ CHI] 4875431_4882508
+%mor:	n:prop|Mini .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	qué hacés gordi ? [+ CHI] 4882508_4883927
+%mor:	pro:int|qué=what v|hace-2S&PRES=do n|gordi=fatty ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%pra:	$PVV
+%dad:	$IND
+*MOT:	vení Mini vení . [+ CHI] 4883927_4898812
+%mor:	imp|veni-2S&IMP=come n:prop|Mini imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*CHI:	&=ríe . 4898812_4902789
+*MOT:	vení xxx . 4902789_4904217
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	Feli(pe) Felipe qué te dijo mamá ? [+ OCH] 4904217_4905962
+%mor:	n:prop|Felipe n:prop|Felipe pro:int|qué=what pro:obj|te=you
+	v|deci-3S&PRET=say n|mamá&f=mommy ?
+%gra:	1|0|ROOT 2|1|APP 3|1|REL 4|3|CMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+*MOT:	eso no es para tirar . [+ OCH] 4905962_4907691
+%mor:	pro:dem|eso=that_one adv|no=no cop|se-3S&PRES=be prep|para=for
+	inf|tira-INF=throw .
+%gra:	1|2|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|PRED 6|3|PUNCT
+*MOT:	xxx . 4907691_4921522
+*FEL:	xxx . 4921522_4922517
+*MOT:	xxx . 4922517_4923111
+*CHI:	&eeh [=! balbucea] . 4923111_4923784
+*CHI:	&aah [=! balbucea] . 4923784_4926819
+*FEL:	éste no anda . 4926819_4948006
+%mor:	pro:dem|éste=this_one adv|no=no co|anda=come_on .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|1|PUNCT
+*MOT:	cual ? [+ OCH] 4948006_4948535
+%mor:	pro:rel|cual=which ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	éste no anda . 4948535_4953548
+%mor:	pro:dem|éste=this_one adv|no=no co|anda=come_on .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|1|PUNCT
+*MOT:	sí que anda . [+ OCH] 4953548_4954606
+%mor:	co|sí=yes pro:rel|que=that v|anda-3S&PRES=walk .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+*MOT:	xxx . [+ OCH] 4954606_4957371
+*CHI:	&mm [=! balbucea] . 4957371_4962725
+%com:	se escucha una ambulancia .
+*MOT:	no xxx . 4962725_4963753
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	mirá xxx el hombre araña . 4963753_4964281
+%mor:	co|mirá det:art|el&m&SG=the n|hombre&m=man n|araña&f=spider .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*FEL:	ahí hombre araña . 4964281_4966122
+%mor:	adv|ahí=there co|hombre=man v|araña-3S&PRES=scratch .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FEL:	ahí xxx . 4966122_4971722
+%mor:	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	éste es malo . 4971722_4978791
+%mor:	pro:dem|éste=this_one cop|se-3S&PRES=be adj|malo-m=bad .
+%gra:	1|0|ROOT 2|1|REL 3|2|PRED 4|1|PUNCT
+*CHI:	&=balbucea . 4978791_4989115
+*MOT:	hola . [+ CHI] 4989115_4996109
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	xxx . [+ CHI] 4996109_5017473
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=ríe . 5017473_5018169
+*MOT:	hola . [+ CHI] 5018169_5029339
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	qué hacemos acá en el balcón ? [+ CHI] 5029339_5035188
+%mor:	pro:int|qué=what v|hace-1P&PRES=do adv|acá=here prep|en=in
+	det:art|el&m&SG=the n|balcón&m=balcony ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*MOT:	&eh ? [+ CHI] 5035188_5038356
+%pra:	$IND
+%dad:	$IND
+*MOT:	vení . [+ CHI] 5038356_5040434
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	vení acá con mami y con Feli(pe) . [+ CHI] 5040434_5041282
+%mor:	imp|veni-2S&IMP=come adv|acá=here prep|con=with n|mami&f=mommy
+	coord|y=and prep|con=with n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|4|MOD 6|5|JCT 7|6|POBJ 8|1|PUNCT
+%pra:	$DAN
+%dad:	$IND
+*MOT:	&=canta . 5041282_5053331
+*MOT:	xxx beautiful@s:eng day@s:eng . 5053331_5061073
+%mor:	L2|beautiful L2|day .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&aa [=! balbucea] . 5061073_5064028
+*MOT:	xxx ? 5064028_5065500
+*CHI:	&mm [=! balbucea] . 5065500_5067495
+*MOT:	&oo &ouu . 5067495_5069205
+*CHI:	&=balbucea . 5069205_5070089
+*MOT:	xxx . 5070089_5072919
+*FEL:	xxx . 5072919_5073585
+*MOT:	a ver Feli(pe) ?  [+ OCH] 5073585_5074520
+%mor:	prepart|a=to inf|ve-INF=see n:prop|Felipe ?
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+*FEL:	xxx no . 5074520_5075411
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no . 5075411_5076909
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ah ese muy bien . [+ OCH] 5076909_5078993
+%mor:	det:dem|ese=that adv|muy=very adv|bien=well .
+%gra:	1|3|DET 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	ese levantalo porque sino lo va agarrar el Mini . [+ OCH] 5078993_5080936
+%mor:	det:dem|ese=that imp|levanta-2S&IMP~pro:clit|OBJ&m=raise
+	conj|porque=because conj|sino=except pro:obj|le-m=him v|i-3S&PRES=go
+	inf|agarra-INF=grab det:art|el&m&SG=the n:prop|Mini .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ2 4|3|COMP 5|4|JCT 6|7|SUBJ 7|5|POBJ 8|7|COMP
+	9|10|DET 10|8|OBJ 11|1|PUNCT
+*FEL:	&mm no . 5080936_5082560
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&=hace ruido con la boca . 5082560_5087043
+%mor:	n|ruido&m=noise prep|con=with det:art|el&f&SG=the n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	&=canta . 5087043_5088491
+*FEL:	el violeta . 5088491_5089675
+%mor:	det:art|el&m&SG=the adj|violeta=violet .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	cuál te falta ? [+ OCH] 5089675_5090584
+%mor:	pro:int|cuál=which pro:obj|te=you v|falta-3S&PRES=be_lacking ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FEL:	xxx rayones [: crayones] . 5090584_5094302
+%mor:	n|crayón&m-PL=crayon .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&mm [=! balbucea] . 5094302_5096020
+*FEL:	los rayones [: crayones] . 5096020_5098542
+%mor:	det:art|el&m-PL=the n|crayón&m-PL=crayon .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	los rayones [: crayones] . 5098542_5099148
+%mor:	det:art|el&m-PL=the n|crayón&m-PL=crayon .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	los crayones ? [+ OCH] 5099148_5099918
+%mor:	det:art|el&m-PL=the n|crayón&m-PL=crayon ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	acá están xxx .  [+ OCH] 5099918_5100590
+%mor:	adv|acá=here cop|esta-3P&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&mm &mm [=! balbucea] . 5100590_5101286
+*FEL:	no la ota [: otra] . 5101286_5102709
+%mor:	adv|no=no det:art|el&f&SG=the pro:indef|otro-f=other .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|PUNCT
+*FEL:	la xxx . 5102709_5104622
+%mor:	det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&mm [=! balbucea] . 5104622_5105863
+*MOT:	cuál otra ? [+ OCH] 5105863_5106690
+%mor:	pro:int|cuál=which pro:indef|otro-f=other ?
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&mm [=! balbucea] . 5106690_5107521
+*FEL:	la ota [: otra] . 5107521_5108049
+%mor:	det:art|el&f&SG=the pro:indef|otro-f=other .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	cuál ? [+ OCH] 5108049_5108531
+%mor:	pro:int|cuál=which ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	la ota [: otra] . 5108531_5109175
+%mor:	det:art|el&f&SG=the pro:indef|otro-f=other .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	ahí . 5109175_5109952
+%mor:	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 5109952_5112815
+*MOT:	del piso ? [+ OCH] 5112815_5113873
+%mor:	prep|de~det:art|el&m=of n|piso&m=floor ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	&mm [=! balbucea] . 5113873_5115073
+*FEL:	sí . 5115073_5115703
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no mi amor . [+ OCH] 5115703_5116953
+%mor:	adv|no=no det:poss|mi=my co|amor=love .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	ya te los doy . [+ OCH] 5116953_5118174
+%mor:	adv|ya=already pro:obj|te=you pro:ind|le-m-PL=him v|da-1S&PRES=give
+	.
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	xxx lo que tiraste . [+ OCH] 5118174_5119364
+%mor:	pro:obj|le-m=him pro:rel|que=that v|tira-2S&PRET=throw .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+*MOT:	xxx tomá . [+ OCH] 5119364_5120372
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&=silba . 5120372_5123211
+%tim:	01:25:00
+*FEL:	xxx . 5123211_5125559
+*MOT:	&=canta . 5125559_5127215
+*FEL:	xxx . 5127215_5129127
+*MOT:	qué lindos xxx . [+ OCH] 5129127_5131496
+%mor:	pro:int|qué=what adj|lindo-m-PL=pretty .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*FEL:	xxx . 5131496_5137786
+*MOT:	&ay no xxx que los agarra Mini . [+ OCH] 5137786_5139326
+%mor:	adv|no=no pro:rel|que=that pro:ind|le-m-PL=him
+	v|agarra-3S&PRES=grab n:prop|Mini .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MOT:	no [/] no [/] no . [+ OCH] 5139326_5140371
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 5140371_5141997
+*MOT:	no [/] no . [+ OCH] 5141997_5142861
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no xxx los xxx porque se caen . [+ OCH] 5142861_5143377
+%mor:	adv|no=no pro:ind|le-m-PL=him conj|porque=because
+	pro:refl|se=itself v|cae-3P&PRES=fall .
+%gra:	1|2|JCT 2|5|SUBJ 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*FEL:	no . 5143377_5143811
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	es mío . 5143811_5144169
+%mor:	cop|se-3S&PRES=be pro:poss|mío-m=mine .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	mirá se los está agarrando el Mini . [+ OCH] 5144169_5144961
+%mor:	co|mirá pro:refl|se=itself det:art|el&m-PL=the aux|esta-3S&PRES=be
+	part|agarra-PRPART=grab det:art|el&m&SG=the n:prop|Mini .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|AUX 5|2|POBJ 6|7|DET 7|5|APP 8|1|PUNCT
+*MOT:	y no se los puede meter en la boca el Mini . [+ OCH] 5144961_5147985
+%mor:	coord|y=and adv|no=no pro:refl|se=itself pro:ind|le-m-PL=him
+	v|pode-3S&PRES=can inf|mete-INF=put prep|en=in det:art|el&f&SG=the
+	n|boca&f=mouth det:art|el&m&SG=the n:prop|Mini .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|1|COORD 6|5|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|11|DET 11|9|APP 12|1|PUNCT
+*MOT:	a ver ? [+ OCH] 5147985_5149924
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	&mmm [=! canta] . 5149924_5150577
+*CHI:	&eeeh [=! grita] . 5150577_5152744
+*MOT:	qué estás comiendo vos ? [+ OCH] 5152744_5156265
+%mor:	pro:int|qué=what aux|esta-2S&PRES=be part|come-PRPART=eat
+	pro:obj|vos=you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	a ver . [+ OCH] 5156265_5158015
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 5158015_5158945
+*FEL:	xxx . 5158945_5162427
+*MOT:	&=canta . 5162427_5164370
+*MOT:	bueno dame los crayones . [+ OCH] 5164370_5167704
+%mor:	co|bueno=good imp|da-2S&IMP~pro:clit|1S=give det:art|el&m-PL=the
+	n|crayón&m-PL=crayon .
+%gra:	1|0|ROOT 2|5|DET 3|2|OBJ2 4|5|DET 5|1|OBJ 6|1|PUNCT
+*FEL:	no mami no . 5167704_5170177
+%mor:	adv|no=no n|mami&f=mommy adv|no=no .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	mami te dijo que no los tires ! [+ OCH] 5170177_5171015
+%mor:	n|mami&f=mommy pro:obj|te=you v|deci-3S&PRET=say pro:rel|que=that
+	adv|no=no pro:ind|le-m-PL=him v|tira-2S&SUB&PRES=throw !
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|3|REL 5|6|JCT 6|7|SUBJ 7|4|CMOD 8|3|PUNCT
+*FEL:	e [: es] mío ! 5171015_5171860
+%mor:	cop|se-3S&PRES=be pro:poss|mío-m=mine !
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	no ! [+ OCH] 5171860_5173081
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ahora no son más tuyos ! [+ OCH] 5173081_5173760
+%mor:	adv|ahora=now adv|no=no cop|se-3P&PRES=be adv|más=more
+	pro:poss|tuyo-m-PL=yours !
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*FEL:	xxx . 5173760_5176328
+*MOT:	despacito (.) despacito . [+ OCH] 5176328_5180265
+%mor:	adj|despacio-DIM=slowly adj|despacio-DIM=slowly .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*FEL:	e [: es] mío ! 5180265_5181642
+%mor:	cop|se-3S&PRES=be pro:poss|mío-m=mine !
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*FEL:	e [: es] mío [=! grita] ! 5181642_5182246
+%mor:	cop|se-3S&PRES=be pro:poss|mío-m=mine !
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	no porque Feli(pe) se portó mal . [+ OCH] 5182246_5182892
+%mor:	adv|no=no conj|porque=because n:prop|Felipe pro:refl|se=itself
+	v|porta-3S&PRET=behave adv|mal=badly .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*FEL:	no . 5182892_5183782
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	e [: es] mío . 5183782_5184293
+%mor:	cop|se-3S&PRES=be pro:poss|mío-m=mine .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*FEL:	xxx . 5184293_5189044
+*FEL:	mío y no xxx [=! protesta] . 5189044_5190344
+%mor:	pro:poss|mío-m=mine coord|y=and adv|no=no .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	vamos a jugar con los autitos Feli(pe) . [+ OCH] 5190344_5194001
+%mor:	v|i-1P&PRES=go prepart|a=to inf|juga-INF=play prep|con=with
+	det:art|el&m-PL=the n|auto&m-DIM-PL=judicial_decree n:prop|Felipe .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|6|MOD 8|1|PUNCT
+*MOT:	vamos .  [+ OCH] 5194001_5195415
+%mor:	co|vamos=go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	a los autitos .  [+ OCH] 5195415_5196482
+%mor:	prepart|a=to det:art|el&m-PL=the n|auto&m-DIM-PL=judicial_decree .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	vamos a armar un (.) un tren de autitos . [+ OCH] 5196482_5200088
+%mor:	v|i-1P&PRES=go prepart|a=to inf|arma-INF=arm det:art|un&m=one
+	det:art|un&m=one n|tren&m=train prep|de=of
+	n|auto&m-DIM-PL=judicial_decree .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|6|DET 5|6|DET 6|3|OBJ 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*MOT:	una fila .  [+ OCH] 5200088_5201573
+%mor:	det:art|un-f=one n|fila&f=row .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	de la mo(to) moto . 5201573_5205982
+%mor:	prep|de=of det:art|el&f&SG=the n|moto&m=guide_post
+	n|moto&m=guide_post .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|MOD 5|1|PUNCT
+*MOT:	la moto .  [+ OCH] 5205982_5208758
+%mor:	det:art|el&f&SG=the n|moto&m=guide_post .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 5208758_5209981
+*MOT:	los barcos también .  [+ OCH] 5209981_5210534
+%mor:	det:art|el&m-PL=the n|barco-m-PL=boat adv|también=also .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	en el balcón hay un montón de autitos . [+ OCH] 5210534_5211344
+%mor:	prep|en=in det:art|el&m&SG=the n|balcón&m=balcony
+	v|habe-3S&PRES&SPEC=have det:art|un&m=one n|monte&m-AUG=hill
+	prep|de=of n|auto&m-DIM-PL=judicial_decree .
+%gra:	1|4|JCT 2|3|DET 3|1|POBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*MOT:	vamos a buscarlos ? [+ OCH] 5211344_5212508
+%mor:	v|i-1P&PRES=go prepart|a=to inf|busca-INF~pro:clit|OBJ&m&PL=search
+	?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ2 5|1|PUNCT
+*FEL:	la moto . 5212508_5214134
+%mor:	det:art|el&f&SG=the n|moto&m=guide_post .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	a ver vamos a buscar los autitos . [+ OCH] 5214134_5218649
+%mor:	prepart|a=to inf|ve-INF=see v|i-1P&PRES=go prepart|a=to
+	inf|busca-INF=search det:art|el&m-PL=the
+	n|auto&m-DIM-PL=judicial_decree .
+%gra:	1|2|INF 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*FEL:	xxx . 5218649_5219569
+*MOT:	a ver . 5219569_5227144
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 5227144_5229397
+*MOT:	a ver . 5229397_5230012
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	vení Feli(pe) acá . [+ OCH] 5230012_5230571
+%mor:	imp|veni-2S&IMP=come n:prop|Felipe adv|acá=here .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT
+*MOT:	esperá que te voy a buscar los autitos . [+ OCH] 5230571_5233474
+%mor:	imp|espera-2S&IMP=wait pro:rel|que=that pro:obj|te=you
+	v|i-1S&PRES=go prepart|a=to inf|busca-INF=search det:art|el&m-PL=the
+	n|auto&m-DIM-PL=judicial_decree .
+%gra:	1|0|ROOT 2|1|REL 3|4|SUBJ 4|2|CMOD 5|4|OBJ 6|5|COMP 7|8|DET 8|6|OBJ
+	9|1|PUNCT
+%com:	caminan y traen cosas .
+*MOT:	acá hay uno .  [+ OCH] 5233474_5245137
+%mor:	adv|acá=here v|habe-3S&PRES&SPEC=have pro:indef|uno=one .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	&ooom &oomm .  [+ OCH] 5245137_5253695
+%com:	parece que imita el sonido del motor del auto .
+*MOT:	a ver dale trae los otros .  [+ OCH] 5253695_5255167
+%mor:	prepart|a=to inf|ve-INF=see co|dale v|trae-3S&PRES=carry
+	det:art|el&m-PL=the pro:indef|otro-m-PL=other .
+%gra:	1|2|INF 2|4|SUBJ 3|2|OBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	trae todos .  [+ OCH] 5255167_5256153
+%mor:	v|trae-3S&PRES=carry pro:indef|todo-m-PL=all .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	trae muchos autitos y hacemos una fila . [+ OCH] 5256153_5256872
+%mor:	imp|trae-2S&IMP=carry pro:indef|mucho-m-PL=much
+	n|auto&m-DIM-PL=judicial_decree coord|y=and v|hace-1P&PRES=do
+	det:art|un-f=one n|fila&f=row .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|4|COORD 6|7|DET 7|5|OBJ 8|1|PUNCT
+*MOT:	a ver ?  [+ OCH] 5256872_5258104
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	&oleee xxx . 5258104_5259694
+*MOT:	despacio xxx .  [+ OCH] 5259694_5260970
+%mor:	adv|despacio=slowly .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=llora . 5260970_5262155
+*CHI:	&=balbucea . 5262155_5273387
+%com:	parece que CHI manipula varios juguetes .
+*FEL:	&pí &pí . 5273387_5295607
+%com:	imita la bocina del auto .
+*FEL:	xxx [=! llora] . 5295607_5297501
+*MOT:	qué pasó ?  [+ OCH] 5297501_5299738
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	no [/] no .  [+ OCH] 5299738_5301442
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	parece que Felipe golpea un juguete .
+*MOT:	xxx así ?   [+ OCH] 5301442_5302696
+%mor:	adv|así=thus ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	la torre [=! grita] . 5302696_5303464
+%mor:	det:art|el&f&SG=the n|torre&f=tower .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	pero por qué te enojas así ?  [+ OCH] 5303464_5304978
+%mor:	conj|pero=but prep|por=for pro:int|qué=what pro:obj|te=you
+	v|enoja-2S&PRES=annoy adv|así=thus ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|5|SUBJ 5|3|POBJ 6|5|JCT 7|1|PUNCT
+*FEL:	la torre [=! grita] . 5304978_5305747
+%mor:	det:art|el&f&SG=the n|torre&f=tower .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	qué ? [+ OCH] 5305747_5306779
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	querés que esté con vos mami ? [+ OCH] 5306779_5307570
+%mor:	v|quere-2S&PRES=want pro:rel|que=that cop|esta-13S&SUB&PRES=be
+	prep|con=with pro:obj|vos=you n|mami&f=mommy ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*FEL:	sí . 5307570_5308510
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bueno .  [+ OCH] 5308510_5309231
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	a ver ?   [+ OCH] 5309231_5310144
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx .  [+ OCH] 5310144_5311613
+*MOT:	dame un segundo .  [+ OCH] 5311613_5314026
+%mor:	imp|da-2S&IMP~pro:clit|1S=give det:art|un&m=one
+	adj|segundo-m=second .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|PRED 5|1|PUNCT
+*CHI:	&=llora . 5314026_5316080
+*MOT:	no le hagas eso a Mini &eh . [+ OCH] 5316080_5317974
+%mor:	adv|no=no pro:ind|le&m=him v|hace-2S&SUB&PRES=do
+	pro:dem|eso=that_one prepart|a=to n:prop|Mini .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|4|POBJ 7|3|PUNCT
+*CHI:	&mm &mm [=! balbucea] . 5317974_5319157
+*FEL:	agua . 5319157_5320556
+%mor:	n|agua&f=water .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 5320556_5324178
+*MOT:	dale trae los autitos así mami juega con vos .  [+ OCH] 5324178_5325870
+%mor:	co|dale v|trae-3S&PRES=carry det:art|el&m-PL=the
+	n|auto&m-DIM-PL=judicial_decree adv|así=thus n|mami&f=mommy
+	v|juga-3S&PRES=play prep|con=with pro:obj|vos=you .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|4|DET 4|7|SUBJ 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*FEL:	mamá . 5325870_5326593
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 5326593_5327838
+*FEL:	tomá . 5327838_5328377
+%mor:	imp|toma-2S&IMP=take .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	gracias . [+ OCH] 5328377_5329392
+%mor:	co|gracias=thanks .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	este también . [+ OCH] 5329392_5331182
+%mor:	det:dem|este=this adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FEL:	ete [: este] también ? 5331182_5333592
+%mor:	det:dem|este=this adv|también=also ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	&=balbucea . 5333592_5334629
+*FEL:	ete [: este] también ? 5334629_5336893
+%mor:	det:dem|este=this adv|también=also ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FEL:	ete [: este] también ? 5336893_5338068
+%mor:	det:dem|este=this adv|también=also ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FEL:	ete [: este] también ? 5338068_5339182
+%mor:	det:dem|este=this adv|también=also ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	si también . [+ OCH] 5339182_5340279
+%mor:	conj|si=if adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FEL:	este también . [+ OCH] 5340279_5343673
+%mor:	det:dem|este=this adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	este también . [+ OCH] 5343673_5345243
+%mor:	det:dem|este=this adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	este también . [+ OCH] 5345243_5347586
+%mor:	det:dem|este=this adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	ese también . [+ OCH] 5347586_5354232
+%mor:	det:dem|ese=that adv|también=also .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	&aamm . [+ CHI] 5354232_5358371
+%pra:	$IND
+%dad:	$IND
+*MOT:	gracias . [+ CHI] 5358371_5359862
+%mor:	co|gracias=thanks .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	gracias . [+ OCH] 5359862_5361950
+%mor:	co|gracias=thanks .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	a ver dame . [+ OCH] 5361950_5362500
+%mor:	prepart|a=to inf|ve-INF=see imp|da-2S&IMP~pro:clit|1S=give .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|3|OBJ2 5|1|PUNCT
+*MOT:	&aah &guau . [+ OCH] 5362500_5366675
+*MOT:	it@s:eng is@s:eng a@s:eng beautiful@s:eng color@s:eng . [+ OCH] 5366675_5371452
+%mor:	L2|it L2|is L2|a L2|beautiful L2|color .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MOT:	Feli(pe) what@s:eng color@s:eng is@s:eng it@s:eng ? [+ OCH] 5371452_5372811
+%mor:	n:prop|Felipe L2|what L2|color L2|is L2|it ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*FEL:	rojo . 5372811_5373891
+%mor:	adj|rojo-m=red .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	muy bien . [+ OCH] 5373891_5375113
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	&uuuu . [+ OCH] 5375113_5379907
+*MOT:	&uuaauu . [+ OCH] 5379907_5383123
+*MOT:	y el auto ? [+ OCH] 5383123_5385433
+%mor:	coord|y=and det:art|el&m&SG=the n|auto&m=judicial_decree ?
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD
+*FEL:	&pípí . 5385433_5386906
+%com:	imita la bocina del auto .
+*MOT:	xxx . [+ OCH] 5386906_5387750
+*FEL:	e [: es] mío eto [: esto] . 5387750_5388356
+%mor:	cop|se-3S&PRES=be pro:poss|mío-m=mine pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|1|PUNCT
+*MOT:	&aaauuu &uuuuu &uuuuu . [+ OCH] 5388356_5391790
+*MOT:	xxx . 5391790_5394634
+%tim:	01:30:00
+*FEL:	xxx . 5394634_5405377
+%com:	se oyen los autitos rodar .
+*MOT:	mirá Feli(pe) quiere ir con vos el autito . [+ OCH] 5405377_5406121
+%mor:	co|mirá n:prop|Felipe v|quere-3S&PRES=want inf|i-INF=go
+	prep|con=with pro:obj|vos=you det:art|el&m&SG=the
+	n|auto&m-DIM=judicial_decree .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|5|POBJ 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*FEL:	qué ? 5406121_5407062
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&eh [=! balbucea] . 5407062_5407700
+*MOT:	mirá . [+ OCH] 5407700_5408196
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	dónde está Felipe ? [+ CHI] 5408196_5409359
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be n:prop|Felipe ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*MOT:	dónde está Felipe ? [+ CHI] 5409359_5411248
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be n:prop|Felipe ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*CHI:	&=ríe . 5411248_5413139
+*MOT:	dónde está Felipe &eh ? [+ CHI] 5413139_5414124
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be n:prop|Felipe ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+*CHI:	&=balbucea . 5414124_5416918
+*MOT:	dónde está Felipe ? [+ CHI] 5416918_5417465
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be n:prop|Felipe ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%pra:	$PVN
+%dad:	$JUO
+%com:	parece que la mamá juega con un autito .
+*MOT:	&aaah . [+ CHI] 5417465_5419914
+%pra:	$IND
+%dad:	$JUO
+*MOT:	mirá Feli(pe) . [+ OCH] 5419914_5430348
+%mor:	co|mirá n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	Feli(pe) . [+ OCH] 5430348_5432433
+%mor:	n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	quiere ir con vos . [+ OCH] 5432433_5434057
+%mor:	v|quere-3S&PRES=want inf|i-INF=go prep|con=with pro:obj|vos=you .
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	&uu &uuu [=! balbucea] . 5434057_5435435
+%com:	tira un objeto y después hace ruido con el autito .
+*MOT:	&ooh &aaa . [+ CHI] 5435435_5437719
+%pra:	$IND
+%dad:	$JUO
+*MOT:	qué lindo este autito &eh . [+ CHI] 5437719_5460625
+%mor:	pro:int|qué=what adj|lindo-m=pretty cop|esta-13S&SUB&PRES=be
+	n|auto&m-DIM=judicial_decree .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%pra:	$DEN
+%dad:	$JUO
+*CHI:	&=ríe . 5460625_5462658
+*MOT:	&ay qué lindo este autito &eh . [+ CHI] 5462658_5466997
+%mor:	pro:int|qué=what adj|lindo-m=pretty cop|esta-13S&SUB&PRES=be
+	n|auto&m-DIM=judicial_decree .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%pra:	$DEN
+%dad:	$JUO
+*MOT:	qué lindo ! [+ OCH] 5466997_5467879
+%mor:	pro:int|qué=what adj|lindo-m=pretty !
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%pra:	$DEN
+%dad:	$JUO
+*CHI:	&eh [=! balbucea] . 5467879_5470857
+%com:	parece que manipula los autitos .
+*MOT:	&=hace ruido con la boca . [+ CHI] 5470857_5481734
+%mor:	n|ruido&m=noise prep|con=with det:art|el&f&SG=the n|boca&f=mouth .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+*CHI:	&aa [=! balbucea] . 5481734_5511386
+*MOT:	&ooohh . [+ OCH] 5511386_5511896
+*FEL:	&epa . 5511896_5512437
+*MOT:	&epa . [+ OCH] 5512437_5512974
+*FEL:	mamá . 5512974_5513485
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . [+ OCH] 5513485_5514067
+*MOT:	xxx . [+ OCH] 5514067_5514790
+*FEL:	&oh no mia [: mirá] . 5514790_5518252
+%mor:	co|no co|mirá .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	&oh no . [+ OCH] 5518252_5519503
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	mia [: mirá] . 5519503_5520251
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&oh no . [+ OCH] 5520251_5521560
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	mia [: mirá] . 5521560_5522493
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&oh no . [+ OCH] 5522493_5524495
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	mia [: mirá] . 5524495_5527856
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	mueven objetos
+*MOT:	xxx . [+ OCH] 5527856_5528972
+*FEL:	mia [: mirá] mia [: mirá] . 5528972_5533671
+%mor:	co|mirá co|mirá .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	xxx . [+ OCH] 5533671_5537794
+*FEL:	xxx . 5537794_5539672
+*CHI:	&mmm [=! balbucea] . 5539672_5545133
+*FEL:	pará . 5545133_5546320
+%mor:	imp|para-2S&IMP=stop .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	mueven objetos .
+*MOT:	xxx . 5546320_5549636
+*FEL:	mia [: mirá] . 5549636_5550872
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	cuidado xxx . [+ OCH] 5550872_5551656
+%mor:	co|cuidado=careful .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 5551656_5560084
+*FEL:	ya está mia [: mirá] . 5560084_5561214
+%mor:	adv|ya=already cop|esta-3S&PRES=be co|mirá .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FEL:	no xxx . 5561214_5563669
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	la Tita . 5563669_5564222
+%mor:	det:art|el&f&SG=the n:prop|Tita .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	la mamá . 5564222_5564743
+%mor:	det:art|el&f&SG=the n|mamá&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	la mamá . 5564743_5565300
+%mor:	det:art|el&f&SG=the n|mamá&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	la mamá de . 5565300_5566903
+%mor:	det:art|el&f&SG=the n|mamá&f=mommy prep|de=of .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	xxx . 5566903_5568387
+*FEL:	la mamá de Tita . 5568387_5569019
+%mor:	det:art|el&f&SG=the n|mamá&f=mommy prep|de=of n:prop|Tita .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	de quién ? [+ OCH] 5569019_5570143
+%mor:	prep|de=of pro:int|quién=who ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	&mm [=! balbucea] . 5570143_5571507
+*FEL:	la [/] la Tita . 5571507_5573219
+%mor:	det:art|el&f&SG=the n:prop|Tita .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	vos . 5573219_5574507
+%mor:	pro:obj|vos=you .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	yo ? [+ OCH] 5574507_5575058
+%mor:	pro:sub|yo=I ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	soy tu mamá . [+ OCH] 5575058_5576858
+%mor:	cop|se-1S&PRES=be det:poss|tu=your n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	xxx . [+ OCH] 5576858_5578184
+*FEL:	ta [: está] domida [: dormida] . 5578184_5580958
+%mor:	cop|esta-3S&PRES=be part|dormi-PPART-f=sleep .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*FEL:	ta [: está] domida [: dormida] . 5580958_5582747
+%mor:	cop|esta-3S&PRES=be part|dormi-PPART-f=sleep .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*FEL:	xxx . 5582747_5584951
+*MOT:	xxx . [+ OCH] 5584951_5594557
+*FEL:	no . 5594557_5595425
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	&eemm &em . 5595425_5596233
+*FEL:	xxx . 5596233_5603103
+*MOT:	&nia . [+ OCH] 5603103_5604984
+*FEL:	&eeemm . 5604984_5606076
+*MOT:	&eeemm . [+ OCH] 5606076_5606779
+*MOT:	&nia . [+ OCH] 5606779_5607516
+*FEL:	no . 5607516_5608134
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&=ríe . [+ OCH] 5608134_5608872
+*FEL:	no . 5608872_5609912
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	las cosquillas [/] las cosquillas . [+ OCH] 5609912_5611642
+%mor:	det:art|el&f-PL=the det:art|el&f-PL=the n|cosquilla&f-PL=tickle .
+%gra:	1|3|DET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*FEL:	&=ríe . 5611642_5613224
+*MOT:	las cosquillas . [+ OCH] 5613224_5613692
+%mor:	det:art|el&f-PL=the n|cosquilla&f-PL=tickle .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	&=ríe . 5613692_5614183
+*MOT:	las cosquillas [/] las cosquillas [/] las cosquillas [/] las
+	cosquillas  . [+ OCH] 5614183_5615081
+%mor:	det:art|el&f-PL=the det:art|el&f-PL=the det:art|el&f-PL=the
+	det:art|el&f-PL=the n|cosquilla&f-PL=tickle .
+%gra:	1|5|DET 2|5|DET 3|5|DET 4|5|DET 5|0|ROOT 6|5|PUNCT
+*FEL:	&=ríe . 5615081_5617432
+*FEL:	más . 5617432_5618435
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	las cosquillas . [+ OCH] 5618435_5620095
+%mor:	det:art|el&f-PL=the n|cosquilla&f-PL=tickle .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	vení . [+ OCH] 5620095_5621781
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué hacés Mini ? [+ CHI] 5621781_5622693
+%mor:	pro:int|qué=what v|hace-2S&PRES=do n:prop|Mini ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%pra:	$PVV
+%dad:	$IND
+*MOT:	no ahí no . [+ CHI] 5622693_5623723
+%mor:	adv|no=no adv|ahí=there adv|no=no .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*FEL:	&=ríe . 5623723_5624821
+*MOT:	ahí no . [+ CHI] 5624821_5626382
+%mor:	adv|ahí=there adv|no=no .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*FEL:	&=ríe . 5626382_5629010
+*CHI:	&=balbucea . 5629010_5629995
+*MOT:	no [/] no . [+ CHI] 5629995_5633341
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	ésto no . [+ CHI] 5633341_5634070
+%mor:	pro:dem|éste-m=this_one co|no .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	no se puede tocar . [+ CHI] 5634070_5635342
+%mor:	adv|no=no pro:refl|se=itself v|pode-3S&PRES=can inf|toca-INF=touch
+	.
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|3|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	&chi &chi &chi &chi &chi .  [+ CHI] 5635342_5639378
+%pra:	$IND
+%dad:	$IND
+*MOT:	&chi &chi &chi &chi &chi .  [+ CHI] 5639378_5640444
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 5640444_5646064
+*MOT:	no . [+ CHI] 5646064_5646733
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	no . [+ CHI] 5646733_5647406
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	xxx . 5647406_5648925
+*FEL:	xxx . 5648925_5649581
+*FEL:	puedo xxx ? 5649581_5650650
+%mor:	v|pode-1S&PRES=can ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no . [+ CHI] 5650650_5651381
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&eeh [=! balbucea] . 5651381_5651956
+*MOT:	no . [+ CHI] 5651956_5652550
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&eeh [=! balbucea] . 5652550_5653309
+*MOT:	no . [+ CHI] 5653309_5654577
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=ríe . 5654577_5655941
+*MOT:	&chi &chi &chi &chi .  [+ CHI] 5655941_5658507
+%pra:	$IND
+%dad:	$IND
+*FEL:	xxx . 5658507_5660013
+*MOT:	no .   [+ CHI] 5660013_5660644
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=ríe . 5660644_5662002
+%com:	se escucha un ruido que parece de un autito .
+*CHI:	&eee [=! balbucea] . 5662002_5663398
+*MOT:	&uy qué es eso ? [+ OCH] 5663398_5665908
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	no puede pasar . [+ OCH] 5665908_5667161
+%mor:	adv|no=no v|pode-3S&PRES=can inf|pasa-INF=pass .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|2|PUNCT
+*MOT:	no puede pasar . [+ OCH] 5667161_5668924
+%mor:	adv|no=no v|pode-3S&PRES=can inf|pasa-INF=pass .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|2|PUNCT
+*MOT:	esta cerrada la barrera .  [+ OCH] 5668924_5671089
+%mor:	det:dem|este-f=this part|cerra-PPART-f=close det:art|el&f&SG=the
+	n|barrera&f=barrier .
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+*MOT:	decíle .  [+ CHI] 5671089_5674922
+%mor:	imp|deci-2S&IMP~pro:clit|3S=say .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+%pra:	$DAA
+%dad:	$JUO
+*MOT:	quiere pasar ? [+ OCH] 5674922_5676003
+%mor:	v|quere-3S&PRES=want inf|pasa-INF=pass ?
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*FEL:	ti [: si] . 5676003_5677200
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	mueven objetos .
+*MOT:	bueno . [+ OCH] 5677200_5678099
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	monedas . [+ OCH] 5678099_5678565
+%mor:	n|moneda&f-PL=money .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&ee [=! balbucea] . 5678565_5680684
+*MOT:	ahora si . [+ OCH] 5680684_5681842
+%mor:	adv|ahora=now conj|si=if .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	pase .  [+ OCH] 5681842_5682948
+%mor:	imp|pasa-3S&IMP=pass .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	un puente .  [+ OCH] 5682948_5684080
+%mor:	det:art|un&m=one n|puente&f=bridge .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	ahora se cierra de nuevo . [+ OCH] 5684080_5685346
+%mor:	adv|ahora=now pro:refl|se=itself v|cerra-3S&PRES=close prep|de=of
+	adj|nuevo-m=new .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*FEL:	xxx . 5685346_5686114
+*MOT:	&ooohh xxx no puede pasar . [+ OCH] 5686114_5687735
+%mor:	adv|no=no v|pode-3S&PRES=can inf|pasa-INF=pass .
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|2|PUNCT
+*FEL:	ahora a mí . 5687735_5688323
+%mor:	adv|ahora=now prepart|a=to pro:prep|mí=me .
+%gra:	1|2|JCT 2|3|INF 3|0|ROOT 4|3|PUNCT
+*MOT:	ahora no puede volver . [+ OCH] 5688323_5689076
+%mor:	adv|ahora=now adv|no=no v|pode-3S&PRES=can inf|volve-INF=turn .
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|COMP 5|3|PUNCT
+*FEL:	a mí . 5689076_5689979
+%mor:	prepart|a=to pro:prep|mí=me .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	ahola [: ahora] a mi . 5689979_5691135
+%mor:	adv|ahora=now prepart|a=to det:poss|mi=my .
+%gra:	1|2|JCT 2|3|INF 3|0|ROOT 4|3|PUNCT
+%com:	se oye un autito rodar .
+*MOT:	&aah xxx . [+ OCH] 5691135_5692916
+*FEL:	no (.)  no te toca . [+ OCH] 5692916_5697977
+%mor:	adv|no=no adv|no=no pro:obj|te=you v|toca-3S&PRES=touch .
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	&uh . [+ OCH] 5697977_5699840
+*MOT:	pero vos no podés pasar . [+ OCH] 5699840_5702338
+%mor:	conj|pero=but pro:obj|vos=you adv|no=no v|pode-2S&PRES=can
+	inf|pasa-INF=pass .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|2|POBJ 5|4|COMP 6|1|PUNCT
+*FEL:	no . 5702338_5703733
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 5703733_5705560
+*FEL:	xxx . 5705560_5708572
+*MOT:	&lalala &lalalala [=! canta] . 5708572_5709298
+*FEL:	ahola [: ahora] a mi . 5709298_5710408
+%mor:	adv|ahora=now prepart|a=to det:poss|mi=my .
+%gra:	1|2|JCT 2|3|INF 3|0|ROOT 4|3|PUNCT
+*FEL:	ahola [: ahora] a mi . 5710408_5712305
+%mor:	adv|ahora=now prepart|a=to det:poss|mi=my .
+%gra:	1|2|JCT 2|3|INF 3|0|ROOT 4|3|PUNCT
+*MOT:	&aaa . [+ OCH] 5712305_5713655
+*MOT:	a vos qué ? [+ OCH] 5713655_5714597
+%mor:	prepart|a=to pro:obj|vos=you pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*FEL:	xxx . 5714597_5715277
+*MOT:	ya está ? [+ OCH] 5715277_5715925
+%mor:	adv|ya=already cop|esta-3S&PRES=be ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	no . [+ OCH] 5715925_5716434
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&aaa no . [+ OCH] 5716434_5716999
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&aaa no . [+ OCH] 5716999_5717664
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	ahola [: ahora] a dónde va ? 5717664_5719168
+%mor:	adv|ahora=now prepart|a=to pro:int|dónde=where v|i-3S&PRES=go ?
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	&=balbucea . 5719168_5723057
+*FEL:	xxx . 5723057_5723805
+*CHI:	&=balbucea . 5723805_5724947
+*FEL:	xxx . 5724947_5725680
+*MOT:	no . [+ OCH] 5725680_5726478
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&oooouu . [+ OCH] 5726478_5727342
+*MOT:	&oooh no . [+ OCH] 5727342_5729384
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 5729384_5731247
+*MOT:	crash@s:eng . [+ OCH] 5731247_5731945
+%mor:	L2|crash .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	Mini . [+ CHI] 5731945_5734893
+%mor:	n:prop|Mini .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+*MOT:	Mini .  [+ CHI] 5734893_5740679
+%mor:	n:prop|Mini .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+*CHI:	&=balbucea . 5740679_5741701
+*MOT:	no Mini no la muerdas a mami . [+ CHI] 5741701_5745647
+%mor:	co|no n:prop|Mini adv|no=no pro:obj|la-f=she
+	v|morde-2S&SUB&PRES=bite prepart|a=to n|mami&f=mommy .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|4|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%pra:	$DAA
+%dad:	$JUO
+*FEL:	quiero pasar . 5745647_5746276
+%mor:	v|quere-1S&PRES=want inf|pasa-INF=pass .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*FEL:	quiero pasar . 5746276_5747473
+%mor:	v|quere-1S&PRES=want inf|pasa-INF=pass .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*CHI:	&iii &iii [=! balbucea] . 5747473_5748207
+*FEL:	&epa . 5748207_5750280
+*MOT:	&epa .  [+ OCH] 5750280_5751843
+*MOT:	Feli(pe) .  [+ OCH] 5751843_5752596
+%mor:	n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . [+ OCH] 5752596_5755100
+*CHI:	&aa [=! balbucea] . 5755100_5756241
+%com:	mueven objetos .
+*MOT:	hola [/] hola [/] hola . [+ CHI] 5756241_5763427
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+*FEL:	&oooh no . 5763427_5764806
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no .  [+ OCH] 5764806_5765394
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ooh no .  [+ OCH] 5765394_5766545
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 5766545_5778121
+*MOT:	If@s:eng you@s:eng say@s:eng xxx [=! canta] .  [+ OCH] 5778121_5780670
+%mor:	L2|If L2|you L2|say .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*FEL:	quiero pasar . 5780670_5781827
+%mor:	v|quere-1S&PRES=want inf|pasa-INF=pass .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*FEL:	&ay . 5781827_5787176
+*FEL:	&ooohh . 5787176_5787937
+*MOT:	&aaaa muy bien Juampi [: Juan Pablo] está parado solo . [+ CHI] 5787937_5802196
+%mor:	adv|muy=very adv|bien=well n:prop|Juan n:prop|Pablo
+	cop|esta-3S&PRES=be part|para-PRPART-m=stop adj|solo-m=alone .
+%gra:	1|3|JCT 2|3|JCT 3|5|SUBJ 4|3|MOD 5|0|ROOT 6|5|PRED 7|6|OBJ 8|5|PUNCT
+%pra:	$DEN
+%dad:	$JUO
+*MOT:	no no la muerdas a mami . [+ CHI] 5802196_5806985
+%mor:	adv|no=no adv|no=no pro:obj|la-f=she v|morde-2S&SUB&PRES=bite
+	prepart|a=to n|mami&f=mommy .
+%gra:	1|2|JCT 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%pra:	$DAA
+%dad:	$JUO
+*MOT:	mirá . [+ OCH] 5806985_5809141
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	Feli(pe) mirá . [+ OCH] 5809141_5811644
+%mor:	n:prop|Felipe co|mirá .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%com:	mueven objetos y se escuchan sonidos provenientes de los juguetes  .
+*CHI:	&=balbucea . 5811644_5815756
+*CHI:	&=ríe . 5815756_5824406
+*MOT:	despacito ! [+ OCH] 5824406_5836395
+%mor:	adj|despacio-DIM=slowly !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	quiero pasar . 5836395_5841085
+%mor:	v|quere-1S&PRES=want inf|pasa-INF=pass .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*MOT:	no ! [+ OCH] 5841085_5841719
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	la xxx . [+ OCH] 5841719_5842351
+%mor:	det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . [+ OCH] 5842351_5843770
+*MOT:	&eeyy  . [+ OCH] 5843770_5854059
+*FEL:	&=grita . 5854059_5861521
+*MOT:	&ooy viene el tractor ahora . [+ OCH] 5861521_5872261
+%mor:	v|veni-3S&PRES=come det:art|el&m&SG=the n|tractor&m=tractor
+	adv|ahora=now .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+%com:	se oyen las ruedas del tractor .
+*MOT:	&aah &ooh . [+ OCH] 5872261_5877148
+*MOT:	&rum &ruuum . [+ OCH] 5877148_5881441
+%com:	imita el sonido del tractor .
+*FEL:	xxx el tractor ? 5881441_5884970
+%mor:	det:art|el&m&SG=the n|tractor&m=tractor ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	qué ? [+ OCH] 5884970_5885506
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&eeh &ooh . [+ OCH] 5885506_5888670
+*MOT:	gracias . [+ CHI] 5888670_5891678
+%mor:	co|gracias=thanks .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+*MOT:	here@s:eng you@s:eng are@s:eng [/] here@s:eng you@s:eng are@s:eng .
+	[+ CHI] 5891678_5899448
+%mor:	L2|here L2|you L2|here L2|you L2|are .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	thank@s:eng you@s:eng . [+ CHI] 5899448_5900163
+%mor:	L2|thank L2|you .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&iii [=! balbucea] . 5900163_5901698
+*MOT:	thank@s:eng you@s:eng . [+ CHI] 5901698_5902278
+%mor:	L2|thank L2|you .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	here@s:eng you@s:eng are@s:eng ?  [+ CHI] 5902278_5910513
+%mor:	L2|here L2|you L2|are ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	&ooohh .  [+ CHI] 5910513_5912631
+%pra:	$IND
+%dad:	$IND
+*MOT:	thank@s:eng you@s:eng [/]  thank@s:eng you@s:eng .   [+ CHI] 5912631_5915249
+%mor:	L2|thank L2|thank L2|you .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	chau Feli(pe) ! [+ OCH] 5915249_5918916
+%mor:	co|chau=ciao n:prop|Felipe !
+%gra:	1|0|ROOT 2|1|APP 3|1|PUNCT
+*MOT:	xxx the@s:eng cars@s:eng .  [+ CHI] 5918916_5922000
+%mor:	L2|the L2|cars .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=ríe . 5922000_5925137
+*MOT:	a ver ? [+ OCH] 5925137_5927227
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	one@s:eng two@s:eng .  [+ OCH] 5927227_5928743
+%mor:	L2|one L2|two .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*FEL:	xxx . 5928743_5929241
+*MOT:	and@s:eng  . [+ OCH] 5929241_5930074
+%mor:	L2|and .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	three@s:eng . 5930074_5930643
+%mor:	L2|three .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	three@s:eng . [+ OCH] 5930643_5931211
+%mor:	L2|three .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx [=! susurra] . 5931211_5935638
+*FEL:	xxx . 5935638_5936197
+*MOT:	and@s:eng three@s:eng . [+ OCH] 5936197_5939926
+%mor:	L2|and L2|three .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	one@s:eng two@s:eng and@s:eng three@s:eng . [+ OCH] 5939926_5947136
+%mor:	L2|one L2|two L2|and L2|three .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*MOT:	yes@s:eng . [+ OCH] 5947136_5950235
+%mor:	L2|yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . 5950235_5953995
+*CHI:	&aaah [=! balbucea] . 5953995_5957793
+*MOT:	no [/] no [/] no . [+ OCH] 5957793_5958479
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	Mini . 5958479_5958917
+%mor:	n:prop|Mini .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&onam [=! balbucea] . 5958917_5959500
+*MOT:	vamos xxx ? [+ OCH] 5959500_5960121
+%mor:	co|vamos=go ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	mueven objetos .
+*CHI:	&mamamá  &mamamá [=! balbucea] . 5960121_5961135
+*MOT:	&mamamá . [+ CHI] 5961135_5961889
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 5961889_5963265
+*MOT:	&mamamá . [+ CHI] 5963265_5964453
+%pra:	$IND
+%dad:	$IND
+*MOT:	xxx a mí ? [+ CHI] 5964453_5965745
+%mor:	prepart|a=to pro:prep|mí=me ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	xxx .[+ CHI] 5965745_5967328
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 5967328_5968544
+*MOT:	a qué [=! susurra] ? [+ CHI] 5968544_5972196
+%mor:	prepart|a=to pro:int|qué=what ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	&mmm [=! susurra] . [+ CHI] 5972196_5981699
+%pra:	$IND
+%dad:	$IND
+*MOT:	xxx . 5981699_5984509
+*MOT:	a ver . 5984509_5985750
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	vamos allá Feli(pe) ? [+ OCH] 5985750_5986693
+%mor:	v|i-1P&PRES=go adv|allá=there n:prop|Felipe ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	o acá ? [+ OCH] 5986693_5988186
+%mor:	coord|o=or adv|acá=here ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+*FEL:	no ahí . 5988186_5989233
+%mor:	adv|no=no adv|ahí=there .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	acá ? [+ OCH] 5989233_5989726
+%mor:	adv|acá=here ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	si . 5989726_5990644
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no [/] no . 5990644_5992446
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ah me siento ? [+ OCH] 5992446_5993268
+%mor:	pro:obj|me=me v|senti-1S&PRES=feel ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FEL:	sí &ah . 5993268_5994111
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bueno a ver . [+ OCH] 5994111_5995568
+%mor:	co|bueno=good prepart|a=to inf|ve-INF=see .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+*MOT:	pará que prendemos la luz que está re oscuro . [+ OCH] 5995568_5997007
+%mor:	imp|para-2S&IMP=stop pro:rel|que=that v|prende-1P&PRES=ignite
+	det:art|el&f&SG=the n|luz&f=light pro:rel|que=that
+	cop|esta-3S&PRES=be adv|re=really adj|oscuro-m=dark .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|5|DET 5|3|OBJ 6|5|REL 7|6|CMOD 8|9|MOD
+	9|7|PRED 10|1|PUNCT
+*MOT:	ahí está . [+ OCH] 5997007_5998711
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&eeh [=! balbucea] . 5998711_6000563
+*MOT:	ahí está . [+ CHI] 6000563_6001335
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+%tim:	01:40:00
+*MOT:	mirá . [+ CHI] 6001335_6003539
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*CHI:	&=balbucea . 6003539_6009102
+*FEL:	una taleta [: paleta] . 6009102_6012365
+%mor:	det:art|un-f=one n|paleta&f=stick .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	&aahh &ooohh . [+ OCH] 6012365_6013997
+*FEL:	&uuuh xxx no . 6013997_6015395
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&oohh xxx . [+ OCH] 6015395_6017678
+*FEL:	ya dale . 6017678_6018600
+%mor:	adv|ya=already co|dale .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 6018600_6020336
+*CHI:	&mm [=! balbucea] . 6020336_6022131
+*MOT:	&chi &chi &chi  &chi &chi . [+ CHI] 6022131_6044137
+%pra:	$IND
+%dad:	$IND
+*CHI:	&mm [=! balbucea] . 6044137_6045072
+*MOT:	&=canta . [+ CHI] 6045072_6047342
+%pra:	$IND
+%dad:	$IND
+*MOT:	&oh is@s:eng a@s:eng beautiful@s:eng day@s:eng . [+ OCH] 6047342_6050285
+%mor:	L2|is L2|a L2|beautiful L2|day .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*FEL:	xxx . 6050285_6052423
+*MOT:	xxx . [+ OCH] 6052423_6053043
+*FEL:	quiero la tompu [: computadora] tititita [: chiquitita] . 6053043_6054745
+%mor:	v|quere-1S&PRES=want det:art|el&f&SG=the n|computador-f=computer
+	adj|chico-DIM-DIM=small .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*MOT:	ok . [+ OCH] 6054745_6056524
+%mor:	co|ok .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	quiero la (.) la tompu [: computadora] tititita [: chiquitita] . 6056524_6059866
+%mor:	v|quere-1S&PRES=want det:art|el&f&SG=the det:art|el&f&SG=the
+	n|computador-f=computer adj|chico-DIM-DIM=small .
+%gra:	1|0|ROOT 2|4|DET 3|4|DET 4|1|OBJ 5|4|MOD 6|1|PUNCT
+*MOT:	no sé a dónde está mi amor . [+ OCH] 6059866_6060572
+%mor:	adv|no=no v|sabe-1S&PRES=know prepart|a=to pro:int|dónde=where
+	cop|esta-3S&PRES=be det:poss|mi=my co|amor=love .
+%gra:	1|2|JCT 2|5|SUBJ 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|ROOT 8|7|PUNCT
+*FEL:	quiero la (.) la tompu [: computadora] tititita [: chiquitita] . 6060572_6065183
+%mor:	v|quere-1S&PRES=want det:art|el&f&SG=the det:art|el&f&SG=the
+	n|computador-f=computer adj|chico-DIM-DIM=small .
+%gra:	1|0|ROOT 2|4|DET 3|4|DET 4|1|OBJ 5|4|MOD 6|1|PUNCT
+*MOT:	ahora veo xxx . [+ OCH] 6065183_6067622
+%mor:	adv|ahora=now v|ve-1S&PRES=see .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FEL:	quiero la . 6067622_6068927
+%mor:	v|quere-1S&PRES=want det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*MOT:	xxx . 6068927_6070886
+*FEL:	quiero la (.) la tompu [: computadora] tititita [: chiquitita] . 6070886_6072104
+%mor:	v|quere-1S&PRES=want det:art|el&f&SG=the det:art|el&f&SG=the
+	n|computador-f=computer adj|chico-DIM-DIM=small .
+%gra:	1|0|ROOT 2|4|DET 3|4|DET 4|1|OBJ 5|4|MOD 6|1|PUNCT
+*MOT:	vamos a hacer pis ? [+ OCH] 6072104_6072996
+%mor:	v|i-1P&PRES=go prepart|a=to inf|hace-INF=do n|pis&m=piss ?
+%gra:	1|0|ROOT 2|4|INF 3|4|DET 4|1|OBJ 5|1|PUNCT
+*FEL:	compu(tadora) chititita [: chiquitita] . 6072996_6075164
+%mor:	n|computador-f=computer adj|chico-DIM-DIM=small .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	vamos a hacer pis ? [+ OCH] 6075164_6076212
+%mor:	v|i-1P&PRES=go prepart|a=to inf|hace-INF=do n|pis&m=piss ?
+%gra:	1|0|ROOT 2|4|INF 3|4|DET 4|1|OBJ 5|1|PUNCT
+*FEL:	no compu(tadora) chititita [: chiquitita] . 6076212_6078408
+%mor:	adv|no=no n|computador-f=computer adj|chico-DIM-DIM=small .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*MOT:	xxx se rompió . [+ OCH] 6078408_6080872
+%mor:	pro:refl|se=itself v|rompe-3S&PRET=break .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	me hacés una torta ? [+ OCH] 6080872_6084265
+%mor:	pro:obj|me=me v|hace-2S&PRES=do det:art|un-f=one n|torta&f=tart ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*FEL:	sí . 6084265_6085703
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	hacés una torta con mami ? [+ OCH] 6085703_6086837
+%mor:	v|hace-2S&PRES=do det:art|un-f=one n|torta&f=tart prep|con=with
+	n|mami&f=mommy ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*FEL:	no (.) no a mí . 6086837_6088050
+%mor:	adv|no=no adv|no=no prepart|a=to pro:prep|mí=me .
+%gra:	1|2|JCT 2|3|JCT 3|4|INF 4|0|ROOT 5|4|PUNCT
+*MOT:	a vos ?  [+ OCH] 6088050_6089184
+%mor:	prepart|a=to pro:obj|vos=you ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	te hago una torta [=! ríe] ? [+ OCH] 6089184_6090179
+%mor:	pro:obj|te=you v|hace-1S&PRES=do det:art|un-f=one n|torta&f=tart ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*FEL:	xxx . 6090179_6090856
+*MOT:	a ver acostate . [+ OCH] 6090856_6091676
+%mor:	prepart|a=to inf|ve-INF=see
+	imp|acosta-2S&IMP~pro:clit|2S=put_to_bet .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|3|OBJ2 5|1|PUNCT
+*MOT:	Mini vamos a hacer una torta ? [+ CHI] 6091676_6093494
+%mor:	n:prop|Mini v|i-1P&PRES=go prepart|a=to inf|hace-INF=do
+	det:art|un-f=one n|torta&f=tart ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%pra:	$PVN
+%dad:	$JUE
+*FEL:	no . 6093494_6095005
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	una torta con Feli(pe) ? [+ CHI] 6095005_6096319
+%mor:	det:art|un-f=one n|torta&f=tart prep|con=with n:prop|Felipe ?
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%pra:	$DEN
+%dad:	$JUE
+*CHI:	&=balbucea . 6096319_6097242
+*MOT:	sí ? [+ CHI] 6097242_6098262
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$JUE
+*CHI:	&=balbucea . 6098262_6099216
+*MOT:	a ver ? [+ CHI] 6099216_6099787
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$JUE
+*FEL:	xxx . 6099787_6100541
+*MOT:	a ver . [+ CHI] 6100541_6101046
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$JUE
+*MOT:	vamos a poner . [+ CHI] 6101046_6101693
+%mor:	v|i-1P&PRES=go prepart|a=to inf|pone-INF=put .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+%pra:	$DEV
+%dad:	$JUE
+*CHI:	&=balbucea . 6101693_6103541
+*MOT:	xxx azúcar . [+ OCH] 6103541_6106558
+%mor:	n|azúcar&m=sugar .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 6106558_6108834
+*FEL:	harina . 6108834_6109813
+%mor:	n|harina&f=flour .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&mmm [=! balbucea] . 6109813_6110553
+*MOT:	&mmm un poquito de . [+ OCH] 6110553_6111690
+%mor:	det:art|un&m=one pro:indef|poquito=little prep|de=of .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*FEL:	de xxx . 6111690_6112292
+%mor:	prep|de=of .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	de harina . [+ OCH] 6112292_6113136
+%mor:	prep|de=of n|harina&f=flour .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	un poquito de manteca . [+ OCH] 6113136_6116318
+%mor:	det:art|un&m=one pro:indef|poquito=little prep|de=of
+	n|manteca&f=lard .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	&=balbucea . 6116318_6120996
+*FEL:	tepchup [: Kepchup] . 6120996_6121686
+%mor:	n:prop|Kepchup .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	un poquito de Kepchup . [+ OCH] 6121686_6122591
+%mor:	det:art|un&m=one pro:indef|poquito=little prep|de=of n:prop|Kepchup
+	.
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%com:	se oye la música de un juguete .
+*CHI:	&=balbucea . 6122591_6125082
+*MOT:	revolvemos todo . [+ OCH] 6125082_6126681
+%mor:	re#v|volve-1P&PRES=turn pro:indef|todo-m=all .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*FEL:	xxx más [/] más xxx . 6126681_6130134
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx más xxx . [+ OCH] 6130134_6133238
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	revuelve [/] revuelve [/] revuelve [/] revuelve rápido [/] rápido
+	[/] rápido [/] rápido [/] rápido [/] rápido  . [+ OCH] 6133238_6136660
+%mor:	re#v|volve-3S&PRES=turn adj|rápido-m=rapid .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	y ahora vamos a estirarlo y amasarlo . [+ OCH] 6136660_6140214
+%mor:	coord|y=and adv|ahora=now v|i-1P&PRES=go prepart|a=to
+	inf|estira-INF~pro:clit|OBJ&m=stretch coord|y=and
+	inf|amasa-INF~pro:clit|OBJ&m=knead .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|INF 5|3|COMP 6|5|OBJ2 7|5|CONJ
+	8|7|COORD 9|8|OBJ2 10|1|PUNCT
+*CHI:	&=balbucea . 6140214_6144427
+*MOT:	vamos a amasar [/] amasar  [/] amasar . [+ OCH] 6144427_6146455
+%mor:	v|i-1P&PRES=go prepart|a=to inf|amasa-INF=knead .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+*CHI:	&uuu &uu &uuu [=! balbucea] . 6146455_6147482
+*MOT:	&lalalala &lalalalala &la [=! canta] . [+ OCH] 6147482_6150103
+*MOT:	a ver qué pasó ? [+ OCH] 6150103_6156603
+%mor:	prepart|a=to inf|ve-INF=see pro:int|qué=what v|pasa-3S&PRET=pass ?
+%gra:	1|2|INF 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*FEL:	xxx &lala &lala [=! canta] . 6156603_6158424
+*MOT:	&lala &laralala &larala [=! canta] . [+ OCH] 6158424_6161220
+*MOT:	muy bien . [+ OCH] 6161220_6168149
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	qué más le pongo ? [+ OCH] 6168149_6170203
+%mor:	pro:int|qué=what adv|más=more pro:ind|le&m=him v|pone-1S&PRES=put ?
+%gra:	1|4|SUBJ 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	ahora la ponemos en el horno . [+ OCH] 6170203_6171103
+%mor:	adv|ahora=now pro:obj|la-f=she v|pone-1P&PRES=put prep|en=in
+	det:art|el&m&SG=the n|horno&m=oven .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	miren que va a hacer mucho calor &eh . [+ OCH] 6171103_6172053
+%mor:	v|mira-3P&SUB&PRES=look pro:rel|que=that v|i-3S&PRES=go
+	prepart|a=to inf|hace-INF=do adv|mucho=much n|calor&m=heat .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|OBJ 5|4|COMP 6|7|MOD 7|5|OBJ 8|1|PUNCT
+*MOT:	calor [/] calor [/]  calor [/] calor [/] calor [/] calor  . [+ OCH] 6172053_6177431
+%mor:	n|calor&m=heat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	listo . [+ OCH] 6177431_6179292
+%mor:	adj|listo-m=ready .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	la sacamos del horno . [+ OCH] 6179292_6180641
+%mor:	pro:obj|la-f=she v|saca-1P&PRES&PRET=bring_out
+	prep|de~det:art|el&m=of n|horno&m=oven .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MOT:	&chu . [+ OCH] 6180641_6182854
+%com:	parece que imita el ruido de la puerta del horno .
+*MOT:	y la vamos a cortar en pedacitos así le servimos a todos un
+	pedacito . [+ OCH] 6182854_6183874
+%mor:	coord|y=and pro:obj|la-f=she v|i-1P&PRES=go prepart|a=to
+	inf|corta-INF=cut prep|en=in n|pedazo&m-DIM-PL=piece adv|así=thus
+	pro:ind|le&m=him v|servi-1P&PRES&PRET=serve prepart|a=to
+	pro:indef|todo-m-PL=all det:art|un&m=one n|pedazo&m-DIM=piece .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|7|MOD
+	9|5|OBJ 10|9|CMOD 11|10|OBJ 12|11|COMP 13|14|DET 14|12|OBJ 15|1|PUNCT
+*MOT:	&chi &chi &chi &chi xxx &chiqui &chiqui &chiqui &chiqui &chi .
+	[+ OCH] 6183874_6188607
+*MOT:	y a comerlo en la mesa con una cucharita . [+ OCH] 6188607_6193665
+%mor:	coord|y=and prepart|a=to inf|come-INF~pro:clit|OBJ&m=eat prep|en=in
+	det:art|el&f&SG=the n|mesa&f=table prep|con=with det:art|un-f=one
+	n|cuchara&f-DIM=spoon .
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|OBJ2 5|3|JCT 6|7|DET 7|5|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+*CHI:	&=balbucea . 6193665_6197033
+*MOT:	&am . [+ OCH] 6197033_6199672
+%com:	juega a que come la torta .
+*MOT:	&mmm &mmm . [+ OCH] 6199672_6202138
+*MOT:	está bueno . [+ OCH] 6202138_6204822
+%mor:	cop|esta-3S&PRES=be co|bueno=good .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	es rico .  [+ OCH] 6204822_6212146
+%mor:	cop|se-3S&PRES=be adj|rico-m=rich .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*FEL:	xxx . 6212146_6216911
+*MOT:	xxx ? [+ OCH] 6216911_6218907
+*FEL:	no xxx &lala . 6218907_6223019
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no sale . 6223019_6223855
+%mor:	adv|no=no v|sali-3S&PRES=leave .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	no sale qué ? [+ OCH] 6223855_6224676
+%mor:	adv|no=no v|sali-3S&PRES=leave pro:int|qué=what ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FEL:	la xxx . 6224676_6225973
+%mor:	det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	la la xxx . 6225973_6227026
+%mor:	det:art|el&f&SG=the det:art|el&f&SG=the .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	la xxx . 6227026_6227755
+%mor:	det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 6227755_6228391
+*MOT:	&=ríe . 6228391_6228837
+*MOT:	estás loquito vos ? [+ OCH] 6228837_6229342
+%mor:	aux|esta-2S&PRES=be adj|loco-DIM=crazy pro:obj|vos=you ?
+%gra:	1|2|AUX 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*FEL:	xxx . 6229342_6230436
+*MOT:	xxx . 6230436_6230967
+*MOT:	estás loquito vos ? [+ OCH] 6230967_6231495
+%mor:	aux|esta-2S&PRES=be adj|loco-DIM=crazy pro:obj|vos=you ?
+%gra:	1|2|AUX 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*MOT:	qué decís ? [+ OCH] 6231495_6232047
+%mor:	pro:int|qué=what v|deci-2P&PRES=say ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	estás loquito vos ? [+ OCH] 6232047_6232534
+%mor:	aux|esta-2S&PRES=be adj|loco-DIM=crazy pro:obj|vos=you ?
+%gra:	1|2|AUX 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*FEL:	&pu &pu &pu &pu . 6232534_6233246
+*MOT:	&pu &pu &pu &pu ? [+ OCH] 6233246_6234440
+*FEL:	xxx . 6234440_6238211
+*MOT:	a ver vení Juampi [: Juan Pablo] . [+ CHI] 6238211_6244175
+%mor:	prepart|a=to inf|ve-INF=see imp|veni-2S&IMP=come n:prop|Juan
+	n:prop|Pablo .
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|MOD 6|2|PUNCT
+%pra:	$DAA
+%dad:	$JUO
+*MOT:	vení . [+ CHI] 6244175_6244838
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$JUO
+*MOT:	eso no . [+ CHI] 6244838_6245807
+%mor:	pro:dem|eso=that_one adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%pra:	$DAA
+%dad:	$JUO
+%com:	parece que CHI manipula algo .
+*FEL:	xxx . 6245807_6247048
+*MOT:	xxx . [+ OCH] 6247048_6248338
+*MOT:	esa es la manguera ? [+ OCH] 6248338_6252562
+%mor:	det:dem|ese-f=that cop|se-3S&PRES=be det:art|el&f&SG=the
+	n|manguera&f=hose ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	xxx . 6252562_6255374
+*FEL:	no xxx . 6255374_6258107
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no xxx . 6258107_6260440
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	no más tarde cuando es . [+ OCH] 6260440_6264294
+%mor:	adv|no=no adv|más=more adv|tarde=late pro:rel|cuando=when
+	cop|se-3S&PRES=be .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|REL 5|4|CMOD 6|3|PUNCT
+*MOT:	Feli(pe) . [+ OCH] 6264294_6265189
+%mor:	n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	Masha y oso queda cuando es de noche . [+ OCH] 6265189_6267648
+%mor:	n:prop|Masha coord|y=and n|oso-m=bear v|queda-3S&PRES=stay
+	pro:rel|cuando=when cop|se-3S&PRES=be prep|de=of n|noche&f=night .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|4|REL 6|5|CMOD 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*CHI:	&iiii [=! balbucea] . 6267648_6269812
+*MOT:	xxx es malo . [+ OCH] 6269812_6270455
+%mor:	cop|se-3S&PRES=be adj|malo-m=bad .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*CHI:	&ooo [=! babucea] . 6270455_6271402
+%com:	prende TV .
+*CHI:	&eee [=! balbucea] . 6271402_6274756
+*MOT:	hay monstruitos ahí . [+ OCH] 6274756_6278810
+%mor:	v|habe-3S&PRES&SPEC=have n|monstruo&m-DIM-PL=monster adv|ahí=there
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|2|MOD 4|1|PUNCT
+*CHI:	&=balbucea . 6278810_6280477
+*MOT:	es un monstruito ese . [+ OCH] 6280477_6282796
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|monstruo&m-DIM=monster
+	det:dem|ese=that .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|MOD 5|1|PUNCT
+*MOT:	viste que xxx ? [+ OCH] 6282796_6283579
+%mor:	v|vesti-3S&PRES=dress pro:rel|que=that ?
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&aaa [=! grita] . 6283579_6283663
+*MOT:	qué feo ! [+ OCH] 6283663_6285381
+%mor:	pro:int|qué=what adj|feo-m=ugly !
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%com:	se escuchan sonidos provenientes de la televisión .
+*CHI:	&=balbucea . 6285381_6306165
+*CHI:	&aaa &mmm &aaa [=! balbucea] . 6306165_6337529
+%com:	parece que CHI está jugando con algo .
+*MOT:	Mini ! [+ CHI] 6337529_6398268
+%mor:	n:prop|Mini !
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+*CHI:	&mmm [=! balbucea] . 6398268_6400432
+*CHI:	&eee [=! balbucea] . 6400432_6405077
+*CHI:	&aay [=! balbucea] . 6405077_6415218
+*CHI:	&ee [=! balbucea] . 6415218_6416381
+*CHI:	&ee &eee [=! balbucea] . 6416381_6464982
+*CHI:	&mmm &eee &ee &ee &ee &eee [=! balbucea] . 6464982_6511820
+*CHI:	&eee [=! balbucea] . 6511820_6519609
+*MOT:	no Mini ! [+ CHI] 6519609_6520074
+%mor:	co|no n:prop|Mini !
+%gra:	1|0|ROOT 2|1|APP 3|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+*CHI:	&=balbucea . 6520074_6522266
+*MOT:	no [/] no . [+ CHI] 6522266_6525359
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+*CHI:	&aaa [=! balbucea] . 6525359_6527240
+*MOT:	no [/] no . [+ CHI] 6527240_6529635
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+*MOT:	eso no se toca . [+ CHI] 6529635_6532212
+%mor:	pro:dem|eso=that_one adv|no=no pro:refl|se=itself
+	v|toca-3S&PRES=touch .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%pra:	$DAA
+%dad:	$JUO
+*MOT:	&chi &chi &chi &chi &chi . [+ CHI] 6532212_6545526
+%pra:	$IND
+%dad:	$JUO
+*MOT:	vení . [+ CHI] 6545526_6547756
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$JUO
+*MOT:	vamos a xxx . [+ CHI] 6547756_6548630
+%mor:	v|i-1P&PRES=go prepart|a=to .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%pra:	$IND
+%dad:	$JUO
+%com:	se escucha TV de fondo  .
+*CHI:	&=grita . 6548630_6573605
+*CHI:	&=balbucea . 6573605_6600649
+%tim:	01:50:00
+*MOT:	&ay cuidado xxx . [+ CHI] 6600649_6615197
+%mor:	co|cuidado=careful .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	vení . [+ CHI] 6615197_6622303
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	vení para acá . [+ CHI] 6622303_6624708
+%mor:	imp|veni-2S&IMP=come prep|para=for adv|acá=here .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	venga para acá . [+ CHI] 6624708_6625682
+%mor:	co|venga=come_on prep|para=for adv|acá=here .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	no [/] no . [+ CHI] 6625682_6626652
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+%com:	abren la canilla y mueven objetos .
+*CHI:	&ee &ee &e &ee [=! balbucea] . 6626652_6642541
+*MOT:	qué pasa xxx ? [+ CHI] 6642541_6669353
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$DOM
+*MOT:	&=ríe . [+ CHI] 6669353_6674671
+%pra:	$IND
+%dad:	$DOM
+*CHI:	&=balbucea . 6674671_6675331
+%com:	parece que están en la cocina .
+*MOT:	&=chista . 6675331_6694873
+*MOT:	qué hacés Juampi [: Juan Pablo] ? [+ CHI] 6694873_6696102
+%mor:	pro:int|qué=what v|hace-2S&PRES=do n:prop|Juan n:prop|Pablo ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|MOD 5|1|PUNCT
+%pra:	$PVV
+%dad:	$DOM
+*MOT:	Juampi [: Juan Pablo] . [+ CHI] 6696102_6699943
+%mor:	n:prop|Juan n:prop|Pablo .
+%gra:	1|0|ROOT 2|1|APP 3|1|PUNCT
+%pra:	$IND
+%dad:	$DOM
+*MOT:	qué hacemos ? [+ CHI] 6699943_6703282
+%mor:	pro:int|qué=what v|hace-1P&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$PVV
+%dad:	$DOM
+*CHI:	&=balbucea . 6703282_6707317
+*MOT:	hola . [+ CHI] 6707317_6720471
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$DOM
+*MOT:	qué hacés ? [+ CHI] 6720471_6725907
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$PVV
+%dad:	$DOM
+*CHI:	&ee [=! balbucea] . 6725907_6727369
+*MOT:	que le xxx a mami ? [+ CHI] 6727369_6727892
+%mor:	pro:rel|que=that pro:ind|le&m=him prepart|a=to n|mami&f=mommy ?
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|SUBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$DOM
+*MOT:	eh ? [+ CHI] 6727892_6730479
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$DOM
+*CHI:	&=balbucea . 6730479_6739044
+*MOT:	hola . [+ CHI] 6739044_6742566
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$DOM
+*CHI:	&aa [=! balbucea] . 6742566_6752601
+*MOT:	hola ! [+ CHI] 6752601_6753472
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$DOM
+*CHI:	&=balbucea . 6753472_6754299
+*MOT:	&mamamá ? [+ CHI] 6754299_6755059
+%pra:	$IND
+%dad:	$DOM
+*CHI:	&aammám [=! balbucea] . 6755059_6755964
+*MOT:	&mamamamá ? [+ CHI] 6755964_6756742
+%pra:	$IND
+%dad:	$DOM
+*CHI:	&=balbucea . 6756742_6757843
+*MOT:	&mamamamamá ? [+ CHI] 6757843_6761750
+%pra:	$IND
+%dad:	$DOM
+*CHI:	&=balbucea . 6761750_6765444
+*MOT:	&mamamamá ? [+ CHI] 6765444_6768500
+%pra:	$IND
+%dad:	$DOM
+*CHI:	&=balbucea . 6768500_6770128
+*CHI:	&mmm [=! balbucea] . 6770128_6854540
+%com:	está manipulando algún objeto .
+*CHI:	&aa [=! balbucea] . 6854540_6860848
+*CHI:	&eee [=! balbucea] . 6860848_6863454
+*CHI:	&=ríe . 6863454_6865237
+*MOT:	xxx . [+ CHI] 6865237_6866039
+%pra:	$IND
+%dad:	$DOM
+*MOT:	xxx . [+ CHI] 6866039_6867175
+%pra:	$IND
+%dad:	$DOM
+*CHI:	&=ríe . 6867175_6868378
+*MOT:	&lalalala &lalalala [=! canta] . [+ CHI] 6868378_6869511
+%pra:	$IND
+%dad:	$DOM
+*MOT:	&laralala &lalala &lalala &lalala &laralala [=! canta] . [+ CHI] 6869511_6875883
+%pra:	$IND
+%dad:	$DOM
+%com:	le da un beso .
+*MOT:	&lalalala &lalala [=! canta] . [+ CHI] 6875883_6879841
+%pra:	$IND
+%dad:	$DOM
+%com:	le da dos besos .
+*MOT:	&=tararea . [+ CHI] 6879841_6883849
+%pra:	$IND
+%dad:	$DOM
+*MOT:	&lalala &lalala &lalala [=! canta] . [+ CHI] 6883849_6889301
+%pra:	$IND
+%dad:	$DOM
+%com:	abre una canilla .
+*MOT:	mirá  . [+ CHI] 6889301_6906020
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$DOM
+*MOT:	mirá Juan (.) mirá . [+ CHI] 6906020_6906937
+%mor:	co|mirá n:prop|Juan co|mirá .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT
+%pra:	$DAA
+%dad:	$DOM
+*CHI:	&=balbucea . 6906937_6912315
+*FEL:	qué (es)tás haciendo mami ? 6912315_6914249
+%mor:	pro:int|qué=what aux|esta-2S&PRES=be part|hace-PRPART=do
+	n|mami&f=mommy ?
+%gra:	1|0|ROOT 2|3|AUX 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	estoy cocinando mi amor . [+ OCH] 6914249_6915610
+%mor:	aux|esta-1S&PRES=be part|cocina-PRPART=cook det:poss|mi=my
+	co|amor=love .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*FEL:	xxx . 6915610_6916450
+*MOT:	qué querés ? [+ OCH] 6916450_6917079
+%mor:	pro:int|qué=what v|quere-2S&PRES=want ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	al baño ? [+ OCH] 6917079_6917698
+%mor:	prepart|a~det:art|el&m=to n|baño&m=bath ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*FEL:	si . 6917698_6918215
+%mor:	conj|si=if .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bueno . [+ OCH] 6918215_6918948
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 6918948_6919699
+*MOT:	dale (.) vamos al baño . [+ OCH] 6919699_6920889
+%mor:	co|dale v|i-1P&PRES=go prepart|a~det:art|el&m=to n|baño&m=bath .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*MOT:	a ver . [+ OCH] 6920889_6922191
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	esperá que pongo esto acá . [+ OCH] 6922191_6923200
+%mor:	imp|espera-2S&IMP=wait pro:rel|que=that v|pone-1S&PRES=put
+	pro:dem|esto=this_one adv|acá=here .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|OBJ 5|4|JCT 6|1|PUNCT
+*MOT:	dale . [+ OCH] 6923200_6924167
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	éto [: ésto] xxx mia [: mirá] . 6924167_6927791
+%mor:	pro:dem|éste-m=this_one co|mirá .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	muy bien Feli(pe) . [+ OCH] 6927791_6935703
+%mor:	adv|muy=very adv|bien=well n:prop|Felipe .
+%gra:	1|3|JCT 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*FEL:	xxx . 6935703_6939358
+%com:	suena el teléfono .
+*MOT:	&oyy . 6939358_6940743
+*FEL:	mia [: mirá] . 6940743_6941356
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 6941356_6942290
+*CHI:	&=balbucea . 6942290_6944712
+*MOT:	hola . 6944712_6945686
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	atiende la llamada .
+*MOT:	cómo estás ? 6945686_6948229
+%mor:	pro:int|cómo=how cop|esta-2S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	bien . 6948229_6950580
+%mor:	adv|bien=well .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . 6950580_6957511
+*MOT:	&ah ok . 6957511_6962871
+%mor:	co|ok .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . 6962871_6964457
+*CHI:	&=balbucea . 6964457_6965773
+*MOT:	mañana ? 6965773_6966564
+%mor:	adv|mañana=tomorrow ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 6966564_6967572
+*MOT:	decile . 6967572_6968487
+%mor:	imp|deci-2P&IMP~pro:clit|3S=say .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	sí gordo . 6968487_6969260
+%mor:	co|sí=yes adj|gordo-m=fat .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	y sino xxx de hoy . 6969260_6970102
+%mor:	coord|y=and conj|sino=except prep|de=of adv|hoy=today .
+%gra:	1|0|ROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	xxx pero . 6970102_6971003
+%mor:	conj|pero=but .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	al mediodía está bien ? 6971003_6980131
+%mor:	prepart|a~det:art|el&m=to n|mediodía&m=noon cop|esta-3S&PRES=be
+	adv|bien=well ?
+%gra:	1|4|SUBJ 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*MOT:	&ah sigue xxx . 6980131_6984384
+%mor:	v|segui-3S&PRES=follow .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	parece que Jaun Pablo abre una puerta y se dirige a otra habitación .
+*MOT:	xxx . 6984384_6988400
+*CHI:	&=balbucea . 6988400_6999828
+*FEL:	xxx . 6999828_7000779
+*MOT:	xxx . 7000779_7003974
+%com:	se los oye alejados .
+*CHI:	&=balbucea . 7003974_7005391
+*MOT:	xxx . 7005391_7009735
+*CHI:	&ee [=! balbucea] . 7009735_7023494
+*CHI:	&aam (.) &aa [=! balbucea] . 7023494_7033718
+*CHI:	&aaay [=! balbucea] . 7033718_7041695
+*CHI:	&mmm [=! balbucea] . 7041695_7053511
+*CHI:	&=balbucea . 7053511_7064923
+%com:	juega con algo .
+*FEL:	xxx . 7064923_7132629
+*FEL:	xxx . 7132629_7144045
+*CHI:	&=balbucea . 7144045_7149064
+*FEL:	mamá . 7149064_7150902
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&ee [=! balbucea] . 7150902_7152295
+*FEL:	mami ! 7152295_7155527
+%mor:	n|mami&f=mommy !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	mamá ! 7155527_7159778
+%mor:	n|mamá&f=mommy !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 7159778_7161941
+%com:	la mamá y el hermano hablan en otra habitación .
+*MOT:	&eh bueno ahora xxx . 7161941_7170666
+%mor:	co|bueno=good adv|ahora=now .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	&=balbucea . 7170666_7171308
+%tim:	02:00:00
+*FEL:	xxx . 7171308_7184802
+*MOT:	qué xxx ? [+ OCH] 7184802_7211863
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	me puse el xxx . 7211863_7213340
+%mor:	pro:obj|me=me v|pone-1S&PRET=put det:art|el&m&SG=the .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PUNCT
+*MOT:	qué xxx vamos al baño ? [+ OCH] 7213340_7214215
+%mor:	pro:int|qué=what v|i-1P&PRES=go prepart|a~det:art|el&m=to
+	n|baño&m=bath ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*FEL:	xxx . 7214215_7215266
+*MOT:	&uuh es re alta eso . [+ OCH] 7215266_7216302
+%mor:	cop|se-3S&PRES=be adv|re=really n|alta&m=discharge
+	pro:dem|eso=that_one .
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|3|MOD 5|1|PUNCT
+*FEL:	xxx . 7216302_7218506
+*MOT:	xxx . 7218506_7221809
+*MOT:	qué hacés acá vos ? [+ CHI] 7221809_7226479
+%mor:	pro:int|qué=what v|hace-2S&PRES=do adv|acá=here pro:obj|vos=you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|OBJ 5|2|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*CHI:	&=ríe . 7226479_7231210
+*CHI:	mami . 7231210_7234617
+%mor:	n|mami&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&mamamá &mamamá [=! balbucea] . 7234617_7238208
+*MOT:	&mamamamá . [+ CHI] 7238208_7238908
+%pra:	$IND
+%dad:   $IND
+*CHI:	papá . 7238908_7239924
+%mor:	n|papá&m=father .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ma(má) mamá [/] mamá [/] mamá . 7239924_7243558
+%mor:	n|mamá&f=mommy n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*FEL:	hola . 7243558_7246302
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . 7246302_7252909
+*MOT:	&mamamá . [+ CHI] 7252909_7253434
+%pra:	$IND
+%dad:	$IND
+*MOT:	hola Juampi [: Juan Pablo] . [+ CHI] 7253434_7257660
+%mor:	co|hola=hi n:prop|Juan n:prop|Pablo .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	vamos a comer la papa ahora ? [+ CHI] 7257660_7260235
+%mor:	v|i-1P&PRES=go prepart|a=to inf|come-INF=eat det:art|el&f&SG=the
+	n|papa&f=potato adv|ahora=now ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|5|MOD 7|1|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*CHI:	&=balbucea . 7260235_7262029
+*MOT:	si ? [+ CHI] 7262029_7263034
+%mor:	conj|si=if ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 7263034_7268205
+*FEL:	hola ! 7268205_7274651
+%mor:	co|hola=hi !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 7274651_7278661
+*MOT:	&=canta . 7278661_7289924
+*CHI:	&=balbucea . 7289924_7290532
+*MOT:	&=canta . 7290532_7291437
+*CHI:	&=balbucea . 7291437_7292189
+*MOT:	&=canta . 7292189_7293077
+*FEL:	&alalelalea [=! grita] . 7293077_7302855
+*CHI:	&=grita . 7302855_7304732
+*MOT:	despacito (.) despacito . [+ OCH] 7304732_7305682
+%mor:	adj|despacio-DIM=slowly adj|despacio-DIM=slowly .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*CHI:	&=llora . 7305682_7308381
+*MOT:	Feli(pe) . [+ OCH] 7308381_7309189
+%mor:	n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	Feli(pe) sos muy pesado (.) no te tires encima de Mini . [+ OCH] 7309189_7312135
+%mor:	n:prop|Felipe cop|se-3S&PRES=be adv|muy=very
+	part|pesa-PPART-m=weigh adv|no=no pro:obj|te=you
+	v|tira-2S&SUB&PRES=throw adv|encima=on_top prep|de=of n:prop|Mini .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|4|JCT 4|7|SUBJ 5|6|JCT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|8|JCT 10|9|POBJ 11|7|PUNCT
+*FEL:	es un bote (.) es un bote . 7312135_7313727
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|bote&m=boat cop|se-3S&PRES=be
+	det:art|un&m=one n|bote&m=boat .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|PRED 5|6|DET 6|4|PRED 7|1|PUNCT
+*MOT:	no . [+ OCH] 7313727_7315053
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	quién es un bote ? [+ OCH] 7315053_7315341
+%mor:	pro:int|quién=who cop|se-3S&PRES=be det:art|un&m=one n|bote&m=boat
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FEL:	él . 7315341_7316590
+%mor:	pro:sub|él&m=he .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 7316590_7317378
+*MOT:	no no es un bote . [+ OCH] 7317378_7317888
+%mor:	adv|no=no adv|no=no cop|se-3S&PRES=be det:art|un&m=one
+	n|bote&m=boat .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*MOT:	Feli(pe) xxx arriba escuchá (.) escuchá a mamá . [+ OCH] 7317888_7320055
+%mor:	n:prop|Felipe adv|arriba=above imp|escucha-2S&IMP=listen
+	imp|escucha-2S&IMP=listen prepart|a=to n|mamá&f=mommy .
+%gra:	1|2|SUBJ 2|3|JCT 3|0|ROOT 4|3|COMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+*MOT:	arriba de Mini no ! [+ OCH] 7320055_7321235
+%mor:	adv|arriba=above prep|de=of n:prop|Mini adv|no=no !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|5|JCT 5|1|PUNCT
+*FEL:	xxx . 7321235_7322100
+*MOT:	arriba de Mini no porque sos muy pesado . [+ OCH] 7322100_7323945
+%mor:	adv|arriba=above prep|de=of n:prop|Mini adv|no=no
+	conj|porque=because cop|se-3S&PRES=be adv|muy=very
+	part|pesa-PPART-m=weigh .
+%gra:	1|5|JCT 2|1|JCT 3|2|POBJ 4|5|JCT 5|6|SUBJ 6|0|ROOT 7|8|MOD 8|6|PRED
+	9|6|PUNCT
+*MOT:	vení vamos a darnos un baño . [+ OCH] 7323945_7325241
+%mor:	imp|veni-2S&IMP=come v|i-1P&PRES=go prepart|a=to
+	inf|da-INF~pro:clit|1P=give det:art|un&m=one n|baño&m=bath .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ2 6|7|DET 7|4|OBJ 8|2|PUNCT
+*MOT:	vení . [+ OCH] 7325241_7325951
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no . 7325951_7326450
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vamos a jugar con el agua . [+ OCH] 7326450_7327495
+%mor:	v|i-1P&PRES=go prepart|a=to inf|juga-INF=play prep|con=with
+	det:art|el&m&SG=the n|agua&f=water .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*MOT:	no querés jugar ? [+ OCH] 7327495_7328302
+%mor:	adv|no=no v|quere-2S&PRES=want inf|juga-INF=play ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|2|PUNCT
+*MOT:	hacemos que es un barco ? [+ OCH] 7328302_7329953
+%mor:	v|hace-1P&PRES=do pro:rel|que=that cop|se-3S&PRES=be
+	det:art|un&m=one n|barco-m=boat ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|PRED 6|1|PUNCT
+*FEL:	no . 7329953_7330656
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí . [+ OCH] 7330656_7331631
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	&mm no . 7331631_7332289
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vení vamos xxx . [+ OCH] 7332289_7334736
+%mor:	imp|veni-2S&IMP=come co|vamos=go .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*FEL:	&=llora . 7334736_7336059
+*MOT:	&ay gordo cuidado ! [+ OCH] 7336059_7336701
+%mor:	adj|gordo-m=fat n|cuidado&m=care !
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*MOT:	casi xxx . [+ OCH] 7336701_7337930
+%mor:	adv|casi=almost .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vení . [+ OCH] 7337930_7339150
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	mia [: mirá] [/] mia [: mirá] [/] mia [: mirá] [/] mia [: mirá] . 7339150_7342295
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 7342295_7347292
+*FEL:	xxx . 7347292_7350239
+*MOT:	xxx . 7350239_7354123
+*FEL:	xxx . 7354123_7363491
+*MOT:	dale . [+ OCH] 7363491_7365434
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 7365434_7366129
+*MOT:	no . [+ OCH] 7366129_7367416
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 7367416_7371589
+*MOT:	xxx . [+ OCH] 7371589_7372506
+*MOT:	está el tractor en xxx . [+ OCH] 7372506_7375183
+%mor:	cop|esta-3S&PRES=be det:art|el&m&SG=the n|tractor&m=tractor
+	prep|en=in .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|MOD 5|1|PUNCT
+*FEL:	ma(má) mia [: mirá] . 7375183_7377333
+%mor:	n|mamá&f=mommy co|mirá .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*MOT:	a ver ? [+ OCH] 7377333_7377918
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx . [+ OCH] 7377918_7378463
+*FEL:	mia [: mirá] . 7378463_7379150
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	mirá . [+ OCH] 7379150_7379618
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 7379618_7380454
+*MOT:	hay que sacarse . [+ OCH] 7380454_7382461
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|saca-INF~pro:clit|3S&REFL=bring_out .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|OBJ2 5|1|PUNCT
+*FEL:	no no quieiro [: quiero]  . 7382461_7383796
+%mor:	adv|no=no adv|no=no v|quere-1S&PRES=want .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*FEL:	no se sale . 7383796_7386208
+%mor:	adv|no=no pro:refl|se=itself v|sali-3S&PRES=leave .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FEL:	mia [: mirá] . 7386208_7388212
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . [+ OCH] 7388212_7390741
+*FEL:	xxx . 7390741_7393341
+*MOT:	xxx . [+ OCH] 7393341_7394419
+*MOT:	ésto . [+ OCH] 7394419_7395601
+%mor:	pro:dem|éste-m=this_one .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&=silva . 7395601_7400612
+*MOT:	cerramos la . [+ OCH] 7400612_7404039
+%mor:	v|cerra-1P&PRES&PRET=close det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|3|DET 3|1|PUNCT
+*MOT:	esperá . [+ OCH] 7404039_7406215
+%mor:	imp|espera-2S&IMP=wait .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sacate la mallita . [+ OCH] 7406215_7406979
+%mor:	imp|saca-2S&IMP~pro:clit|2S=bring_out det:art|el&f&SG=the
+	n|malla&f-DIM=net .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|2|OBJ 5|1|PUNCT
+*FEL:	xxx [=! canta]  . 7406979_7409297
+*MOT:	&=canta . [+ OCH] 7409297_7411975
+*FEL:	mia [: mirá] . 7411975_7437435
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	(es)tá haciendo pis . 7437435_7438705
+%mor:	aux|esta-3S&PRES=be part|hace-PRPART=do n|pis&m=piss .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	no ahí no Feli(pe) . [+ OCH] 7438705_7441247
+%mor:	adv|no=no adv|ahí=there adv|no=no n:prop|Felipe .
+%gra:	1|2|JCT 2|4|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	&=balbucea . 7441247_7442063
+*FEL:	xxx . 7442063_7442921
+%com:	abre la canilla .
+*MOT:	xxx ? [+ OCH] 7442921_7445850
+*FEL:	ahí . 7445850_7446720
+%mor:	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	muy bien . [+ OCH] 7446720_7447870
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 7447870_7450281
+*MOT:	no lo toques vos . [+ OCH] 7450281_7453638
+%mor:	adv|no=no pro:obj|le-m=him v|toca-2S&SUB&PRES=touch pro:obj|vos=you
+	.
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	no toques porque te vas a quemar . [+ OCH] 7453638_7454958
+%mor:	adv|no=no v|toca-2S&SUB&PRES=touch conj|porque=because
+	pro:obj|te=you v|i-2S&PRES=go prepart|a=to inf|quema-INF=burn .
+%gra:	1|2|JCT 2|5|SUBJ 3|2|JCT 4|3|POBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|5|PUNCT
+%com:	hay ruido de agua .
+*FEL:	&ayy . 7454958_7458562
+*MOT:	qué ? [+ OCH] 7458562_7459623
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 7459623_7463250
+*MOT:	está fría ? [+ OCH] 7463250_7464463
+%mor:	cop|esta-3S&PRES=be v|freí-13S&SUB&PRES=fry ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*MOT:	xxx . 7464463_7470904
+*FEL:	xxx . 7470904_7479256
+*CHI:	&aa [=! balbucea] . 7479256_7480661
+*FEL:	xxx [=! grita] . 7480661_7483327
+*FEL:	xxx  . 7483327_7487400
+*CHI:	&mm [=! balbucea] . 7487400_7495838
+*FEL:	&=canta . 7495838_7497389
+%tim:	02:05:10
+*CHI:	&=ríe . 7497389_7505061
+*FEL:	&=canta . 7505061_7510919
+*CHI:	&=balbucea . 7510919_7530591
+*FEL:	&=canta . 7530591_7550475
+*CHI:	&=balbucea . 7550475_7552935
+*FEL:	&=canta . 7552935_7553839
+*CHI:	&=balbucea . 7553839_7554621
+%com:	están bañando a Felipe .
+*CHI:	&=balbucea . 7554621_7555483
+*MOT:	&ay qué linda el agüita ! [+ CHI] 7555483_7556244
+%mor:	pro:int|qué=what adj|lindo-f=pretty det:art|el&m&SG=the
+	v|agüita-3S&PRES=sadden !
+%gra:	1|4|SUBJ 2|4|MOD 3|4|DET 4|0|ROOT 5|4|PUNCT
+%pra:	$DEN
+%dad:	$HIG
+*CHI:	&=balbucea . 7556244_7557473
+*MOT:	xxx cuidado Felipe que estás mojando todo . 7557473_7562216
+%mor:	n|cuidado&m=care n:prop|Felipe pro:rel|que=that aux|esta-2S&PRES=be
+	part|moja-PRPART=moisten pro:indef|todo-m=all .
+%gra:	1|0|ROOT 2|1|MOD 3|1|REL 4|5|AUX 5|3|CMOD 6|5|OBJ 7|1|PUNCT
+*FEL:	xxx . 7562216_7565356
+%com:	no se escucha muy bien por el agua de la canilla .
+*CHI:	&=balbucea . 7565356_7572060
+*FEL:	&uhhhh . 7572060_7574591
+*FEL:	&=canta . 7574591_7583582
+*CHI:	&=balbucea . 7583582_7589233
+*CHI:	&=balbucea . 7589233_7590256
+*CHI:	&aja &ajá [=! balbucea] . 7590256_7590967
+*FEL:	xxx es una pita [: pista] . 7590967_7591519
+%mor:	cop|se-3S&PRES=be det:art|un-f=one n|pista&f=track .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	es una pista ? [+ OCH] 7591519_7592123
+%mor:	cop|se-3S&PRES=be det:art|un-f=one n|pista&f=track ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*FEL:	sí . 7592123_7592810
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 7592810_7594306
+*MOT:	&uh . [+ OCH] 7594306_7595581
+*FEL:	&tom &om . 7595581_7596523
+%com:	imita el sonido de un auto
+*FEL:	cerralo [/] cerralo xxx . 7596523_7605726
+%mor:	imp|cerra-2S&IMP~pro:clit|OBJ&m=close .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+%com:	cierran la canilla .
+*FEL:	xxx . 7605726_7608638
+*CHI:	&=balbucea . 7608638_7610688
+*FEL:	&uooooooo . 7610688_7611291
+*FEL:	xxx . 7611291_7614595
+*FEL:	xxx mucho . 7614595_7621405
+%mor:	adv|mucho=much .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 7621405_7622249
+*FEL:	&uh . 7622249_7623158
+*CHI:	&=balbucea . 7623158_7623952
+*FEL:	miá [: mirá] . 7623952_7624544
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx él tiene que xxx . 7624544_7625075
+%mor:	pro:sub|él&m=he v|tene-3S&PRES=have pro:rel|que=that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|2|PUNCT
+*CHI:	&=balbucea . 7625075_7626265
+*CHI:	&=balbucea . 7626265_7631326
+*FEL:	está xxx . 7631326_7634813
+%mor:	cop|esta-3S&PRES=be .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 7634813_7635531
+*FEL:	miá [: mirá] . 7635531_7636352
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	mirá cómo te mira Mini . [+ OCH] 7636352_7636957
+%mor:	co|mirá pro:int|cómo=how pro:obj|te=you v|mira-3S&PRES=look
+	n:prop|Mini .
+%gra:	1|0|ROOT 2|1|JCT 3|4|SUBJ 4|2|POBJ 5|4|OBJ 6|1|PUNCT
+*CHI:	&=balbucea . 7636957_7637766
+*MOT:	quiere ir al agua con vos el Mini . [+ OCH] 7637766_7638502
+%mor:	v|quere-3S&PRES=want inf|i-INF=go prepart|a~det:art|el&m=to
+	n|agua&f=water prep|con=with pro:obj|vos=you det:art|el&m&SG=the
+	n:prop|Mini .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|5|DET 5|3|OBJ 6|5|JCT 7|6|POBJ 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*CHI:	&=balbucea . 7638502_7642387
+*MOT:	sí [=! alarga] ! [+ CHI] 7642387_7644156
+%mor:	co|sí=yes !
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*CHI:	&=balbucea . 7644156_7648496
+*FEL:	miá [: mirá] . 7648496_7649081
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ah ! 7649081_7649835
+%com:	pone voz de sorpresa .
+*MOT:	&uh (.) está acostado en el agua Feli(pe) ! [+ CHI] 7649835_7652257
+%mor:	cop|esta-3S&PRES=be part|acosta-PRPART-m=put_to_bet prep|en=in
+	det:art|el&m&SG=the n|agua&f=water n:prop|Felipe !
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|1|PUNCT
+%pra:	$DEN
+%dad:	$HIG
+*FEL:	&ommm [=! alarga] . 7652257_7655796
+*CHI:	&=balbucea . 7655796_7658227
+*MOT:	&ah . [+ CHI] 7658227_7661180
+%pra:	$IND
+%dad:	$HIG
+%com:	tono de sorpresa .
+*CHI:	&=ríe . 7661180_7665577
+*MOT:	&=ríe . 7665577_7666211
+*MOT:	está buenísimo Feli(pe) . [+ OCH] 7666211_7667228
+%mor:	aux|esta-3S&PRES=be adj|buen-SUPER-m=good n:prop|Felipe .
+%gra:	1|3|AUX 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*MOT:	y a vos te gusta Juampi [: Juan Pablo] ? [+ CHI] 7667228_7669071
+%mor:	coord|y=and prepart|a=to pro:obj|vos=you pro:obj|te=you
+	v|gusta-3S&PRES=like n:prop|Juan n:prop|Pablo ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|3|PRED 5|4|JCT 6|5|POBJ 7|6|MOD
+	8|1|COORD
+%pra:	$PVN
+%dad:	$HIG
+*CHI:	&um . 7669071_7670016
+*MOT:	sí ? [+ CHI] 7670016_7670580
+%mor:	co|sí=yes ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*FEL:	el tatón [: tractor] . 7670580_7685523
+%mor:	det:art|el&m&SG=the n|tractor&m=tractor .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	dónde está el tatón [: tractor] . 7685523_7687053
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n|tractor&m=tractor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FEL:	dónde está el tatón [: tractor] . 7687053_7689827
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n|tractor&m=tractor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	el tractor ? [+ OCH] 7689827_7690372
+%mor:	det:art|el&m&SG=the n|tractor&m=tractor ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	sí . 7690372_7691076
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	ahí . 7691076_7691775
+%mor:	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no xxx . 7691775_7694379
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	lo tiraste (.) Feli(pe) . [+ OCH] 7694379_7696230
+%mor:	pro:obj|le-m=him v|tira-2S&PRET=throw n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*FEL:	xxx . 7696230_7699292
+*CHI:	&=balbucea . 7699292_7702622
+*FEL:	xxx . 7702622_7704795
+*CHI:	&=balbucea . 7704795_7711758
+*FEL:	&aiá . 7711758_7712464
+*MOT:	qué mi amor ? [+ OCH] 7712464_7713382
+%mor:	pro:int|qué=what det:poss|mi=my co|amor=love ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	&=balbucea . 7713382_7714302
+*FEL:	xxx . 7714302_7715280
+*MOT:	te salpicó en el ojo ? [+ OCH] 7715280_7716509
+%mor:	pro:obj|te=you v|salpica-3S&PRET=sprinkle prep|en=in
+	det:art|el&m&SG=the n|ojo&m=eye ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*FEL:	sí . 7716509_7717614
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 7717614_7720218
+*MOT:	bueno ya se va . [+ OCH] 7720218_7720904
+%mor:	co|bueno=good adv|ya=already pro:refl|se=itself v|i-3S&PRES=go .
+%gra:	1|4|SUBJ 2|3|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	hacé así . [+ OCH] 7720904_7721597
+%mor:	imp|hace-2S&IMP=do adv|así=thus .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	&=balbucea . 7721597_7722218
+*MOT:	rápido [/] rápido y cerralo [/] y cerralo . [+ OCH] 7722218_7723185
+%mor:	adj|rápido-m=rapid coord|y=and coord|y=and
+	imp|cerra-2S&IMP~pro:clit|OBJ&m=close .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|COORD 5|4|OBJ2 6|1|PUNCT
+*MOT:	xxx . [+ OCH] 7723185_7724108
+*CHI:	&=balbucea . 7724108_7725919
+*MOT:	ahí está . [+ OCH] 7725919_7727181
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	ahí se está xxx . [+ OCH] 7727181_7728452
+%mor:	adv|ahí=there pro:refl|se=itself imp|esta-2S&IMP=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FEL:	ota [: otra] . 7728452_7736487
+%mor:	qn|otro-f=other .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	dale (.) dale . [+ OCH] 7736487_7745065
+%mor:	co|dale co|dale .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&=balbuca . 7745065_7745880
+*MOT:	muy bien . [+ OCH] 7745880_7746529
+%mor:	adv|muy=very adv|bien=well .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx falta mía [: mirá] . 7746529_7747418
+%mor:	v|falta-3S&PRES=be_lacking co|mirá .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*FEL:	&tu &tu &tu . 7747418_7748215
+*CHI:	&=balbucea . 7748215_7748972
+*CHI:	&=balbucea ! 7748972_7757528
+*FEL:	miá [: mirá] mami bicho . 7757528_7770357
+%mor:	co|mirá n|mami&f=mommy n|bicho-m=creature .
+%gra:	1|3|DET 2|3|DET 3|0|ROOT 4|3|PUNCT
+%tim:	02:09:30
+*MOT:	no pero no saques el tapón Feli(pe) ! [+ OCH] 7770357_7773364
+%mor:	adv|no=no conj|pero=but adv|no=no v|saca-2S&SUB&PRES=bring_out
+	det:art|el&m&SG=the n|tapón&m=plug n:prop|Felipe !
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|MOD 8|4|PUNCT
+*CHI:	&=balbucea . 7773364_7774589
+*MOT:	te va a dar frío si se va el agua . [+ OCH] 7774589_7776352
+%mor:	pro:obj|te=you v|i-3S&PRES=go prepart|a=to inf|da-INF=give
+	v|freí-1S&PRES=fry conj|si=if pro:refl|se=itself v|i-3S&PRES=go
+	det:art|el&m&SG=the n|agua&f=water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|5|OBJ 7|6|SCL 8|7|COMP
+	9|10|DET 10|8|OBJ 11|2|PUNCT
+*MOT:	ponelo (.) ponelo . [+ OCH] 7776352_7777497
+%mor:	imp|pone-2S&IMP~pro:clit|OBJ&m=put
+	imp|pone-2S&IMP~pro:clit|OBJ&m=put .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|REL 4|3|OBJ2 5|1|PUNCT
+*MOT:	dale [/] dalte [/] dale [/] dale que viene el xxx bicho . [+ OCH] 7777497_7778900
+%mor:	co|dale pro:rel|que=that v|veni-3S&PRES=come det:art|el&m&SG=the
+	n|bicho-m=creature .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	ponelo [/] ponelo . [+ OCH] 7778900_7779848
+%mor:	imp|pone-2S&IMP~pro:clit|OBJ&m=put .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	ponelo . [+ OCH] 7779848_7780666
+%mor:	imp|pone-2S&IMP~pro:clit|OBJ&m=put .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*FEL:	es que no . 7780666_7781354
+%mor:	cop|se-3S&PRES=be pro:rel|que=that adv|no=no .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+*MOT:	ponelo con la ma(no) con el pie ponelo . [+ OCH] 7781354_7782467
+%mor:	imp|pone-2S&IMP~pro:clit|OBJ&m=put prep|con=with
+	det:art|el&f&SG=the n|mano&f=hand prep|con=with det:art|el&m&SG=the
+	n|pie&m=foot imp|pone-2S&IMP~pro:clit|OBJ&m=put .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|5|DET 5|3|POBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|MOD 10|9|OBJ2 11|1|PUNCT
+*CHI:	&=balbucea . 7782467_7787085
+*MOT:	Felin se va el agua . [+ OCH] 7787085_7788015
+%mor:	n:prop|Felin pro:refl|se=itself v|i-3S&PRES=go det:art|el&m&SG=the
+	n|agua&f=water .
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	xxx . [+ OCH] 7788015_7790023
+*MOT:	ahí está (.) &aah . [+ OCH] 7790023_7791029
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FEL:	ma(má) el bicho . 7791029_7801773
+%mor:	n|mamá&f=mommy det:art|el&m&SG=the n|bicho-m=creature .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*FEL:	dónde hay bicho . 7801773_7803488
+%mor:	pro:int|dónde=where v|habe-3S&PRES&SPEC=have n|bicho-m=creature .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	bicho ? 7803488_7805134
+%mor:	n|bicho-m=creature ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	sí . [+ CH] 7805134_7806178
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*CHI:	&=balbucea . 7806178_7807350
+*FEL:	&ta &te . [+ CHI] 7807350_7812624
+%pra:	$IND
+%dad:	$HIG
+*CHI:	&=balbucea . 7812624_7815483
+*MOT:	&=silva . 7815483_7816074
+*FEL:	&mmm &mmm . 7816074_7827304
+*CHI:	&=balbucea . 7827304_7834757
+*FEL:	&mmm . 7834757_7836675
+*CHI:	&=balbucea . 7836675_7837568
+%tim:	02:10:40
+*CHI:	&=balbucea . 7837568_7839106
+*CHI:	&=balbucea . 7839106_7843162
+*FEL:	&ou . 7843162_7844363
+*CHI:	&=balbucea . 7844363_7846924
+*CHI:	&=balbucea . 7846924_7856762
+*FEL:	se está yendo el agua . 7856762_7874106
+%mor:	pro:refl|se=itself aux|esta-3S&PRES=be part|i-PRPART=go
+	det:art|el&m&SG=the n|agua&f=water .
+%gra:	1|0|ROOT 2|3|AUX 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*FEL:	se está yendo el agua . 7874106_7876321
+%mor:	pro:refl|se=itself aux|esta-3S&PRES=be part|i-PRPART=go
+	det:art|el&m&SG=the n|agua&f=water .
+%gra:	1|0|ROOT 2|3|AUX 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	se está yendo ? [+ OCH] 7876321_7879321
+%mor:	pro:refl|se=itself aux|esta-3S&PRES=be part|i-PRPART=go ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	ponemos un poquito más de agua ? [+ OCH] 7879321_7879994
+%mor:	v|pone-1P&PRES=put det:art|un&m=one pro:indef|poquito=little
+	adv|más=more prep|de=of n|agua&f=water ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*FEL:	no [/] no ! 7879994_7883161
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no [/] no [/] no ! 7883161_7888119
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 7888119_7889008
+*MOT:	pero hay que poner jabón . [+ OCH] 7889008_7889712
+%mor:	conj|pero=but v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|pone-INF=put n|jabón&m=soap .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|REL 4|3|COMP 5|4|OBJ 6|2|PUNCT
+*FEL:	pero quiero estar en el agua . [+ OCH] 7889712_7891136
+%mor:	conj|pero=but v|quere-1S&PRES=want inf|esta-INF=be prep|en=in
+	det:art|el&m&SG=the n|agua&f=water .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*MOT:	bueno esperá que te enjuago . [+ OCH] 7891136_7892601
+%mor:	co|bueno=good imp|espera-2S&IMP=wait pro:rel|que=that
+	pro:obj|te=you v|enjuaga-1S&PRES=rinse .
+%gra:	1|0|ROOT 2|1|PUNCT 3|2|REL 4|5|SUBJ 5|3|ROOT 6|5|PUNCT
+*MOT:	xxx en el piso . [+ OCH] 7892601_7896277
+%mor:	prep|en=in det:art|el&m&SG=the n|piso&m=floor .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*FEL:	xxx . 7896277_7897139
+*MOT:	a ver . [+ OCH] 7897139_7897463
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	&=silva . 7897463_7901594
+*MOT:	dale que están los xxx . [+ OCH] 7901594_7902199
+%mor:	co|dale pro:rel|que=that cop|esta-3P&PRES=be det:art|el&m-PL=the .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|PRED 5|1|PUNCT
+*FEL:	&=grita . 7902199_7910159
+*CHI:	&aa [=! balbucea] . 7910159_7916087
+*MOT:	&chalán [=! canta] . [+ OCH] 7916087_7917434
+*FEL:	&=grita . 7917434_7920621
+*MOT:	&=canta . [+ OCH] 7920621_7926187
+*FEL:	&=canta . 7926187_7930075
+*FEL:	bueno . 7930075_7934845
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 7934845_7935801
+*FEL:	xxx no [/] no tengo . 7935801_7944116
+%mor:	adv|no=no v|tene-1S&PRES=have .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	&=ríe . 7944116_7944965
+*FEL:	no [/] no [/] <no> [=! grita] ! 7944965_7946899
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no (.) xxx [=! grita] . 7946899_7947796
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no [/] no [/] no . 7947796_7952642
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no quiero (.) no . 7952642_7953839
+%mor:	adv|no=no v|quere-1S&PRES=want adv|no=no .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*FEL:	&=grita . 7953839_7954655
+*FEL:	&=llora . 7954655_7955348
+*FEL:	no ! 7955348_7955947
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	la madre lo está enjuagando con el duchador o algo parecido .
+*FEL:	&=llora . 7955947_7956424
+*MOT:	ya está [/]  ya está . [+ OCH] 7956424_7956884
+%mor:	adv|ya=already adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	ya está . [+ OCH] 7956884_7957917
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx y no te pongo más . [+ OCH] 7957917_7958673
+%mor:	coord|y=and adv|no=no pro:obj|te=you v|pone-1S&PRES=put
+	adv|más=more .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|1|COORD 5|4|JCT 6|1|PUNCT
+*FEL:	&=llora . 7958673_7959399
+*MOT:	Feli(pe) (.) ya está (.) bueno . [+ OCH] 7959399_7960558
+%mor:	n:prop|Felipe adv|ya=already cop|esta-3S&PRES=be co|bueno=good .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	&=balbucea . 7960558_7961417
+*MOT:	poné un poquito más de agua . [+ OCH] 7961417_7962229
+%mor:	imp|pone-2S&IMP=put det:art|un&m=one pro:indef|poquito=little
+	adv|más=more prep|de=of n|agua&f=water .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|3|JCT 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*FEL:	no xxx no quelo [: quiero] . 7962229_7963272
+%mor:	adv|no=no adv|no=no v|quere-1S&PRES=want .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%tim:	02:12:29
+*MOT:	a ver me ayudás ? [+ OCH] 7963272_7964110
+%mor:	prepart|a=to inf|ve-INF=see pro:obj|me=me v|ayuda-2S&PRES=help ?
+%gra:	1|2|INF 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	te doy un poquito de jabón y vos te ponés ? [+ OCH] 7964110_7965138
+%mor:	pro:obj|te=you v|da-1S&PRES=give det:art|un&m=one
+	pro:indef|poquito=little prep|de=of n|jabón&m=soap coord|y=and
+	pro:obj|vos=you pro:obj|te=you v|pone-2S&PRES=put ?
+%gra:	1|2|SUBJ 2|10|SUBJ 3|4|DET 4|10|SUBJ 5|4|JCT 6|5|POBJ 7|6|CONJ
+	8|7|COORD 9|10|SUBJ 10|0|ROOT 11|10|PUNCT
+*FEL:	sí . 7965138_7966072
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	dale (.) dame la manito . [+ OCH] 7966072_7967215
+%mor:	co|dale imp|da-2S&IMP~pro:clit|1S=give det:art|el&f&SG=the
+	n|manito&m=hand .
+%gra:	1|0|ROOT 2|5|DET 3|2|OBJ2 4|5|DET 5|1|OBJ 6|1|PUNCT
+*MOT:	poné en la pancita [=! alarga] . [+ OCH] 7967215_7968172
+%mor:	imp|pone-2S&IMP=put prep|en=in det:art|el&f&SG=the
+	n|panza&f-DIM=belly .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	en las rodillas [=! alarga] . [+ OCH] 7968172_7969027
+%mor:	prep|en=in det:art|el&f-PL=the n|rodilla&f-PL=knee .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MOT:	los pies  [=! alarga] . [+ OCH] 7969027_7970020
+%mor:	det:art|el&m-PL=the v|pia-2S&SUB&PRES=chirp .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%tim:	02:12:49
+*MOT:	xxx qué más ? [+ OCH] 7970020_7972795
+%mor:	pro:int|qué=what adv|más=more ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	la otra (.) en la otra pierna te pusiste ? [+ OCH] 7972795_7976073
+%mor:	det:art|el&f&SG=the qn|otro-f=other prep|en=in det:art|el&f&SG=the
+	qn|otro-f=other n|pierna&f=leg pro:obj|te=you v|pone-2S&PRET=put ?
+%gra:	1|2|DET 2|8|SUBJ 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|6|MOD 8|0|ROOT
+	9|8|PUNCT
+*MOT:	en esa ? [+ OCH] 7976073_7976803
+%mor:	prep|en=in det:dem|ese-f=that ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	&=balbucea . 7976803_7977856
+*CHI:	&=balbucea . 7977856_7978726
+*FEL:	xxx . 7978726_7982169
+*MOT:	sí xxx . [+ OCH] 7982169_7983523
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx hola  . 7983523_7988670
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	hola . [+ OCH] 7988670_7989824
+%mor:	co|hola=hi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 7989824_7993398
+*MOT:	eh ? [+ OCH] 7993398_7994898
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	&aayy . 7994898_7996177
+*FEL:	&=llora . 7996177_7998514
+*MOT:	qué te pasa Feli(pe) ? [+ OCH] 7998514_7998941
+%mor:	pro:int|qué=what pro:obj|te=you v|pasa-3S&PRES=pass n:prop|Felipe ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*MOT:	qué te pasó ? [+ OCH] 7998941_7999733
+%mor:	pro:int|qué=what pro:obj|te=you v|pasa-3S&PRET=pass ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FEL:	&=llora . 7999733_8000220
+*MOT:	qué pasa ? [+ OCH] 8000220_8000824
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx [=! llora] . 8000824_8002652
+*MOT:	&ah te mordiste la lengua ? [+ OCH] 8002652_8003085
+%mor:	pro:obj|te=you v|morde-2S&PRET=bite det:art|el&f&SG=the
+	n|lengua&f=tongue ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	a ver . [+ OCH] 8003085_8004271
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	&=llora . 8004271_8007738
+*MOT:	bueno [/] bueno (.) ya está [/] ya está [/] ya está  . [+ OCH] 8007738_8010887
+%mor:	co|bueno=good adv|ya=already adv|ya=already adv|ya=already
+	cop|esta-3S&PRES=be .
+%gra:	1|5|SUBJ 2|3|JCT 3|4|JCT 4|1|JCT 5|0|ROOT 6|5|PUNCT
+*MOT:	venga el nene (.) venga . [+ OCH] 8010887_8014186
+%mor:	co|venga=come_on det:art|el&m&SG=the n|nene&m=child
+	co|venga=come_on .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*FEL:	&=llora . 8014186_8015165
+*MOT:	ya está . [+ OCH] 8015165_8017302
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	listo ? [+ OCH] 8017302_8018927
+%mor:	adj|listo-m=ready ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 8018927_8021041
+*MOT:	suavecito [/] suavecito . [+ OCH] 8021041_8023602
+%mor:	adj|suave-DIM=smooth .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 8023602_8024074
+*CHI:	&=balbucea . 8024074_8024643
+*MOT:	hay que sacarse el jabón xxx . [+ OCH] 8024643_8025332
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that
+	inf|saca-INF~pro:clit|3S&REFL=bring_out det:art|el&m&SG=the
+	n|jabón&m=soap .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|OBJ2 5|6|DET 6|3|OBJ 7|1|PUNCT
+*MOT:	ahora acostate . [+ OCH] 8025332_8027088
+%mor:	adv|ahora=now imp|acosta-2S&IMP~pro:clit|2S=put_to_bet .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|2|PUNCT
+*FEL:	xxx . 8027088_8029973
+*MOT:	al revés . [+ OCH] 8029973_8031703
+%mor:	prepart|a~det:art|el&m=to n|revés&m=reverse .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	acostate . [+ OCH] 8031703_8032660
+%mor:	imp|acosta-2S&IMP~pro:clit|2S=put_to_bet .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	dale (.) acostate . [+ OCH] 8032660_8036156
+%mor:	co|dale imp|acosta-2S&IMP~pro:clit|2S=put_to_bet .
+%gra:	1|0|ROOT 2|1|REL 3|2|OBJ2 4|1|PUNCT
+*MOT:	acostate así me mostrás las manos xxx . [+ OCH] 8036156_8038192
+%mor:	imp|acosta-2S&IMP~pro:clit|2S=put_to_bet adv|así=thus pro:obj|me=me
+	v|mostra-2S&PRES=show det:art|el&f-PL=the n|mano&f-PL=hand .
+%gra:	1|3|JCT 2|1|OBJ2 3|4|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*FEL:	xxx . 8038192_8039895
+*MOT:	no pero no saques eso porque sino se va el agua . [+ OCH] 8039895_8044872
+%mor:	adv|no=no conj|pero=but adv|no=no v|saca-2S&SUB&PRES=bring_out
+	pro:dem|eso=that_one conj|porque=because conj|sino=except
+	pro:refl|se=itself v|i-3S&PRES=go det:art|el&m&SG=the n|agua&f=water
+	.
+%gra:	1|2|JCT 2|4|SUBJ 3|2|JCT 4|0|ROOT 5|4|OBJ 6|5|CMOD 7|6|SCL 8|7|SCL
+	9|8|COMP 10|11|DET 11|9|OBJ 12|4|PUNCT
+*MOT:	dale . [+ OCH] 8044872_8045502
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	acostate a ver  . [+ OCH] 8045502_8046840
+%mor:	imp|acosta-2S&IMP~pro:clit|2S=put_to_bet prepart|a=to
+	inf|ve-INF=see .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|INF 4|1|COMP 5|1|PUNCT
+*FEL:	xxx . 8046840_8047336
+*MOT:	xxx la cabeza acá Feli(pe) . [+ OCH] 8047336_8048382
+%mor:	det:art|el&f&SG=the n|cabeza&f=head adv|acá=here n:prop|Felipe .
+%gra:	1|2|DET 2|0|ROOT 3|4|MOD 4|2|APP 5|2|PUNCT
+*MOT:	la cabeza ahí . [+ OCH] 8048382_8049136
+%mor:	det:art|el&f&SG=the n|cabeza&f=head adv|ahí=there .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*FEL:	xxx  bicho xxx . 8049136_8050150
+%mor:	n|bicho-m=creature .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 8050150_8053907
+*MOT:	xxx . [+ OCH] 8053907_8054609
+*FEL:	no (.) el bicho chiquitito . 8054609_8056583
+%mor:	adv|no=no det:art|el&m&SG=the n|bicho-m=creature
+	adj|chico-DIM-DIM=small .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*MOT:	el bicho chiquitito ? [+ OCH] 8056583_8058438
+%mor:	det:art|el&m&SG=the n|bicho-m=creature adj|chico-DIM-DIM=small ?
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*FEL:	sí ! 8058438_8059849
+%mor:	co|sí=yes !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	y dónde está el bicho ?  [+ OCH] 8059849_8060711
+%mor:	coord|y=and pro:int|dónde=where cop|esta-3S&PRES=be
+	det:art|el&m&SG=the n|bicho-m=creature ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD 4|5|DET 5|3|PRED 6|1|COORD
+*FEL:	acá . 8060711_8063566
+%mor:	adv|acá=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	lo ves (.) lo ves ? 8063566_8065415
+%mor:	pro:ind|le-m=him co|ves=see pro:obj|le-m=him v|ve-2S&PRES=see ?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	no (.) no está . [+ OCH] 8065415_8066034
+%mor:	adv|no=no adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*FEL:	ahí (.) ves ? 8066034_8066891
+%mor:	adv|ahí=there v|ve-2S&PRES=see ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FEL:	allá un ahí . 8066891_8069107
+%mor:	adv|allá=there det:art|un&m=one adv|ahí=there .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|PUNCT
+*MOT:	&ah ahí . [+ OCH] 8069107_8069738
+%mor:	adv|ahí=there .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 8069738_8071169
+*MOT:	dale (.) rápido (.) rápido acostate y xxx .  [+ OCH] 8071169_8072876
+%mor:	co|dale adj|rápido-m=rapid adj|rápido-m=rapid
+	imp|acosta-2S&IMP~pro:clit|2S=put_to_bet coord|y=and .
+%gra:	1|0|ROOT 2|3|MOD 3|1|MOD 4|1|PUNCT 5|4|OBJ2 6|4|CONJ 7|6|COORD
+*FEL:	el bicho chiquito . 8072876_8076227
+%mor:	det:art|el&m&SG=the n|bicho-m=creature n|chico&m-DIM=child .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	&=ríe . 8076227_8078239
+*MOT:	vamos Feli(pe) ? [+ OCH] 8078239_8079112
+%mor:	co|vamos=go n:prop|Felipe ?
+%gra:	1|0|ROOT 2|1|APP 3|1|PUNCT
+*FEL:	xxx hay un bicho chiquitito . 8079112_8080954
+%mor:	v|habe-3S&PRES&SPEC=have det:art|un&m=one n|bicho-m=creature
+	adj|chico-DIM-DIM=small .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|MOD 5|1|PUNCT
+*MOT:	dale gordi acostate así no pongo el duchador &eh . [+ OCH] 8080954_8084410
+%mor:	co|dale n|gordi=fatty imp|acosta-2S&IMP~pro:clit|2S=put_to_bet
+	adv|así=thus adv|no=no v|pone-1S&PRES=put det:art|el&m&SG=the
+	n|ducha&v-AGT&m=take_shower .
+%gra:	1|2|DET 2|3|SUBJ 3|7|SUBJ 4|3|OBJ2 5|6|JCT 6|7|JCT 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|PUNCT
+*FEL:	&ay no . 8084410_8086306
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	dale . [+ OCH] 8086306_8086899
+%mor:	co|dale .
+%gra:	1|0|ROOT 2|1|PUNCT
+%tim:	02:14:44
+*FEL:	xxx  no . 8086899_8095400
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bueno (.) dale . [+ OCH] 8095400_8096039
+%mor:	co|bueno=good co|dale .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	&=ríe . 8096039_8096888
+*MOT:	&ah ! [+ CHI] 8096888_8097918
+%pra:	$IND
+%dad:	$HIG
+%com:	imita al bebé .
+*MOT:	mirá . [+ OCH] 8097918_8098879
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	mostrale al Mini cómo hacés . [+ OCH] 8098879_8099871
+%mor:	imp|mostra-2S&IMP~pro:clit|3S=show prepart|a~det:art|el&m=to
+	n:prop|Mini pro:int|cómo=how v|hace-2S&PRES=do .
+%gra:	1|7|SUBJ 2|1|OBJ2 3|7|SUBJ 4|5|DET 5|7|SUBJ 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*MOT:	mirá qué bien Mini . [+ CHI] 8099871_8100776
+%mor:	co|mirá pro:int|qué=what adv|bien=well n:prop|Mini .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%pra:	$DAV
+%dad:	$HIG
+*MOT:	mirá cómo hace el hermano grande . [+ CHI] 8100776_8101665
+%mor:	co|mirá pro:int|cómo=how v|hace-3S&PRES=do det:art|el&m&SG=the
+	n|hermano-m=sibling adj|grande=big .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|MOD 7|3|PUNCT
+%pra:	$DAV
+%dad:	$HIG
+*MOT:	&ay pero qué bien cómo se acuesta ! [+ CHI] 8101665_8104011
+%mor:	conj|pero=but pro:int|qué=what adv|bien=well pro:int|cómo=how
+	pro:refl|se=itself v|acosta-3S&PRES=put_to_bet !
+%gra:	1|6|SUBJ 2|6|SUBJ 3|4|JCT 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%pra:	$DEV
+%dad:	$HIG
+*MOT:	viste ? [+ CHI] 8104011_8105524
+%mor:	v|ve-2S&PRET=see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$PVV
+%dad:	$HIG
+*MOT:	parece que está haciendo nono .[+ CHI] 8105524_8106939
+%mor:	v|parece-3S&PRES=seem pro:rel|que=that aux|esta-3S&PRES=be
+	part|hace-PRPART=do n|nono&m=sleep .
+%gra:	1|0|ROOT 2|1|REL 3|4|AUX 4|2|COMP 5|4|OBJ 6|1|PUNCT
+%pra:	$DEV
+%dad:	$HIG
+*MOT:	pero no ! [+ CHI] 8106939_8108180
+%mor:	conj|pero=but adv|no=no !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%pra:	$IND
+%dad:	$HIG
+*MOT:	está nadando . [+ CHI] 8108180_8109212
+%mor:	aux|esta-3S&PRES=be part|nada-PRPART=swim .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%pra:	$DEV
+%dad:	$HIG
+*MOT:	porque el nada muy bien . [+ CHI] 8109212_8112291
+%mor:	conj|porque=because det:art|el&m&SG=the v|nada-3S&PRES=swim
+	adv|muy=very adv|bien=well .
+%gra:	1|3|SUBJ 2|3|DET 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+%pra:	$DEV
+%dad:	$HIG
+*CHI:	&=ríe . 8112291_8114192
+*MOT:	viste ? [+ CHI] 8114192_8114998
+%mor:	v|ve-2S&PRET=see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$PVV
+%dad:	$HIG
+*MOT:	mirá cómo le gusta a Mini . [+ OCH] 8114998_8116334
+%mor:	co|mirá pro:int|cómo=how pro:ind|le&m=him v|gusta-3S&PRES=like
+	prepart|a=to n:prop|Mini .
+%gra:	1|0|ROOT 2|1|JCT 3|4|SUBJ 4|2|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*MOT:	(es)perá (.) (es)perá ! [+ OCH] 8116334_8117742
+%mor:	imp|espera-2S&IMP=wait imp|espera-2S&IMP=wait !
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MOT:	falta un poquito . [+ OCH] 8117742_8118307
+%mor:	v|falta-3S&PRES=be_lacking det:art|un&m=one
+	pro:indef|poquito=little .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	un poquitito [/] un poquitito [/] un poquitito . [+ OCH] 8118307_8120636
+%mor:	det:art|un&m=one det:art|un&m=one det:art|un&m=one
+	n|little&m-DIM=little .
+%gra:	1|4|DET 2|4|DET 3|4|DET 4|0|ROOT 5|4|PUNCT
+*MOT:	un poquitito [/] un poquitito [/] un poquitito . [+ OCH] 8120636_8122897
+%mor:	det:art|un&m=one det:art|un&m=one det:art|un&m=one
+	n|little&m-DIM=little .
+%gra:	1|4|DET 2|4|DET 3|4|DET 4|0|ROOT 5|4|PUNCT
+*MOT:	&piquipiquipiquipique . [+ OCH] 8122897_8124910
+*CHI:	&=balbucea . 8124910_8126248
+*MOT:	&piquipiquitacone &pita &pita &piquipiquipiquipiquipiquipiqu .
+	[+ OCH] 8126248_8128411
+*CHI:	&=balbucea . 8128411_8131510
+*MOT:	ahí está xxx muy bien ! [+ OCH] 8131510_8133902
+%mor:	adv|ahí=there cop|esta-3S&PRES=be adv|muy=very adv|bien=well !
+%gra:	1|2|JCT 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	&=tararea . [+ OCH] 8133902_8137071
+*MOT:	pará que voy a buscar una toalla . [+ OCH] 8137071_8139939
+%mor:	imp|para-2S&IMP=stop pro:rel|que=that v|i-1S&PRES=go prepart|a=to
+	inf|busca-INF=search det:art|un-f=one n|toalla&f=towel .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+*FEL:	&=tararea . 8139939_8151381
+*FEL:	&pu . 8151381_8160635
+*FEL:	&=ríe . 8160635_8167140
+%tim:	02:16:06
+*CHI:	&=ríe . 8167140_8171261
+*MOT:	no (.) no ! [+ OCH] 8171261_8171798
+%mor:	adv|no=no adv|no=no !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	no mojes al Mini . [+ OCH] 8171798_8174635
+%mor:	adv|no=no v|moja-2S&SUB&PRES=moisten prepart|a~det:art|el&m=to
+	n:prop|Mini .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MOT:	vení acá xxx . [+ OCH] 8174635_8180956
+%mor:	imp|veni-2S&IMP=come adv|acá=here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	ahí está . [+ OCH] 8180956_8187976
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea . 8187976_8196564
+*CHI:	&=balbucea . 8196564_8198143
+*CHI:	&=balbucea . 8198143_8198768
+%com:	parece que camina .
+*MOT:	a ver Feli(pe) . 8198768_8199495
+%mor:	prepart|a=to inf|ve-INF=see n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+%com:	se escucha que Felipe dice algo lejos pero no se llega a entender
+*MOT:	xxx . [+ OCH] 8199495_8203038
+*MOT:	ahí está . [+ OCH] 8203038_8205717
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	parate . [+ OCH] 8205717_8207066
+%mor:	imp|para-2S&IMP~pro:clit|2S=stop .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+*MOT:	xxx &oy . [+ OCH] 8207066_8210887
+*MOT:	pollito . [+ OCH] 8210887_8213284
+%mor:	n|pollo&m-DIM=chicken .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&uy qué lindo pollito ! [+ OCH] 8213284_8215728
+%mor:	pro:int|qué=what adj|lindo-m=pretty n|pollo&m-DIM=chicken !
+%gra:	1|3|DET 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*FEL:	un pollito loto [: loco] . 8215728_8217729
+%mor:	det:art|un&m=one n|pollo&m-DIM=chicken adj|loco-m=crazy .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*MOT:	pollito roto . [+ OCH] 8217729_8219759
+%mor:	n|pollo&m-DIM=chicken adj|roto-m=broken .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*FEL:	toleche [: parece] toleche [: parece] . 8219759_8223584
+%mor:	v|parece-3S&PRES=seem v|parece-3S&PRES=seem .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	qué parece xxx ? [+ OCH] 8223584_8225054
+%mor:	pro:int|qué=what v|parece-3S&PRES=seem ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FEL:	parece xxx loco . 8225054_8226246
+%mor:	v|parece-3S&PRES=seem adj|loco-m=crazy .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	se lo escucha más lejos
+%tim:	02:17:40
+*MOT:	Mini ! [+ CHI] 8226246_8278231
+%mor:	n:prop|Mini !
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	qué hacés ? [+ CHI] 8278231_8279180
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$PVV
+%dad:	$IND
+*CHI:	&=llora . 8279180_8316848
+%com:	parece que se golpea o se cae
+*MOT:	no (.) no mamita . [+ CHI] 8316848_8322898
+%mor:	adv|no=no adv|no=no n|mama&f-DIM=mamma .
+%gra:	1|3|JCT 2|3|MOD 3|0|ROOT 4|3|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	ya está . [+ CHI] 8322898_8323557
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=grita . 8323557_8324838
+*MOT:	vení . [+ CHI] 8324838_8327060
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*CHI:	&=llora . 8327060_8334074
+*MOT:	no . [+ CHI] 8334074_8337122
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=llora . 8337122_8337739
+*MOT:	bueno (.) bueno . [+ CHI] 8337739_8338686
+%mor:	co|bueno=good co|bueno=good .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=llora . 8338686_8340021
+*MOT:	bueno . [+ CHI] 8340021_8341157
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=llora . 8341157_8343106
+*MOT:	bueno [/] bueno [/] bueno . [+ CHI] 8343106_8345165
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	ya está . [+ CHI] 8345165_8345805
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=llora . 8345805_8346743
+*MOT:	bueno . [+ CHI] 8346743_8347329
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	ya está . [+ CHI] 8347329_8347932
+%mor:	adv|ya=already cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	&=besa . 8347932_8349298
+*MOT:	&tututú . [+ CHI] 8349298_8351071
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=llora . 8351071_8353296
+*MOT:	&tututú &tutú . [+ CHI] 8353296_8353996
+%pra:	$IND
+%dad:	$IND
+*MOT:	&tarará &rará . [+ CHI] 8353996_8355121
+%pra:	$IND
+%dad:	$IND
+*MOT:	twinkle@s:eng (.) twinkle@s:eng little@s:eng star@s:eng [=! canta] .
+	[+ CHI] 8355121_8361086
+%mor:	L2|twinkle L2|twinkle L2|little L2|star .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	how@s:eng i@s:eng wonder@s:eng what@s:eng you@s:eng are@s:eng
+	[=! canta] . [+ CHI] 8361086_8366045
+%mor:	L2|how L2|i L2|wonder L2|what L2|you L2|are .
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	and@s:eng (.) &=tararea [=! canta] . [+ CHI] 8366045_8369704
+%mor:	L2|and .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	like@s:eng a@s:eng dimond@s:eng in@s:eng the@s:eng sky@s:eng
+	[=! canta] . [+ CHI] 8369704_8370784
+%mor:	L2|like L2|a L2|dimond L2|in L2|the L2|sky .
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	twinkle@s:eng (.) twinkle@s:eng little@s:eng star@s:eng [=! canta] .
+	[+ CHI] 8370784_8373420
+%mor:	L2|twinkle L2|twinkle L2|little L2|star .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 8373420_8374305
+*MOT:	twinkle@s:eng (.) twinkle@s:eng little@s:eng star@s:eng [=! canta] .
+	[+ CHI] 8374305_8376261
+%mor:	L2|twinkle L2|twinkle L2|little L2|star .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 8376261_8377645
+*CHI:	&=balbucea . 8377645_8378527
+*MOT:	how@s:eng i@s:eng wonder@s:eng what@s:eng you@s:eng are@s:eng
+	[=! canta] . [+ CHI] 8378527_8380603
+%mor:	L2|how L2|i L2|wonder L2|what L2|you L2|are .
+%gra:	1|0|ROOT 2|1|REL 3|2|JCT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	muy bien ! [+ CHI] 8380603_8385589
+%mor:	adv|muy=very adv|bien=well !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	&=besa . 8385589_8387181
+*MOT:	vamos a comer ahora ? [+ CHI] 8387181_8389968
+%mor:	v|i-1P&PRES=go prepart|a=to inf|come-INF=eat adv|ahora=now ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%pra:	$PVV
+%dad:	$IND
+*CHI:	&=balbucea . 8389968_8391475
+*MOT:	vamos a comer la papita ? [+ CHI] 8391475_8392136
+%mor:	v|i-1P&PRES=go prepart|a=to inf|come-INF=eat det:art|el&f&SG=the
+	n|papa&f-DIM=potato ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*CHI:	&=balbucea . 8392136_8392820
+*MOT:	&tututu . [+ CHI] 8392820_8394916
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 8394916_8395756
+*MOT:	&=besa . 8395756_8396706
+*FEL:	&lulú . 8396706_8398011
+*MOT:	&lulú . [+ OCH] 8398011_8398905
+*MOT:	vamos . [+ CHI] 8398905_8401692
+%mor:	co|vamos=go .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	acá no &eh basta . [+ CHI] 8401692_8402629
+%mor:	adv|acá=here adv|no=no v|basta-3S&PRES=suffice .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	&pulu &pupu &baba [=! canta] . [+ CHI] 8402629_8411364
+%pra:	$IND
+%dad:	$IND
+%com:	se escucha la televisión
+*MOT:	&churururu &chuntúntún [=! canta] . [+ CHI] 8411364_8414228
+%pra:	$IND
+%dad:	$IND
+*MOT:	&churún &churún [=! canta] . [+ CHI] 8414228_8417133
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 8417133_8418123
+*MOT:	&chunchún &chunchún &chún [=! canta] . [+ CHI] 8418123_8419242
+%pra:	$IND
+%dad:	$IND
+*MOT:	&chunrurú [=! canta] . [+ CHI] 8419242_8421689
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 8421689_8423908
+%tim:	02:20:34
+*MOT:	&umm &umm &um [=! canta] . [+ CHI] 8423908_8428696
+%pra:	$IND
+%dad:	$IND
+*MOT:	&=tararea . 8428696_8454559
+*CHI:	&=balbucea . 8454559_8468313
+*MOT:	&=silva . 8468313_8472073
+*MOT:	&=tararea . 8472073_8488854
+*CHI:	&=balbucea . 8488854_8495508
+*MOT:	viste ? [+ CHI] 8495508_8498911
+%mor:	v|ve-2S&PRET=see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$PVV
+%dad:	$IND
+*MOT:	mirá qué lindo esto . [+ CHI] 8498911_8501586
+%mor:	co|mirá pro:int|qué=what adj|lindo-m=pretty pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%pra:	$DAN
+%dad:	$IND
+%com:	mueve un juguete que empieza a hacer ruido
+%act:	juega con el juguete
+*CHI:	&=balbucea . 8501586_8509712
+*CHI:	&=balbucea . 8509712_8540006
+%com:	parece que juega solo
+*CHI:	&=balbucea . 8540006_8601135
+*CHI:	&=balbucea . 8601135_8603195
+*CHI:	&=balbucea . 8603195_8609788
+*CHI:	&=balbucea . 8609788_8642987
+*CHI:	&=balbucea . 8642987_8666791
+*CHI:	&=balbucea . 8666791_8687227
+*CHI:	&=balbucea . 8687227_8696824
+%com:	el juguete tiene como una sirena .
+%tim:	02:25:46
+*CHI:	&=balbucea . 8696824_8699323
+*CHI:	&=balbucea . 8699323_8750252
+*CHI:	&=balbucea . 8750252_8754293
+*CHI:	&=balbucea . 8754293_8797614
+*CHI:	&=balbucea . 8797614_8804149
+*CHI:	&=balbucea . 8804149_8853601
+*CHI:	&=balbucea . 8853601_8870675
+*CHI:	&=balbucea . 8870675_8877824
+*CHI:	&=balbucea . 8877824_8984012
+%com:	se escucha de lejos a la mamá
+*CHI:	&=balbucea . 8984012_9005102
+%tim:	02:30:22
+*MOT:	qué hacés Mimi ? [+ CHI] 9005102_9023274
+%mor:	pro:int|qué=what v|hace-2S&PRES=do n:prop|Mimi ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%pra:	$PVV
+%dad:	$IND
+*FEL:	xxx ! 9023274_9024055
+*MOT:	qué pasa ? [+ OCH] 9024055_9025690
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	qué pasa gordi (.) &eh ? [+ OCH] 9025690_9030028
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass n|gordi=fatty ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	xxx . [+ OCH] 9030028_9034838
+%com:	se escucha que hablan de fondo pero el ruido del juguete lo tapa .
+%tim:	02:31:43
+*MOT:	&uy cuidado gordi . [+ CHI] 9034838_9158097
+%mor:	co|cuidado=careful n|gordi=fatty .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%pra:	$DAA
+%dad:	$IND
+%com:	parece caerse
+*CHI:	&=balbucea . 9158097_9176427
+*MOT:	&=tararea . [+ CHI] 9176427_9179601
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 9179601_9181363
+*MOT:	&=tararea . [+ CHI] 9181363_9182307
+%pra:	$IND
+%dad:	$IND
+%com:	Juan Pablo hace ruidos de esfuerzo
+*MOT:	&=tararea . [+ CHI] 9182307_9186154
+%pra:	$IND
+%dad:	$IND
+*MOT:	&=silva . [+ CHI] 9186154_9200038
+%pra:	$IND
+%dad:	$IND
+*MOT:	&=tararea . [+ CHI] 9200038_9208324
+%pra:	$IND
+%dad:	$IND
+*MOT:	no (.) Mini . [+ CHI] 9208324_9246524
+%mor:	co|no n:prop|Mini .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	no xxx . [+ CHI] 9246524_9249073
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	eso no . [+ CHI] 9249073_9249989
+%mor:	pro:dem|eso=that_one adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*MOT:	esto no . [+ CHI] 9249989_9276194
+%mor:	pro:dem|esto=this_one adv|no=no .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%pra:	$DAA
+%dad:	$IND
+*CHI:	&=balbucea . 9276194_9279695
+*MOT:	xxx . [+ CHI] 9279695_9351154
+%pra:	$IND
+%dad:	$IND
+*MOT:	mirá esto . [+ CHI] 9351154_9352746
+%mor:	co|mirá pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	&mmm [=! balbucea] . 9352746_9353719
+%tim:	02:35:19
+*CHI:	&=lloriquea . 9353719_9354530
+*MOT:	qué mi amor ? [+ CHI] 9354530_9355200
+%mor:	pro:int|qué=what det:poss|mi=my co|amor=love ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	qué pasa ? [+ CHI] 9355200_9356573
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=balbucea . 9356573_9357666
+*CHI:	&=balbucea . 9357666_9365220
+*CHI:	&=lloriquea . 9365220_9384101
+*MOT:	qué pasa ? [+ CHI] 9384101_9386434
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*CHI:	&=lloriquea . 9386434_9388019
+*CHI:	ma(má) [=! lloriquea] . 9388019_9390080
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué pasa ? [+ CHI] 9390080_9391191
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$IND
+*MOT:	ya estamos con sueño ? [+ CHI] 9391191_9392276
+%mor:	adv|ya=already cop|esta-1P&PRES&PRET=be prep|con=with
+	n|sueño&m=dream ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%pra:	$PVN
+%dad:	$IND
+*CHI:	&=balbucea . 9392276_9392997
+*MOT:	ahora vamos a comer la papa . [+ CHI] 9392997_9393676
+%mor:	adv|ahora=now v|i-1P&PRES=go prepart|a=to inf|come-INF=eat
+	det:art|el&f&SG=the n|papa&f=potato .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%pra:	$DEV
+%dad:	$COM
+*CHI:	&=balbucea . 9393676_9394462
+*CHI:	&=balbucea . 9394462_9403500
+*MOT:	a ver . [+ CHI] 9403500_9404254
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 9404254_9406670
+%com:	Juan Pablo se mueve
+*CHI:	&=balbucea . 9406670_9426151
+%com:	se escucha un programa infantil en la televisión
+*CHI:	&=lloriquea . 9426151_9453743
+*CHI:	&=balbucea . 9453743_9458200
+*MOT:	Feli(pe) . [+ OCH] 9458200_9459074
+%mor:	n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ma(má) . 9459074_9461380
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 9461380_9465069
+%com:	parece que mira la tele
+*CHI:	&=balbucea . 9465069_9509916
+*CHI:	&=lloriquea . 9509916_9516542
+*MOT:	por qué hacés así ? [+ CHI] 9516542_9521494
+%mor:	prep|por=for pro:int|qué=what v|hace-2S&PRES=do adv|así=thus ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|3|JCT 5|1|PUNCT
+%pra:	$PVV
+%dad:	$COM
+*FEL:	no tengo uno . 9521494_9522102
+%mor:	adv|no=no v|tene-1S&PRES=have pro:indef|uno=one .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FEL:	no tengo uno . 9522102_9523944
+%mor:	adv|no=no v|tene-1S&PRES=have pro:indef|uno=one .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	querés xxx ? [+ OCH] 9523944_9526930
+%mor:	v|quere-2S&PRES=want ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no me lo hacé(s) vo(s) xxx . 9526930_9528886
+%mor:	adv|no=no pro:obj|me=me pro:obj|le-m=him v|hace-2S&PRES=do
+	pro:obj|vos=you .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	mirá cómo baila el Mini . [+ OCH] 9528886_9531554
+%mor:	co|mirá pro:int|cómo=how v|baila-3S&PRES=dance det:art|el&m&SG=the
+	n:prop|Mini .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*FEL:	no tengo xxx . 9531554_9533380
+%mor:	adv|no=no v|tene-1S&PRES=have .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*FEL:	no tengo xxx . 9533380_9536155
+%mor:	adv|no=no v|tene-1S&PRES=have .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea . 9536155_9540315
+*FEL:	no . 9540315_9540825
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no . 9540825_9541744
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 9541744_9547299
+*MOT:	a ver qué viene acá . [+ OCH] 9547299_9552087
+%mor:	prepart|a=to inf|ve-INF=see pro:int|qué=what v|veni-3S&PRES=come
+	adv|acá=here .
+%gra:	1|2|INF 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*FEL:	xxx . 9552087_9553750
+*MOT:	acá me parece que viene xxx . [+ OCH] 9553750_9554756
+%mor:	adv|acá=here pro:obj|me=me v|parece-3S&PRES=seem pro:rel|que=that
+	v|veni-3S&PRES=come .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT 4|3|REL 5|4|CMOD 6|5|PUNCT
+*MOT:	vamos a ponerle el babero a Mini . [+ OCH] 9554756_9556989
+%mor:	v|i-1P&PRES=go prepart|a=to inf|pone-INF~pro:clit|3S=put
+	det:art|el&m&SG=the n|babero&m=bib prepart|a=to n:prop|Mini .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ2 5|6|DET 6|3|OBJ 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*MOT:	para comer . [+ OCH] 9556989_9559640
+%mor:	prep|para=for inf|come-INF=eat .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	&ay xxx . [+ CHI] 9559640_9575444
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=llora . 9575444_9578903
+*MOT:	despacito ! [+ OCH] 9578903_9579511
+%mor:	adj|despacio-DIM=slowly !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	despacito (.) Feli(pe) . [+ OCH] 9579511_9580396
+%mor:	adj|despacio-DIM=slowly n:prop|Felipe .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 9580396_9583328
+*MOT:	qué es eso ? [+ OCH] 9583328_9585288
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%tim:	02:39:46
+*MOT:	qué hacen con esto ? [+ CHI] 9585288_9588742
+%mor:	pro:int|qué=what v|hace-3P&PRES=do prep|con=with
+	pro:dem|esto=this_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%pra:	$PVV
+%dad:	$COM
+*MOT:	de dónde salió esto ? [+ CHI] 9588742_9589058
+%mor:	prep|de=of pro:int|dónde=where v|sali-3S&PRET=leave
+	pro:dem|esto=this_one ?
+%gra:	1|0|ROOT 2|1|POBJ 3|2|CMOD 4|3|OBJ 5|1|PUNCT
+%pra:	$PVN
+%dad:	$COM
+*FEL:	mirá la tortuga ! 9589058_9594199
+%mor:	co|mirá det:art|el&f&SG=the n|tortuga&f=turtoise !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	&=balbucea . 9594199_9594902
+*FEL:	la (tor)tuga . 9594902_9595448
+%mor:	det:art|el&f&SG=the n|tortuga&f=turtoise .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	la tortuga ! [+ OCH] 9595448_9596130
+%mor:	det:art|el&f&SG=the n|tortuga&f=turtoise !
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea . 9596130_9597076
+*MOT:	a ver mi amor . [+ CHI] 9597076_9597666
+%mor:	prepart|a=to inf|ve-INF=see det:poss|mi=my co|amor=love .
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	epa ! [+ CHI] 9597666_9599723
+%mor:	co|epa !
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	vamos a poner el babero . [+ CHI] 9599723_9603741
+%mor:	v|i-1P&PRES=go prepart|a=to inf|pone-INF=put det:art|el&m&SG=the
+	n|babero&m=bib .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%pra:	$DEN
+%dad:	$COM
+%tim:	02:40:06
+*MOT:	a ver . [+ CHI] 9603741_9607757
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*FEL:	&uoo . 9607757_9611606
+*MOT:	epa . [+ OCH] 9611606_9612434
+%mor:	co|epa .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	a ver . [+ OCH] 9612434_9613119
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx el mostro [: monstruo] . 9613119_9615402
+%mor:	det:art|el&m&SG=the n|monstruo-m=monster .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 9615402_9620476
+*FEL:	el mostro [: monstruo] . 9620476_9624196
+%mor:	det:art|el&m&SG=the n|monstruo-m=monster .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	el mostro [: monstruo] . 9624196_9627077
+%mor:	det:art|el&m&SG=the n|monstruo-m=monster .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	el monstruo ? [+ CHI] 9627077_9629675
+%mor:	det:art|el&m&SG=the n|monstruo-m=monster ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%pra:	$PVN
+%dad:	$JUE
+*CHI:	&=llora . 9629675_9631309
+*FEL:	el mostro [: monstruo] xxx . 9631309_9632829
+%mor:	det:art|el&m&SG=the n|monstruo-m=monster .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 9632829_9635019
+*CHI:	&=lloriquea . 9635019_9638061
+*FEL:	xxx . 9638061_9638637
+*MOT:	xxx que tengo . [+ CHI] 9638637_9645300
+%mor:	pro:rel|que=that v|tene-1S&PRES=have .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$JUE
+*CHI:	&=balbucea . 9645300_9648729
+*FEL:	xxx el mostro [: monstruo] . 9648729_9651948
+%mor:	det:art|el&m&SG=the n|monstruo-m=monster .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	el monstruo . [+ OCH] 9651948_9655262
+%mor:	det:art|el&m&SG=the n|monstruo-m=monster .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	viste que el monstruo tiene muchos brazos ? [+ OCH] 9655262_9657860
+%mor:	v|vesti-3S&PRES=dress pro:rel|que=that det:art|el&m&SG=the
+	n|monstruo-m=monster v|tene-3S&PRES=have qn|mucho-m-PL=many
+	n|brazo&m-PL=arm ?
+%gra:	1|0|ROOT 2|1|REL 3|4|DET 4|5|SUBJ 5|2|CMOD 6|7|DET 7|5|OBJ 8|1|PUNCT
+*FEL:	sí . 9657860_9660853
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 9660853_9661445
+*FEL:	mirá . 9661445_9661974
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&=gruñe . [+ OCH] 9661974_9662623
+*MOT:	te agarró y xxx . [+ OCH] 9662623_9663541
+%mor:	pro:obj|te=you v|agarra-3S&PRET=grab coord|y=and .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*FEL:	&=ríe . 9663541_9665878
+%tim:	02:41:12
+*MOT:	&=gruñe . [+ OCH] 9665878_9666619
+%com:	Feli y la mamá parecen jugar a los monstruos
+*FEL:	&=ríe . 9666619_9669408
+*MOT:	&=gruñe . [+ OCH] 9669408_9672370
+*FEL:	más . 9672370_9685504
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no ma(má) xxx . 9685504_9688823
+%mor:	adv|no=no n|mamá&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	&=ríe . 9688823_9690371
+*FEL:	más . 9690371_9694342
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&=gruñe . 9694342_9695398
+*FEL:	&=ríe . 9695398_9697888
+*CHI:	&=ríe . 9697888_9698175
+*FEL:	más . 9698175_9698943
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	&=ríe . 9698943_9699765
+*FEL:	más . 9699765_9700239
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ahí ? [+ OCH] 9700239_9702927
+%mor:	adv|ahí=there ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vení (.) vení . [+ OCH] 9702927_9704454
+%mor:	imp|veni-2S&IMP=come imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*FEL:	más . 9704454_9705479
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vení  a agarrarme . [+ OCH] 9705479_9705906
+%mor:	imp|veni-2S&IMP=come prepart|a=to inf|agarra-INF~pro:clit|1S=grab .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ2 5|1|PUNCT
+*FEL:	más . 9705906_9706634
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vení acá con el monstruo . [+ OCH] 9706634_9708101
+%mor:	imp|veni-2S&IMP=come adv|acá=here prep|con=with det:art|el&m&SG=the
+	n|monstruo-m=monster .
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MOT:	vení . [+ OCH] 9708101_9708366
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	más . 9708366_9709383
+%mor:	adv|más=more .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vení [/] vení . [+ OCH] 9709383_9709776
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	&=ríe . 9709776_9710164
+*CHI:	&=ríe . 9710164_9710200
+*MOT:	&=gruñe . [+ OCH] 9710200_9712996
+*FEL:	no (.) ma(má) . 9712996_9719047
+%mor:	adv|no=no n|mamá&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx miedo le agarró . [+ OCH] 9719047_9720996
+%mor:	n|miedo&m=fear pro:ind|le&m=him v|agarra-3S&PRET=grab .
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|3|PUNCT
+*MOT:	lo voy a comer al Mini . [+ OCH] 9720996_9722910
+%mor:	pro:obj|le-m=him v|i-1S&PRES=go prepart|a=to inf|come-INF=eat
+	prepart|a~det:art|el&m=to n:prop|Mini .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*MOT:	&=gruñe . [+ CHI] 9722910_9724432
+%pra:	$IND
+%dad:	$JUE
+*FEL:	ma(má) no hagas . 9724432_9726024
+%mor:	n|mamá&f=mommy adv|no=no v|hace-2S&SUB&PRES=do .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	&=gruñe . 9726024_9728240
+*CHI:	&=balbucea . 9728240_9730313
+*FEL:	ya ? 9730313_9731366
+%mor:	adv|ya=already ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%tim:	02:42:10
+%com:	se escucha de fondo a la mamá y a Felipe interactuando .
+*FEL:	&=ríe . 9731366_9740856
+*MOT:	no (.) no (.) con la ojota no . [+ OCH] 9740856_9742280
+%mor:	adv|no=no adv|no=no prep|con=with det:art|el&f&SG=the
+	n|ojota&f=flip_flops adv|no=no .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|2|PUNCT
+*FEL:	&uuuuaaa . 9742280_9748293
+*FEL:	&=ríe . 9748293_9749077
+%com:	se escucha la televisión de fondo
+*CHI:	&=ríe . 9749077_9756180
+*FEL:	mirá mamá . 9756180_9763866
+%mor:	co|mirá n|mamá&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	qué ? [+ OCH] 9763866_9766700
+%mor:	pro:int|qué=what ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xxx . [+ OCH] 9766700_9769585
+*CHI:	&=ríe . 9769585_9770086
+*FEL:	hola mami [: mamá] . 9770086_9770696
+%mor:	co|hola=hi n|mamá&f=mommy .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	&=balbucea . 9770696_9771362
+*FEL:	xxx . 9771362_9775097
+*CHI:	&=lloriquea . 9775097_9776078
+*MOT:	cuidado la mano . [+ OCH] 9776078_9780629
+%mor:	co|cuidado=careful det:art|el&f&SG=the n|mano&f=hand .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	&=balbucea . 9780629_9783632
+*CHI:	&=balbucea . 9783632_9786694
+*CHI:	&ah mamá . 9786694_9787894
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	xxx . 9787894_9789565
+*CHI:	&=lloriquea . 9789565_9790037
+*MOT:	sí ahora xxx . 9790037_9794916
+%mor:	co|sí=yes adv|ahora=now .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	&=lloriquea . 9794916_9799409
+*CHI:	&=llora . 9799409_9810574
+*FEL:	dame a mí . 9810574_9814020
+%mor:	imp|da-2S&IMP~pro:clit|1S=give prepart|a=to pro:prep|mí=me .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	te acordás ? [+ OCH] 9814020_9814960
+%mor:	pro:obj|te=you v|acorda-2S&PRES=remind ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 9814960_9815663
+*MOT:	&uhhhh xxx . [+ OCH] 9815663_9816214
+*CHI:	&=balbucea . 9816214_9817335
+*CHI:	&=lloriquea . 9817335_9818154
+*MOT:	xxx . 9818154_9819136
+*MOT:	qué mamina ? [+ CHI] 9819136_9819837
+%mor:	pro:int|qué=what
+	n|mama&f-AUG=mamma^n|mami&f-AUG=mommy^n|mamá&f-AUG=mommy^n|mamí&f-AUG=mommy
+	?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	ahora te traigo la comi(da) . [+ CHI] 9819837_9820542
+%mor:	adv|ahora=now pro:obj|te=you v|trae-1S&PRES=carry
+	det:art|el&f&SG=the n|comida&f=food .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%pra:	$DEN
+%dad:	$COM
+*MOT:	a ver . [+ OCHI] 9820542_9821176
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	vamos a traer la comida (.) Feli(pe) . [+ OCH] 9821176_9822012
+%mor:	v|i-1P&PRES=go prepart|a=to inf|trae-INF=carry det:art|el&f&SG=the
+	n|comida&f=food n:prop|Felipe .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|5|MOD 7|1|PUNCT
+*FEL:	no . 9822012_9822776
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	no (.) no quiero . 9822776_9825553
+%mor:	adv|no=no adv|no=no v|quere-1S&PRES=want .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*FEL:	quiero más de lo ot(r)o . 9825553_9829351
+%mor:	v|quere-1S&PRES=want adv|más=more prep|de=of pro:ind|le-m=him
+	pro:indef|otro-m=other .
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*FEL:	má(s) de lo ot(r)o . 9829351_9831282
+%mor:	adv|más=more prep|de=of pro:ind|le-m=him pro:indef|otro-m=other .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	xxx de este . [+ OCH] 9831282_9833046
+%mor:	prep|de=of det:dem|este=this .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*FEL:	e(s)te seguro ? 9833046_9834616
+%mor:	det:dem|este=this co|seguro=sure ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	&ujum . [+ OCH] 9834616_9835501
+*CHI:	&=balbucea . 9835501_9843053
+*CHI:	&=llora . 9843053_9845486
+*MOT:	ahí va [/] ahí va . [+ CHI] 9845486_9848042
+%mor:	adv|ahí=there adv|ahí=there v|i-3S&PRES=go .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 9848042_9856352
+*CHI:	&=se queja . 9856352_9864100
+%mor:	v|queja-3S&PRES=complain .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 9864100_9869412
+%com:	hay ruido de instrumentos de cocina .
+*CHI:	&=se queja . 9869412_9877392
+%mor:	v|queja-3S&PRES=complain .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=lloriquea . 9877392_9882616
+%tim:	02:45:01
+*MOT:	&ey xxx . 9882616_9916410
+*MOT:	qué hacés ? 9916410_9918381
+%mor:	pro:int|qué=what v|hace-2S&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	xxx . 9918381_9921235
+*CHI:	&=llora . 9921235_9931272
+*CHI:	&=llora . 9931272_9944460
+*CHI:	&=llora . 9944460_9945590
+*MOT:	xxx vení . [+ CHI] 9945590_9957549
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$COM
+*CHI:	&=llora . 9957549_9959191
+%com:	no se llega a escuchar lo que hablan de fondo la mamá y Felipe por el
+	llanto del bebé .
+*CHI:	&=llora . 9959191_9962882
+*CHI:	mamá [=! llora] . 9962882_9988573
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=llora . 9988573_9991090
+*CHI:	&=grita . 9991090_9995943
+*CHI:	&=llora . 9995943_9999763
+*CHI:	&=grita . 9999763_10002502
+*CHI:	&=llora . 10002502_10011431
+%tim:	02:47:24
+*MOT:	xxx . [+ CHI] 10011431_10021245
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=llora . 10021245_10022153
+*MOT:	xxx ahí está . [+ CHI] 10022153_10096994
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	un poco de agüita . [+ CHI] 10096994_10100115
+%mor:	det:art|un&m=one adv|poco=few prep|de=of v|agüita-3S&PRES=sadden .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%pra:	$DEN
+%dad:	$COM
+*MOT:	un poco de agüita . [+ CHI] 10100115_10102601
+%mor:	det:art|un&m=one adv|poco=few prep|de=of v|agüita-3S&PRES=sadden .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%pra:	$DEN
+%dad:	$COM
+*MOT:	&ahh qué rico ! [+ CHI] 10102601_10105001
+%mor:	pro:int|qué=what adj|rico-m=rich !
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%pra:	$DEN
+%dad:	$COM
+*MOT:	qué rico ! [+ CHI] 10105001_10107531
+%mor:	pro:int|qué=what adj|rico-m=rich !
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%pra:	$DEN
+%dad:	$COM
+*MOT:	qué rico &eh . [+ CHI] 10107531_10113308
+%mor:	pro:int|qué=what adj|rico-m=rich .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%pra:	$DEN
+%dad:	$COM
+%com:	se escucha que toma
+*MOT:	a ver . [+ CHI] 10113308_10124508
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	a ver [/] a ver . [+ CHI] 10124508_10127582
+%mor:	prepart|a=to prepart|a=to inf|ve-INF=see .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	un poco de xxx . [+ CHI] 10127582_10133753
+%mor:	det:art|un&m=one adv|poco=few prep|de=of .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	a dormir . [+ CHI] 10133753_10143955
+%mor:	prepart|a=to inf|dormi-INF=sleep .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$DAA
+%dad:	$COM
+*FEL:	quiero más tomatito . 10143955_10153759
+%mor:	v|quere-1S&PRES=want adv|más=more n|tomate&m-DIM=tomato .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*MOT:	te gustó el tomatito ? [+ OCH] 10153759_10155973
+%mor:	pro:obj|te=you v|gusta-3S&PRET=like det:art|el&m&SG=the
+	n|tomate&m-DIM=tomato ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*FEL:	quiero má(s) . 10155973_10157039
+%mor:	v|quere-1S&PRES=want adv|más=more .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	ahora [/] ahora comemos nosotros y te doy un montón de tomatitos (.)
+	sí ? [+ OCH] 10157039_10159800
+%mor:	adv|ahora=now v|come-1P&PRES=eat pro:sub|nosotro-m-PL=we
+	coord|y=and pro:obj|te=you v|da-1S&PRES=give det:art|un&m=one
+	n|monte&m-AUG=hill prep|de=of n|tomate&m-DIM-PL=tomato co|sí=yes ?
+%gra:	1|2|JCT 2|6|SUBJ 3|2|JCT 4|3|CONJ 5|4|COORD 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|8|JCT 10|9|POBJ 11|10|MOD 12|6|PUNCT
+*MOT:	esperá que le doy de comer al Mini . [+ OCH] 10159800_10161392
+%mor:	imp|espera-2S&IMP=wait pro:rel|que=that pro:ind|le&m=him
+	v|da-1S&PRES=give prep|de=of inf|come-INF=eat
+	prepart|a~det:art|el&m=to n:prop|Mini .
+%gra:	1|0|ROOT 2|1|REL 3|2|COMP 4|3|CMOD 5|4|JCT 6|5|POBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*CHI:	&=balbucea . 10161392_10170167
+*CHI:	&=balbucea . 10170167_10184065
+*CHI:	&=balbucea . 10184065_10193763
+%tim:	02:50:02
+*MOT:	pará que te traigo más agüita . [+ CHI] 10193763_10222145
+%mor:	imp|para-2S&IMP=stop pro:rel|que=that pro:obj|te=you
+	v|trae-1S&PRES=carry adv|más=more v|agüita-3S&PRES=sadden .
+%gra:	1|0|ROOT 2|1|REL 3|6|SUBJ 4|6|SUBJ 5|6|JCT 6|2|COMP 7|1|PUNCT
+%pra:	$DAA
+%dad:	$COM
+*CHI:	&=llora . 10222145_10224023
+*MOT:	xxx . [+ CHI] 10224023_10225086
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=llora . 10225086_10235028
+*CHI:	&=llora . 10235028_10236368
+*MOT:	a ver . [+ OCH] 10236368_10236880
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 10236880_10237382
+*MOT:	&pts &pts . [+ CHI] 10237382_10238136
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10238136_10238618
+*MOT:	&pts &pts . [+ CHI] 10238618_10239304
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10239304_10240194
+*CHI:	&=llora . 10240194_10241905
+*FEL:	mirá . 10241905_10243221
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=llora . 10243221_10247474
+*MOT:	&uuuh . [+ CHI] 10247474_10247901
+%pra:	$IND
+%dad:	$COM
+*FEL:	xxx . 10247901_10248588
+*FEL:	&tututú . 10248588_10249760
+*MOT:	&ah a ver . [+ CHI] 10249760_10254707
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+%com:	se oyen ruidos de cubiertos
+*MOT:	a ver Feli(pe) . [+ CHI] 10254707_10265747
+%mor:	prepart|a=to inf|ve-INF=see n:prop|Felipe .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	a ver Juampi [: Juan Pablo] . [+ CHI] 10265747_10267175
+%mor:	prepart|a=to inf|ve-INF=see n:prop|Juan n:prop|Pablo .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|3|MOD 5|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	&aam . [+ CHI] 10267175_10268893
+%pra:	$IND
+%dad:	$COM
+*FEL:	xxx . 10268893_10269901
+*CHI:	&=balbucea . 10269901_10278463
+*CHI:	&=balbucea . 10278463_10287904
+*MOT:	&uh &um . [+ CHI] 10287904_10288407
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10288407_10288936
+*MOT:	&ay epa ! [+ CHI] 10288936_10289443
+%mor:	co|epa !
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	&be [=! balbucea] . 10289443_10290662
+*MOT:	sí (.) está muy rica no ? [+ CHI] 10290662_10293666
+%mor:	co|sí=yes cop|esta-3S&PRES=be adv|muy=very adj|rico-f=rich
+	adv|no=no ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|MOD 5|2|PRED 6|2|PUNCT
+%pra:	$PVN
+%dad:	$COM
+*CHI:	&=balbucea . 10293666_10298181
+*CHI:	&=balbucea . 10298181_10326722
+*FEL:	no quiero . 10326722_10328800
+%mor:	adv|no=no v|quere-1S&PRES=want .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	&tchu &tchu . [+ CHI] 10328800_10329532
+%pra:	$IND
+%dad:	$COM
+*FEL:	mami [: mamá] . 10329532_10331242
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qué mi amor ? [+ OCH] 10331242_10331581
+%mor:	pro:int|qué=what det:poss|mi=my co|amor=love ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*FEL:	es un bote e(s)to . 10331581_10334571
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|bote&m=boat
+	pro:dem|esto=this_one .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|MOD 5|1|PUNCT
+*MOT:	es un bote ? [+ OCH] 10334571_10344382
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|bote&m=boat ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	es tu bote ? [+ OCH] 10344382_10346216
+%mor:	cop|se-3S&PRES=be det:poss|tu=your n|bote&m=boat ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*MOT:	a ver ? [+ OCH] 10346216_10347012
+%mor:	prepart|a=to inf|ve-INF=see ?
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*FEL:	xxx . 10347012_10347291
+*MOT:	va navegando &tsu &tsu el capitán [=! canta] . [+ OCH] 10347291_10350307
+%mor:	co|va=go part|navega-PRPART=navigate det:art|el&m&SG=the
+	n|capitán&m=captain .
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+*MOT:	cómo es Feli(pe) la canción ? [+ OCH] 10350307_10354912
+%mor:	pro:int|cómo=how cop|se-3S&PRES=be n:prop|Felipe
+	det:art|el&f&SG=the n|canción&f=song ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|OBJ 6|2|PUNCT
+*FEL:	&=tararea . 10354912_10358688
+*FEL:	xxx [=! canta] . 10358688_10363091
+*CHI:	&=balbucea . 10363091_10363417
+*FEL:	xxx [=! canta] . 10363417_10365659
+*FEL:	el capitán xxx [=! canta] . 10365659_10366388
+%mor:	det:art|el&m&SG=the n|capitán&m=captain .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	&=silba . 10366388_10371918
+*FEL:	xxx [=! canta] . 10371918_10380050
+*MOT:	&ts &ts . [+ CHI] 10380050_10402609
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10402609_10404638
+*CHI:	&=lloriquea . 10404638_10405461
+*MOT:	xxx mamita . [+ CHI] 10405461_10406452
+%mor:	n|mama&f-DIM=mamma .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10406452_10407353
+*MOT:	a ver . [+ CHI] 10407353_10408070
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	nah [: no] . 10408070_10408904
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	&ay qué rico . [+ CHI] 10408904_10409742
+%mor:	pro:int|qué=what adj|rico-m=rich .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	a ver qué rico a ver . [+ CHI] 10409742_10410421
+%mor:	prepart|a=to inf|ve-INF=see pro:int|qué=what adj|rico-m=rich
+	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|5|MOD 5|6|INF 6|3|COMP 7|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	&ummm . [+ CHI] 10410421_10411332
+%pra:	$IND
+%dad:	$COM
+*MOT:	&umm &iami &iami . [+ CHI] 10411332_10412298
+%pra:	$IND
+%dad:	$COM
+*MOT:	&iami &iami ? [+ CHI] 10412298_10414655
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10414655_10415604
+*MOT:	&ummm . [+ CHI] 10415604_10416305
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10416305_10432781
+*MOT:	a ver Juampi [: Juan Pablo] un poquito más . [+ CHI] 10432781_10433394
+%mor:	prepart|a=to inf|ve-INF=see n:prop|Juan n:prop|Pablo
+	det:art|un&m=one pro:indef|poquito=little adv|más=more .
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|DET 6|2|OBJ 7|6|JCT 8|2|PUNCT
+%pra:	$PVN
+%dad:	$COM
+*MOT:	un poquito más . [+ CHI] 10433394_10434578
+%mor:	det:art|un&m=one pro:indef|poquito=little adv|más=more .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%pra:	$PVN
+%dad:	$COM
+*CHI:	&=balbucea . 10434578_10434944
+*MOT:	&am . [+ CHI] 10434944_10436083
+%pra:	$IND
+%dad:	$COM
+*MOT:	&am . [+ CHI] 10436083_10437021
+%pra:	$IND
+%dad:	$COM
+*FEL:	xxx . 10437021_10437843
+*MOT:	&am . [+ CHI] 10437843_10438354
+%pra:	$IND
+%dad:	$COM
+*FEL:	ma(má) está el gato . 10438354_10441812
+%mor:	n|mamá&f=mommy cop|esta-3S&PRES=be det:art|el&m&SG=the n|gato-m=cat
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	Masha y el oso ! [+ OCH] 10441812_10442378
+%mor:	n:prop|Masha coord|y=and det:art|el&m&SG=the n|oso-m=bear !
+%gra:	1|0|ROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*FEL:	mirá ! 10442378_10445450
+%mor:	co|mirá !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	tengo un xxx (.) tengo una remera . 10445450_10446256
+%mor:	v|tene-1S&PRES=have det:art|un&m=one v|tene-1S&PRES=have
+	det:art|un-f=one n|remera&f=tshirt .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	querés ponerte una remera ? [+ OCH] 10446256_10449618
+%mor:	v|quere-2S&PRES=want inf|pone-INF~pro:clit|2S=put det:art|un-f=one
+	n|remera&f=tshirt ?
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ2 4|5|DET 5|2|OBJ 6|1|PUNCT
+*FEL:	como el xxx de la tele(visión) . 10449618_10452736
+%mor:	adv|como=like det:art|el&m&SG=the prep|de=of det:art|el&f&SG=the
+	n|televisión&f=television .
+%gra:	1|0|ROOT 2|6|DET 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MOT:	como el nene de la tele(visión) ? [+ OCH] 10452736_10455489
+%mor:	adv|como=like det:art|el&m&SG=the co|nene=baby prep|de=of
+	det:art|el&f&SG=the n|televisión&f=television ?
+%gra:	1|2|JCT 2|3|DET 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*FEL:	sí . 10455489_10456269
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bueno . [+ OCH] 10456269_10456684
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=suspira . 10456684_10470414
+%com:	se lo escucha que sigue comiendo
+*CHI:	&=balbucea . 10470414_10487260
+*CHI:	&=balbucea . 10487260_10491485
+*MOT:	&umm . [+ CHI] 10491485_10492015
+%pra:	$IND
+%dad:	$COM
+*FEL:	xxx una remera . 10492015_10496692
+%mor:	det:art|un-f=one n|remera&f=tshirt .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*FEL:	quiero una remera . 10496692_10500305
+%mor:	v|quere-1S&PRES=want det:art|un-f=one n|remera&f=tshirt .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	ahí te traigo . [+ OCH] 10500305_10502189
+%mor:	adv|ahí=there pro:obj|te=you v|trae-1S&PRES=carry .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	ahora te traigo . [+ OCH] 10502189_10503262
+%mor:	adv|ahora=now pro:obj|te=you v|trae-1S&PRES=carry .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	&=balbucea . 10503262_10505240
+*CHI:	&=balbucea . 10505240_10513555
+*CHI:	&=balbucea . 10513555_10517506
+%com:	sigue comiendo .
+*FEL:	xxx . 10517506_10548341
+*FEL:	mirá está el nene xxx . 10548341_10551815
+%mor:	co|mirá cop|esta-3S&PRES=be det:art|el&m&SG=the n|nene&m=child .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FEL:	xxx . 10551815_10558448
+*FEL:	xxx . 10558448_10560138
+*CHI:	&uuuu [=! balbucea] . 10560138_10563297
+*FEL:	quiero la remera . 10563297_10565300
+%mor:	v|quere-1S&PRES=want det:art|el&f&SG=the n|remera&f=tshirt .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*FEL:	quiero la remera . 10565300_10567297
+%mor:	v|quere-1S&PRES=want det:art|el&f&SG=the n|remera&f=tshirt .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*FEL:	como nene [/] como nene . 10567297_10572459
+%mor:	adv|como=like adv|como=like co|nene=baby .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	la remera ? [+ OCH] 10572459_10573457
+%mor:	det:art|el&f&SG=the n|remera&f=tshirt ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MOT:	bueno . [+ OCH] 10573457_10573954
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	vamos a buscar una remera . [+ OCH] 10573954_10575086
+%mor:	v|i-1P&PRES=go prepart|a=to inf|busca-INF=search det:art|un-f=one
+	n|remera&f=tshirt .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	bueno vení .[+ OCH] 10575086_10575468
+%mor:	co|bueno=good imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*FEL:	como nene . 10575468_10576540
+%mor:	adv|como=like co|nene=baby .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	como un nene ? [+ OCH] 10576540_10576853
+%mor:	adv|como=like det:art|un&m=one co|nene=baby ?
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|PUNCT
+*FEL:	sí . 10576853_10577644
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bueno dale a ver . [+ OCH] 10577644_10578011
+%mor:	co|bueno=good co|dale prepart|a=to inf|ve-INF=see .
+%gra:	1|0|ROOT 2|1|COMP 3|4|INF 4|2|COMP 5|1|PUNCT
+*FEL:	como nene de la tele(visión) . 10578011_10581098
+%mor:	adv|como=like co|nene=baby prep|de=of det:art|el&f&SG=the
+	n|televisión&f=television .
+%gra:	1|2|MOD 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*MOT:	como el nene de la tele(visión) . [+ OCH] 10581098_10582274
+%mor:	adv|como=like det:art|el&m&SG=the co|nene=baby prep|de=of
+	det:art|el&f&SG=the n|televisión&f=television .
+%gra:	1|2|JCT 2|3|DET 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	de qué color ? [+ OCH] 10582274_10582731
+%mor:	prep|de=of pro:int|qué=what n|color&m=hue ?
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*FEL:	blanco . 10582731_10583104
+%mor:	adj|blanco-m=white .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	blanco ? [+ OCH] 10583104_10586368
+%mor:	adj|blanco-m=white ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 10586368_10587621
+*FEL:	xxx . 10587621_10591246
+*MOT:	xxx . [+ OCH] 10591246_10591571
+*FEL:	ya xxx como nene . 10591571_10594815
+%mor:	adv|ya=already adv|como=like co|nene=baby .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	xxx . [+ OCH] 10594815_10595991
+*CHI:	ma(má) . 10595991_10602082
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	parece el de la tele(visión) . 10602082_10603301
+%mor:	v|parece-3S&PRES=seem det:art|el&m&SG=the prep|de=of
+	det:art|el&f&SG=the n|televisión&f=television .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MOT:	xxx . [+ OCH] 10603301_10605174
+*FEL:	mirá xxx . 10605174_10606101
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=balbucea . 10606101_10609632
+*CHI:	&=lloriquea . 10609632_10610834
+*MOT:	hace mucho calor . [+ OCH] 10610834_10612433
+%mor:	v|hace-3S&PRES=do adv|mucho=much n|calor&m=heat .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	&=balbucea . 10612433_10613020
+*MOT:	a ver mi amor (.) a ver . [+ CHI] 10613020_10615993
+%mor:	prepart|a=to inf|ve-INF=see det:poss|mi=my co|amor=love
+	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|3|COMP 5|6|INF 6|4|COMP 7|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	vení . [+ CHI] 10615993_10617769
+%mor:	imp|veni-2S&IMP=come .
+%gra:	1|0|ROOT 2|1|PUNCT
+%pra:	$DAA
+%dad:	$COM
+*FEL:	voy en moto [/] voy en moto . 10617769_10620220
+%mor:	v|i-1S&PRES=go prep|en=in v|i-1S&PRES=go prep|en=in
+	n|moto&m=guide_post .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*MOT:	en monstruo ? [+ OCH] 10620220_10620579
+%mor:	prep|en=in n|monstruo-m=monster ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*FEL:	sí . 10620579_10622686
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bue(no) . [+ OCH] 10622686_10623120
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	&mo . 10623120_10623618
+*MOT:	esperá esperá primero le doy (.) le termino de dar de comer a Juampi
+	[: Juan Pablo] y después jugamos . [+ OCH] 10623618_10628844
+%mor:	imp|espera-2S&IMP=wait imp|espera-2S&IMP=wait adv|primero=first
+	pro:ind|le&m=him v|da-1S&PRES=give pro:ind|le&m=him
+	v|termina-1S&PRES=end prep|de=of inf|da-INF=give prep|de=of
+	inf|come-INF=eat prepart|a=to n:prop|Juan n:prop|Pablo coord|y=and
+	adv|después=after v|juga-1P&PRES&PRET=play .
+%gra:	1|5|SUBJ 2|5|JCT 3|4|JCT 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|6|COMP 8|7|JCT
+	9|8|POBJ 10|9|JCT 11|10|POBJ 12|11|JCT 13|12|POBJ 14|13|MOD 15|9|CONJ
+	16|17|JCT 17|15|COORD 18|5|PUNCT
+*FEL:	no juguemos ya ! 10628844_10629402
+%mor:	co|no v|juga-1P&SUB&PRES=play adv|ya=already !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*FEL:	lo del mostruo [: monstruo] . 10629402_10630711
+%mor:	pro:obj|le-m=him prep|de~det:art|el&m=of n|monstruo-m=monster .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*FEL:	mostuo [: monstruo] . 10630711_10636078
+%mor:	n|monstruo-m=monster .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	sí . [+ OCH] 10636078_10637316
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FEL:	juguemos xxx . 10637316_10637929
+%mor:	v|juga-1P&SUB&PRES=play .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	Feli(pe) ahora es hora de comer . [+ OCH] 10637929_10638600
+%mor:	n:prop|Felipe adv|ahora=now cop|se-3S&PRES=be n|hora&f=hour
+	prep|de=of inf|come-INF=eat .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	le doy de comer a Juampi [: Juan Pablo] y después jugamos nosotros .
+	[+ OCH] 10638600_10641743
+%mor:	pro:ind|le&m=him v|da-1S&PRES=give prep|de=of inf|come-INF=eat
+	prepart|a=to n:prop|Juan n:prop|Pablo coord|y=and adv|después=after
+	v|juga-1P&PRES&PRET=play pro:sub|nosotro-m-PL=we .
+%gra:	1|0|ROOT 2|1|COMP 3|2|JCT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|6|MOD 8|2|CONJ
+	9|10|JCT 10|8|COORD 11|10|PRED 12|1|PUNCT
+*CHI:	&=llora . 10641743_10642632
+*MOT:	no Juampi [: Juan Pablo] ? [+ CHI] 10642632_10644257
+%mor:	co|no n:prop|Juan n:prop|Pablo ?
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10644257_10645220
+*MOT:	&papapapá . [+ CHI] 10645220_10646476
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10646476_10647834
+*CHI:	&=balbucea . 10647834_10664661
+%com:	se oye la televisión y ruidos de cubiertos
+*MOT:	a ver . [+ CHI] 10664661_10665926
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	poquito más . [+ CHI] 10665926_10667631
+%mor:	pro:indef|poquito=little adv|más=more .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10667631_10668931
+*MOT:	&aam . [+ CHI] 10668931_10669880
+%pra:	$IND
+%dad:	$COM
+*MOT:	&umm &um &um . [+ CHI] 10669880_10672883
+%pra:	$IND
+%dad:	$COM
+*MOT:	qué rico ! [+ CHI] 10672883_10675810
+%mor:	pro:int|qué=what adj|rico-m=rich !
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*MOT:	&iami &iami . [+ CHI] 10675810_10677789
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10677789_10681841
+*CHI:	&=balbucea . 10681841_10687670
+*CHI:	&=balbucea . 10687670_10691154
+*CHI:	&=balbucea . 10691154_10695772
+*CHI:	&=balbucea . 10695772_10696895
+*MOT:	a ver . [+ CHI] 10696895_10723649
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10723649_10726133
+*CHI:	&=balbucea . 10726133_10732023
+*MOT:	a ver [/] a ver [/] a ver . [+ CHI] 10732023_10732450
+%mor:	prepart|a=to prepart|a=to prepart|a=to inf|ve-INF=see .
+%gra:	1|0|ROOT 2|1|COMP 3|4|INF 4|2|COMP 5|1|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10732450_10734760
+*MOT:	a ver . [+ CHI] 10734760_10738155
+%mor:	prepart|a=to inf|ve-INF=see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%pra:	$IND
+%dad:	$COM
+*CHI:	&=balbucea . 10738155_10740050
+*CHI:	&=balbucea . 10740050_10748252
+*CHI:	&=balbucea . 10748252_10775015
+*CHI:	&=balbucea . 10775015_10776422
+*FEL:	xxx ! 10776422_10777332
+*CHI:	&=balbucea . 10777332_10778333
+*FEL:	xxx . 10778333_10779372
+*FEL:	xxx ! 10779372_10793632
+*FEL:	juego del monstro [: monstruo] [/] juego del monstro [: monstruo] . 10793632_10799149
+%mor:	n|juego&m=game prep|de~det:art|el&m=of n|juego&m=game
+	prep|de~det:art|el&m=of n|monstruo-m=monster .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*MOT:	sí soy el monstruo yo ? [+ OCH] 10799149_10800232
+%mor:	co|sí=yes cop|se-1S&PRES=be det:art|el&m&SG=the
+	n|monstruo-m=monster pro:sub|yo=I ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|MOD 6|2|PUNCT
+*FEL:	sí . 10800232_10801028
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

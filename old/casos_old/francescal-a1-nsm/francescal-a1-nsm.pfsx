@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Start Time</String>
+        <String>End Time</String>
+        <String>Tier</String>
+        <String>Initials</String>
+        <String>Comment</String>
+        <String>Thread</String>
+        <String>Sender</String>
+        <String>Recipient</String>
+        <String>Creation Date</String>
+        <String>Modification Date</String>
+    </prefList>
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1536,816</Object>
+    </pref>
+    <pref key="ActiveRecognizerName">
+        <String>BAS - WebMAUS Basic</String>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">0,0</Object>
+    </pref>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>7</Int>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="SelectionBeginTime">
+        <Long>0</Long>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>CHI</String>
+    </pref>
+    <prefGroup key="BAS - WebMAUS Basic">
+        <pref key="LANGUAGE">
+            <String>deu-DE</String>
+        </pref>
+        <prefGroup key="TierUrl"/>
+        <pref key="SignalParamName">
+            <String>SIGNAL</String>
+        </pref>
+        <pref key="ServiceName">
+            <String>runMAUSBasic</String>
+        </pref>
+        <pref key="TextParamName">
+            <String>TEXT</String>
+        </pref>
+    </prefGroup>
+    <pref key="TimeScaleBeginTime">
+        <Long>3602330</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>3602487</Long>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>0</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="MUJ">
+            <Object class="java.awt.Color">160,0,160</Object>
+        </pref>
+        <pref key="CHI">
+            <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="HOM">
+            <Object class="java.awt.Color">0,90,160</Object>
+        </pref>
+        <pref key="MU1">
+            <Object class="java.awt.Color">0,160,160</Object>
+        </pref>
+        <pref key="MU3">
+            <Object class="java.awt.Color">160,90,90</Object>
+        </pref>
+        <pref key="HO2">
+            <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+        <pref key="UNC">
+            <Object class="java.awt.Color">160,160,90</Object>
+        </pref>
+        <pref key="GMP">
+            <Object class="java.awt.Color">0,160,0</Object>
+        </pref>
+        <pref key="MU2">
+            <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+        <pref key="HO4">
+            <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
+        <pref key="HO3">
+            <Object class="java.awt.Color">90,0,0</Object>
+        </pref>
+        <pref key="MU4">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="MU7">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="HO5">
+            <Object class="java.awt.Color">90,90,160</Object>
+        </pref>
+        <pref key="NIN">
+            <Object class="java.awt.Color">160,90,0</Object>
+        </pref>
+        <pref key="MOT">
+            <Object class="java.awt.Color">0,0,90</Object>
+        </pref>
+        <pref key="NIO">
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="NI2">
+            <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
+        <pref key="FAT">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>CHI</String>
+        <String>tim@CHI</String>
+        <String>com@CHI</String>
+        <String>MOT</String>
+        <String>mor@MOT</String>
+        <String>gra@MOT</String>
+        <String>pra@MOT</String>
+        <String>dad@MOT</String>
+        <String>tim@MOT</String>
+        <String>com@MOT</String>
+        <String>FAT</String>
+        <String>mor@FAT</String>
+        <String>gra@FAT</String>
+        <String>pra@FAT</String>
+        <String>dad@FAT</String>
+        <String>tim@FAT</String>
+        <String>com@FAT</String>
+        <String>HOM</String>
+        <String>mor@HOM</String>
+        <String>gra@HOM</String>
+        <String>NIN</String>
+        <String>mor@NIN</String>
+        <String>gra@NIN</String>
+        <String>MUJ</String>
+        <String>mor@MUJ</String>
+        <String>gra@MUJ</String>
+        <String>com@MUJ</String>
+        <String>pra@MUJ</String>
+        <String>dad@MUJ</String>
+        <String>MU1</String>
+        <String>mor@MU1</String>
+        <String>gra@MU1</String>
+        <String>com@MU1</String>
+        <String>pra@MU1</String>
+        <String>dad@MU1</String>
+        <String>tim@MU1</String>
+        <String>MU2</String>
+        <String>mor@MU2</String>
+        <String>gra@MU2</String>
+        <String>pra@MU2</String>
+        <String>dad@MU2</String>
+        <String>com@MU2</String>
+        <String>tim@MU2</String>
+        <String>NIO</String>
+        <String>mor@NIO</String>
+        <String>gra@NIO</String>
+        <String>pra@NIO</String>
+        <String>dad@NIO</String>
+        <String>com@NIO</String>
+        <String>tim@NIO</String>
+        <String>MU3</String>
+        <String>mor@MU3</String>
+        <String>gra@MU3</String>
+        <String>pra@MU3</String>
+        <String>dad@MU3</String>
+        <String>tim@MU3</String>
+        <String>com@MU3</String>
+        <String>GMP</String>
+        <String>mor@GMP</String>
+        <String>gra@GMP</String>
+        <String>pra@GMP</String>
+        <String>dad@GMP</String>
+        <String>com@GMP</String>
+        <String>tim@GMP</String>
+        <String>MU4</String>
+        <String>mor@MU4</String>
+        <String>gra@MU4</String>
+        <String>tim@MU4</String>
+        <String>UNC</String>
+        <String>mor@UNC</String>
+        <String>gra@UNC</String>
+        <String>tim@UNC</String>
+        <String>com@UNC</String>
+        <String>pra@UNC</String>
+        <String>dad@UNC</String>
+        <String>MU7</String>
+        <String>mor@MU7</String>
+        <String>gra@MU7</String>
+        <String>pra@MU7</String>
+        <String>dad@MU7</String>
+        <String>HO3</String>
+        <String>mor@HO3</String>
+        <String>gra@HO3</String>
+        <String>com@HO3</String>
+        <String>pra@HO3</String>
+        <String>dad@HO3</String>
+        <String>tim@HO3</String>
+        <String>HO4</String>
+        <String>mor@HO4</String>
+        <String>gra@HO4</String>
+        <String>com@HO4</String>
+        <String>tim@HO4</String>
+        <String>HO2</String>
+        <String>mor@HO2</String>
+        <String>gra@HO2</String>
+        <String>tim@HO2</String>
+        <String>com@HO2</String>
+        <String>NI2</String>
+        <String>mor@NI2</String>
+        <String>gra@NI2</String>
+        <String>HO5</String>
+        <String>mor@HO5</String>
+        <String>gra@HO5</String>
+    </prefList>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>1</Int>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Sender">
+            <Int>0</Int>
+        </pref>
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Creation Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Tier">
+            <Int>75</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Recipient">
+            <Int>0</Int>
+        </pref>
+        <pref key="Start Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Initials">
+            <Int>75</Int>
+        </pref>
+        <pref key="End Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
+</preferences>

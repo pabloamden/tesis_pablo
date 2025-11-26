@@ -1,0 +1,3206 @@
+@UTF8
+@Begin
+@Languages:	spa
+@Participants:	NIA Child, M11 Female, MU9 Male, MU7 Female, CHI Felix
+	Target_Child, M12 Female, M10 Female, M09 Female, MU8 Female, M14
+	Female, M13 Female, M17 Female, M16 Female, HO1 Male, M19 Male, HO2
+	Male, VEO Male, MU6 Female, MU1 Female, MU4 Female, NIN Child, MU5
+	Female, MU3 Female, MU2 Female, HOM Male, MUJ Female, VEN Female,
+	MOT Mother, SIS Pía Sister, BRO Bauti Brother
+@ID:	spa|change_corpus_later|NIA||female|||Child|||
+@ID:	spa|change_corpus_later|M11||female|||Female|||
+@ID:	spa|change_corpus_later|MU9||male|||Male|||
+@ID:	spa|change_corpus_later|MU7||female|||Female|||
+@ID:	spa|change_corpus_later|CHI|0;11.|male|||Target_Child|||
+@ID:	spa|change_corpus_later|M12||female|||Female|||
+@ID:	spa|change_corpus_later|M10||female|||Female|||
+@ID:	spa|change_corpus_later|M09||female|||Female|||
+@ID:	spa|change_corpus_later|MU8||female|||Female|||
+@ID:	spa|change_corpus_later|M14||female|||Female|||
+@ID:	spa|change_corpus_later|M13||female|||Female|||
+@ID:	spa|change_corpus_later|M17||female|||Female|||
+@ID:	spa|change_corpus_later|M16||female|||Female|||
+@ID:	spa|change_corpus_later|HO1||male|||Male|||
+@ID:	spa|change_corpus_later|M19||male|||Male|||
+@ID:	spa|change_corpus_later|HO2||male|||Male|||
+@ID:	spa|change_corpus_later|VEO||male|||Male|||
+@ID:	spa|change_corpus_later|MU6||female|||Female|||
+@ID:	spa|change_corpus_later|MU1||female|||Female|||
+@ID:	spa|change_corpus_later|MU4||female|||Female|||
+@ID:	spa|change_corpus_later|NIN|||||Child|||
+@ID:	spa|change_corpus_later|MU5||female|||Female|||
+@ID:	spa|change_corpus_later|MU3||female|||Female|||
+@ID:	spa|change_corpus_later|MU2||female|||Female|||
+@ID:	spa|change_corpus_later|HOM||male|||Male|||
+@ID:	spa|change_corpus_later|MUJ||female|||Female|||
+@ID:	spa|change_corpus_later|VEN||female|||Female|||
+@ID:	spa|change_corpus_later|MOT||female|||Mother|||
+@ID:	spa|change_corpus_later|SIS|2;|female|||Sister|||
+@ID:	spa|change_corpus_later|BRO|6;|male|||Brother|||
+@Birth of CHI:	06-MAY-2014
+@Transcriber:	Laura Ramirez
+@Media:	unlinked, audio
+@Date:	06-APR-2015
+@Location:	Target_chil's home , Buenos Aires , Argentina .
+@Time Duration:
+@Time Start:
+@Situation:
+@Activities:	saliero a la calle y Felix está dormido así que se empieza a
+	desgrabar desde 1:22:03
+*MOT:	&ay te despertaste Momi . [+ CHI]
+%mor:	pro:obj|te=you v|desperta-2S&PRET=wake_up n:prop|Momi .
+%com:	están en un local de ropa al que fueron a cambiar algo, se
+	escuchan charlas en el local
+*MOT:	xxx . [+ CHI]
+*NIN:	&=llora .
+*MUJ:	chau hasta luego .
+%mor:	co|chau=ciao prep|hasta=until adv|luego=afterwards .
+*MU2:	chau hasta luego .
+%mor:	co|chau=ciao prep|hasta=until adv|luego=afterwards .
+*MU3:	cuánto tiempo tiene ?
+%mor:	pro:int|cuánto-m=how_much n|tiempo&m=season v|tene-3S&PRES=have ?
+*MOT:	él once meses y ella dos años y medio .
+%mor:	pro:head|él&m=he det:num|once=eleven n|mes&m-PL=month coord|y=and
+	pro:sub|ello-f=he det:num|dos=two n|año&m-PL=year coord|y=and
+	n|medio&m=middle .
+*MU2:	tomá xxx .
+%mor:	imp|toma-2S&IMP=take .
+*MU3:	ahí voy .
+%mor:	adv|ahí=there v|i-1S&PRES=go .
+%com:	charlas en el local .
+*MU2:	y el talle ?
+%mor:	coord|y=and det:art|el&m&SG=the n|talle&m=size ?
+*VEN:	diez ?
+%mor:	det:num|diez=ten ?
+*VEN:	xxx .
+*MU3:	cumple nueve .
+%mor:	imp|cumpli-2S&IMP=accomplish det:num|nueve=nine .
+*VEN:	&ah bueno les traigo de xxx .
+%mor:	co|bueno=good pro:ind|le-PL=them v|trae-1S&PRES=carry prep|de=of .
+*MOT:	dejá de meterte el dedo en la nariz cochina . [+ OCH]
+%mor:	imp|deja-2S&IMP=leave prep|de=of inf|mete-INF~pro:clit|2S
+	det:art|el&m&SG=the n|dedo&m=finger prep|en=in det:art|el&f&SG=the
+	n|nariz&f=nose n|cochino-f=hog .
+*MOT:	no (.) no te vas a bajar &eh . [+ OCH]
+%mor:	adv|no=no adv|no=no pro:obj|te=you v|i-2S&PRES=go aprep|a=to
+	inf|baja-INF=come_down .
+%com:	siguen escuchándose charlas en el local
+*MU3:	xxx .
+*MU3:	ahí está .
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+*MOT:	ahí está .
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+*MOT:	vamos a comprar xxx .
+%mor:	v|i-1P&PRES=go aprep|a=to inf|compra-INF=buy .
+*MOT:	ahí está .
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+*MOT:	chau gracias .
+%mor:	co|chau=ciao co|gracias=thanks .
+*VEN:	chau hasta luego .
+%mor:	co|chau=ciao prep|hasta=until adv|luego=afterwards .
+%com:	salen del local y caminan por la calle
+%tim:	1:24:21
+*SIS:	xxx .
+%com:	el nene cada tanto mueve un sonajero o algo
+*NIN:	y de San_lorenzo también .
+%mor:	coord|y=and prep|de=of n:prop|San_lorenzo adv|también=also .
+*MU3:	&ah pero esto vos esto no .
+%mor:	conj|pero=but pro:dem|esto=this_one pro:obj|vos=you
+	pro:dem|esto=this_one adv|no=no .
+*MU3:	&ah pero lo tenés ahí igual .
+%mor:	conj|pero=but pro:obj|lo&m=him v|tene-2S&PRES=have adv|ahí=there
+	co|igual=equal .
+*MU4:	quiero probar xxx .
+%mor:	v|quere-1S&PRES=want inf|proba-INF=test .
+*MU3:	&eh ?
+%com:	ruido de puertas
+*SIS:	mamá .
+%mor:	n|mamá&f=mommy .
+*SIS:	xxx .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*MOT:	a ver Pepinillo . [+ CHI]
+%mor:	aprep|a=to inf|ve-INF=see n:prop|Pepinillo .
+*SIS:	xxx .
+*SIS:	xxx .
+%com:	parece alzar al bebé .
+*MU5:	hola .
+%mor:	co|hola=hi .
+*MOT:	hola cómo estás ?
+%mor:	co|hola=hi pro:int|cómo=how cop|esta-2S&PRES=be ?
+*SIS:	xxx .
+*SIS:	&ah &ah &ah &ah .
+*SIS:	xxx .
+*MOT:	sentate Pupita . [+ OCH]
+%mor:	imp|senta-2S&IMP~pro:clit|2S n:prop|Pupita .
+*SIS:	xxx .
+*SIS:	xxx .
+*MOT:	te gusta Pepi ? [+ CHI]
+%mor:	pro:obj|te=you v|gusta-3S&PRES=like n:prop|Pepi ?
+*SIS:	xxx .
+*SIS:	xxx .
+*MU5:	para adelante .
+%mor:	prep|para=for adv|adelante=forward .
+%com:	parecen estar en un local
+*MOT:	tenés este pero del color ese que está colgado con uno gris ?
+%mor:	v|tene-2S&PRES=have det:dem|este=this conj|pero=but
+	prep|de~det:art|el&m n|color&m=hue det:dem|ese=that pro:rel|que=that
+	cop|esta-3S&PRES=be part|colga-PRPART-m=hang prep|con=with
+	pro:indef|uno=one adj|gris=grey ?
+*VEN:	ahí te digo a ver .
+%mor:	adv|ahí=there pro:obj|te=you v|deci-1S&PRES=say aprep|a=to
+	inf|ve-INF=see .
+*VEN:	en x@l l@l o en doble x@l l@l ?
+%mor:	prep|en=in n:let|x n:let|l coord|o=or prep|en=in n|doble&m=fold
+	n:let|x n:let|l ?
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*VEN:	este es de nueve a doce .
+%mor:	det:dem|este=this cop|se-3S&PRES=be prep|de=of det:num|nueve=nine
+	aprep|a=to det:num|doce=twelve .
+*VEN:	el x@l l@l es de doce meses a xxx .
+%mor:	det:art|el&m&SG=the n:let|x n:let|l cop|se-3S&PRES=be prep|de=of
+	det:num|doce=twelve n|mes&m-PL=month aprep|a=to .
+*NIN:	&=balbucea .
+*NIN:	&=balbucea .
+*NIN:	&=balbucea .
+*NIN:	&=lloriquea .
+*MU3:	&=imita .
+*MOT:	hola cómo estás ?
+%mor:	co|hola=hi pro:int|cómo=how cop|esta-2S&PRES=be ?
+*CHI:	&=balbucea .
+*VEN:	ya te lo xxx .
+%mor:	adv|ya=already pro:obj|te=you pro:obj|lo&m=him .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+%com:	se escucha música de fondo
+*MU5:	y yo te lo doy después si querés pero quiero probar de que le vaya
+	todo .
+%mor:	coord|y=and pro:sub|yo=I pro:obj|te=you pro:obj|lo&m=him
+	v|da-1S&PRES=give adv|después=after conj|si=if v|quere-2S&PRES=want
+	conj|pero=but v|quere-1S&PRES=want inf|proba-INF=test prep|de=of
+	pro:rel|que=that pro:ind|le=him v|i-13S&SUB&PRES=go
+	pro:indef|todo-m=all .
+*MU4:	no yo no quiero nada yo te digo porque vos tenés que ir al colegio al colegio &uy Dios .
+%mor:	adv|no=no pro:sub|yo=I adv|no=no v|quere-1S&PRES=want
+	pro:indef|nada=nothing pro:sub|yo=I pro:obj|te=you
+	v|deci-1S&PRES=say conj|porque=because pro:obj|vos=you
+	v|tene-2S&PRES=have pro:rel|que=that inf|i-INF=go
+	aprep|a~det:art|el&m n|colegio&m=school aprep|a~det:art|el&m
+	n|colegio&m=school n:prop|Dios .
+*MU5:	no no importa dice .
+%mor:	adv|no=no adv|no=no v|importa-3S&PRES=matter v|deci-3S&PRES=say .
+*MU4:	xxx .
+%com:	alrededor
+*MOT:	hola Pepito lindo . [+ CHI]
+%mor:	co|hola=hi n:prop|Pepito adj|lindo-m=pretty .
+%tim:	1:28:53
+*MOT:	&=ríe .
+*MU5:	no no xxx .
+%mor:	adv|no=no adv|no=no .
+*MU4:	no este no .
+%mor:	co|no det:dem|este=this co|no .
+*MU5:	aparte este es más grande .
+%mor:	adv|aparte=aside det:dem|este=this cop|se-3S&PRES=be adv|más=more
+	adj|grande=big .
+*MU4:	xxx .
+*SIS:	xxx .
+*MOT:	hola ma(má) . [+ CHI]
+%mor:	co|hola=hi n|mamá&f=mommy .
+*CHI:	&=balbucea .
+*SIS:	qué te pasa xxx .
+%mor:	pro:int|qué=what pro:obj|te=you v|pasa-3S&PRES=pass .
+*SIS:	&eh &eh .
+*MOT:	sí .
+%mor:	co|sí=yes .
+*MOT:	vamos .
+%mor:	co|vamos=go .
+*MOT:	qué hacés Pía ? [+ OCH]
+%mor:	pro:int|qué=what v|hace-2S&PRES=do n:prop|Pía ?
+*VEN:	xxx .
+*MU5:	espera que lo xxx .
+%mor:	v|espera-3S&PRES=wait pro:rel|que=that pro:obj|lo&m=him .
+*MU4:	no cuando tengas avisame .
+%mor:	co|no pro:rel|cuando=when v|tene-2S&SUB&PRES=have
+	imp|avisa-2S&IMP~pro:clit|1S .
+*VEN:	xxx .
+*MU4:	no yo por suerte los xxx .
+%mor:	adv|no=no pro:sub|yo=I prep|por=for n|suerte&f=luck
+	det:art|el&m-PL=the .
+*MU5:	xxx tarde como yo .
+%mor:	adv|tarde=late adv|como=like pro:sub|yo=I .
+%tim:	1:30:53
+*MOT:	qué hacés Pía ? [+ OCH]
+%mor:	pro:int|qué=what v|hace-2S&PRES=do n:prop|Pía ?
+*SIS:	xxx .
+*MOT:	no todo te sacaste las medias todo hija ? [+ OCH]
+%mor:	adv|no=no pro:indef|todo-m=all pro:obj|te=you
+	v|saca-2S&PRET=bring_out det:art|el&f-PL=the n|media&f-PL=stocking
+	det:indef|todo-m=all co:voc|hija=child ?
+*MOT:	xxx . [+ OCH]
+*SIS:	&=balbucea .
+*VEN:	xxx .
+*SIS:	no !
+%mor:	adv|no=no !
+*MOT:	sí no [/] no te saques . [+ OCH]
+%mor:	co|sí=yes adv|no=no pro:obj|te=you v|saca-2S&SUB&PRES=bring_out .
+*MOT:	no seas cochina . [+ OCH]
+%mor:	adv|no=no cop|se-2S&SUB&PRES=be n|cochino-f=hog .
+*SIS:	&eia .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*SIS:	&eia .
+*MOT:	media . [+ OCH]
+%mor:	n|media&f=stocking .
+*MOT:	ahora pedimos xxx . [+ OCH]
+%mor:	adv|ahora=now v|pedi-1P&PRES&PRET=request .
+*SIS:	xxx .
+*MOT:	recién xxx así .
+%mor:	adv|recién=recently adv|así=thus .
+*SIS:	&=balbucea .
+%tim:	1:31:43
+*SIS:	&=balbucea .
+*MOT:	xxx .
+*SIS:	&=balbucea .
+*MU1:	tenés que empezar al revés .
+%mor:	v|tene-2S&PRES=have pro:rel|que=that inf|empeza-INF=begin
+	aprep|a~det:art|el&m n|revés&m=reverse .
+*MOT:	no nunca xxx .
+%mor:	adv|no=no adv|nunca=never .
+*SIS:	&=balbucea .
+*MU1:	xxx .
+*VEN:	hola qué tal .
+%mor:	co|hola=hi pro:int|qué=what adj|tal=such .
+*VEN:	xxx .
+*MU1:	bárbaro .
+%mor:	n|bárbaro&m=barbarian .
+*MOT:	a ver Pepino . [+ OCH]
+%mor:	aprep|a=to inf|ve-INF=see n:prop|Pepino .
+*MOT:	no [/] no [/] no . [+ OCH]
+%mor:	adv|no=no .
+*MOT:	no te hagas la viva &eh . [+ OCH]
+%mor:	adv|no=no pro:obj|te=you v|hace-2S&SUB&PRES=do det:art|el&f&SG=the
+	adj|vivo-f=alive .
+%com:	me parece que le dice Pepino a cualquiera de los dos
+*SIS:	no .
+%mor:	adv|no=no .
+*MOT:	mirá qué lindo . [+ OCH]
+%mor:	co|mirá pro:int|qué=what adj|lindo-m=pretty .
+*MOT:	muy bien . [+ OCH]
+%mor:	adv|muy=very adv|bien=well .
+*MOT:	la otra mano . [+ OCH]
+%mor:	det:art|el&f&SG=the det:indef|otro-f=other n|mano&f=hand .
+*MOT:	muy bien . [+ OCH]
+%mor:	adv|muy=very adv|bien=well .
+*MOT:	&ay qué linda Pepi . [+ OCH]
+%mor:	pro:int|qué=what adj|lindo-f=pretty n:prop|Pepi .
+*SIS:	&=balbucea .
+*MOT:	te queda hermoso . [+ OCH]
+%mor:	pro:obj|te=you v|queda-3S&PRES=stay adj|hermoso-m=beautiful .
+*MOT:	bueno . [+ OCH]
+%mor:	co|bueno=good .
+*SIS:	&=balbucea .
+*MOT:	bueno parate . [+ OCH]
+%mor:	co|bueno=good imp|para-2S&IMP~pro:clit|2S .
+*MOT:	&=tararea .
+*CHI:	&=balbucea .
+*MOT:	&=ríe .
+*MOT:	vení hija vení . [+ OCH]
+%mor:	imp|veni-2S&IMP=come co:voc|hija=child imp|veni-2S&IMP=come .
+*MOT:	tomá . [+ OCH]
+%mor:	imp|toma-2S&IMP=take .
+*MOT:	xxx .
+*SIS:	esta .
+%mor:	det:dem|este-f=this .
+*MOT:	pará [=! alarga] . [+ OCH]
+%mor:	imp|para-2S&IMP=stop .
+*SIS:	esta [/] esta .
+%mor:	det:dem|este-f=this .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*SIS:	&=balbucea .
+*MOT:	zapatilla ? [+ OCH]
+%mor:	n|zapatilla&f=running_shoe ?
+*MOT:	no zapatilla ahora no voy a comprar (.) después . [+ OCH]
+%mor:	adv|no=no n|zapatilla&f=running_shoe adv|ahora=now adv|no=no
+	v|i-1S&PRES=go aprep|a=to inf|compra-INF=buy adv|después=after .
+*SIS:	&=balbucea .
+*MOT:	una xxx te voy a comprar ahora . [+ OCH]
+%mor:	det:art|un-f=one pro:obj|te=you v|i-1S&PRES=go aprep|a=to
+	inf|compra-INF=buy adv|ahora=now .
+*SIS:	xxx este .
+%mor:	det:dem|este=this .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*SIS:	&=balbucea .
+*MOT:	qué es ? [+ OCH]
+%mor:	pro:int|qué=what cop|se-3S&PRES=be ?
+*SIS:	&=balbucea .
+*MOT:	xxx de la caja no ?
+%mor:	prep|de=of det:art|el&f&SG=the n|caja&f=box adv|no=no ?
+*VEN:	sí xxx .
+%mor:	co|sí=yes .
+*MOT:	te puedo pedir unas zapas de Minnie ?
+%mor:	pro:obj|te=you v|pode-1S&PRES=can inf|pedi-INF=request
+	det:art|un-f-PL=one n|zapa&f-PL=sharkskin prep|de=of n:prop|Minnie ?
+*VEN:	sí .
+%mor:	co|sí=yes .
+*MOT:	las con velcro negras que son como de cuerina .
+%mor:	det:art|el&f-PL=the prep|con=with ?|velcro adj|negro-f-PL=black
+	pro:rel|que=that cop|se-3P&PRES=be adv|como=like prep|de=of
+	?|cuerina .
+*VEN:	la que tiene la puntera blanca ?
+%mor:	pro:head|la&f=she pro:rel|que=that v|tene-3S&PRES=have
+	det:art|el&f&SG=the ?|puntera adj|blanco-f=white ?
+*VEN:	adelante o ?
+%mor:	adv|adelante=forward coord|o=or ?
+*MOT:	sí creo que sí .
+%mor:	co|sí=yes v|cree-1S&PRES=believe pro:rel|que=that co|sí=yes .
+*VEN:	esa ?
+%mor:	det:dem|ese-f=that ?
+*MOT:	esa en diecinueve .
+%mor:	det:dem|ese-f=that prep|en=in det:num|diecinueve=nineteen .
+*VEN:	dale ahí me fijo .
+%mor:	co|dale adv|ahí=there pro:obj|me=me v|fija-1S&PRES=notice .
+*MOT:	dale gracias .
+%mor:	co|dale co|gracias=thanks .
+*VEN:	no de nada .
+%mor:	adv|no=no prep|de=of pro:indef|nada=nothing .
+*MOT:	ahora va a xxx .
+%mor:	adv|ahora=now v|i-3S&PRES=go aprep|a=to .
+%tim:	1:34:19
+*MOT:	xxx .
+*MUJ:	hola Andre(a) !
+%mor:	co|hola=hi n:prop|Andrea !
+*MUJ:	vino la familia completa .
+%mor:	n|vino&m=wine det:art|el&f&SG=the n|familia&f=family
+	v|completa-3S&PRES=complete .
+*MUJ:	hola Pía . [+ OCH]
+%mor:	co|hola=hi n:prop|Pía .
+*MOT:	no completa no .
+%mor:	adv|no=no v|completa-3S&PRES=complete adv|no=no .
+*MUJ:	no falta Felix .
+%mor:	adv|no=no v|falta-3S&PRES=be_lacking n:prop|Felix .
+*MOT:	no falta Bauti(sta) .
+%mor:	adv|no=no v|falta-3S&PRES=be_lacking n:prop|Bautista .
+*MUJ:	falta Bauti(sta) .
+%mor:	v|falta-3S&PRES=be_lacking n:prop|Bautista .
+*MUJ:	&=ríe .
+*MOT:	está en el cole(gio) .
+%mor:	cop|esta-3S&PRES=be prep|en=in det:art|el&m&SG=the
+	n|colegio&m=school .
+*MUJ:	xxx mal .
+%mor:	adv|mal=badly .
+*MOT:	perfecto .
+%mor:	adj|perfecto-m=perfect .
+*VEN:	está .
+%mor:	cop|esta-3S&PRES=be .
+*MUJ:	xxx así cuando vine la primera vez te acordás ?
+%mor:	adv|así=thus conj|cuando=when v|veni-1S&PRET=come
+	det:art|el&f&SG=the adj:num|primer-f=first n|vez&f=turn
+	pro:obj|te=you v|acorda-2S&PRES=remind ?
+*MU5:	sí .
+%mor:	co|sí=yes .
+*MOT:	todo bien xxx ?
+%mor:	pro:indef|todo-m=all adv|bien=well ?
+*MUJ:	todo bien .
+%mor:	pro:indef|todo-m=all adv|bien=well .
+*MOT:	decime xxx .
+%mor:	?|decime .
+*VEN:	cuarentitres [:	cuarenta y tres] tres .
+%mor:	det:num|cuarenta&m=forty coord|y=and det:num|tres=three
+	det:num|tres=three .
+*MUJ:	cómo está Mora ?
+%mor:	pro:int|cómo=how cop|esta-3S&PRES=be n:prop|Mora ?
+*MOT:	bien hacé un montón igual que no la veo .
+%mor:	adv|bien=well imp|hace-2S&IMP=do det:art|un&m=one
+	n|monte&m-AUG=hill co|igual=equal pro:rel|que=that adv|no=no
+	pro:obj|la&f=she v|ve-1S&PRES=see .
+*MUJ:	me enteré yo mal o está embaraza ?
+%mor:	pro:obj|me=me v|entera-1S&PRET=inform pro:sub|yo=I adv|mal=badly
+	coord|o=or imp|esta-2S&IMP=be v|embaraza-3S&PRES=hinder ?
+*MOT:	sí .
+%mor:	co|sí=yes .
+*MUJ:	de cuánto está ?
+%mor:	prep|de=of det:indef|cuánto-m=how_much cop|esta-3S&PRES=be ?
+*MOT:	&eh de cinco meses creo .
+%mor:	prep|de=of det:num|cinco=five n|mes&m-PL=month
+	v|cree-1S&PRES=believe .
+*MUJ:	no me imagino la soga con nudo ni por casualidad .
+%mor:	adv|no=no pro:obj|me=me v|imagina-1S&PRES=imagine
+	det:art|el&f&SG=the n|soga&f=vine prep|con=with n|nudo&m=knot
+	coord|ni=nor prep|por=for n|casualidad&f=coincidence .
+*MOT:	&=ríe .
+*MOT:	sí una soga con nudo .
+%mor:	co|sí=yes det:art|un-f=one n|soga&f=vine prep|con=with
+	n|nudo&m=knot .
+*MUJ:	me la imagino te juro .
+%mor:	pro:obj|me=me pro:obj|la&f=she v|imagina-1S&PRES=imagine
+	pro:obj|te=you v|jura-1S&PRES=swear .
+*MUJ:	pienso y digo cómo será .
+%mor:	n|pienso&m=fodder coord|y=and v|deci-1S&PRES=say pro:int|cómo=how
+	cop|se-3S&FUT=be .
+*MUJ:	che estás muy bonita &eh . [+ OCH]
+%mor:	co|che=hey cop|esta-2S&PRES=be adv|muy=very co:voc|bonita=pretty .
+*MUJ:	estás muy bonita &eh . [+ OCH]
+%mor:	cop|esta-2S&PRES=be adv|muy=very co:voc|bonita=pretty .
+*MUJ:	&ts &ts &ts . [+ OCH]
+*MUJ:	cómo te portás ? [+ OCH]
+%mor:	pro:int|cómo=how pro:obj|te=you v|porta-2S&PRES=behave ?
+*VEN:	cuatrocientos setenta y seis con cincuenta .
+%mor:	det:num|cuatrociento&m-PL=four_hundred det:num|setenta&m=seventy
+	coord|y=and det:num|seis=six prep|con=with det:num|cincuenta&m=fifty
+	.
+*MUJ:	y vos &che ? [+ CHI]
+%mor:	coord|y=and pro:obj|vos=you ?
+*MUJ:	&ts &ts &ts . [+ CHI]
+*MUJ:	estás de franco hoy ?
+%mor:	cop|esta-2S&PRES=be prep|de=of adj|franco-m=frank adv|hoy=today ?
+*MUJ:	mucha gente ?
+%mor:	det:indef|mucho-f=many n|gente&f=folk ?
+*MOT:	no ayer no venía nadie .
+%mor:	adv|no=no adv|ayer=yesterday adv|no=no v|veni-13S&PAS=come
+	pro:indef|nadie=nobody .
+*MOT:	pero los días de feriado siempre es un quilombo .
+%mor:	conj|pero=but det:art|el&m-PL=the n|día&m-PL=day prep|de=of
+	n|feriado&m=holiday adv|siempre=always cop|se-3S&PRES=be
+	det:art|un&m=one n|quilombo&m=whorehouse .
+*MOT:	después de xxx .
+%mor:	adv|después=after prep|de=of .
+*MUJ:	xxx .
+*MOT:	es que por acá por Cabildo abren casi todos los locales .
+%mor:	cop|se-3S&PRES=be pro:rel|que=that prep|por=for adv|acá=there
+	prep|por=for n:prop|Cabildo v|abri-3P&PRES=open adv|casi=almost
+	det:indef|todo-m-PL=all det:art|el&m-PL=the n|local&m-PL=shop .
+*MOT:	hay movimiento siempre .
+%mor:	v|habe-3S&PRES&SPEC=have n|movimiento&m=movement adv|siempre=always
+	.
+*MUJ:	xxx haya movimiento la gente xxx más .
+%mor:	v|habe-13S&SUB&PRES=have n|movimiento&m=movement
+	det:art|el&f&SG=the n|gente&f=folk adv|más=more .
+*MUJ:	porque no sé nosotros venimos a xxx .
+%mor:	conj|porque=because adv|no=no v|sabe-1S&PRES=know
+	pro:sub|nosotro-m-PL=we v|veni-1P&PRES&PRET=come aprep|a=to .
+*MUJ:	pasealo .
+%mor:	imp|pasea-2S&IMP~pro:clit|OBJ&m .
+*MUJ:	&ts &ts &ts . [+ CHI]
+*MUJ:	&ts &ts &s .  [+ CHI]
+*MUJ:	&che cuánto cumple ahora en octubre ?
+%mor:	pro:int|cuánto-m=how_much v|cumpli-3S&PRES=accomplish adv|ahora=now
+	prep|en=in n|octubre&m=October ?
+*MUJ:	dos no ?
+%mor:	det:num|dos=two adv|no=no ?
+*MOT:	tres .
+%mor:	det:num|tres=three .
+*MUJ:	tres .
+%mor:	det:num|tres=three .
+*MUJ:	xxx que yo me fui acá de allá xxx .
+%mor:	pro:rel|que=that pro:sub|yo=I pro:obj|me=me v|i-3S&PRET=go
+	adv|acá=there prep|de=of adv|allá=there .
+*MOT:	y vos te fuiste un toque después de que yo xxx .
+%mor:	coord|y=and pro:obj|vos=you pro:obj|te=you v|i-2S&PRET=go
+	det:art|un&m=one v|toca-13S&SUB&PRES=touch adv|después=after
+	prep|de=of pro:rel|que=that pro:sub|yo=I .
+*MUJ:	claro .
+%mor:	co|claro=obvious .
+%com:	está pagando .
+*MUJ:	&ts &ts &ts . [+ CHI]
+*MUJ:	&ts &ts &ts . [+ CHI]
+*MUJ:	&ts &ts &ts . [+ CHI]
+*MUJ:	&=ríe .
+*MUJ:	&uh la otra cómo se porta ?
+%mor:	det:art|el&f&SG=the det:indef|otro-f=other pro:int|cómo=how
+	pro:refl|se=itself v|porta-3S&PRES=behave ?
+*MOT:	quién ?
+%mor:	pro:int|quién=who ?
+*MOT:	xxx ?
+*MUJ:	sí .
+%mor:	co|sí=yes .
+*MOT:	re tranqui(la) .
+%mor:	adv|re=really adj|tranquilo-f=calm .
+*MUJ:	sí ?
+%mor:	co|sí=yes ?
+*MUJ:	qué suerte !
+%mor:	pro:int|qué=what n|suerte&f=luck !
+*MOT:	xxx .
+*MUJ:	qué chusma que sos &che . [+ CHI]
+%mor:	pro:int|qué=what ?|chusma pro:rel|que=that cop|se-3S&PRES=be .
+*MUJ:	qué chusma que sos . [+ CHI]
+%mor:	pro:int|qué=what ?|chusma pro:rel|que=that cop|se-3S&PRES=be .
+*MUJ:	&=ríe .
+*MUJ:	mirá qué lindo . [+ CHI]
+%mor:	co|mirá pro:int|qué=what adj|lindo-m=pretty .
+*MUJ:	&ts &ts &ts . [+ CHI]
+*MUJ:	cuánto tiene Mery él ?
+%mor:	pro:int|cuánto-m=how_much v|tene-3S&PRES=have n:prop|Mery
+	pro:sub|él&m=he ?
+*MOT:	&eh once meses .
+%mor:	det:num|once=eleven n|mes&m-PL=month .
+*MOT:	el mes que viene ya cumple un año .
+%mor:	det:art|el&m&SG=the n|mes&m=month pro:rel|que=that
+	v|veni-3S&PRES=come adv|ya=already v|cumpli-3S&PRES=accomplish
+	det:art|un&m=one n|año&m=year .
+*MUJ:	&ah como sí claro como xxx .
+%mor:	adv|como=like co|sí=yes co|claro=obvious adv|como=like .
+*MUJ:	sos muy lindo &che sos muy lindo . [+ CHI]
+%mor:	cop|se-3S&PRES=be adv|muy=very adj|lindo-m=pretty cop|se-3S&PRES=be
+	adv|muy=very adj|lindo-m=pretty .
+*MUJ:	&=ríe .
+*MOT:	vamos ? [+ CHI]
+%mor:	co|vamos=go ?
+*MOT:	xxx .
+*MUJ:	a pasear [/] a pasear . [+ CHI]
+%mor:	aprep|a=to aprep|a=to inf|pasea-INF=stroll .
+*MOT:	chau .
+%mor:	co|chau=ciao .
+*MUJ:	chau . [+ CHI]
+%mor:	co|chau=ciao .
+*MOT:	vamos a casa que ya después tengo que ir a buscar a Bauti(sta) .
+%mor:	v|i-1P&PRES=go aprep|a=to n|casa&f=house pro:rel|que=that
+	adv|ya=already adv|después=after v|tene-1S&PRES=have
+	pro:rel|que=that inf|i-INF=go aprep|a=to inf|busca-INF=search
+	aprep|a=to n:prop|Bautista .
+*CHI:	no .
+%mor:	adv|no=no .
+*MUJ:	&=besa .
+*MUJ:	qué lindo por lo menos xxx .
+%mor:	pro:int|qué=what adj|lindo-m=pretty prep|por=for pro:obj|lo&m=him
+	adv|menos=less .
+*MOT:	eso sí .
+%mor:	pro:dem|eso=that_one co|sí=yes .
+*MOT:	por lo menos un día a la semana lo paso a buscar .
+%mor:	prep|por=for pro:obj|lo&m=him adv|menos=less det:art|un&m=one
+	n|día&m=day aprep|a=to det:art|el&f&SG=the n|semana&f=week
+	pro:obj|lo&m=him v|pasa-1S&PRES=pass aprep|a=to inf|busca-INF=search
+	.
+*CHI:	&=balbucea .
+*MUJ:	xxx .
+*MOT:	sí a él le encanta .
+%mor:	co|sí=yes aprep|a=to pro:head|él&m=he pro:ind|le=him
+	v|encanta-3S&PRES=enchant .
+*CHI:	&=balbucea .
+*MUJ:	&ay .
+*MOT:	chau !
+%mor:	co|chau=ciao !
+*MOT:	chau chicas nos vemos .
+%mor:	co|chau=ciao adj|chico-f-PL=small pro:obj|nos=us v|ve-1P&PRES=see .
+*MUJ:	chau .
+%mor:	co|chau=ciao .
+*HOM:	hola .
+%mor:	co|hola=hi .
+*VEN:	hola .
+%mor:	co|hola=hi .
+*HOM:	te hago una preguntita .
+%mor:	pro:obj|te=you v|hace-1S&PRES=do det:art|un-f=one
+	n|pregunta&f-DIM=question .
+%com:	alrededor
+*VEN:	sí .
+%mor:	co|sí=yes .
+*MOT:	chau gracias !
+%mor:	co|chau=ciao co|gracias=thanks !
+*VEN:	chau nos vemos .
+%mor:	co|chau=ciao pro:obj|nos=us v|ve-1P&PRES=see .
+%com:	salen del local y caminan por la calle
+%tim:	1:37:58
+*MU4:	xxx por en frente xxx .
+%mor:	prep|por=for prep|en=in adv|frente=facing .
+%com:	alrededor
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	ruido de la calle
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%tim:	1:40:05
+%com:	siguen caminando en la calle
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MU5:	xxx .
+*CHI:	&=balbucea .
+*MOT:	hola Pepi . [+ CHI]
+%mor:	co|hola=hi n:prop|Pepi .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*CHI:	&=balbucea .
+%tim:	1:41:06
+*CHI:	&=balbucea .
+*MOT:	qué mi amor ? [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|amor=love ?
+*CHI:	&=balbucea .
+*MOT:	hola Pepino . [+ CHI]
+%mor:	co|hola=hi n:prop|Pepino .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	qué pasa mi amor ? [+ CHI]
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass det:poss|mi=my
+	co:voc|amor=love ?
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	siguen en la calle
+*CHI:	&=balbucea .
+*MOT:	&=imita .
+*CHI:	&=balbucea .
+*MOT:	loco . [+ CHI]
+%mor:	adj|loco-m=crazy .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx . [+ OCH]
+*SIS:	xxx .
+*SIS:	xxx .
+*SIS:	xxx .
+%tim:	1:43:03
+*CHI:	&=balbucea .
+*MU5:	xxx así tal cual que quiera venderlo .
+%mor:	adv|así=thus adj|tal=such pro:rel|cual=which pro:rel|que=that
+	v|quere-13S&SUB&PRES=want inf|vende-INF~pro:clit|OBJ&m .
+*MU6:	claro .
+%mor:	co|claro=obvious .
+*MU5:	si tiene un ingreso fijo bueno .
+%mor:	conj|si=if v|tene-3S&PRES=have det:art|un&m=one n|ingreso&m
+	adj|fijo-m=fixed co|bueno=good .
+%com:	las mujeres están hablando alrededor
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	siguen en la calle
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	&=imita . [+ CHI]
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx . [+ CHI]
+*MOT:	loco . [+ CHI]
+%mor:	adj|loco-m=crazy .
+%com:	CHI juega con algo que parece un sonajero
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%tim:	1:45:14
+*MOT:	xxx quieto . [+ CHI]
+%mor:	adj|quieto-m=still .
+*CHI:	&=balbucea .
+*CHI:	&=tose .
+*CHI:	&=balbucea .
+%com:	a CHI le agarró hipo
+*CHI:	&=balbucea .
+*CHI:	&=estornuda .
+*CHI:	&=estornuda .
+*CHI:	&=estornuda .
+*MOT:	salud bebé . [+ CHI]
+%mor:	n|salud&f=health n|bebé&m=baby .
+*CHI:	&=estornuda .
+*MOT:	salud bebé . [+ CHI]
+%mor:	n|salud&f=health n|bebé&m=baby .
+%com:	música en la calle
+%tim:	1:46:39
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	hipo . [+ CHI]
+%mor:	v|hipa-1S&PRES=hiccup .
+%com:	siguen caminando en la calle
+*MOT:	hola preciosito . [+ CHI]
+%mor:	co|hola=hi adj|precioso-DIM=precious .
+*MOT:	hola preciosito . [+ CHI]
+%mor:	co|hola=hi adj|precioso-DIM=precious .
+*MOT:	a ver los mocos . [+ CHI]
+%mor:	aprep|a=to inf|ve-INF=see det:art|el&m-PL=the n|moco&m-PL=mucus .
+*MOT:	listo [/] listo no te enojes . [+ CHI]
+%mor:	adj|listo-m=ready adv|no=no pro:obj|te=you
+	v|enoja-2S&SUB&PRES=annoy .
+%tim:	1:48:10
+*CHI:	&=balbucea .
+*MOT:	&=imita .
+*MOT:	beso . [+ CHI]
+%mor:	n|beso&m=kiss .
+*MOT:	&=besa .
+%com:	siguen en la calle
+*CHI:	&=tose .
+%com:	para mí sigue con hipo
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	parece chupar algo
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%tim:	1:49:40
+%com:	parece abrir una puerta y se escucha a un perro ladrar
+*HOM:	xxx .
+*SIS:	xxx .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	entran al ascensor
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	hola .
+%mor:	co|hola=hi .
+%com:	llegan a la casa
+%tim:	1:50:44
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	llegamos . [+ CHI]
+%mor:	v|llega-1P&PRES&PRET=arrive .
+*MOT:	xxx .
+*MOT:	llegamos ! [+ CHI]
+%mor:	v|llega-1P&PRES&PRET=arrive !
+%com:	ruido de puertas
+*MOT:	xxx .
+*MOT:	hiciste pis ? [+ CHI]
+%mor:	v|hace-2S&PRET=do n|pis&m=piss ?
+*MOT:	&eh bebé ? [+ CHI]
+%mor:	n|bebé&m=baby ?
+*MOT:	a ver . [+ CHI]
+%mor:	aprep|a=to inf|ve-INF=see .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	ya te bajo loco . [+ CHI]
+%mor:	adv|ya=already pro:obj|te=you v|baja-1S&PRES=come_down
+	adj|loco-m=crazy .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	parece revisarle el pañal
+*MOT:	&=besa .
+*MOT:	&=besa .
+*MOT:	te bajo ? [+ CHI]
+%mor:	pro:obj|te=you v|baja-1S&PRES=come_down ?
+*MOT:	vos te vas a sacar la campera ? [+ CHI]
+%mor:	pro:obj|vos=you pro:obj|te=you v|i-2S&PRES=go aprep|a=to
+	inf|saca-INF=bring_out det:art|el&f&SG=the n|campera&f=anorak ?
+%com:	sigue con hipo
+*SIS:	&=lloriquea .
+*CHI:	&=balbucea .
+*MOT:	vení que te ayudo . [+ OCH]
+%mor:	imp|veni-2S&IMP=come pro:rel|que=that pro:obj|te=you
+	v|ayuda-1S&PRES=help .
+*MOT:	vení . [+ OCH]
+%mor:	imp|veni-2S&IMP=come .
+*MOT:	no llores . [+ OCH]
+%mor:	adv|no=no v|llora-2S&SUB&PRES=cry .
+*CHI:	&=balbucea .
+*SIS:	&=lloriquea .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*MOT:	vení . [+ OCH]
+%mor:	imp|veni-2S&IMP=come .
+*CHI:	&=balbucea .
+%com:	parece agarrar un sonajero
+*CHI:	&=balbucea .
+%tim:	1:52:16
+*MOT:	no ! [+ OCH]
+%mor:	adv|no=no !
+*MOT:	no son para vos son para Feli(x) . [+ OCH]
+%mor:	adv|no=no cop|se-3P&PRES=be prep|para=for pro:obj|vos=you
+	cop|se-3P&PRES=be prep|para=for n:prop|Felix .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	me parece que sigue con el sonajero
+*SIS:	xxx .
+*MOT:	son para Feli(x) no son para xxx . [+ OCH]
+%mor:	cop|se-3P&PRES=be prep|para=for n:prop|Felix adv|no=no
+	cop|se-3P&PRES=be prep|para=for .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	el beboto [: bebé] . [+ CHI]
+%mor:	det:art|el&m&SG=the n|bebé&m=baby .
+*SIS:	&=balbucea . [+ CHI]
+*SIS:	&=balbucea . [+ CHI]
+*SIS:	el bebé . [+ CHI]
+%mor:	det:art|el&m&SG=the n|bebé&m=baby .
+*SIS:	bebé xxx . [+ CHI]
+%mor:	n|bebé&m=baby .
+*SIS:	&=balbucea . [+ CHI]
+%com:	para mí no está diciendo palabras
+*SIS:	&=balbucea . [+ CHI]
+*SIS:	&=balbucea ! [+ CHI]
+*CHI:	&=lloriquea .
+*CHI:	&=llora .
+%tim:	1:53:28
+*SIS:	&=balbucea . [+ CHI]
+*CHI:	&=llora .
+*MOT:	qué pasó Pe ? [+ CHI]
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass n:prop|Pe ?
+*CHI:	&=llora .
+*MOT:	cuidado Pía . [+ OCH]
+%mor:	n|cuidado&m=care n:prop|Pía .
+*MOT:	dejalo [/] dejalo . [+ OCH]
+%mor:	imp|deja-2S&IMP~pro:clit|OBJ&m .
+*MOT:	es un bebé no quiere . [+ OCH]
+%mor:	cop|se-3S&PRES=be det:art|un&m=one n|bebé&m=baby adv|no=no
+	v|quere-3S&PRES=want .
+*CHI:	&=llora .
+*MOT:	no quiere ponerse las zapas . [+ OCH]
+%mor:	adv|no=no v|quere-3S&PRES=want inf|pone-INF~pro:clit|3S&REFL
+	det:art|el&f-PL=the n|zapa&f-PL=sharkskin .
+*CHI:	&=llora .
+*CHI:	&=llora .
+*MOT:	no quiere mi amor no quiere . [+ OCH]
+%mor:	adv|no=no v|quere-3S&PRES=want det:poss|mi=my co:voc|amor=love
+	adv|no=no v|quere-3S&PRES=want .
+*MOT:	vení Pe . [+ CHI]
+%mor:	imp|veni-2S&IMP=come n:prop|Pe .
+*CHI:	&=llora .
+*MOT:	&ay no llore . [+ CHI]
+%mor:	adv|no=no v|llora-13S&SUB&PRES=cry .
+*CHI:	&=llora .
+*MOT:	vení . [+ CHI]
+%mor:	imp|veni-2S&IMP=come .
+*MOT:	no llore . [+ CHI]
+%mor:	adv|no=no v|llora-13S&SUB&PRES=cry .
+*MOT:	xxx . [+ CHI]
+*CHI:	&=llora .
+*MOT:	no te entra Pía . [+ OCH]
+%mor:	adv|no=no pro:obj|te=you v|entra-3S&PRES=come_in n:prop|Pía .
+*MOT:	vení . [+ CHI]
+%mor:	imp|veni-2S&IMP=come .
+*CHI:	&=llora .
+*CHI:	&=llora .
+*MOT:	xxx .
+*MOT:	&ay [/] &ay . [+ CHI]
+*MOT:	un gordo mi amor . [+ CHI]
+%mor:	det:art|un&m=one adj|gordo-m=fat det:poss|mi=my co:voc|amor=love .
+*MOT:	&=ríe .
+%com:	el bebé se calma
+*MOT:	&ay estos mocos mami . [+ CHI]
+%mor:	det:dem|este-m-PL=this n|moco&m-PL=mucus n|mami&f=mommy .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	qué querés ? [+ CHI]
+%mor:	pro:int|qué=what v|quere-2S&PRES=want ?
+*MOT:	teta ? [+ CHI]
+%mor:	n|teta&f=breast ?
+*CHI:	&=lloriquea .
+*MOT:	teta otra vez ? [+ CHI]
+%mor:	n|teta&f=breast det:indef|otro-f=other n|vez&f=turn ?
+*CHI:	&=lloriquea .
+*MOT:	bueno ahí te doy [/] ahí te doy . [+ CHI]
+%mor:	co|bueno=good adv|ahí=there pro:obj|te=you adv|ahí=there
+	pro:obj|te=you v|da-1S&PRES=give .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	dejalo . [+ OCH]
+%mor:	imp|deja-2S&IMP~pro:clit|OBJ&m .
+*MOT:	dejá eso Pi . [+ OCH]
+%mor:	imp|deja-2S&IMP=leave pro:dem|eso=that_one n:prop|Pi .
+*MOT:	dejá . [+ OCH]
+%mor:	imp|deja-2S&IMP=leave .
+*SIS:	hola .
+%mor:	co|hola=hi .
+*MOT:	hola ma(má) . [+ OCH]
+%mor:	co|hola=hi n|mamá&f=mommy .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx Pepi hola . [+ CHI]
+%mor:	n:prop|Pepi co|hola=hi .
+*CHI:	&=balbucea .
+*MOT:	no hagas lío Pi . [+ OCH]
+%mor:	adv|no=no v|hace-2S&SUB&PRES=do n|lío&m=mess n:prop|Pi .
+*MOT:	&ay qué rico mamita . [+ CHI]
+%mor:	pro:int|qué=what adj|rico-m=rich n|mama&f-DIM=mamma .
+*SIS:	&=balbucea .
+*MOT:	para quién es esa ? [+ OCH]
+%mor:	prep|para=for pro:int|quién=who cop|se-3S&PRES=be
+	det:dem|ese-f=that ?
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*MOT:	para Pipi . [+ OCH]
+%mor:	prep|para=for n:prop|Pipi .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+%com:	parece ponerse a tomar la teta
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	te gusta ? [+ OCH]
+%mor:	pro:obj|te=you v|gusta-3S&PRES=like ?
+*SIS:	&=balbucea .
+%tim:	1:55:32
+%com:	toma teta
+*SIS:	&=balbucea .
+*SIS:	hola !
+%mor:	co|hola=hi !
+*SIS:	acá está !
+%mor:	adv|acá=there cop|esta-3S&PRES=be !
+*MOT:	no va así cochina . [+ OCH]
+%mor:	adv|no=no v|i-3S&PRES=go adv|así=thus n|cochino-f=hog .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+%com:	sigue tomando la teta
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	te vas ? [+ OCH]
+%mor:	pro:obj|te=you v|i-2S&PRES=go ?
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	te vas ? [+ OCH]
+%mor:	pro:obj|te=you v|i-2S&PRES=go ?
+*SIS:	&=balbucea .
+*MOT:	dame eso Pía . [+ OCH]
+%mor:	imp|da-2S&IMP~pro:clit|1S pro:dem|eso=that_one n:prop|Pía .
+*MOT:	no [/] no [/] no (.) damelo . [+ OCH]
+%mor:	adv|no=no imp|da-2S&IMP~pro:clit|1S~pro:clit|OBJ&m .
+*MOT:	Pía ! [+ OCH]
+%mor:	n:prop|Pía !
+*MOT:	Pía . [+ OCH]
+%mor:	n:prop|Pía .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=tose .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=balbucea .
+*MOT:	&ay !
+*CHI:	&=lloriquea .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=tose .
+*CHI:	&=tose .
+*CHI:	&=tose .
+*CHI:	&=llora .
+*SIS:	&=balbucea .
+*CHI:	&=llora .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*MOT:	&=imita .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=llora .
+*CHI:	&=llora .
+*CHI:	&=llora .
+*CHI:	&=llora .
+*CHI:	&=llora .
+*SIS:	&=balbucea .
+*MOT:	ahora te doy ? [+ OCH]
+%mor:	adv|ahora=now pro:obj|te=you v|da-1S&PRES=give ?
+*SIS:	&=balbucea .
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+%com:	parece que vuelve a tomar la teta
+%tim:	1:59:05
+*SIS:	&=balbucea .
+%com:	SIS alejada, MOT Y CHI parecen estar cerca de una ventana porque se
+	escucha más el ruido de la calle
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+%com:	se escucha bastante el ruido de la calle y el nene sigue tomando la
+	teta
+*SIS:	&=balbucea .
+*MOT:	dejá eso ! [+ OCH]
+%mor:	imp|deja-2S&IMP=leave pro:dem|eso=that_one !
+*SIS:	esto ?
+%mor:	pro:dem|esto=this_one ?
+*SIS:	esto xxx gusta .
+%mor:	pro:dem|esto=this_one v|gusta-3S&PRES=like .
+*MOT:	te gusta ? [+ OCH]
+%mor:	pro:obj|te=you v|gusta-3S&PRES=like ?
+*MOT:	sí ? [+ OCH]
+%mor:	co|sí=yes ?
+*MOT:	es lindo ? [+ OCH]
+%mor:	cop|se-3S&PRES=be adj|lindo-m=pretty ?
+*MOT:	te la querés poner ? [+ OCH]
+%mor:	pro:obj|te=you pro:obj|la&f=she v|quere-2S&PRES=want
+	inf|pone-INF=put ?
+*MOT:	dame vení que te ayudo . [+ OCH]
+%mor:	imp|da-2S&IMP~pro:clit|1S imp|veni-2S&IMP=come pro:rel|que=that
+	pro:obj|te=you v|ayuda-1S&PRES=help .
+%tim:	2:01:06
+*MOT:	no ahí no va . [+ OCH]
+%mor:	adv|no=no adv|ahí=there adv|no=no co|va=go .
+*SIS:	&=balbucea .
+*MOT:	tomá mirá ahí está . [+ OCH]
+%mor:	imp|toma-2S&IMP=take co|mirá adv|ahí=there cop|esta-3S&PRES=be .
+*MOT:	ahora sí . [+ OCH]
+%mor:	adv|ahora=now co|sí=yes .
+*MOT:	dale . [+ OCH]
+%mor:	co|dale .
+*SIS:	&=balbucea .
+*MOT:	tomá . [+ OCH]
+%mor:	imp|toma-2S&IMP=take .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	no así . [+ OCH]
+%mor:	adv|no=no adv|así=thus .
+*SIS:	&=balbucea .
+*MOT:	ahí esa mano va ahí . [+ OCH]
+%mor:	adv|ahí=there det:dem|ese-f=that n|mano&f=hand v|i-3S&PRES=go
+	adv|ahí=there .
+*MOT:	muy bien . [+ OCH]
+%mor:	adv|muy=very adv|bien=well .
+*SIS:	&=balbucea .
+*MOT:	y ahora la otra  . [+ OCH]
+%mor:	coord|y=and adv|ahora=now det:art|el&f&SG=the
+	pro:indef|otro-f=other .
+*MOT:	girá . [+ OCH]
+%mor:	imp|gira-2S&IMP=revolve .
+%com:	Felix sigue tomando la teta
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	mamá esto nuevo .
+%mor:	n|mamá&f=mommy pro:dem|esto=this_one adj|nuevo-m=new .
+%tim:	2:02:01
+*MOT:	&=ríe .
+*MOT:	vení linda . [+ OCH]
+%mor:	imp|veni-2S&IMP=come adj|lindo-f=pretty .
+*MOT:	así mirá . [+ OCH]
+%mor:	adv|así=thus co|mirá .
+*MOT:	<así> [=! alarga] ese se mete ahí . [+ OCH]
+%mor:	adv|así=thus det:dem|ese=that pro:refl|se=itself v|mete-3S&PRES=put
+	adv|ahí=there .
+*MOT:	ahí . [+ OCH]
+%mor:	adv|ahí=there .
+*MOT:	y se sube . [+ OCH]
+%mor:	coord|y=and pro:refl|se=itself v|subi-3S&PRES=go_up .
+*SIS:	ti [: sí] .
+%mor:	co|sí=yes .
+*MOT:	ti [: sí] . [+ OCH]
+%mor:	co|sí=yes .
+*MOT:	hola lindo . [+ CHI]
+%mor:	co|hola=hi adj|lindo-m=pretty .
+*MOT:	hola lindísimo . [+ CHI]
+%mor:	co|hola=hi adj|lindo-SUPER-m=pretty .
+*CHI:	&=balbucea .
+*MOT:	hola Pepi . [+ CHI]
+%mor:	co|hola=hi n:prop|Pepi .
+*SIS:	mamá .
+%mor:	n|mamá&f=mommy .
+*MOT:	qué mi amor ? [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|amor=love ?
+*SIS:	&=balbucea .
+*MOT:	&ay qué pasó ! [+ OCH]
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass !
+*SIS:	&=balbucea .
+*MOT:	a ver . [+ OCH]
+%mor:	aprep|a=to inf|ve-INF=see .
+*MOT:	ahí está . [+ OCH]
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+*MOT:	mirá qué linda que estás . [+ OCH]
+%mor:	co|mirá pro:int|qué=what adj|lindo-f=pretty prep|que=than
+	aux|esta-2S&PRES=be .
+*SIS:	&=balbucea .
+*MOT:	qué linda mamita . [+ OCH]
+%mor:	pro:int|qué=what adj|lindo-f=pretty n|mama&f-DIM=mamma .
+*SIS:	&=balbucea .
+%tim:	2:02:36
+*SIS:	&=balbucea .
+*MOT:	ese es para Bauti(sta) . [+ OCH]
+%mor:	det:dem|ese=that cop|se-3S&PRES=be prep|para=for n:prop|Bautista .
+*SIS:	&=balbucea .
+%com:	sigue tomando la teta
+*CHI:	&=tose .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	hola Peiii . [+ CHI]
+%mor:	co|hola=hi n:prop|Peiii .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+%com:	después la hermana parece alejarse
+*SIS:	&=balbucea .
+%com:	se la escucha alejada
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	&=imita .
+*CHI:	&=balbucea .
+*MOT:	te gustan tus zapas nuevas Pepi ? [+ CHI]
+%mor:	pro:obj|te=you v|gusta-3P&PRES=like det:poss|tu-PL=your
+	n|zapa&f-PL=sharkskin adj|nuevo-f-PL=new n:prop|Pepi ?
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	no son para chupar &eh . [+ CHI]
+%mor:	adv|no=no cop|se-3P&PRES=be prep|para=for inf|chupa-INF=suck .
+*MOT:	son para los pies Pepino . [+ CHI]
+%mor:	cop|se-3P&PRES=be prep|para=for det:art|el&m-PL=the n|pie&m-PL=foot
+	n:prop|Pepino .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	ma(má) .
+%mor:	n|mamá&f=mommy .
+*CHI:	&=balbucea .
+*SIS:	hola . [+ CHI]
+%mor:	co|hola=hi .
+*SIS:	&=balbucea .
+%com:	sigue tomando la teta
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	hola .
+%mor:	co|hola=hi .
+*MOT:	hola . [+ OCH]
+%mor:	co|hola=hi .
+*SIS:	&=balbucea .
+*MOT:	qué mamita ? [+ OCH]
+%mor:	pro:int|qué=what n|mama&f-DIM=mamma ?
+*SIS:	&=balbucea .
+*SIS:	&ay no !
+%mor:	adv|no=no !
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	mamá !
+%mor:	n|mamá&f=mommy !
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	mamá !
+%mor:	n|mamá&f=mommy !
+*MOT:	mamá [=! imita] . [+ OCH]
+%mor:	n|mamá&f=mommy .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	eso es para Bauti(sta) . [+ OCH]
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be prep|para=for
+	n:prop|Bautista .
+*MOT:	no no le saques la etiqueta . [+ OCH]
+%mor:	adv|no=no adv|no=no pro:ind|le=him v|saca-2S&SUB&PRES=bring_out
+	det:art|el&f&SG=the n|etiqueta&f=etiquette .
+*MOT:	&eh ? [+ OCH]
+*SIS:	hola .
+%mor:	co|hola=hi .
+*MOT:	hola . [+ OCH]
+%mor:	co|hola=hi .
+*SIS:	&=balbucea .
+*MOT:	linda . [+ OCH]
+%mor:	adj|lindo-f=pretty .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	papá .
+%mor:	n|papá&m=father .
+*MOT:	ahí está papá muy bien ! [+ OCH]
+%mor:	adv|ahí=there cop|esta-3S&PRES=be n|papá&m=father adv|muy=very
+	adv|bien=well !
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+%com:	parece seguir tomando la teta
+*SIS:	mamá [/] mamá .
+%mor:	n|mamá&f=mommy .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*SIS:	mamá .
+%mor:	n|mamá&f=mommy .
+*SIS:	mamá .
+%mor:	n|mamá&f=mommy .
+*MOT:	mamá . [+ OCH]
+%mor:	n|mamá&f=mommy .
+*SIS:	&eh ?
+*MOT:	&eh ? [+ OCH]
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	&=imita . [+ CHI]
+*MOT:	&uugg &uuug &uh gordo . [+ CHI]
+%mor:	adj|gordo-m=fat .
+*SIS:	&=balbucea .
+*MOT:	&ay qué lindo besito le diste a tu Pepino . [+ OCH]
+%mor:	pro:int|qué=what adj|lindo-m=pretty n|beso&m-DIM=kiss
+	pro:ind|le=him v|da-2S&PRET=give aprep|a=to det:poss|tu=your
+	n:prop|Pepino .
+*SIS:	&=balbucea .
+*MOT:	mamá . [+ OCH]
+%mor:	n|mamá&f=mommy .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	&ah Pepino . [+ OCH]
+%mor:	n:prop|Pepino .
+*SIS:	&=balbucea .
+*SIS:	hola .
+%mor:	co|hola=hi .
+*CHI:	&=balbucea .
+*MOT:	&=imita . [+ CHI]
+*CHI:	&=eructa .
+*MOT:	&eh cochino . [+ CHI]
+%mor:	n|cochino-m=hog .
+*SIS:	&=balbucea .
+*MOT:	&=besa .
+*MOT:	muñeco . [+ CHI]
+%mor:	n|muñeco-m=doll .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+%tim:	2:06:23
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	&umm . [+ CHI]
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	Bauti(sta) . [+ OCH]
+%mor:	n:prop|Bautista .
+*SIS:	&=balbucea .
+*MOT:	para Bauti(sta) . [+ OCH]
+%mor:	prep|para=for n:prop|Bautista .
+*SIS:	&=balbucea .
+*MOT:	es de Bauti . [+ OCH]
+%mor:	cop|se-3S&PRES=be prep|de=of n:prop|Bauti .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	este ahí ?
+%mor:	det:dem|este=this adv|ahí=there ?
+*MOT:	es para Feli(x) . [+ OCH]
+%mor:	cop|se-3S&PRES=be prep|para=for n:prop|Felix .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	dale . [+ CHI]
+%mor:	co|dale .
+*MOT:	vení . [+ CHI]
+%mor:	imp|veni-2S&IMP=come .
+%com:	parece hacerle upa a Felix
+*MOT:	a ver . [+ CHI]
+%mor:	aprep|a=to inf|ve-INF=see .
+*MOT:	gordo . [+ CHI]
+%mor:	adj|gordo-m=fat .
+*MOT:	vamos a probar el pantalón gordo . [+ CHI]
+%mor:	v|i-1P&PRES=go aprep|a=to inf|proba-INF=test det:art|el&m&SG=the
+	n|pantalón&m=pants adj|gordo-m=fat .
+*SIS:	&=balbucea .
+*MOT:	xxx .
+*SIS:	&=balbucea .
+*MOT:	gordón [/] gordón gordo botón . [+ CHI]
+%mor:	adj|gordo-AUG=fat adj|gordo-m=fat n|botón&m=button .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	hola .
+%mor:	co|hola=hi .
+*CHI:	&=balbucea .
+%tim:	2:07:11
+*MOT:	hay olor ? [+ CHI]
+%mor:	v|habe-3S&PRES&SPEC=have n|olor&m=smell ?
+*SIS:	olor &caaa .
+%mor:	n|olor&m=smell .
+*MOT:	olor a caca hay ? [+ OCH]
+%mor:	n|olor&m=smell aprep|a=to n|caca&f=feces v|habe-3S&PRES&SPEC=have ?
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	olor a caca hay Pía . [+ OCH]
+%mor:	n|olor&m=smell aprep|a=to n|caca&f=feces v|habe-3S&PRES&SPEC=have
+	n:prop|Pía .
+*MOT:	sí ? [+ OCH]
+%mor:	co|sí=yes ?
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	pará . [+ CHI]
+%mor:	imp|para-2S&IMP=stop .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*MOT:	nada dale . [+ OCH]
+%mor:	pro:indef|nada=nothing co|dale .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	el pato xxx .
+%mor:	det:art|el&m&SG=the n|pato&m=duck .
+*MOT:	xxx a ver . [+ OCH]
+%mor:	aprep|a=to inf|ve-INF=see .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*MOT:	xxx babosito . [+ CHI]
+%mor:	?|babosito .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*SIS:	&=balbucea .
+*MOT:	no xxx .
+%mor:	adv|no=no .
+*SIS:	hola .
+%mor:	co|hola=hi .
+*MOT:	hola . [+ OCH]
+%mor:	co|hola=hi .
+*SIS:	&=balbucea .
+*SIS:	mami !
+%mor:	n|mami&f=mommy !
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*MOT:	mirá . [+ OCH]
+%mor:	co|mirá .
+*CHI:	&=balbucea .
+*MOT:	bueno esa remera (.) esa campera xxx . [+ OCH]
+%mor:	co|bueno=good det:dem|ese-f=that n|remera&f=tshirt
+	det:dem|ese-f=that n|campera&f=anorak .
+*CHI:	&=llora .
+*SIS:	hola .
+%mor:	co|hola=hi .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&ay .
+*SIS:	xxx .
+*SIS:	mirá .
+%mor:	co|mirá .
+*MOT:	&=ríe .
+*SIS:	&=lloriquea .
+%com:	alejada .
+*MOT:	qué lindo Pepino . [+ CHI]
+%mor:	pro:int|qué=what adj|lindo-m=pretty n:prop|Pepino .
+*MOT:	xxx . [+ CHI]
+*MOT:	dale ! [+ CHI]
+%mor:	co|dale !
+%com:	parece moverlo un poco
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	me parece que lo dejó en el piso y está gateando
+*CHI:	&=balbucea .
+%tim:	2:09:44
+%com:	parece que gatea
+*SIS:	&=balbucea .
+*MOT:	qué [/] qué hacés ahí ? [+ CHI]
+%mor:	pro:int|qué=what v|hace-2S&PRES=do adv|ahí=there ?
+*MOT:	no vení adentro Pepi . [+ CHI]
+%mor:	adv|no=no imp|veni-2S&IMP=come adv|adentro=inside n:prop|Pepi .
+*CHI:	&=balbucea .
+*MOT:	Pía ! [+ OCH]
+%mor:	n:prop|Pía !
+*MOT:	vení a ponerte las medias . [+ OCH]
+%mor:	imp|veni-2S&IMP=come aprep|a=to inf|pone-INF~pro:clit|2S
+	det:art|el&f-PL=the n|media&f-PL=stocking .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*MOT:	xxx el balcón Pepito . [+ OCH]
+%mor:	det:art|el&m&SG=the n|balcón&m=balcony n:prop|Pepito .
+*MOT:	parate ahí . [+ CHI]
+%mor:	imp|para-2S&IMP~pro:clit|2S adv|ahí=there .
+%tim:	2:10:22
+*MOT:	parate . [+ CHI]
+%mor:	imp|para-2S&IMP~pro:clit|2S .
+*MOT:	parate ahí dale . [+ CHI]
+%mor:	imp|para-2S&IMP~pro:clit|2S adv|ahí=there co|dale .
+*MOT:	no querés ? [+ CHI]
+%mor:	adv|no=no v|quere-2S&PRES=want ?
+*MOT:	apagalo . [+ OCH]
+%mor:	imp|apaga-2S&IMP~pro:clit|OBJ&m .
+*SIS:	no .
+%mor:	adv|no=no .
+*SIS:	mamá .
+%mor:	n|mamá&f=mommy .
+*SIS:	xxx .
+*SIS:	&ay .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	hola .
+%mor:	co|hola=hi .
+*SIS:	mamá !
+%mor:	n|mamá&f=mommy !
+*SIS:	&=balbucea .
+*SIS:	&ey !
+%com:	me parece que la nena se había quedado en el balcón y ahora la mamá
+	fue a abrirle
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	&=ríe .
+*CHI:	&=balbucea .
+%com:	golpea algo
+*CHI:	&=balbucea .
+*SIS:	qué ? [+ CHI]
+%mor:	pro:int|qué=what ?
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+%com:	SIS está lejos
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+%com:	SIS está lejos
+*SIS:	&=balbucea .
+%tim:	2:12:31
+*SIS:	xxx . [+ CHI]
+*CHI:	&=balbucea .
+*SIS:	&=ríe .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	la hermana parece estar jugando con algo
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*MOT:	Pepi . [+ CHI]
+%mor:	n:prop|Pepi .
+*SIS:	&=balbucea .
+%com:	parece gatear hacia la madre
+*MOT:	hola hermoso . [+ CHI]
+%mor:	co|hola=hi adj|hermoso-m=beautiful .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	despacito Pi . [+ OCH]
+%mor:	adj|despacio-DIM=slowly n:prop|Pi .
+*SIS:	hola !
+%mor:	co|hola=hi !
+*SIS:	hola ma(má) .
+%mor:	co|hola=hi n|mamá&f=mommy .
+*MOT:	hola ma(má) . [+ OCH]
+%mor:	co|hola=hi n|mamá&f=mommy .
+*SIS:	xxx .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+%com:	parece que la mamá le hace upa
+*SIS:	xxx ma(má) .
+%mor:	n|mamá&f=mommy .
+*SIS:	sí !
+%mor:	co|sí=yes !
+*SIS:	&=balbucea .
+*SIS:	&=lloriquea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	qué pasó ? [+ OCH]
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass ?
+*CHI:	&=tose .
+*CHI:	&=lloriquea .
+*MOT:	con la botellita no . [+ CHI]
+%mor:	prep|con=with det:art|el&f&SG=the n|botella&f-DIM=flask adv|no=no .
+*MOT:	dejá xxx . [+ CHI]
+%mor:	imp|deja-2S&IMP=leave .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	vamos Pepi ? [+ CHI]
+%mor:	co|vamos=go n:prop|Pepi ?
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	no Pipita xxx no mi amor . [+ CHI]
+%mor:	co|no n:prop|Pipita adv|no=no det:poss|mi=my co:voc|amor=love .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+%tim:	2:15:53
+*MOT:	vamos Pi . [+ OCH]
+%mor:	co|vamos=go n:prop|Pi .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	vení ma(má) . [+ OCH]
+%mor:	imp|veni-2S&IMP=come n|mamá&f=mommy .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	vení . [+ OCH]
+%mor:	imp|veni-2S&IMP=come .
+*MOT:	&aia . [+ OCH]
+*MOT:	vení sacate esto . [+ OCH]
+%mor:	imp|veni-2S&IMP=come imp|saca-2S&IMP~pro:clit|2S
+	pro:dem|esto=this_one .
+*CHI:	&=llora .
+*SIS:	&=lloriquea .
+*MOT:	xxx . [+ CHI]
+*SIS:	&=lloriquea .
+*CHI:	&=balbucea .
+*SIS:	&=lloriquea .
+*MOT:	dale Pi . [+ OCH]
+%mor:	co|dale n:prop|Pi .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*CHI:	&=balbucea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	no caprichos no Pía (.) no . [+ OCH]
+%mor:	adv|no=no n|capricho&m-PL=caprice adv|no=no n:prop|Pía adv|no=no .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+%com:	Felix se mueve me parece
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	qué pasó mamá ? [+ OCH]
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass n|mamá&f=mommy ?
+*SIS:	&=lloriquea .
+*MOT:	no llores basta mami . [+ OCH]
+%mor:	adv|no=no v|llora-2S&SUB&PRES=cry v|basta-3S&PRES=suffice
+	n|mami&f=mommy .
+*MOT:	&eh no seas caprichosa . [+ OCH]
+%mor:	adv|no=no cop|se-2S&SUB&PRES=be adj|caprichoso-f=capricious .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	&=imita .
+*MOT:	dale . [+ CHI]
+%mor:	co|dale .
+*SIS:	&=lloriquea .
+*CHI:	&=balbucea .
+*MOT:	ese de quién es ? [+ OCH]
+%mor:	det:dem|ese=that prep|de=of pro:int|quién=who cop|se-3S&PRES=be ?
+*MOT:	de Pepi . [+ OCH]
+%mor:	prep|de=of n:prop|Pepi .
+*SIS:	&=lloriquea .
+*MOT:	no es cierto ? [+ OCH]
+%mor:	adv|no=no cop|se-3S&PRES=be adj|cierto-m=certain ?
+*SIS:	&=lloriquea .
+*MOT:	tenés sueño Pi ? [+ OCH]
+%mor:	v|tene-2S&PRES=have v|soña-1S&PRES=dream n:prop|Pi ?
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	vamos a buscarlo a Bauti(sta) ? [+ OCH]
+%mor:	v|i-1P&PRES=go aprep|a=to inf|busca-INF~pro:clit|OBJ&m aprep|a=to
+	n:prop|Bautista ?
+*SIS:	&=lloriquea .
+*CHI:	&=balbucea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+%com:	Felix se mueve
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	es de Pepi mami .
+%mor:	cop|se-3S&PRES=be prep|de=of n:prop|Pepi n|mami&f=mommy .
+*MOT:	&eh ?
+*MOT:	no es de Pía . [+ OCH]
+%mor:	adv|no=no cop|se-3S&PRES=be prep|de=of n:prop|Pía .
+*MOT:	Pía ya no usa chupete . [+ OCH]
+%mor:	n:prop|Pía adv|ya=already adv|no=no v|usa-3S&PRES=use
+	n|chupi&m-AUG=pacifier .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	y tu xxx ? [+ OCH]
+%mor:	coord|y=and det:poss|tu=your ?
+*MOT:	xxx . [+ OCH]
+*CHI:	&=tose .
+*CHI:	&=tose .
+*MOT:	la xxx de Pipi . [+ OCH]
+%mor:	pro:head|la&f=she prep|de=of n:prop|Pipi .
+*MOT:	qué pasó Feli(x) . [+ OCH]
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass n:prop|Felix .
+*CHI:	&=lloriquea .
+*MOT:	esperá que le estoy poniendo a Pía la zapatilla . [+ CHI]
+%mor:	imp|espera-2S&IMP=wait pro:rel|que=that pro:ind|le=him
+	aux|esta-1S&PRES=be part|pone-PRPART=put aprep|a=to n:prop|Pía
+	det:art|el&f&SG=the n|zapatilla&f=running_shoe .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+*MOT:	acá está . [+ OCH]
+%mor:	adv|acá=there cop|esta-3S&PRES=be .
+*SIS:	&=lloriquea .
+%com:	Felix se mueve
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	mamá [/] mamá .
+%mor:	n|mamá&f=mommy .
+*SIS:	mamá .
+%mor:	n|mamá&f=mommy .
+*SIS:	vení .
+%mor:	imp|veni-2S&IMP=come .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	qué mamita qué hay ahí ? [+ OCH]
+%mor:	pro:int|qué=what n|mama&f-DIM=mamma pro:int|qué=what
+	v|habe-3S&PRES&SPEC=have adv|ahí=there ?
+*MOT:	después venimos y ves Frozen ? [+ OCH]
+%mor:	adv|después=after v|veni-1P&PRES&PRET=come coord|y=and
+	v|ve-2S&PRES=see n:prop|Frozen ?
+*SIS:	sí .
+%mor:	co|sí=yes .
+*MOT:	sí ? [+ OCH]
+%mor:	co|sí=yes ?
+*CHI:	&=balbucea .
+%tim:	2:20:07
+%com:	parece moverse
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	xxx .
+*CHI:	&=tose .
+*CHI:	&=tose .
+*SIS:	&=balbucea .
+*MOT:	qué mamá ? [+ OCH]
+%mor:	pro:int|qué=what n|mamá&f=mommy ?
+*SIS:	&=balbucea .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*SIS:	&=balbucea .
+*MOT:	&=imita .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	un qué ? [+ OCH]
+%mor:	det:art|un&m=one pro:int|qué=what ?
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=tose .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	&=imita . [+ OCH]
+*MOT:	no sé qué querés amor . [+ OCH]
+%mor:	adv|no=no v|sabe-1S&PRES=know pro:int|qué=what v|quere-2S&PRES=want
+	n|amor&m=love .
+*SIS:	&=balbucea .
+*MOT:	Frozen ? [+ OCH]
+%mor:	n:prop|Frozen ?
+*SIS:	sí .
+%mor:	co|sí=yes .
+*MOT:	pero ahora vamos a buscar a Bauti(sta) . [+ OCH]
+%mor:	conj|pero=but adv|ahora=now v|i-1P&PRES=go aprep|a=to
+	inf|busca-INF=search aprep|a=to n:prop|Bautista .
+*SIS:	&=balbucea .
+*MOT:	&eh vamos a xxx . [+ OCH]
+%mor:	v|i-1P&PRES=go aprep|a=to .
+*SIS:	&=balbucea .
+*MOT:	vamos a buscar a Bau(tista) ? [+ OCH]
+%mor:	v|i-1P&PRES=go aprep|a=to inf|busca-INF=search aprep|a=to
+	n:prop|Bautista ?
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	xxx .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	vení [/] vení . [+ OCH]
+%mor:	imp|veni-2S&IMP=come .
+%tim:	2:22:05
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	después [/] después lo vemos Frozen . [+ OCH]
+%mor:	adv|después=after pro:obj|lo&m=him v|ve-1P&PRES=see n:prop|Frozen .
+*MOT:	ahora vamos a buscar a Bauti(sta) . [+ OCH]
+%mor:	adv|ahora=now v|i-1P&PRES=go aprep|a=to inf|busca-INF=search
+	aprep|a=to n:prop|Bautista .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	sí ? [+ OCH]
+%mor:	co|sí=yes ?
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	hola xxx .
+%mor:	co|hola=hi .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	parece haber quedado solo en el cuarto
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	bueno vamos Pi ? [+ OCH]
+%mor:	co|bueno=good co|vamos=go n:prop|Pi ?
+*MOT:	vamos ? [+ OCH]
+%mor:	co|vamos=go ?
+*MOT:	vamos . [+ OCH]
+%mor:	co|vamos=go .
+*SIS:	xxx .
+*MOT:	vamos qué estás haciendo ? [+ OCH]
+%mor:	co|vamos=go pro:int|qué=what aux|esta-2S&PRES=be
+	part|hace-PRPART=do ?
+*MOT:	dejá de tocar ? [+ OCH]
+%mor:	imp|deja-2S&IMP=leave prep|de=of inf|toca-INF=touch ?
+*SIS:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*SIS:	xxx .
+*MOT:	vení . [+ OCH]
+%mor:	imp|veni-2S&IMP=come .
+*SIS:	&=lloriquea .
+*MOT:	vamos ? [+ OCH]
+%mor:	co|vamos=go ?
+*SIS:	&=lloriquea .
+*MOT:	dale [=! alarga] . [+ OCH]
+%mor:	co|dale .
+*SIS:	&=lloriquea .
+*MOT:	&=imita . [+ OCH]
+*MOT:	loca . [+ OCH]
+%mor:	adj|loco-f=crazy .
+%com:	Felix parece haber vuelto a agarrar el sonajero
+*MOT:	tenés noni [: sueño] vos me parece no ? [+ OCH]
+%mor:	v|tene-2S&PRES=have v|soña-1S&PRES=dream pro:obj|vos=you
+	pro:obj|me=me v|parece-3S&PRES=seem adv|no=no ?
+*CHI:	&=balbucea .
+*MOT:	tenés sueño Pía ? [+ OCH]
+%mor:	v|tene-2S&PRES=have v|soña-1S&PRES=dream n:prop|Pía ?
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	&um ? [+ OCH]
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx . [+ OCH]
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	sí ? [+ OCH]
+%mor:	co|sí=yes ?
+*MOT:	qué te pasa a vos Feli(x) ? [+ CHI]
+%mor:	pro:int|qué=what pro:obj|te=you v|pasa-3S&PRES=pass aprep|a=to
+	pro:obj|vos=you n:prop|Felix ?
+*CHI:	&=balbucea .
+%tim:	2:25:45
+*MOT:	Feli(x) loquito de la mami . [+ CHI]
+%mor:	n:prop|Felix adj|loco-DIM=crazy prep|de=of det:art|el&f&SG=the
+	n|mami&f=mommy .
+*CHI:	&=lloriquea .
+*SIS:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=lloriquea .
+*CHI:	&=balbucea .
+*SIS:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*SIS:	xxx .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+%tim:	2:27:04
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	xxx .
+*CHI:	&=lloriquea .
+*MOT:	vamos xxx vamos a buscar a Bauti(sta) ? [+ CHI]
+%mor:	co|vamos=go co|vamos=go aprep|a=to inf|busca-INF=search aprep|a=to
+	n:prop|Bautista ?
+*CHI:	&=lloriquea .
+*MOT:	sí ? [+ CHI]
+%mor:	co|sí=yes ?
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=balbucea .
+%com:	parece jugar con el sonajero y tal vez estar tomando algo porque se
+	calmó
+*CHI:	&=lloriquea .
+%tim:	2:30:15
+%com:	me parece que está tomando algo
+*CHI:	&=lloriquea .
+*MOT:	Pipi tenés sueño ? [+ CHI]
+%mor:	n:prop|Pipi v|tene-2S&PRES=have v|soña-1S&PRES=dream ?
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*SIS:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	xxx ?
+*MOT:	ya está (.) ya nos vamos . [+ CHI]
+%mor:	adv|ya=already cop|esta-3S&PRES=be adv|ya=already pro:obj|nos=us
+	v|i-1P&PRES=go .
+*SIS:	&=lloriquea .
+*MOT:	qué pasó xxx ? [+ OCH]
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass ?
+*CHI:	&=balbucea .
+*MOT:	vamos ? [+ OCH]
+%mor:	co|vamos=go ?
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=lloriquea .
+*MOT:	bueno pero tenés moquitos Pepito . [+ CHI]
+%mor:	co|bueno=good conj|pero=but v|tene-2S&PRES=have
+	n|moco&m-DIM-PL=mucus n:prop|Pepito .
+%tim:	2:31:07
+*CHI:	&=lloriquea .
+*CHI:	&=lloriquea .
+*MOT:	vamo(s) . [+ CHI]
+%mor:	co|vamos=go .
+*CHI:	&=balbucea .
+%com:	MOT agarra las llaves y abre la puerta para salir a la calle
+*MOT:	xxx .
+*MOT:	vamos . [+ OCH]
+%mor:	co|vamos=go .
+*SIS:	&=lloriquea .
+*SIS:	&=lloriquea .
+%tim:	2:32:06
+*CHI:	&=balbucea .
+%com:	bajan en el ascensor
+*CHI:	&=balbucea .
+*MOT:	no . [+ CHI]
+%mor:	adv|no=no .
+*CHI:	&=balbucea .
+%com:	salen del ascensor
+*HOM:	xxx cómo va ?
+%mor:	pro:int|cómo=how v|i-3S&PRES=go ?
+*MOT:	hola cómo estás ?
+%mor:	co|hola=hi pro:int|cómo=how cop|esta-2S&PRES=be ?
+*MU7:	xxx .
+*MOT:	&ah si es muy xxx .
+%mor:	conj|si=if cop|se-3S&PRES=be adv|muy=very .
+*MU7:	xxx .
+*MOT:	nos vemos .
+%mor:	pro:obj|nos=us v|ve-1P&PRES=see .
+%com:	en la calle
+*MU8:	no esperan a nadie ?
+%mor:	adv|no=no v|espera-3P&PRES=wait aprep|a=to pro:indef|nadie=nobody ?
+*MU9:	no .
+%mor:	adv|no=no .
+*MU8:	xxx .
+*M10:	no claro le decís que me llame y combinamos y .
+%mor:	co|no co|claro=obvious pro:ind|le=him v|deci-2P&PRES=say
+	pro:rel|que=that pro:obj|me=me v|llama-13S&SUB&PRES=call coord|y=and
+	v|combina-1P&PRES&PRET=combine coord|y=and .
+*HOM:	xxx .
+%com:	Felix va en el cochecito
+*MOT:	Pepino . [+ CHI]
+%mor:	n:prop|Pepino .
+*CHI:	&=balbucea .
+*MOT:	Pepi . [+ CHI]
+%mor:	n:prop|Pepi .
+*MOT:	Pepito ? [+ CHI]
+%mor:	n:prop|Pepito ?
+*MOT:	Pepinillo ? [+ CHI]
+%mor:	n:prop|Pepinillo ?
+*MOT:	Pepi hermoso ? [+ CHI]
+%mor:	n:prop|Pepi adj|hermoso-m=beautiful ?
+*MOT:	hola bebé ! [+ CHI]
+%mor:	co|hola=hi n|bebé&m=baby !
+%com:	en la calle en el cochecito
+*MOT:	hola cómo están ?
+%mor:	co|hola=hi pro:int|cómo=how cop|esta-3P&PRES=be ?
+*M11:	todo bien ?
+%mor:	pro:indef|todo-m=all adv|bien=well ?
+*MOT:	todo bien .
+%mor:	pro:indef|todo-m=all adv|bien=well .
+*M11:	xxx .
+%tim:	2:35:34
+*NIN:	ahí hay un tren pero de este lado .
+%mor:	adv|ahí=there v|habe-3S&PRES&SPEC=have det:art|un&m=one
+	n|tren&m=train conj|pero=but prep|de=of det:dem|este=this
+	n|lado&m=side .
+*M11:	xxx .
+*SIS:	&=balbucea .
+*MOT:	&uh se nos fue el tren y ahora ? [+ OCH]
+%mor:	pro:refl|se=itself pro:obj|nos=us v|i-3S&PRET=go
+	det:art|el&m&SG=the n|tren&m=train coord|y=and adv|ahora=now ?
+*MOT:	y ahora cuánto vamos a esperar el tren ? [+ OCH]
+%mor:	coord|y=and adv|ahora=now det:indef|cuánto-m=how_much
+	v|i-1P&PRES=go aprep|a=to inf|espera-INF=wait det:art|el&m&SG=the
+	n|tren&m=train ?
+*CHI:	&=tose .
+*CHI:	&=tose .
+*SIS:	xxx .
+*MOT:	sí perdimos el tren . [+ OCH]
+%mor:	co|sí=yes v|perde-1P&PRES&PRET=lose det:art|el&m&SG=the
+	n|tren&m=train .
+*SIS:	&=balbucea .
+*MOT:	tren . [+ OCH]
+%mor:	n|tren&m=train .
+*MOT:	se nos fue el <tren> [=! canta] . [+ CHI]
+%mor:	pro:refl|se=itself pro:obj|nos=us v|i-3S&PRET=go
+	det:art|el&m&SG=the n|tren&m=train .
+*MOT:	qué andás chusmeando Pupi ? [+ CHI]
+%mor:	pro:int|qué=what v|anda-2S&PRES=walk part|chusmea-PRPART=gossip
+	n:prop|Pupi ?
+*MOT:	&eh mi amor ? [+ CHI]
+%mor:	det:poss|mi=my co:voc|amor=love ?
+*CHI:	&=balbucea .
+*SIS:	&=balbucea .
+*MOT:	qué amor ? [+ OCH]
+%mor:	pro:int|qué=what co:voc|amor=love ?
+*SIS:	xxx .
+*MOT:	otro tren mirá ! [+ OCH]
+%mor:	pro:indef|otro-m=other n|tren&m=train co|mirá !
+*MOT:	se fue ese tren . [+ OCH]
+%mor:	pro:refl|se=itself v|i-3S&PRET=go det:dem|ese=that n|tren&m=train .
+%tim:	2:37:13
+*SIS:	&=balbucea .
+%com:	creo que Felix tiene el sonajero
+*CHI:	&=balbucea .
+*MOT:	&ay &ay .
+*MOT:	&oy .
+%com:	ladra un perro
+*CHI:	&=balbucea .
+*NIN:	&=llora .
+*MOT:	hola .
+%mor:	co|hola=hi .
+*MOT:	uno hasta Colegiales .
+%mor:	pro:indef|uno=one prep|hasta=until n:prop|Colegiales .
+*HOM:	&=ríe .
+*HOM:	xxx .
+*HOM:	dos cincuenta .
+%mor:	det:num|dos=two det:num|cincuenta&m=fifty .
+%com:	no está cerca
+*HOM:	xxx .
+%com:	se escucha como una batucada y murmullo de estación
+*M13:	qué compraron .
+%mor:	pro:int|qué=what v|compra-3P&PRET=buy .
+*M12:	xxx retiro no ?
+%mor:	n|retiro&m=retreat adv|no=no ?
+*MOT:	de este lado es para retiro .
+%mor:	prep|de=of det:dem|este=this n|lado&m=side cop|se-3S&PRES=be
+	prep|para=for n|retiro&m=retreat .
+*M12:	&ah de este .
+%mor:	prep|de=of det:dem|este=this .
+%tim:	2:40:03
+%com:	siguen en la estación
+*CHI:	&=balbucea .
+%com:	se escucha la batucada
+*MOT:	hola mami . [+ CHI]
+%mor:	co|hola=hi n|mami&f=mommy .
+*MOT:	&=besa .
+*MOT:	&=besa .
+*MOT:	&ayyy . [+ CHI]
+*MOT:	&=besa .
+*MOT:	te gustan los besitos Mo &eh ? [+ CHI]
+%mor:	pro:obj|te=you v|gusta-3P&PRES=like det:art|el&m-PL=the
+	n|beso&m-DIM-PL=kiss n:prop|Mo ?
+*MOT:	&=besa .
+*SIS:	&=balbucea .
+*MOT:	a vos también te gustan los besitos ? [+ OCH]
+%mor:	aprep|a=to pro:obj|vos=you adv|también=also pro:obj|te=you
+	v|gusta-3P&PRES=like det:art|el&m-PL=the n|beso&m-DIM-PL=kiss ?
+%com:	murmullo de estación y batucada
+%tim:	2:42:01
+*MOT:	Pipi . [+ OCH]
+%mor:	n:prop|Pipi .
+*MOT:	Feli(x) [=! alarga] . [+ CHI]
+%mor:	n:prop|Felix .
+*MOT:	hola . [+ CHI]
+%mor:	co|hola=hi .
+*CHI:	&=balbucea .
+*MOT:	qué mi amor ? [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|amor=love ?
+*MOT:	hola ma(má) . [+ CHI]
+%mor:	co|hola=hi n|mamá&f=mommy .
+*MOT:	un tren ! [+ CHI]
+%mor:	det:art|un&m=one n|tren&m=train !
+*MOT:	viste Pepi ? [+ CHI]
+%mor:	v|vesti-3S&PRES=dress n:prop|Pepi ?
+*MOT:	el tren ma(má) . [+ CHI]
+%mor:	det:art|el&m&SG=the n|tren&m=train n|mamá&f=mommy .
+*CHI:	&=balbucea .
+*MOT:	hola [=! alarga] . [+ CHI]
+%mor:	co|hola=hi .
+*CHI:	&=balbucea .
+*MOT:	no tires al piso &eh . [+ CHI]
+%mor:	adv|no=no v|tira-2S&SUB&PRES=throw aprep|a~det:art|el&m
+	n|piso&m=floor .
+*MOT:	no [/] no [/] no . [+ CHI]
+%mor:	adv|no=no .
+*MOT:	Feli(x) . [+ CHI]
+%mor:	n:prop|Felix .
+*MOT:	no Feli(x) . [+ CHI]
+%mor:	co|no n:prop|Felix .
+*MOT:	Feli(x) . [+ CHI]
+%mor:	n:prop|Felix .
+*SIS:	&oy .
+*MOT:	lo tiraste no_más &eh . [+ CHI]
+%mor:	pro:obj|lo&m=him v|tira-2S&PRET=throw adv|no_más=no_more .
+*MOT:	cómo sos &eh . [+ CHI]
+%mor:	pro:int|cómo=how cop|se-3S&PRES=be .
+*CHI:	&=balbucea .
+*MOT:	no se hace . [+ CHI]
+%mor:	adv|no=no pro:refl|se=itself v|hace-3S&PRES=do .
+*MOT:	no te hagas el gracioso &eh . [+ CHI]
+%mor:	adv|no=no pro:obj|te=you v|hace-2S&SUB&PRES=do det:art|el&m&SG=the
+	adj|gracioso-m=graceful .
+*MOT:	cómo vas a tirar el tete [: chupete] al piso &eh . [+ CHI]
+%mor:	pro:int|cómo=how v|i-2S&PRES=go aprep|a=to inf|tira-INF=throw
+	det:art|el&m&SG=the n|chupi&m-AUG=pacifier aprep|a~det:art|el&m
+	n|piso&m=floor .
+*M13:	por algo te lo dí .
+%mor:	prep|por=for pro:indef|algo=something pro:obj|te=you
+	pro:obj|lo&m=him imp|deci-2S&IMP=say .
+%com:	alrededor
+*MOT:	&=besa .
+%com:	murmullo de estación y batucada
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	qué ? [+ CHI]
+%mor:	pro:int|qué=what ?
+*CHI:	&=balbucea .
+*MOT:	&ay qué mi amor ? [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|amor=love ?
+*MOT:	hola hermoso . [+ CHI]
+%mor:	co|hola=hi adj|hermoso-m=beautiful .
+*CHI:	&=balbucea .
+*MOT:	qué ? [+ CHI]
+%mor:	pro:int|qué=what ?
+*CHI:	&=balbucea .
+*MOT:	qué mi amor ? [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|amor=love ?
+*CHI:	&=balbucea .
+*MOT:	&ay . [+ CHI]
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%tim:	2:47:01
+*MOT:	hola . [+ CHI]
+%mor:	co|hola=hi .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	qué mi amor ? [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|amor=love ?
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*HOM:	hay uno que .
+%mor:	v|habe-3S&PRES&SPEC=have pro:indef|uno=one pro:rel|que=that .
+*M14:	no puedo creer que no hayas preguntado .
+%mor:	adv|no=no v|pode-1S&PRES=can inf|cree-INF=believe prep|que=than
+	adv|no=no v|habe-2S&SUB&PRES=have part|pregunta-PPART-m=ask .
+*M14:	qué hicieron en matemática xxx las consignas .
+%mor:	pro:int|qué=what v|hace-3P&PRET=do prep|en=in n|matemática&m=math
+	det:art|el&f-PL=the ?|consignas .
+*NIN:	xxx .
+*M14:	qué siguen con eso de las xxx ?
+%mor:	pro:int|qué=what v|segui-3P&PRES=follow prep|con=with
+	pro:dem|eso=that_one prep|de=of det:art|el&f-PL=the ?
+*M14:	cómo se llama las xxx ?
+%mor:	pro:int|cómo=how pro:refl|se=itself v|llama-3S&PRES=call
+	det:art|el&f-PL=the ?
+*NIN:	no xxx .
+%mor:	adv|no=no .
+%com:	alrededor
+*CHI:	&=balbucea .
+%tim:	2:47:51
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*M14:	ciencias sociales .
+%mor:	n|ciencia&f-PL=science adj|social-PL=social .
+%com:	murmullo de estación
+*M14:	mañana verbos .
+%mor:	adv|mañana=tomorrow n|verbo&m-PL=verb .
+*NIN:	xxx .
+*M14:	fotocopias .
+%mor:	v|fotocopia-2S&PRES=photocopy .
+*CHI:	&=balbucea .
+*MOT:	&=imita . [+ CHI]
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%tim:	2:50:01
+%com:	ya están en el tren
+*MOT:	ya llegamos ! [+ CHI]
+%mor:	adv|ya=already v|llega-1P&PRES&PRET=arrive !
+*MOT:	qué genial ! [+ CHI]
+%mor:	pro:int|qué=what adj|genial=brilliant !
+%tim:	2:51:04
+*CHI:	&=balbucea .
+*MOT:	qué mi amor ? [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|amor=love ?
+%com:	bajan del tren y caminan
+%tim:	2:52:04
+*SIS:	&=balbucea .
+*SIS:	&=balbucea .
+*M16:	bueno nos vemos .
+%mor:	co|bueno=good pro:obj|nos=us v|ve-1P&PRES=see .
+*M17:	xxx .
+*M17:	dale que sigas bien .
+%mor:	co|dale pro:rel|que=that v|segui-2S&SUB&PRES=follow adv|bien=well .
+%com:	alrededor .
+*M17:	pensé que xxx para el otro lado .
+%mor:	v|pensa-1S&PRET=think pro:rel|que=that prep|para=for
+	det:art|el&m&SG=the pro:indef|otro-m=other n|lado&m=side .
+*MOT:	xxx que pasó . [+ CHI]
+%mor:	pro:rel|que=that v|pasa-3S&PRET=pass .
+*SIS:	&=tose .
+%com:	siguen caminando
+*HO1:	estaba durmiendo [/] estaba durmiendo .
+%mor:	cop|esta-13S&PAS=be aux|esta-13S&PAS=be part|dormi-PRPART=sleep .
+*HO1:	xxx .
+%com:	alrededor
+%tim:	2:55:31
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+%com:	ruido de calle
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=estornuda .
+*CHI:	&=tose .
+*CHI:	&=tose .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*HO2:	vení más temprano .
+%mor:	imp|veni-2S&IMP=come adv|más=more adj|temprano-m=early .
+%com:	alrededor
+*HO2:	la picadita un Gancia y xxx .
+%mor:	det:art|el&f&SG=the part|pica-PPART-f&DIM=prick/dive
+	det:art|un&m=one n:prop|Gancia coord|y=and .
+%tim:	2:59:05
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*M19:	qué pasa ?
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+*CHI:	&=tose .
+*CHI:	&=tose .
+*CHI:	&=tose .
+%com:	siguen caminando
+%tim:	3:02:12
+*CHI:	&=balbucea .
+%com:	llegan a la puerta de la escuela y se escuchan charlas y nenes
+	corriendo pero no se llega a entender por eso no se transcribe
+%tim:	3:04:00
+*CHI:	&=balbucea .
+%tim:	3:04:45
+%com:	siguen en la puerta de la escuela y se escucha mucho barullo
+*BRO:	tengo tarea de nuevo !
+%mor:	v|tene-1S&PRES=have n|tarea&f=task prep|de=of adj|nuevo-m=new !
+%com:	lo dice muy contento
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*BRO:	tengo tarea atrasada .
+%mor:	v|tene-1S&PRES=have n|tarea&f=task part|atrasa-PPART-f=delay .
+*MOT:	tenés tarea de vuelta ? [+ OCH]
+%mor:	v|tene-2S&PRES=have n|tarea&f=task prep|de=of n|vuelta&f=turn ?
+*BRO:	sí !
+%mor:	co|sí=yes !
+*MOT:	&ay qué bueno ! [+ OCH]
+%mor:	pro:int|qué=what co|bueno=good !
+*BRO:	xxx .
+*BRO:	cuando lleguemos al dentista puedo hacer las tareas ?
+%mor:	conj|cuando=when v|llega-1P&SUB&PRES=arrive aprep|a~det:art|el&m
+	n|dentista&m=dentist v|pode-1S&PRES=can inf|hace-INF=do
+	det:art|el&f-PL=the n|tarea&f-PL=task ?
+*MOT:	no en casa hacés la tarea . [+ OCH]
+%mor:	adv|no=no prep|en=in n|casa&f=house v|hace-2S&PRES=do
+	det:art|el&f&SG=the n|tarea&f=task .
+*MOT:	ahora . [+ OCH]
+%mor:	adv|ahora=now .
+*BRO:	qué es esto ?
+%mor:	pro:int|qué=what cop|se-3S&PRES=be pro:dem|esto=this_one ?
+*MOT:	eso es que estamos haciendo una investigación con Pepi . [+ OCH]
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be prep|que=than
+	aux|esta-1P&PRES&PRET=be part|hace-PRPART=do det:art|un-f=one
+	n|investigación&f=investigation prep|con=with n:prop|Pepi .
+*CHI:	&=balbucea .
+*MOT:	hacen una investigación con Pepi y con otros bebés así como Pepi .
+	[+ OCH]
+%mor:	v|hace-3P&PRES=do det:art|un-f=one n|investigación&f=investigation
+	prep|con=with n:prop|Pepi coord|y=and prep|con=with
+	det:indef|otro-m-PL=other n|bebé&m-PL=baby adv|así=thus
+	adv|como=like n:prop|Pepi .
+*MOT:	para ver &eh cómo aprende a hablar . [+ OCH]
+%mor:	prep|para=for inf|ve-INF=see pro:int|cómo=how
+	v|aprende-3S&PRES=learn aprep|a=to inf|habla-INF=speak .
+*BRO:	una investigación para ver cómo habla Pepi ?
+%mor:	det:art|un-f=one n|investigación&f=investigation prep|para=for
+	inf|ve-INF=see pro:int|cómo=how v|habla-3S&PRES=speak n:prop|Pepi ?
+*MOT:	cómo aprende a hablar . [+ OCH]
+%mor:	pro:int|cómo=how v|aprende-3S&PRES=learn aprep|a=to
+	inf|habla-INF=speak .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*MOT:	en vez de xxx ese chalequito tiene un grabador ahí . [+ OCH]
+%mor:	prep|en=in n|vez&f=turn prep|de=of det:dem|ese=that
+	n|chaleco&m-DIM=vest v|tene-3S&PRES=have det:art|un&m=one
+	n:v|graba-AGT&m=engrave adv|ahí=there .
+*CHI:	&=balbucea .
+*MOT:	y graba todo lo que Pepi oye y lo que Pepi dice . [+ OCH]
+%mor:	coord|y=and v|graba-3S&PRES=engrave pro:indef|todo-m=all
+	pro:obj|lo&m=him pro:rel|que=that n:prop|Pepi co|oye=listen
+	coord|y=and pro:obj|lo&m=him pro:rel|que=that n:prop|Pepi
+	v|deci-3S&PRES=say .
+*CHI:	&=balbucea .
+*BRO:	qué bueno !
+%mor:	pro:int|qué=what co|bueno=good !
+*MOT:	viste ? [+ OCH]
+%mor:	v|ve-2S&PRET=see ?
+*CHI:	&=balbucea .
+*BRO:	xxx .
+*BRO:	lo grabó &auu .
+%mor:	pro:obj|lo&m=him v|graba-3S&PRET=engrave .
+*MOT:	sí sigue grabando . [+ OCH]
+%mor:	co|sí=yes v|segui-3S&PRES=follow part|graba-PRPART=engrave .
+*MOT:	ahora en un rato después de que llegamos del cole(gio) viene una chica
+	. [+ OCH]
+%mor:	adv|ahora=now prep|en=in det:art|un&m=one n|rato&m=time
+	adv|después=after prep|de=of pro:rel|que=that
+	v|llega-1P&PRES&PRET=arrive prep|de~det:art|el&m n|colegio&m=school
+	v|veni-3S&PRES=come det:art|un-f=one n|chico-f=child .
+*MOT:	que es la chica que hace la investigación junto con otras personas .
+	[+ OCH]
+%mor:	pro:rel|que=that cop|se-3S&PRES=be det:art|el&f&SG=the
+	adj|chico-f=small pro:rel|que=that v|hace-3S&PRES=do
+	det:art|el&f&SG=the n|investigación&f=investigation
+	v|junta-1S&PRES=assemble prep|con=with det:indef|otro-f-PL=other
+	n|persona&f-PL=person .
+*MOT:	y lo viene a buscar el grabador . [+ OCH]
+%mor:	coord|y=and pro:obj|lo&m=him v|veni-3S&PRES=come aprep|a=to
+	inf|busca-INF=search det:art|el&m&SG=the n:v|graba-AGT&m=engrave .
+*MOT:	después otro día vuelve y va a volver a grabar . [+ OCH]
+%mor:	adv|después=after pro:indef|otro-m=other n|día&m=day
+	v|volve-3S&PRES=turn coord|y=and v|i-3S&PRES=go aprep|a=to
+	inf|volve-INF=turn aprep|a=to inf|graba-INF=engrave .
+%com:	siguen en la puerta de la escuela y se escucha el ruido
+*BRO:	&ah ahí están todos los chicos .
+%mor:	adv|ahí=there cop|esta-3P&PRES=be det:indef|todo-m-PL=all
+	det:art|el&m-PL=the adj|chico-m-PL=small .
+*BRO:	Pepi [=! separa] . [+ CHI]
+%mor:	n:prop|Pepi .
+%com:	empiezan a caminar
+*BRO:	&=ríe .
+*MOT:	qué hicieron hoy en el cole(gio) . [+ OCH]
+%mor:	pro:int|qué=what v|hace-3P&PRET=do adv|hoy=today prep|en=in
+	det:art|el&m&SG=the n|colegio&m=school .
+*BRO:	&ah muchas cosas .
+%mor:	det:indef|mucho-f-PL=many n|cosa&f-PL=thing .
+*MOT:	muchas cosas ? [+ OCH]
+%mor:	det:indef|mucho-f-PL=many n|cosa&f-PL=thing ?
+*BRO:	&ujum .
+*MOT:	hola Lolo .
+%mor:	co|hola=hi n:prop|Lolo .
+*BRO:	xxx .
+*BRO:	Feli(x) no está hablando .
+%mor:	n:prop|Felix adv|no=no aux|esta-3S&PRES=be part|habla-PRPART=speak
+	.
+*MOT:	bueno Feli(x) no habla hacé sonidos . [+ OCH]
+%mor:	co|bueno=good n:prop|Felix adv|no=no v|habla-3S&PRES=speak
+	imp|hace-2S&IMP=do n|sonido&m-PL=sound .
+*BRO:	no está haciendo sonidos .
+%mor:	adv|no=no aux|esta-3S&PRES=be part|hace-PRPART=do
+	n|sonido&m-PL=sound .
+*MOT:	bueno porque está mirando todos los nenes que hay del colegio . [+ OCH]
+%mor:	co|bueno=good conj|porque=because aux|esta-3S&PRES=be
+	part|mira-PRPART=look det:indef|todo-m-PL=all det:art|el&m-PL=the
+	n|nene&m-PL=child pro:rel|que=that v|habe-3S&PRES&SPEC=have
+	prep|de~det:art|el&m n|colegio&m=school .
+*MOT:	mirá . [+ OCH]
+%mor:	co|mirá .
+*MOT:	viste ? [+ OCH]
+%mor:	v|ve-2S&PRET=see ?
+*BRO:	sí .
+%mor:	co|sí=yes .
+*BRO:	xxx está viendo los bebés no los chicos del colegio xxx .
+%mor:	aux|esta-3S&PRES=be part|ve-PRPART=see det:art|el&m-PL=the
+	n|bebé&m-PL=baby adv|no=no det:art|el&m-PL=the n|chico-m-PL=child
+	prep|de~det:art|el&m n|colegio&m=school .
+*BRO:	a dónde vamos ma(má) ?
+%mor:	aprep|a=to pro:int|dónde=where co|vamos=go n|mamá&f=mommy ?
+*MOT:	&eh vamos a casa ahora . [+ OCH]
+%mor:	v|i-1P&PRES=go aprep|a=to n|casa&f=house adv|ahora=now .
+*BRO:	el doctor ?
+%mor:	det:art|el&m&SG=the n|doctor&m=doctor ?
+*MOT:	ahora viene la madrina Karen . [+ OCH]
+%mor:	adv|ahora=now v|veni-3S&PRES=come det:art|el&f&SG=the
+	n|madrina&f=godmother n:prop|Karen .
+*MOT:	vamos a tomar la merienda con ella y después vamos a (.) vamos al
+	médico sí ? [+ OCH]
+%mor:	v|i-1P&PRES=go aprep|a=to inf|toma-INF=take det:art|el&f&SG=the
+	n|merienda&f=luncheon prep|con=with pro:sub|ello-f=he coord|y=and
+	adv|después=after co|vamos=go aprep|a=to co|vamos=go
+	aprep|a~det:art|el&m n|médico-m=physician co|sí=yes ?
+*BRO:	sí .
+%mor:	co|sí=yes .
+*BRO:	&=ríe .
+*MOT:	si se hace muy tarde le preguntamos a la madrina si puede venir mañana
+	a la mañana y vamos mañana a la mañana . [+ OCH]
+%mor:	conj|si=if pro:refl|se=itself v|hace-3S&PRES=do adv|muy=very
+	adv|tarde=late pro:ind|le=him v|pregunta-1P&PRES&PRET=ask aprep|a=to
+	det:art|el&f&SG=the n|madrina&f=godmother conj|si=if
+	v|pode-3S&PRES=can inf|veni-INF=come adv|mañana=tomorrow aprep|a=to
+	det:art|el&f&SG=the n|mañana&f=morning coord|y=and co|vamos=go
+	adv|mañana=tomorrow aprep|a=to det:art|el&f&SG=the
+	n|mañana&f=morning .
+*BRO:	a dónde ?
+%mor:	aprep|a=to pro:int|dónde=where ?
+*MOT:	al dentista . [+ OCH]
+%mor:	aprep|a~det:art|el&m n|dentista&m=dentist .
+*BRO:	no hoy al dentista !
+%mor:	adv|no=no adv|hoy=today aprep|a~det:art|el&m n|dentista&m=dentist !
+*MOT:	vamos hoy o mañana . [+ OCH]
+%mor:	co|vamos=go adv|hoy=today coord|o=or adv|mañana=tomorrow .
+*MOT:	ahora cuando viene la madrina vemos . [+ OCH]
+%mor:	adv|ahora=now conj|cuando=when v|veni-3S&PRES=come
+	det:art|el&f&SG=the n|madrina&f=godmother v|ve-1P&PRES=see .
+*BRO:	xxx .
+*BRO:	porfis [: por favor] .
+%mor:	prep|por=for n|favor&m=favor .
+*MOT:	con la madrina vamos al xxx . [+ OCH]
+%mor:	prep|con=with det:art|el&f&SG=the n|madrina&f=godmother co|vamos=go
+	aprep|a~det:art|el&m .
+*BRO:	pero podemos ir a McDonals ?
+%mor:	conj|pero=but v|pode-1P&PRES=can inf|i-INF=go aprep|a=to
+	n:prop|McDonals ?
+*MOT:	no me gusta McDonals . [+ OCH]
+%mor:	adv|no=no pro:obj|me=me v|gusta-3S&PRES=like n:prop|McDonals .
+*BRO:	por qué ?
+%mor:	prep|por=for pro:int|qué=what ?
+*BRO:	si hay muñecos nuevos que nunca tuve .
+%mor:	conj|si=if v|habe-3S&PRES&SPEC=have n|muñeco-m-PL=doll
+	adj|nuevo-m-PL=new pro:rel|que=that adv|nunca=never
+	v|tene-1S&PRET=have .
+*MOT:	xxx la otra vez . [+ OCH]
+%mor:	det:art|el&f&SG=the det:indef|otro-f=other n|vez&f=turn .
+*BRO:	qué ?
+%mor:	pro:int|qué=what ?
+*MOT:	&ay mirá tengo que comprar esto también . [+ OCH]
+%mor:	co|mirá v|tene-1S&PRES=have pro:rel|que=that inf|compra-INF=buy
+	pro:dem|esto=this_one adv|también=also .
+*BRO:	son los xxx los de la película .
+%mor:	cop|se-3P&PRES=be det:art|el&m-PL=the det:art|el&m-PL=the
+	prep|de=of det:art|el&f&SG=the n|película&f=film .
+*BRO:	son los xxx .
+%mor:	cop|se-3P&PRES=be det:art|el&m-PL=the .
+*BRO:	de verdad .
+%mor:	prep|de=of n|verdad&f=truth .
+*MOT:	vení Bau(tista) . [+ OCH]
+%mor:	imp|veni-2S&IMP=come n:prop|Bautista .
+*MOT:	Bauti(sta) . [+ OCH]
+%mor:	n:prop|Bautista .
+*MOT:	Bauti(sta) . [+ OCH]
+%mor:	n:prop|Bautista .
+*BRO:	tienen la pelí(cula) de Bob_esponja .
+%mor:	v|tene-3P&PRES=have det:art|el&f&SG=the n|película&f=film
+	prep|de=of n:prop|Bob_esponja .
+*MOT:	hola .
+%mor:	co|hola=hi .
+*VEO:	hola .
+%mor:	co|hola=hi .
+*MOT:	cuánto están los zapallitos .
+%mor:	pro:int|cuánto-m=how_much cop|esta-3P&PRES=be det:art|el&m-PL=the
+	n|zapallo&m-DIM-PL=pumpkin .
+*VEO:	zapallitos cuánto ?
+%mor:	n|zapallo&m-DIM-PL=pumpkin pro:indef|cuánto-m=how_much ?
+*MOT:	doce .
+%mor:	det:num|doce=twelve .
+*VEN:	dos por veinte .
+%mor:	det:num|dos=two prep|por=for det:num|veinte=twenty .
+*MOT:	me das dos kilos ?
+%mor:	pro:obj|me=me v|da-2S&PRES=give det:num|dos=two n|kilo&m-PL=kilo ?
+*VEN:	dos por veinte (.) dos kilos veinte .
+%mor:	det:num|dos=two prep|por=for det:num|veinte=twenty det:num|dos=two
+	n|kilo&m-PL=kilo det:num|veinte=twenty .
+*MOT:	dos kilos .
+%mor:	det:num|dos=two n|kilo&m-PL=kilo .
+*VEO:	dos kilos ?
+%mor:	det:num|dos=two n|kilo&m-PL=kilo ?
+*MOT:	sí .
+%mor:	co|sí=yes .
+*MOT:	vení mamota . [+ OCH]
+%mor:	imp|veni-2S&IMP=come
+	n|mama&f-AUG=mamma^n|mami&f-AUG=mommy^n|mamá&f-AUG=mommy^n|mamí&f-AUG=mommy
+	.
+*HOM:	está celoso .
+%mor:	cop|esta-3S&PRES=be adj|celoso-m=jelous .
+*BRO:	quiero ver si tienen la de Bob_esponja .
+%mor:	v|quere-1S&PRES=want inf|ve-INF=see conj|si=if v|tene-3P&PRES=have
+	det:art|el&f&SG=the prep|de=of n:prop|Bob_esponja .
+*HOM:	vamos todos .
+%mor:	co|vamos=go pro:indef|todo-m-PL=all .
+%com:	barullo
+*HOM:	sí .
+%mor:	co|sí=yes .
+*MU1:	Juan se llama .
+%mor:	n:prop|Juan pro:refl|se=itself v|llama-3S&PRES=call .
+%com:	hay varias conversaciones que no se llegan a escuchar
+*HOM:	xxx .
+*HOM:	xxx .
+*BRO:	yo quiero la pelí(cula) de Bob_esponja ma(má) .
+%mor:	pro:sub|yo=I v|quere-1S&PRES=want det:art|el&f&SG=the
+	n|película&f=film prep|de=of n:prop|Bob_esponja n|mamá&f=mommy .
+*MOT:	vení mamita a dónde . [+ OCH]
+%mor:	imp|veni-2S&IMP=come n|mama&f-DIM=mamma aprep|a=to
+	pro:int|dónde=where .
+*MOT:	xxx .
+*BRO:	xxx .
+*MOT:	las bananas ?
+%mor:	det:art|el&f-PL=the n|banana&f-PL=banana ?
+*BRO:	tiene la pelí(cula) de Bob_esponja .
+%mor:	v|tene-3S&PRES=have det:art|el&f&SG=the n|película&f=film
+	prep|de=of n:prop|Bob_esponja .
+*HOM:	&=ríe .
+*HOM:	cómo viniste con esto ?
+%mor:	pro:int|cómo=how v|veni-2S&PRET=come prep|con=with
+	pro:dem|esto=this_one ?
+*BRO:	tiene la pelí(cula) de Bob_esponja ma(má) .
+%mor:	v|tene-3S&PRES=have det:art|el&f&SG=the n|película&f=film
+	prep|de=of n:prop|Bob_esponja n|mamá&f=mommy .
+*HOM:	xxx .
+*MUJ:	xxx .
+*MOT:	y las peras ?
+%mor:	coord|y=and det:art|el&f-PL=the n|pera&f-PL=pear ?
+*VEO:	las peras te dejo a doce .
+%mor:	det:art|el&f-PL=the n|pera&f-PL=pear pro:obj|te=you
+	v|deja-1S&PRES=leave aprep|a=to det:num|doce=twelve .
+*MOT:	&eh .
+*BRO:	mami .
+%mor:	n|mami&f=mommy .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	tienen la pelí(cula) de Bob_esponja ma(má) .
+%mor:	v|tene-3P&PRES=have det:art|el&f&SG=the n|película&f=film
+	prep|de=of n:prop|Bob_esponja n|mamá&f=mommy .
+%com:	sigue en la verdulería .
+*MUJ:	cinco mil de garrafa .
+%mor:	det:num|cinco=five n|mil&m=thousand prep|de=of
+	n|garrafa&f=gas_cylinder .
+*MOT:	Bauti(sta) vení acá . [+ OCH]
+%mor:	n:prop|Bautista imp|veni-2S&IMP=come adv|acá=there .
+*HOM:	xxx .
+*CHI:	&=balbucea .
+*HOM:	vamos .
+%mor:	co|vamos=go .
+*MUJ:	cuántas bananas te agarro ?
+%mor:	pro:int|cuánto-f-PL=how_much n|banana&f-PL=banana pro:obj|te=you
+	v|agarra-1S&PRES=grab ?
+*VEO:	xxx .
+*HOM:	vamos [/] vamos .
+%mor:	co|vamos=go .
+%tim:	3:12:01
+*HOM:	agarrá el teléfono .
+%mor:	imp|agarra-2S&IMP=grab det:art|el&m&SG=the n|teléfono&m=telephone .
+*HO2:	&ay me quedo huevón .
+%mor:	pro:obj|me=me v|queda-1S&PRES=stay n|huevo&m-AUG=egg .
+*HOM:	&ah en serio ?
+%mor:	prep|en=in adj|serio-m=serious ?
+*HO2:	xxx .
+%com:	conversaciones alrededor
+*HOM:	xxx .
+*VEO:	veinte .
+%mor:	det:num|veinte=twenty .
+*VEO:	este es treinta y cinco .
+%mor:	det:dem|este=this cop|se-3S&PRES=be det:num|treinta=thirty
+	coord|y=and det:num|cinco=five .
+*CHI:	&=balbucea .
+*VEO:	cuarenta .
+%mor:	det:num|cuarenta&m=forty .
+*MOT:	querés siete ?
+%mor:	v|quere-2S&PRES=want det:num|siete=seven ?
+*BRO:	hola Pepi . [+ CHI]
+%mor:	co|hola=hi n:prop|Pepi .
+*MUJ:	atorrante es no ?
+%mor:	?|atorrante cop|se-3S&PRES=be adv|no=no ?
+%com:	alrededor .
+*MUJ:	andá a xxx a otro lado .
+%mor:	co|andá=come_on aprep|a=to aprep|a=to det:indef|otro-m=other
+	n|lado&m=side .
+*BRO:	mirá xxx la pelí(cula) de Bob_esponja .
+%mor:	co|mirá det:art|el&f&SG=the n|película&f=film prep|de=of
+	n:prop|Bob_esponja .
+*CHI:	&=balbucea .
+*MOT:	gracias hasta luego .
+%mor:	co|gracias=thanks prep|hasta=until adv|luego=afterwards .
+*CHI:	&=balbucea .
+*BRO:	tiene la pelí(cula) de Bob_esponja ma(má) .
+%mor:	v|tene-3S&PRES=have det:art|el&f&SG=the n|película&f=film
+	prep|de=of n:prop|Bob_esponja n|mamá&f=mommy .
+*NIA:	hola Bautista !
+%mor:	co|hola=hi n:prop|Bautista !
+*MOT:	mirá ahí te saluda una nena . [+ OCH]
+%mor:	co|mirá adv|ahí=there pro:obj|te=you v|saluda-3S&PRES=greet
+	det:art|un-f=one n|nena&f=baby .
+*BRO:	qué ?
+%mor:	pro:int|qué=what ?
+*BRO:	&ah y también tiene xxx .
+%mor:	coord|y=and adv|también=also v|tene-3S&PRES=have .
+*MOT:	cuál ? [+ OCH]
+%mor:	pro:int|cuál=which ?
+*BRO:	qué ?
+%mor:	pro:int|qué=what ?
+*MOT:	a cuál ?
+%mor:	aprep|a=to pro:int|cuál=which ?
+*BRO:	a Bob_esponja y a xxx .
+%mor:	aprep|a=to n:prop|Bob_esponja coord|y=and aprep|a=to .
+*MOT:	hola .
+%mor:	co|hola=hi .
+*BRO:	eso la película la nueva que salió .
+%mor:	pro:dem|eso=that_one det:art|el&f&SG=the n|película&f=film
+	det:art|el&f&SG=the adj|nuevo-f=new pro:rel|que=that
+	v|sali-3S&PRET=leave .
+%com:	caminan .
+*MOT:	vamos a tomar el tren . [+ OCH]
+%mor:	v|i-1P&PRES=go aprep|a=to inf|toma-INF=take det:art|el&m&SG=the
+	n|tren&m=train .
+*SIS:	xxx .
+*MOT:	no te dio calor al final ? [+ OCH]
+%mor:	adv|no=no pro:obj|te=you v|deci-1S&PRES=say n|calor&m=heat
+	aprep|a~det:art|el&m n|final&m=end ?
+*MOT:	no te sacaste el buzo . [+ OCH]
+%mor:	adv|no=no pro:obj|te=you v|saca-2S&PRET=bring_out
+	det:art|el&m&SG=the n|buzo&m=diver .
+*SIS:	mirá el chupete Dante .
+%mor:	co|mirá det:art|el&m&SG=the n|chupi&m-AUG=pacifier n:prop|Dante .
+*BRO:	no no me dejaron .
+%mor:	adv|no=no adv|no=no pro:obj|me=me v|deja-3P&PRET=leave .
+*MOT:	no te dejaron ? [+ OCH]
+%mor:	adv|no=no pro:obj|te=you v|deja-3P&PRET=leave ?
+*BRO:	no .
+%mor:	adv|no=no .
+*MOT:	pero hace calor . [+ OCH]
+%mor:	conj|pero=but v|hace-3S&PRES=do n|calor&m=heat .
+*SIS:	xxx .
+*MOT:	dijiste que tenías calor ? [+ OCH]
+%mor:	v|deci-2S&PRET=say pro:rel|que=that v|tene-2S&PAS=have
+	n|calor&m=heat ?
+*MOT:	&eh ? [+ OCH]
+*SIS:	xxx .
+*MOT:	vamos !
+%mor:	co|vamos=go !
+*MUJ:	estamos en la calle .
+%mor:	cop|esta-1P&PRES&PRET=be prep|en=in det:art|el&f&SG=the
+	n|calle&f=street .
+%com:	alrededor .
+*MOT:	&ah te cambié la polera que te regaló la tía Laura . [+ OCH]
+%mor:	pro:obj|te=you v|cambia-1S&PRET=change det:art|el&f&SG=the
+	n|polera&f=turtleneck pro:rel|que=that pro:obj|te=you
+	v|regala-3S&PRET=give_present det:art|el&f&SG=the n|tío-f=uncle
+	n:prop|Laura .
+*MOT:	por una remera . [+ OCH]
+%mor:	prep|por=for det:art|un-f=one n|remera&f=tshirt .
+*BRO:	xxx .
+*MOT:	rebuenísima te va a re gustar . [+ OCH]
+%mor:	re#adj|buen-SUPER-f=good pro:obj|te=you v|i-3S&PRES=go aprep|a=to
+	adv|re=really inf|gusta-INF=like .
+*BRO:	la tenés ahí abajo .
+%mor:	pro:obj|la&f=she v|tene-2S&PRES=have adv|ahí=there adv|abajo=below
+	.
+*MOT:	no no la tengo acá abajo . [+ OCH]
+%mor:	adv|no=no adv|no=no pro:obj|la&f=she v|tene-1S&PRES=have
+	adv|acá=there adv|abajo=below .
+*MOT:	ya la saqué en casa . [+ OCH]
+%mor:	adv|ya=already det:art|el&f&SG=the v|saca-1S&PRET=bring_out
+	prep|en=in n|casa&f=house .
+*MOT:	Pía metió las bolsas vacías ahí . [+ OCH]
+%mor:	n:prop|Pía v|mete-3S&PRET=put det:art|el&f-PL=the
+	n|bolsa&f-PL=purse v|vacia-2S&PRES=empty adv|ahí=there .
+*BRO:	y la caja esa qué tenía ?
+%mor:	coord|y=and det:art|el&f&SG=the n|caja&f=box det:dem|ese-f=that
+	pro:int|qué=what v|tene-13S&PAS=have ?
+*MOT:	las zapatillas que tiene puestas Pepi . [+ OCH]
+%mor:	det:art|el&f-PL=the n|zapatilla&f-PL=running_shoe pro:rel|que=that
+	v|tene-3S&PRES=have part|pone-PPART-f-PL=put n:prop|Pepi .
+*BRO:	son re lindas .
+%mor:	cop|se-3P&PRES=be adv|re=really adj|lindo-f-PL=pretty .
+*MOT:	sí te gustan ? [+ OCH]
+%mor:	co|sí=yes pro:obj|te=you v|gusta-3P&PRES=like ?
+*BRO:	&=ríe .
+*BRO:	pero cuándo va a xxx Feli(x) ?
+%mor:	conj|pero=but pro:int|cuándo=when v|i-3S&PRES=go aprep|a=to
+	n:prop|Felix ?
+*BRO:	así lo graban .
+%mor:	adv|así=thus pro:obj|lo&m=him v|graba-3P&PRES=engrave .
+*BRO:	&eh re y le van a sacar eso también ?
+%mor:	adv|re=really coord|y=and pro:ind|le=him v|i-3P&PRES=go aprep|a=to
+	inf|saca-INF=bring_out pro:dem|eso=that_one adv|también=also ?
+*MOT:	claro le sacan eso también . [+ OCH]
+%mor:	co|claro=obvious pro:ind|le=him v|saca-3P&PRES=bring_out
+	pro:dem|eso=that_one adv|también=also .
+*MOT:	eso es para que pueda llevar el grabador sin que se caiga . [+ OCH]
+%mor:	pro:dem|eso=that_one cop|se-3S&PRES=be prep|para=for prep|que=than
+	imp|pode-3S&IMP=can inf|lleva-INF=carry det:art|el&m&SG=the
+	n:v|graba-AGT&m=engrave prep|sin=without pro:rel|que=that
+	pro:refl|se=itself v|cae-13S&SUB&PRES=fall .
+%com:	siguen caminando
+*CHI:	&=balbucea .
+*BRO:	parece un autobus con xxx no ?
+%mor:	v|parece-3S&PRES=seem det:art|un&m=one n|autobus=bus prep|con=with
+	adv|no=no ?
+*CHI:	&=balbucea .
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+*CHI:	&=balbucea .
+%tim:	3:14:34
+*BRO:	pero si Feli(x) no va al colegio .
+%mor:	conj|pero=but conj|si=if n:prop|Felix adv|no=no v|i-3S&PRES=go
+	aprep|a~det:art|el&m n|colegio&m=school .
+*MOT:	bue(no) pero la tela es así mi amor . [+ OCH]
+%mor:	co|bueno=good conj|pero=but det:art|el&f&SG=the n|tela&f=fabric
+	cop|se-3S&PRES=be adv|así=thus det:poss|mi=my co:voc|amor=love .
+*MOT:	no quiere decir que Feli(x) vaya al colegio . [+ OCH]
+%mor:	adv|no=no v|quere-3S&PRES=want inf|deci-INF=say pro:rel|que=that
+	n:prop|Felix co|vaya=come_on aprep|a~det:art|el&m n|colegio&m=school
+	.
+*CHI:	&=balbucea .
+*BRO:	te amo mucho xxx .
+%mor:	pro:obj|te=you v|ama-1S&PRES=love adv|mucho=much .
+*CHI:	&=balbucea .
+*MOT:	yo te amo mucho . [+ OCH]
+%mor:	pro:sub|yo=I pro:obj|te=you v|ama-1S&PRES=love adv|mucho=much .
+*BRO:	ahí hizo ruidito no ?
+%mor:	adv|ahí=there v|hace-3S&PRET=do n|ruido&m-DIM=noise adv|no=no ?
+*MOT:	&ah ? [+ CHI]
+*BRO:	lo grabó ?
+%mor:	pro:obj|lo&m=him v|graba-3S&PRET=engrave ?
+*CHI:	&=balbucea .
+*MOT:	sí lo graba . [+ OCH]
+%mor:	co|sí=yes pro:obj|lo&m=him v|graba-3S&PRES=engrave .
+*MOT:	está grabando . [+ OCH]
+%mor:	aux|esta-3S&PRES=be part|graba-PRPART=engrave .
+*CHI:	&=balbucea .
+*BRO:	y graba lo que le decimos nosotros ?
+%mor:	coord|y=and v|graba-3S&PRES=engrave pro:obj|lo&m=him
+	pro:rel|que=that pro:ind|le=him v|deci-1P&PRES&PRET=say
+	pro:sub|nosotro-m-PL=we ?
+*CHI:	&=balbucea .
+*MOT:	claro . [+ OCH]
+%mor:	co|claro=obvious .
+*CHI:	&=balbucea .
+*MOT:	para ver si cuando nosotros le hablamos a Pepi él nos contesta .
+	[+ OCH]
+%mor:	prep|para=for inf|ve-INF=see conj|si=if pro:rel|cuando=when
+	pro:sub|nosotro-m-PL=we pro:ind|le=him v|habla-1P&PRES&PRET=speak
+	aprep|a=to n:prop|Pepi pro:head|él&m=he pro:obj|nos=us
+	v|contesta-3S&PRES=answer .
+*MOT:	aunque sea con esos ruiditos . [+ OCH]
+%mor:	conj|aunque=though cop|se-13S&SUB&PRES=be prep|con=with
+	det:dem|ese-m-PL=that n|ruido&m-DIM-PL=noise .
+*CHI:	&=balbucea .
+*BRO:	Felix [/] Feliz . [+ CHI]
+%mor:	n:prop|Feliz .
+%tim:	3:15:03
+*BRO:	&cuchi &cuchi . [+ CHI]
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	Feli(x) xxx Feli(x) . [+ CHI]
+%mor:	n:prop|Felix n:prop|Felix .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*MOT:	xxx .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	estoy muy feliz de ir al cole(gio) de nuevo .
+%mor:	cop|esta-1S&PRES=be adv|muy=very adj|feliz=happy prep|de=of
+	inf|i-INF=go aprep|a~det:art|el&m n|colegio&m=school prep|de=of
+	adj|nuevo-m=new .
+*MOT:	me alegro mi amor . [+ CHI]
+%mor:	pro:obj|me=me v|alegra-1S&PRES=gladden det:poss|mi=my
+	co:voc|amor=love .
+*MOT:	me gusta que te haga contento te ponga feliz ir al cole(gio) . [+ CHI]
+%mor:	pro:obj|me=me v|gusta-3S&PRES=like pro:rel|que=that pro:obj|te=you
+	v|hace-13S&SUB&PRES=do v|contenta-1S&PRES=satisfy pro:obj|te=you
+	v|pone-13S&SUB&PRES=put adj|feliz=happy inf|i-INF=go
+	aprep|a~det:art|el&m n|colegio&m=school .
+*BRO:	sí porque tengo muchos trabajos .
+%mor:	co|sí=yes conj|porque=because v|tene-1S&PRES=have
+	det:indef|mucho-m-PL=many n|trabajo&m-PL=work .
+*BRO:	ahora tengo más trabajos .
+%mor:	adv|ahora=now v|tene-1S&PRES=have adv|más=more n|trabajo&m-PL=work
+	.
+*BRO:	qué pasó con el xxx ?
+%mor:	pro:int|qué=what v|pasa-3S&PRET=pass prep|con=with
+	det:art|el&m&SG=the ?
+*MOT:	no sé mi amor . [+ OCH]
+%mor:	adv|no=no v|sabe-1S&PRES=know det:poss|mi=my co:voc|amor=love .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	olvidó algo en el auto ?
+%mor:	v|olvida-3S&PRET=forget pro:indef|algo=something prep|en=in
+	det:art|el&m&SG=the n|auto&m=judicial_decree ?
+*BRO:	se olvidó algo en el auto ?
+%mor:	pro:refl|se=itself v|olvida-3S&PRET=forget pro:indef|algo=something
+	prep|en=in det:art|el&m&SG=the n|auto&m=judicial_decree ?
+*MOT:	puede ser . [+ OCH]
+%mor:	v|pode-3S&PRES=can cop|se-INF=be .
+*BRO:	sí porque xxx .
+%mor:	co|sí=yes conj|porque=because .
+*BRO:	xxx .
+*CHI:	&=balbucea .
+*BRO:	ahí hay otro camión .
+%mor:	adv|ahí=there v|habe-3S&PRES&SPEC=have pro:indef|otro-m=other
+	n|camión&m=truck .
+*CHI:	&=balbucea .
+*BRO:	hola Rami(ro) !
+%mor:	co|hola=hi n:prop|Ramiro !
+*MOT:	&uy .
+*MOT:	perdón &eh .
+%mor:	co|perdón=pardon .
+*HOM:	no .
+%mor:	adv|no=no .
+*MOT:	hay que mirar para adelante Bau(tista) xxx . [+ OCH]
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that inf|mira-INF=look
+	prep|para=for adv|adelante=forward n:prop|Bautista .
+%com:	siguen caminando a la estación
+*BRO:	viste dos muñecas de Frozen .
+%mor:	v|vesti-3S&PRES=dress det:num|dos=two n|muñeco-f-PL=doll prep|de=of
+	n:prop|Frozen .
+*CHI:	&=balbucea .
+*MOT:	&=imita . [+ CHI]
+*CHI:	&=balbucea .
+*BRO:	otra vez hizo otro ruidito no ?
+%mor:	det:indef|otro-f=other n|vez&f=turn v|hace-3S&PRET=do
+	pro:indef|otro-m=other n|ruido&m-DIM=noise adv|no=no ?
+*MOT:	qué mi amor ? [+ CHI]
+%mor:	pro:int|qué=what det:poss|mi=my co:voc|amor=love ?
+*CHI:	&=balbucea .
+*BRO:	graba todas las personas que oye ?
+%mor:	v|graba-3S&PRES=engrave det:indef|todo-f-PL=all det:art|el&f-PL=the
+	n|persona&f-PL=person pro:rel|que=that v|oí-3S&PRES=hear ?
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+*BRO:	ese grabador ?
+%mor:	det:dem|ese=that n:v|graba-AGT&m=engrave ?
+*CHI:	&=balbucea .
+*BRO:	y no lo vamos a oir nosotros el grabador ?
+%mor:	coord|y=and adv|no=no pro:obj|lo&m=him v|i-1P&PRES=go aprep|a=to
+	inf|oí-INF=hear pro:sub|nosotro-m-PL=we det:art|el&m&SG=the
+	n:v|graba-AGT&m=engrave ?
+*MOT:	no lo van a oir . [+ OCH]
+%mor:	adv|no=no pro:obj|lo&m=him v|i-3P&PRES=go aprep|a=to
+	inf|oí-INF=hear .
+*MOT:	&uy mirá ahí pasó el tren ! [+ OCH]
+%mor:	co|mirá adv|ahí=there v|pasa-3S&PRET=pass det:art|el&m&SG=the
+	n|tren&m=train !
+*MOT:	qué hora es ?
+%mor:	pro:int|qué=what n|hora&f=hour cop|se-3S&PRES=be ?
+%tim:	3:17:05
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	muy tarde ?
+%mor:	adv|muy=very adv|tarde=late ?
+*MOT:	no . [+ OCH]
+%mor:	adv|no=no .
+*BRO:	era ese tren ?
+%mor:	cop|se-13S&PAS=be det:dem|ese=that n|tren&m=train ?
+*MOT:	no sé si era el tren que yo iba a tomar . [+ OCH]
+%mor:	adv|no=no v|sabe-1S&PRES=know conj|si=if cop|se-13S&PAS=be
+	det:art|el&m&SG=the n|tren&m=train pro:rel|que=that pro:sub|yo=I
+	v|i-13S&PAS=go aprep|a=to inf|toma-INF=take .
+*CHI:	&=balbucea .
+*CHI:	&=balbucea .
+*BRO:	te amo mucho ma(má) .
+%mor:	pro:obj|te=you v|ama-1S&PRES=love adv|mucho=much n|mamá&f=mommy .
+*MOT:	yo también mamu [: mamá] . [+ OCH]
+%mor:	pro:sub|yo=I adv|también=also n|mamá&f=mommy .
+*CHI:	&=balbucea .
+*BRO:	no yo quería comer una hamburguesa .
+%mor:	adv|no=no pro:sub|yo=I v|quere-13S&PAS=want inf|come-INF=eat
+	det:art|un-f=one n|hamburguesa&f=hamburger .
+*M09:	&ay Bauti(sta) hamburguesa no es hora de hamburguesa hijo . [+ OCH]
+%mor:	n:prop|Bautista n|hamburguesa&f=hamburger adv|no=no
+	cop|se-3S&PRES=be n|hora&f=hour prep|de=of n|hamburguesa&f=hamburger
+	n|hijo-m=child .
+*BRO:	mami cuándo vamos a ir a una cuándo vamos a comer una hamburguesa ahí ?
+%mor:	n|mami&f=mommy pro:int|cuándo=when v|i-1P&PRES=go aprep|a=to
+	inf|i-INF=go aprep|a=to det:art|un-f=one pro:int|cuándo=when
+	v|i-1P&PRES=go aprep|a=to inf|come-INF=eat det:art|un-f=one
+	n|hamburguesa&f=hamburger adv|ahí=there ?
+*MOT:	no sé . [+ OCH]
+%mor:	adv|no=no v|sabe-1S&PRES=know .
+*CHI:	&=balbucea .
+*BRO:	cuándo ?
+%mor:	pro:int|cuándo=when ?
+*MOT:	no sé . [+ OCH]
+%mor:	adv|no=no v|sabe-1S&PRES=know .
+*CHI:	&=balbucea .
+*MOT:	no ahí no . [+ OCH]
+%mor:	adv|no=no adv|ahí=there adv|no=no .
+*MOT:	te hago una hamburguesa yo en casa otro día . [+ OCH]
+%mor:	pro:obj|te=you v|hace-1S&PRES=do det:art|un-f=one
+	n|hamburguesa&f=hamburger pro:sub|yo=I prep|en=in n|casa&f=house
+	pro:indef|otro-m=other n|día&m=day .
+*CHI:	&=balbucea .
+*BRO:	podés hacer una hamburguesa a la noche ?
+%mor:	v|pode-2S&PRES=can inf|hace-INF=do det:art|un-f=one
+	n|hamburguesa&f=hamburger aprep|a=to det:art|el&f&SG=the
+	n|noche&f=night ?
+*MOT:	no a la noche voy a hacer tarta de zapallito . [+ OCH]
+%mor:	adv|no=no aprep|a=to det:art|el&f&SG=the n|noche&f=night
+	v|i-1S&PRES=go aprep|a=to inf|hace-INF=do n|tarta&f=tart prep|de=of
+	n|zapallo&m-DIM=pumpkin .
+*BRO:	&umm .
+*MOT:	&=imita . [+ OCH]
+*MOT:	rico no ? [+ OCH]
+%mor:	adj|rico-m=rich co|no ?
+*BRO:	pero mañana a la mañana podés hacer hamburguesas ?
+%mor:	conj|pero=but adv|mañana=tomorrow aprep|a=to det:art|el&f&SG=the
+	n|mañana&f=morning v|pode-2S&PRES=can inf|hace-INF=do
+	n|hamburguesa&f-PL=hamburger ?
+*CHI:	&=balbucea .
+*MOT:	bueno si consigo carne picada hago . [+ OCH]
+%mor:	co|bueno=good conj|si=if adv|consigo=with_him n|carne&f=meat
+	part|pica-PPART-f=prick/dive v|hace-1S&PRES=do .
+*CHI:	&=balbucea .
+*BRO:	&=ríe .
+*MOT:	qué ? [+ OCH]
+%mor:	pro:int|qué=what ?
+*BRO:	sí .
+%mor:	co|sí=yes .
+*BRO:	estoy feliz de ir al cole(gio) de nuevo .
+%mor:	aux|esta-1S&PRES=be adj|feliz=happy prep|de=of inf|i-INF=go
+	aprep|a~det:art|el&m n|colegio&m=school prep|de=of adj|nuevo-m=new .
+*MOT:	me alegro mi amor . [+ OCH]
+%mor:	pro:obj|me=me v|alegra-1S&PRES=gladden det:poss|mi=my
+	co:voc|amor=love .
+*MOT:	te gusta ir ? [+ OCH]
+%mor:	pro:obj|te=you v|gusta-3S&PRES=like inf|i-INF=go ?
+*BRO:	extraño a mis amigos anteriores .
+%mor:	v|extraña-1S&PRES=amaze aprep|a=to det:poss|mi-PL=my
+	n|amigo-m-PL=friend adj|anterior-PL=anterior .
+*MOT:	extrañás a los chicos del otro colegio ? [+ OCH]
+%mor:	v|extraña-2S&PRES=amaze aprep|a=to det:art|el&m-PL=the
+	n|chico-m-PL=child prep|de~det:art|el&m pro:indef|otro-m=other
+	n|colegio&m=school ?
+*BRO:	sí .
+%mor:	co|sí=yes .
+*MOT:	pero estos nenes ? [+ OCH]
+%mor:	conj|pero=but det:dem|este-m-PL=this n|nene&m-PL=child ?
+*CHI:	&=balbucea .
+*BRO:	xxx buenos .
+%mor:	adj|buen-m-PL=good .
+*MOT:	qué pasa ? [+ OCH]
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+*MOT:	no te gustan tus amigos ? [+ OCH]
+%mor:	adv|no=no pro:obj|te=you v|gusta-3P&PRES=like det:poss|tu-PL=your
+	n|amigo-m-PL=friend ?
+*BRO:	&ah sí son buenos .
+%mor:	co|sí=yes cop|se-3P&PRES=be adj|buen-m-PL=good .
+*CHI:	&=balbucea .
+*MOT:	&ah bueno . [+ OCH]
+%mor:	co|bueno=good .
+*CHI:	&=balbucea .
+*MOT:	entonces xxx a tus amigos nuevos . [+ OCH]
+%mor:	adv|entonces=then aprep|a=to det:poss|tu-PL=your
+	n|amigo-m-PL=friend adj|nuevo-m-PL=new .
+*CHI:	&=balbucea .
+*MOT:	los otros vamos a ver si los podemos seguir viendo . [+ OCH]
+%mor:	det:art|el&m-PL=the det:indef|otro-m-PL=other co|vamos=go
+	aprep|a=to inf|ve-INF=see conj|si=if det:art|el&m-PL=the
+	v|pode-1P&PRES=can inf|segui-INF=follow part|ve-PRPART=see .
+*MOT:	pasa que mamá trabaja muchas horas entonces es difícil arreglar para
+	que otras mamás los traigan . [+ OCH]
+%mor:	v|pasa-3S&PRES=pass pro:rel|que=that n|mamá&f=mommy
+	v|trabaja-3S&PRES=work det:indef|mucho-f-PL=many n|hora&f-PL=hour
+	adv|entonces=then cop|se-3S&PRES=be adj|difícil=difficult
+	inf|arregla-INF=order prep|para=for pro:rel|que=that
+	det:indef|otro-f-PL=other n|mamá&f-PL=mommy det:art|el&m-PL=the
+	v|trae-3P&SUB&PRES=carry .
+*CHI:	&=balbucea .
+*BRO:	y por qué no el próximo lunes invitamos a Daria ?
+%mor:	coord|y=and prep|por=for pro:int|qué=what adv|no=no
+	det:art|el&m&SG=the adj|próximo-m=nearby n|lunes&m=Monday
+	v|invita-1P&PRES&PRET=invite aprep|a=to n:prop|Daria ?
+*MOT:	porque mamá siempre tiene cosas por hacer . [+ OCH]
+%mor:	conj|porque=because n|mamá&f=mommy adv|siempre=always
+	v|tene-3S&PRES=have n|cosa&f-PL=thing prep|por=for inf|hace-INF=do .
+*MOT:	es más creo que el viernes ya tengo que llevar a Feli(x) al médico .
+	[+ OCH]
+%mor:	cop|se-3S&PRES=be adv|más=more v|cree-1S&PRES=believe
+	pro:rel|que=that det:art|el&m&SG=the n|viernes&m=Friday
+	adv|ya=already v|tene-1S&PRES=have pro:rel|que=that
+	inf|lleva-INF=carry aprep|a=to n:prop|Felix aprep|a~det:art|el&m
+	n|médico-m=physician .
+*MOT:	no me puedo acordar . [+ OCH]
+%mor:	adv|no=no pro:obj|me=me v|pode-1S&PRES=can inf|acorda-INF=remind .
+*MUJ:	xxx .
+*BRO:	pero entonces cuándo voy a ver a mis amigos del cole(gio) anterior ?
+%mor:	conj|pero=but adv|entonces=then pro:int|cuándo=when v|i-1S&PRES=go
+	aprep|a=to inf|ve-INF=see aprep|a=to det:poss|mi-PL=my
+	n|amigo-m-PL=friend prep|de~det:art|el&m n|colegio&m=school
+	adj|anterior=anterior ?
+*BRO:	cuándo los voy a ver ahora ?
+%mor:	pro:int|cuándo=when pro:obj|él&m-PL=he v|i-1S&PRES=go aprep|a=to
+	inf|ve-INF=see adv|ahora=now ?
+*BRO:	nunca ?
+%mor:	adv|nunca=never ?
+*BRO:	&ay [=! lloriquea] .
+*MOT:	sí mi amor sí . [+ OCH]
+%mor:	co|sí=yes det:poss|mi=my co:voc|amor=love co|sí=yes .
+*MOT:	y no me contaste nunca de los amigos de este cole(gio) . [+ OCH]
+%mor:	coord|y=and adv|no=no pro:obj|me=me v|conta-2S&PRET=count_tell
+	adv|nunca=never prep|de=of det:art|el&m-PL=the n|amigo-m-PL=friend
+	prep|de=of det:dem|este=this n|colegio&m=school .
+*MOT:	cómo se llaman ? [+ OCH]
+%mor:	pro:int|cómo=how pro:refl|se=itself v|llama-3P&PRES=call ?
+*BRO:	el que vimos te acordás el que vimos en la vereda cuando me choqué ?
+%mor:	det:art|el&m&SG=the pro:rel|que=that v|ve-1P&PRES&PRET=see
+	pro:obj|te=you v|acorda-2S&PRES=remind det:art|el&m&SG=the
+	pro:rel|que=that v|ve-1P&PRES&PRET=see prep|en=in
+	det:art|el&f&SG=the n|vereda&f=path conj|cuando=when pro:obj|me=me
+	v|choca-1S&PRET=collide ?
+*MOT:	sí . [+ OCH]
+%mor:	co|sí=yes .
+*BRO:	Ramiro se llamaba .
+%mor:	n:prop|Ramiro pro:refl|se=itself v|llama-13S&PAS=call .
+*MOT:	y el otro nene que cruzaba cuando estábamos cruzando la calle ? [+ OCH]
+%mor:	coord|y=and det:art|el&m&SG=the pro:indef|otro-m=other
+	co:voc|nene=baby pro:rel|que=that v|cruza-13S&PAS=cross
+	pro:rel|cuando=when aux|esta-1P&PAS=be part|cruza-PRPART=cross
+	det:art|el&f&SG=the n|calle&f=street ?
+*BRO:	&ah .
+*MOT:	que iba con esa nena ? [+ OCH]
+%mor:	pro:rel|que=that v|i-13S&PAS=go prep|con=with det:dem|ese-f=that
+	n|nena&f=baby ?
+*MOT:	los dos van con vos ? [+ OCH]
+%mor:	det:art|el&m-PL=the det:num|dos=two v|i-3P&PRES=go prep|con=with
+	pro:obj|vos=you ?
+*MOT:	no Pía no toques . [+ OCH]
+%mor:	co|no n:prop|Pía adv|no=no v|toca-2S&SUB&PRES=touch .
+*BRO:	sí son de mi cole(gio) .
+%mor:	co|sí=yes cop|se-3P&PRES=be prep|de=of det:poss|mi=my
+	n|colegio&m=school .
+*BRO:	del aula .
+%mor:	prep|de~det:art|el&m n|aula&f=classroom .
+*BRO:	el nene Fabrizio la nena Abigail .
+%mor:	det:art|el&m&SG=the co:voc|nene=baby n:prop|Fabrizio
+	det:art|el&f&SG=the n|nena&f=baby n:prop|Abigail .
+*MOT:	Abigail . [+ OCH]
+%mor:	n:prop|Abigail .
+*MOT:	y van con vos o van al otro primero ? [+ OCH]
+%mor:	coord|y=and v|i-3P&PRES=go prep|con=with pro:obj|vos=you coord|o=or
+	v|i-3P&PRES=go aprep|a~det:art|el&m pro:indef|otro-m=other
+	adv|primero=first ?
+*NIN:	&=llora .
+*BRO:	en este .
+%mor:	prep|en=in det:dem|este=this .
+*BRO:	el primero .
+%mor:	det:art|el&m&SG=the adv|primero=first .
+%tim:	3:20:07
+*BRO:	y uno se llama Ariel .
+%mor:	coord|y=and pro:indef|uno=one pro:refl|se=itself
+	v|llama-3S&PRES=call n:prop|Ariel .
+*BRO:	pero Ariel está en el otro .
+%mor:	conj|pero=but n:prop|Ariel imp|esta-2S&IMP=be prep|en=in
+	det:art|el&m&SG=the pro:indef|otro-m=other .
+*MOT:	no toques ahí que está todo sucio mi amor ! [+ OCH]
+%mor:	adv|no=no v|toca-2S&SUB&PRES=touch adv|ahí=there pro:rel|que=that
+	imp|esta-2S&IMP=be det:indef|todo-m=all adj|sucio-m=dirty
+	det:poss|mi=my co:voc|amor=love !
+*MOT:	te ensucias toda ! [+ OCH]
+%mor:	pro:obj|te=you v|ensucia-2S&PRES=dirty pro:indef|todo-f=all !
+*MOT:	mirá [/] mirá [/] mirá . [+ OCH]
+%mor:	co|mirá .
+*MOT:	mirate el delantal . [+ OCH]
+%mor:	imp|mira-2S&IMP~pro:clit|2S det:art|el&m&SG=the n|delantal&m=apron
+	.
+*MOT:	mirate el delantal . [+ OCH]
+%mor:	imp|mira-2S&IMP~pro:clit|2S det:art|el&m&SG=the n|delantal&m=apron
+	.
+*MOT:	mirá . [+ OCH]
+%mor:	co|mirá .
+*MOT:	se ensucia todo Bauti(sta) . [+ OCH]
+%mor:	pro:refl|se=itself v|ensucia-3S&PRES=dirty pro:indef|todo-m=all
+	n:prop|Bautista .
+*MOT:	el delantal es blanco Bauti(sta) vos tocás ahí que está todo roñoso .
+	[+ OCH]
+%mor:	det:art|el&m&SG=the n|delantal&m=apron cop|se-3S&PRES=be
+	adj|blanco-m=white n:prop|Bautista pro:obj|vos=you
+	v|toca-2S&PRES=touch adv|ahí=there pro:rel|que=that
+	cop|esta-3S&PRES=be det:indef|todo-m=all adj|roñoso-m=dirty .
+*BRO:	mami .
+%mor:	n|mami&f=mommy .
+*MOT:	qué ?
+%mor:	pro:int|qué=what ?
+*BRO:	tengo un amigo que se llama Ariel pero está en el otro curso .
+%mor:	v|tene-1S&PRES=have det:art|un&m=one n|amigo-m=friend
+	pro:rel|que=that pro:refl|se=itself v|llama-3S&PRES=call
+	n:prop|Ariel conj|pero=but cop|esta-3S&PRES=be prep|en=in
+	det:art|el&m&SG=the pro:indef|otro-m=other n|curso&m=course .
+*MOT:	en el otro . [+ OCH]
+%mor:	prep|en=in det:art|el&m&SG=the pro:indef|otro-m=other .
+*MOT:	no toques ahí Pía . [+ OCH]
+%mor:	adv|no=no v|toca-2S&SUB&PRES=touch adv|ahí=there n:prop|Pía .
+*BRO:	en el otro grado .
+%mor:	prep|en=in det:art|el&m&SG=the pro:indef|otro-m=other
+	n|grado&m=grade .
+*MOT:	&ajá . [+ OCH]
+*BRO:	xxx primero .
+%mor:	adv|primero=first .
+*MOT:	está con Viviana ? [+ OCH]
+%mor:	cop|esta-3S&PRES=be prep|con=with n:prop|Viviana ?
+*BRO:	&ajá .
+*MOT:	mirá cómo quedó tu delantal . [+ OCH]
+%mor:	co|mirá pro:int|cómo=how v|queda-3S&PRET=stay det:poss|tu=your
+	n|delantal&m=apron .
+*MOT:	no Bauti(sta) no . [+ OCH]
+%mor:	co|no n:prop|Bautista adv|no=no .
+*MOT:	después a mi me cuesta que vuelva a quedar blanco ese delantal ahí .
+	[+ OCH]
+%mor:	adv|después=after aprep|a=to det:poss|mi=my pro:obj|me=me
+	v|costa-3S&PRES=cost pro:rel|que=that v|volve-13S&SUB&PRES=turn
+	aprep|a=to inf|queda-INF=stay adj|blanco-m=white det:dem|ese=that
+	n|delantal&m=apron adv|ahí=there .
+*BRO:	por qué ?
+%mor:	prep|por=for pro:int|qué=what ?
+*MOT:	y porque está muy sucio . [+ OCH]
+%mor:	coord|y=and conj|porque=because cop|esta-3S&PRES=be adv|muy=very
+	adj|sucio-m=dirty .
+*MOT:	xxx .
+*MOT:	&uy .
+%com:	sonajero .
+*BRO:	hay que ir al tercer tacho de basura mami .
+%mor:	v|habe-3S&PRES&SPEC=have pro:rel|que=that inf|i-INF=go
+	aprep|a~det:art|el&m adj:num|tercer&m=third
+	v|tacha-1S&PRES=cross_out prep|de=of n|basura&f=refuse
+	n|mami&f=mommy .
+%com:	llegan a la estación .
+*BRO:	al tercero .
+%mor:	aprep|a~det:art|el&m adj:num|tercer-m=third .
+*MOT:	bueno . [+ OCH]
+%mor:	co|bueno=good .
+*BRO:	porque siempre abren las puertas en el tercer tacho de basura .
+%mor:	conj|porque=because adv|siempre=always v|abri-3P&PRES=open
+	det:art|el&f-PL=the n|puerta&f-PL=door prep|en=in
+	det:art|el&m&SG=the adj:num|tercer&m=third v|tacha-1S&PRES=cross_out
+	prep|de=of n|basura&f=refuse .
+*CHI:	&=balbucea .
+*MOT:	bueno no importa . [+ OCH]
+%mor:	co|bueno=good adv|no=no v|importa-3S&PRES=matter .
+*BRO:	estoy haciendo xxx .
+%mor:	aux|esta-1S&PRES=be part|hace-PRPART=do .
+*CHI:	&=balbucea .
+*BRO:	xxx .
+%tim:	3:22:01
+@End
