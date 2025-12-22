@@ -1,0 +1,1459 @@
+@UTF8
+@Begin
+@Languages:	eng
+@Participants:	CODE Participant, CODE_NUM Participant, ON_OFF Participant,
+	CONTEXT Participant, NOTE Participant, FA1 Participant, CHI
+	Child, MC1 Participant, FA2 Participant, EE1 Participant,
+	MC2 Participant, FC1 Participant, FA3 Participant
+@Options:	heritage
+@ID:	eng|change_me_later|CODE|||||Participant|||
+@ID:	eng|change_me_later|CODE_NUM|||||Participant|||
+@ID:	eng|change_me_later|ON_OFF|||||Participant|||
+@ID:	eng|change_me_later|CONTEXT|||||Participant|||
+@ID:	eng|change_me_later|NOTE|||||Participant|||
+@ID:	eng|change_me_later|FA1|||||Participant|||
+@ID:	eng|change_me_later|CHI|||||Child|||
+@ID:	eng|change_me_later|MC1|||||Participant|||
+@ID:	eng|change_me_later|FA2|||||Participant|||
+@ID:	eng|change_me_later|EE1|||||Participant|||
+@ID:	eng|change_me_later|MC2|||||Participant|||
+@ID:	eng|change_me_later|FC1|||||Participant|||
+@ID:	eng|change_me_later|FA3|||||Participant|||
+@Media:	bautistad-a1-nsb, audio
+*note:	RandomSampling para variation sets con ACLEW 61143_361143
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 61143_361143
+*code_num:	1 181143_301143
+%mor:	?|1
+%gra:	1|0|ROOT
+*code:	 181143_301143
+*on_off:	181143_301143 181143_301143
+%mor:	?|181143_301143
+%gra:	1|0|ROOT
+*EE1:	xxx . 181160_301144
+*CHI:	0 . 207070_207670
+*CHI:	0 . 208410_208980
+*CHI:	0 . 209410_209900
+*CHI:	0 . 210900_211200
+*CHI:	0 . 216670_217020
+*CHI:	0 . 218410_219130
+*CHI:	0 . 245260_245930
+*CHI:	0 . 246270_246630
+*CHI:	0 . 254410_256230
+*CHI:	0 . 258180_259250
+*CHI:	0 . 260690_261280
+*CHI:	0 . 261470_262130
+*CHI:	0 . 265250_265960
+*CHI:	0 . 270530_271120
+*FA1:	ya va . 271100_271520
+%mor:	adv|ya=already v|i-3S&PRES=go .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*CHI:	0 . 272470_273370
+*CHI:	0 . 276850_277300
+*CHI:	0 . 278950_280070
+*CHI:	0 . 283940_284490
+*FA1:	Bau me tíraste xxx . 290990_293380
+%mor:	n:prop|Bau pro:obj|me=me ?|tíraste .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%xds:	T
+*CHI:	0 . 293820_294820
+*CHI:	0 . 295420_295980
+*CHI:	0 . 299110_300110
+*CHI:	0 . 300380_301040
+*note:	RandomSampling para variation sets con ACLEW 1262115_1562115
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 1262115_1562115
+*code_num:	0 1382115_1502115
+*code:	 1382115_1502115
+*on_off:	1382115_1502115 1382115_1502115
+%mor:	?|1382115_1502115
+%gra:	1|0|ROOT
+*EE1:	xxx . 1382120_1502100
+*CHI:	0 . 1384957_1385449
+*MC1:	xxx . 1392296_1395906
+%xds:	C
+*MC2:	xxx . 1394203_1395034
+%xds:	C
+*MC2:	xxx . 1395745_1396423
+%xds:	C
+*MC1:	xxx . 1396220_1396932
+%xds:	C
+*MC2:	ah . 1396957_1397703
+%mor:	co|ah .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*MC1:	Bauti . 1397144_1397712
+%mor:	n:prop|Bauti .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*MC2:	xxx . 1397839_1398839
+%xds:	C
+*MC2:	xxx . 1399788_1400415
+%xds:	C
+*MC2:	xxx . 1400500_1405034
+%xds:	C
+*FA2:	Máximo ! 1405144_1406144
+%mor:	n:prop|Máximo !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*MC2:	xxx . 1406712_1408932
+%xds:	C
+*MC2:	&=ríe . 1409491_1410288
+%xds:	C
+*FC1:	0 . 1410728_1411398
+%xds:	U
+*CHI:	0 . 1415567_1416076
+*MC2:	xxx . 1417212_1421245
+%xds:	C
+*CHI:	0 . 1417584_1419432
+*CHI:	0 . 1434957_1436237
+*CHI:	0 . 1437271_1437728
+*MC2:	xxx . 1459974_1461356
+%xds:	C
+*FA2:	entra Bauti xxx . 1460873_1462567
+%mor:	v|entra-3S&PRES=come_in n:prop|Bauti .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%xds:	T
+*MC2:	xxx . 1461805_1463279
+%xds:	C
+*FA2:	ay no tanto . 1463406_1464406
+%mor:	co|ay=ay adv|no=no adj|tanto-m=so_much .
+%gra:	1|0|ROOT 2|3|JCT 3|1|POBJ 4|1|PUNCT
+%xds:	U
+*MC2:	xxx . 1464864_1466347
+%xds:	C
+*MC2:	xxx . 1466813_1468282
+%xds:	C
+*MC2:	xxx . 1468627_1470669
+%xds:	C
+*FA2:	Bau dejá . 1482084_1483245
+%mor:	n:prop|Bau imp|deja-2S&IMP=leave .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%xds:	T
+*CHI:	0 . 1483788_1484339
+*MC1:	xxx . 1487440_1488440
+%xds:	C
+*MC2:	xxx . 1488771_1490415
+%xds:	C
+*CHI:	0 . 1492364_1493008
+*CHI:	0 . 1498491_1500635
+*FA1:	Bauti no . 1498686_1499805
+%mor:	n:prop|Bauti adv|no=no .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%xds:	T
+*CHI:	0 . 1501245_1501881
+*note:	RandomSampling para variation sets con ACLEW 2010051_2310051
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 2010051_2310051
+*code_num:	12 2130051_2250051
+%mor:	?|12
+%gra:	1|0|ROOT
+*code:	 2130051_2250051
+*on_off:	2130051_2250051 2130051_2250051
+%mor:	?|2130051_2250051
+%gra:	1|0|ROOT
+*MC2:	así también mamá . 2130536_2132191
+%mor:	adv|así=thus adv|también=also n|mamá&f=mommy .
+%gra:	1|3|JCT 2|3|MOD 3|0|ROOT 4|3|PUNCT
+%xds:	A
+*CHI:	0 . 2131661_2132161
+*FA2:	xxx también . 2135036_2135955
+%mor:	adv|también=also .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*EE1:	xxx . 2137257_2250300
+*FA2:	xxx . 2140176_2141103
+%xds:	C
+*FA2:	no Babau . 2160853_2162308
+%mor:	co|no n:prop|Babau .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+%xds:	T
+*FC1:	0 . 2164867_2166242
+%xds:	U
+*FA1:	fuera Chuky . 2171955_2172889
+%mor:	co|fuera n:prop|Chuky .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+%xds:	P
+*CHI:	0 . 2183345_2184360
+*MC2:	mamá mirá cómo la hice . 2185566_2187595
+%mor:	n|mamá&f=mommy co|mirá pro:int|cómo=how pro:obj|la-f=she
+	v|hace-1S&PRET=do .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%xds:	A
+*MC2:	mirá [/] mirá xxx . 2188191_2189698
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*FA2:	qué lindo xxx . 2189911_2191338
+%mor:	pro:int|qué=what adj|lindo-m=pretty .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%xds:	C
+*MC2:	xxx . 2191536_2192683
+%xds:	A
+*MC2:	así xxx . 2193264_2193772
+%mor:	adv|así=thus .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*MC2:	ahora xxx . 2216455_2217455
+%mor:	adv|ahora=now .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	U
+*MC2:	acá . 2218228_2218588
+%mor:	adv|acá=here .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	U
+*FA2:	xxx . 2228669_2229198
+%xds:	P
+*FA2:	va Chuky . 2229639_2230353
+%mor:	v|i-3S&PRES=go n:prop|Chuky .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%xds:	P
+*FA2:	afuera ! 2231139_2231603
+%mor:	adv|afuera=outside !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	P
+*FA2:	fuera dale ! 2231867_2232639
+%mor:	co|fuera imp|da-2S&IMP~pro:clit|3S=give !
+%gra:	1|0|ROOT 2|1|REL 3|2|OBJ2 4|1|PUNCT
+%xds:	P
+*FA2:	xxx . 2233198_2233566
+%xds:	U
+*MC2:	xxx . 2233720_2236419
+%xds:	U
+*FA2:	no salí . 2236566_2237316
+%mor:	adv|no=no imp|sali-2S&IMP=leave .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	U
+*MC2:	xxx . 2240860_2241463
+%xds:	U
+*MC2:	dale . 2242691_2243397
+%mor:	imp|da-2S&IMP~pro:clit|3S=give .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|PUNCT
+%xds:	U
+*MC2:	atamé te dije . 2249455_2250978
+%mor:	?|atamé pro:obj|te=you v|deci-1S&PRET=say .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%xds:	A
+*note:	RandomSampling para variation sets con ACLEW 2429219_2729219
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 2429219_2729219
+*code_num:	13 2549219_2669219
+%mor:	?|13
+%gra:	1|0|ROOT
+*code:	 2549219_2669219
+*on_off:	2549219_2669219 2549219_2669219
+%mor:	?|2549219_2669219
+%gra:	1|0|ROOT
+*CHI:	mamá . 2549228_2550029
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*EE1:	xxx . 2549233_2669200
+*MC2:	auh no ! 2551762_2553131
+%mor:	?|auh adv|no=no !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%xds:	C
+*FA2:	Bauti séntate . 2552404_2554285
+%mor:	n:prop|Bauti ?|séntate .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+%xds:	T
+*MC1:	uhh . 2553916_2554916
+%mor:	co|uhh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FC1:	0 . 2554940_2555774
+%xds:	U
+*FA2:	no [/] no [/] no . 2555559_2556559
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*CHI:	0 . 2555643_2556357
+*FA2:	no séntado . 2559035_2561047
+%mor:	adv|no=no ?|séntado .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*FC1:	0 . 2561012_2562701
+%xds:	U
+*FC1:	0 . 2563285_2571047
+%xds:	U
+*CHI:	0 . 2585326_2585989
+*FA2:	aa . 2589010_2589913
+%mor:	?|aa .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	no séntate . 2591945_2593543
+%mor:	adv|no=no ?|séntate .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*FA2:	séntate . 2594184_2595184
+%mor:	?|séntate .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*CHI:	0 . 2598771_2599228
+*FA2:	no séntate . 2605750_2607195
+%mor:	adv|no=no ?|séntate .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*FA2:	séntate . 2608369_2609369
+%mor:	?|séntate .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA1:	séntate Bauti (.) te vas a caer . 2611043_2612869
+%mor:	?|séntate n:prop|Bauti pro:obj|te=you v|i-2S&PRES=go prepart|a=to
+	inf|cae-INF=fall .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|MOD 4|1|PUNCT 5|6|INF 6|4|COMP 7|1|PUNCT
+%xds:	T
+*FA1:	séntate . 2614456_2615456
+%mor:	?|séntate .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA1:	séntate . 2617913_2618728
+%mor:	?|séntate .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA1:	séntate porque te vas a caer . 2622326_2624326
+%mor:	?|séntate conj|porque=because pro:obj|te=you v|i-2S&PRES=go
+	prepart|a=to inf|cae-INF=fall .
+%gra:	1|4|SUBJ 2|1|JCT 3|2|POBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+%xds:	T
+*CHI:	0 . 2627423_2628826
+*CHI:	0 . 2629489_2629837
+*FA2:	no ! 2630402_2631130
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	no . 2631760_2632250
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	no . 2633380_2633978
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	no dice nada este nene . 2636793_2638706
+%mor:	adv|no=no v|deci-3S&PRES=say v|nada-3S&PRES=swim det:dem|este=this
+	n|nene&m=child .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%xds:	T
+*FA1:	te vas a caer papá . 2641369_2642760
+%mor:	pro:obj|te=you v|i-2S&PRES=go prepart|a=to inf|cae-INF=fall
+	n|papá&m=father .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|COMP 5|4|OBJ 6|2|PUNCT
+%xds:	T
+*FC1:	0 . 2659456_2660108
+%xds:	U
+*note:	RandomSampling para variation sets con ACLEW 3110251_3410251
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 3110251_3410251
+*EE1:	xxx . 3230250_3350200
+*code_num:	2 3230251_3350251
+%mor:	?|2
+%gra:	1|0|ROOT
+*code:	 3230251_3350251
+*on_off:	3230251_3350251 3230251_3350251
+%mor:	?|3230251_3350251
+%gra:	1|0|ROOT
+*FA1:	Chuky ! 3238923_3239652
+%mor:	n:prop|Chuky !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	P
+*CHI:	0 . 3244152_3247554
+*FA2:	xxx . 3247173_3249978
+%xds:	T
+*CHI:	0 . 3252228_3254163
+*CHI:	0 . 3258837_3259945
+*CHI:	0 . 3260347_3262043
+*CHI:	0 . 3263271_3264087
+*MC2:	Bau ! 3264597_3265913
+%mor:	n:prop|Bau !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*CHI:	0 . 3264597_3266641
+*CHI:	0 . 3269043_3270543
+*CHI:	0 . 3270834_3273565
+*CHI:	0 . 3274434_3285032
+*CHI:	0 . 3285837_3286130
+*CHI:	0 . 3287739_3300532
+*FA2:	qué pasa ! 3296717_3298228
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*FA2:	xxx . 3298228_3300489
+%xds:	C
+*CHI:	0 . 3300532_3302750
+*FA2:	Chuky afuera salí ! 3301173_3302739
+%mor:	n:prop|Chuky adv|afuera=outside imp|sali-2S&IMP=leave !
+%gra:	1|0|ROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%xds:	P
+*FA2:	andá afuera . 3302913_3303684
+%mor:	co|andá=come_on co|afuera .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+%xds:	P
+*FA2:	dale afuera ! 3304489_3305510
+%mor:	imp|da-2S&IMP~pro:clit|3S=give adv|afuera=outside !
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|1|PUNCT
+%xds:	P
+*CHI:	0 . 3308706_3309760
+*FA2:	xxx dame un ba [: beso] . 3312565_3314423
+%mor:	imp|da-2S&IMP~pro:clit|1S=give det:art|un&m=one n|beso&m=kiss .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|2|OBJ 5|1|PUNCT
+%xds:	T
+*FA2:	un ba [: beso] dame un ba [: beso] . 3314510_3316260
+%mor:	det:art|un&m=one n|beso&m=kiss imp|da-2S&IMP~pro:clit|1S=give
+	det:art|un&m=one n|beso&m=kiss .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|DET 6|4|OBJ 7|3|PUNCT
+%xds:	T
+*CHI:	0 . 3314521_3314989
+*FA2:	un ba [: beso] . 3316587_3317076
+%mor:	det:art|un&m=one n|beso&m=kiss .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*FA2:	ba [: beso] . 3318619_3318956
+%mor:	n|beso&m=kiss .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	un ba [: beso] . 3320510_3321173
+%mor:	det:art|un&m=one n|beso&m=kiss .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*CHI:	0 . 3321587_3322076
+*FA2:	un ba [: beso] . 3324684_3325467
+%mor:	det:art|un&m=one n|beso&m=kiss .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*CHI:	0 . 3325945_3327065
+*FA2:	xxx . 3327032_3328902
+%xds:	T
+*CHI:	0 . 3338065_3338521
+*FA2:	ba [: beso] . 3339076_3339489
+%mor:	n|beso&m=kiss .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	xxx . 3346565_3349489
+%xds:	T
+*note:	RandomSampling para variation sets con ACLEW 3674511_3974511
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 3674511_3974511
+*FA2:	porque me fui a mostrarle el trabajo a esta nomás y . 3791440_3795214
+%mor:	conj|porque=because pro:obj|me=me v|i-3S&PRET=go prepart|a=to
+	inf|mostra-INF~pro:clit|3S=show det:art|el&m&SG=the n|trabajo&m=work
+	prepart|a=to det:dem|este-f=this adv|nomás=just coord|y=and .
+%gra:	1|0|ROOT 2|1|SCL 3|1|PUNCT 4|5|INF 5|3|COMP 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|5|OBJ 10|12|DET 11|12|MOD 12|9|CONJ 13|12|COORD
+%xds:	A
+*code_num:	14 3794511_3914511
+%mor:	?|14
+%gra:	1|0|ROOT
+*code:	 3794511_3914511
+*on_off:	3794511_3914511 3794511_3914511
+%mor:	?|3794511_3914511
+%gra:	1|0|ROOT
+*EE1:	xxx . 3794512_3914500
+*FA1:	xxx . 3797535_3799476
+%xds:	A
+*FA2:	sí . 3804857_3805524
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*CHI:	0 . 3805571_3807631
+*CHI:	0 . 3807738_3808607
+*FA1:	xxx . 3808595_3809309
+%xds:	A
+*FA2:	se enojó (.) por qué (.) qué le dijo ? 3809535_3811214
+%mor:	pro:refl|se=itself v|enoja-3S&PRET=annoy prep|por=for
+	pro:int|qué=what pro:int|qué=what pro:ind|le&m=him
+	v|deci-3S&PRET=say ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|SUBJ 5|7|SUBJ 6|7|SUBJ 7|3|POBJ 8|2|PUNCT
+%xds:	A
+*FA1:	xxx llave . 3812190_3814619
+%mor:	n|llave&f=key .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*CHI:	0 . 3812524_3813369
+*FA1:	xxx tarde xxx . 3815845_3819166
+%mor:	adv|tarde=late .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*FA1:	xxx . 3819559_3822035
+%xds:	A
+*CHI:	0 . 3821178_3821988
+*FA1:	xxx . 3822274_3826440
+%xds:	A
+*CHI:	0 . 3823250_3826440
+*FA1:	xxx . 3827369_3830440
+%xds:	A
+*CHI:	0 . 3828071_3828940
+*CHI:	0 . 3829274_3830440
+*FA2:	ahh . 3830464_3830869
+%mor:	?|ahh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*CHI:	0 . 3830857_3833262
+*FA2:	che ! 3832631_3833262
+%mor:	co|che=hey !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA1:	xxx que no iba a xxx . 3833262_3834655
+%mor:	pro:rel|que=that adv|no=no v|i-13S&PAS=go prepart|a=to .
+%gra:	1|0|ROOT 2|3|JCT 3|1|CMOD 4|3|OBJ 5|1|PUNCT
+%xds:	A
+*CHI:	0 . 3833785_3835393
+*FA2:	y sí así dijo yo voy a llevar la llave xxx . 3836583_3842155
+%mor:	coord|y=and co|sí=yes adv|así=thus v|deci-3S&PRET=say pro:sub|yo=I
+	v|i-1S&PRES=go prepart|a=to inf|lleva-INF=carry det:art|el&f&SG=the
+	n|llave&f=key .
+%gra:	1|0|ROOT 2|1|COORD 3|4|JCT 4|1|COORD 5|1|COORD 6|1|COORD 7|6|PRED
+	8|7|COMP 9|10|DET 10|8|OBJ 11|1|PUNCT
+%xds:	A
+*CHI:	0 . 3838297_3838964
+*CHI:	0 . 3839571_3840071
+*FA2:	esta vez me llevo la llave porque xxx . 3843357_3846714
+%mor:	det:dem|este-f=this n|vez&f=turn pro:obj|me=me
+	v|lleva-1S&PRES=carry det:art|el&f&SG=the n|llave&f=key
+	conj|porque=because .
+%gra:	1|2|DET 2|4|SUBJ 3|2|MOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|MOD 8|4|PUNCT
+%xds:	A
+*FA2:	veníamos caminando le dije xxx y después me voy a lo del viejo le
+	dije a la señora . 3848393_3854881
+%mor:	v|veni-1P&PAS=come part|camina-PRPART=walk pro:ind|le&m=him
+	v|deci-1S&PRET=say coord|y=and adv|después=after pro:obj|me=me
+	v|i-1S&PRES=go prepart|a=to pro:obj|le-m=him prep|de~det:art|el&m=of
+	adj|viejo-m=old pro:ind|le&m=him v|deci-1S&PRET=say prepart|a=to
+	det:art|el&f&SG=the n|señora&f=lady .
+%gra:	1|2|AUX 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|CONJ 6|7|JCT 7|8|SUBJ 8|15|SUBJ
+	9|15|SUBJ 10|15|JCT 11|10|JCT 12|13|DET 13|14|MOD 14|11|POBJ 15|5|COORD
+	16|15|PRED 17|18|DET 18|16|OBJ 19|4|PUNCT
+%xds:	A
+*CHI:	0 . 3860595_3861250
+*FA2:	ni sabía que estaba esta hincha pelotas (.) sino ni venia ! 3864035_3867559
+%mor:	coord|ni=nor v|sabe-13S&PAS=know pro:rel|que=that
+	cop|esta-13S&PAS=be det:dem|este-f=this v|hincha-3S&PRES=inflate
+	n|pelota&f-PL=ball conj|sino=except coord|ni=nor ?|venia !
+%gra:	1|0|ROOT 2|1|COORD 3|1|REL 4|3|COMP 5|4|PRED 6|5|CMOD 7|6|OBJ 8|7|MOD
+	9|8|CONJ 10|9|COORD 11|1|COORD
+%xds:	T
+*FA1:	xxx abuela . 3868440_3869821
+%mor:	n|abuelo-f=grandparent .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*CHI:	0 . 3869833_3870428
+*FA2:	no iba a venir ! 3870405_3872226
+%mor:	adv|no=no v|i-13S&PAS=go prepart|a=to inf|veni-INF=come !
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|OBJ 5|2|PUNCT
+%xds:	T
+*CHI:	0 . 3873976_3874678
+*CHI:	0 . 3887595_3888238
+*FC1:	0 . 3891738_3892988
+%xds:	U
+*CHI:	0 . 3893643_3893928
+*CHI:	0 . 3902464_3903464
+*CHI:	0 . 3904943_3905714
+*CHI:	0 . 3910571_3911119
+*CHI:	0 . 3912297_3912833
+*CHI:	0 . 3914000_3914321
+*note:	RandomSampling para variation sets con ACLEW 5179606_5479606
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 5179606_5479606
+*CHI:	0 . 5299024_5301049
+*EE1:	xxx . 5299604_5419600
+*code_num:	4 5299606_5419606
+%mor:	?|4
+%gra:	1|0|ROOT
+*code:	 5299606_5419606
+*on_off:	5299606_5419606 5299606_5419606
+%mor:	?|5299606_5419606
+%gra:	1|0|ROOT
+*FA1:	xxx . 5300209_5301049
+%xds:	T
+*CHI:	0 . 5301357_5302938
+*CHI:	0 . 5304530_5305938
+*MC2:	ah es muy difícil . 5308370_5310564
+%mor:	co|ah cop|se-3S&PRES=be adv|muy=very adj|difícil=difficult .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%xds:	A
+*MC2:	xxx . 5311086_5312160
+%xds:	A
+*FA1:	xxx . 5311666_5312580
+%xds:	C
+*FA1:	xxx . 5313469_5315395
+%xds:	C
+*MC2:	xxx . 5315555_5316407
+%xds:	C
+*MC1:	ahí tené(s) jueguete(s) . 5316370_5317790
+%mor:	adv|ahí=there v|tene-2S&PRES=have n|juego&m-AUG-PL=game .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%xds:	C
+*FA1:	le das a tu hermano la mamadera . 5318148_5319827
+%mor:	pro:ind|le&m=him v|da-2S&PRES=give prepart|a=to det:poss|tu=your
+	n|hermano-m=sibling det:art|el&f&SG=the n|mamadera&f=breat_pump .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|COMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+%xds:	C
+*MC2:	xxx . 5319876_5323074
+%xds:	C
+*MC2:	mememe mirá . 5323074_5324666
+%mor:	?|mememe co|mirá .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+%xds:	C
+*CHI:	0 . 5338049_5338802
+*FA1:	cuál es el que querés xxx ? 5340580_5341678
+%mor:	pro:int|cuál=which cop|se-3S&PRES=be det:art|el&m&SG=the
+	pro:rel|que=that v|quere-2S&PRES=want ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|REL 5|4|CMOD 6|2|PUNCT
+%xds:	T
+*MC1:	ese lo tenía él . 5343209_5345678
+%mor:	det:dem|ese=that pro:obj|le-m=him v|tene-13S&PAS=have
+	pro:sub|él&m=he .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%xds:	A
+*FA1:	dale la mamadera xxx . 5345185_5346790
+%mor:	imp|da-2S&IMP~pro:clit|3S=give det:art|el&f&SG=the
+	n|mamadera&f=breat_pump .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|2|OBJ 5|1|PUNCT
+%xds:	C
+*CHI:	0 . 5346333_5346740
+*CHI:	0 . 5347135_5350086
+*FA1:	pero nene ! 5351209_5353086
+%mor:	conj|pero=but co|nene=baby !
+%gra:	1|0|ROOT 2|1|SCL 3|1|PUNCT
+%xds:	C
+*MC2:	yo lo tenía . 5352740_5354111
+%mor:	pro:sub|yo=I pro:obj|le-m=him v|tene-13S&PAS=have .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%xds:	A
+*CHI:	0 . 5361197_5362197
+*CHI:	0 . 5373753_5374753
+*MC2:	tomá te lo xxx todo . 5373864_5377296
+%mor:	imp|toma-2S&IMP=take pro:obj|te=you pro:obj|le-m=him
+	pro:indef|todo-m=all .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%xds:	T
+*MC2:	xxx . 5378012_5382185
+%xds:	T
+*CHI:	0 . 5379580_5380123
+*FA1:	no se le cae (.) vos levantale así si sabes darle la mamadera . 5383259_5388345
+%mor:	adv|no=no pro:refl|se=itself pro:ind|le&m=him v|cae-3S&PRES=fall
+	pro:obj|vos=you imp|levanta-2S&IMP~pro:clit|3S=raise adv|así=thus
+	conj|si=if co|sabes=you_know inf|da-INF~pro:clit|3S=give
+	det:art|el&f&SG=the n|mamadera&f=breat_pump .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|COMP 6|5|COMP 7|6|OBJ2 8|9|MOD
+	9|6|COMP 10|9|SCL 11|10|COMP 12|11|OBJ2 13|14|DET 14|11|OBJ 15|4|PUNCT
+%xds:	C
+*MC1:	jugá . 5388333_5388876
+%mor:	imp|juga-2S&IMP=play .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*MC1:	xxx . 5389790_5390419
+%xds:	C
+*MC2:	ah . 5390395_5391061
+%mor:	co|ah .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FA1:	dale xxx que estoy haciendo la milanesa . 5391320_5393691
+%mor:	imp|da-2S&IMP~pro:clit|3S=give prep|que=than aux|esta-1S&PRES=be
+	part|hace-PRPART=do det:art|el&f&SG=the n|milanesa&f=breaded_meat .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|JCT 4|5|AUX 5|3|POBJ 6|7|DET 7|5|OBJ 8|1|PUNCT
+%xds:	C
+*MC1:	xxx . 5396012_5397172
+%xds:	A
+*FA1:	xxx . 5399333_5400333
+%xds:	C
+*MC1:	xxx . 5416641_5418074
+%xds:	U
+*FA1:	amn . 5417888_5419925
+%mor:	?|amn .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*note:	RandomSampling para variation sets con ACLEW 6244024_6544024
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 6244024_6544024
+*code_num:	10 6364024_6484024
+%mor:	?|10
+%gra:	1|0|ROOT
+*code:	 6364024_6484024
+*on_off:	6364024_6484024 6364024_6484024
+%mor:	?|6364024_6484024
+%gra:	1|0|ROOT
+*EE1:	xxx . 6364029_6484000
+*CHI:	0 . 6367826_6368669
+*FA2:	xxx . 6375610_6377206
+%xds:	U
+*CHI:	0 . 6378103_6378698
+*FA2:	no xxx vamos a jugar xxx . 6381073_6384029
+%mor:	adv|no=no v|i-1P&PRES=go prepart|a=to inf|juga-INF=play .
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+%xds:	C
+*MC2:	eh . 6383617_6384029
+%mor:	co|eh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*MC2:	&=llora . 6384757_6388235
+%xds:	C
+*CHI:	0 . 6384867_6385750
+*FA2:	qué pasa ? 6388536_6389536
+%mor:	pro:int|qué=what v|pasa-3S&PRES=pass ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%xds:	C
+*MC1:	xxx . 6390772_6391978
+%xds:	A
+*MC2:	&=llora . 6392581_6393853
+%xds:	C
+*MC2:	&=llora . 6393992_6396639
+%xds:	C
+*FA1:	no [/] no [/] no [/] no [/] no [/] no . 6395279_6397720
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FA1:	desde cuando vos (.) dale ! 6397720_6399433
+%mor:	prep|desde=from conj|cuando=when pro:obj|vos=you
+	imp|da-2S&IMP~pro:clit|3S=give !
+%gra:	1|0|ROOT 2|1|POBJ 3|2|JCT 4|3|POBJ 5|4|OBJ2 6|1|PUNCT
+%xds:	C
+*CHI:	0 . 6398161_6398978
+*MC2:	&=llora . 6402250_6403456
+%xds:	B
+*MC2:	&=llora . 6404889_6406000
+%xds:	B
+*MC2:	&=llora . 6406213_6407500
+%xds:	B
+*FC1:	0 . 6408206_6410139
+%xds:	U
+*FA2:	qué quiere ? 6410125_6411125
+%mor:	pro:int|qué=what v|quere-3S&PRES=want ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%xds:	A
+*FA1:	xxx . 6411963_6412404
+%xds:	A
+*FC1:	0 . 6430323_6431139
+%xds:	A
+*FC1:	0 . 6432191_6433191
+%xds:	A
+*FA1:	xxx . 6433867_6434867
+%xds:	C
+*FC1:	agua . 6435183_6436331
+%mor:	imp|agua-2S&IMP=water_down .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*FA1:	agua ! 6436595_6437551
+%mor:	imp|agua-2S&IMP=water_down !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FA1:	mamá . 6438808_6440132
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FA1:	mamá [=! alarga] . 6442573_6444073
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FC1:	0 . 6443773_6445264
+%xds:	A
+*FA1:	mamá . 6447544_6449169
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FA1:	Bauti . 6454110_6455286
+%mor:	n:prop|Bauti .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA1:	y Santiago (.) se fue Santiago que no se lo escucha ? 6456206_6459198
+%mor:	coord|y=and n:prop|Santiago pro:refl|se=itself v|i-3S&PRET=go
+	n:prop|Santiago pro:rel|que=that adv|no=no pro:refl|se=itself
+	pro:obj|le-m=him v|escucha-3S&PRES=listen ?
+%gra:	1|0|ROOT 2|1|COORD 3|4|SUBJ 4|1|COORD 5|4|PRED 6|1|REL 7|8|JCT
+	8|10|SUBJ 9|10|SUBJ 10|6|CMOD 11|1|COORD
+%xds:	T
+*FA1:	dónde está el Santi ? 6460228_6461683
+%mor:	pro:int|dónde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n:prop|Santi ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%xds:	T
+*FA1:	Santi ? 6464250_6465448
+%mor:	n:prop|Santi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA1:	y Santi ? 6467845_6468654
+%mor:	coord|y=and n:prop|Santi ?
+%gra:	1|0|ROOT 2|1|COORD 3|1|COORD
+%xds:	T
+*FA1:	ba . 6469514_6469985
+%mor:	?|ba .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*MC2:	(ma)má . 6471301_6472375
+%mor:	n|mamá&f=mommy .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*MC2:	xxx . 6473051_6474713
+%xds:	A
+*FA1:	xxx . 6474492_6475897
+%xds:	C
+*note:	RandomSampling para variation sets con ACLEW 7072709_7372709
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 7072709_7372709
+*code_num:	3 7192709_7312709
+%mor:	?|3
+%gra:	1|0|ROOT
+*code:	 7192709_7312709
+*on_off:	7192709_7312709 7192709_7312709
+%mor:	?|7192709_7312709
+%gra:	1|0|ROOT
+*EE1:	xxx . 7192723_7312700
+*CHI:	0 . 7192954_7193954
+*FA1:	ohh . 7213015_7214462
+%mor:	?|ohh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA1:	garrote . 7214800_7216369
+%mor:	n|garra&m-AUG=claw .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA1:	fuera Chuky ! 7217938_7218831
+%mor:	co|fuera n:prop|Chuky !
+%gra:	1|0|ROOT 2|1|APP 3|1|PUNCT
+%xds:	P
+*FA1:	Toto . 7228571_7229000
+%mor:	n:prop|Toto .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	P
+*MC1:	abuela . 7266774_7267714
+%mor:	n|abuelo-f=grandparent .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*FA2:	xxx . 7287048_7288286
+%xds:	C
+*FC1:	0 . 7287571_7288179
+%xds:	U
+*FA2:	xxx . 7290643_7291131
+%xds:	C
+*MC2:	ahh . 7293857_7297809
+%mor:	?|ahh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*CHI:	0 . 7305988_7306786
+*CHI:	0 . 7308845_7309702
+*note:	RandomSampling para variation sets con ACLEW 8053461_8353461
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 8053461_8353461
+*code_num:	9 8173461_8293461
+%mor:	?|9
+%gra:	1|0|ROOT
+*code:	 8173461_8293461
+*on_off:	8173461_8293461 8173461_8293461
+%mor:	?|8173461_8293461
+%gra:	1|0|ROOT
+*EE1:	xxx . 8173467_8293499
+*FA2:	ahí te cambiamos . 8174347_8175347
+%mor:	adv|ahí=there pro:obj|te=you v|cambia-1P&PRES&PRET=change .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%xds:	T
+*FA1:	xxx . 8176260_8177532
+%xds:	A
+*FA2:	este le tengo que sacar para lavarle . 8176434_8179945
+%mor:	det:dem|este=this pro:ind|le&m=him v|tene-1S&PRES=have
+	pro:rel|que=that inf|saca-INF=bring_out prep|para=for
+	inf|lava-INF~pro:clit|3S=wash .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|REL 5|4|COMP 6|7|INF 7|5|COMP 8|7|OBJ2
+	9|3|PUNCT
+%xds:	A
+*FC1:	0 . 8179771_8180391
+%xds:	U
+*FA2:	a la noche cuando lo dejan . 8180380_8182315
+%mor:	prepart|a=to det:art|el&f&SG=the n|noche&f=night conj|cuando=when
+	pro:obj|le-m=him v|deja-3P&PRES=leave .
+%gra:	1|6|SUBJ 2|3|DET 3|6|SUBJ 4|3|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%xds:	A
+*FA2:	&=ríe . 8184695_8186097
+%xds:	T
+*FA2:	ba [: beso] . 8187195_8187630
+%mor:	n|beso&m=kiss .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*CHI:	0 . 8187206_8187597
+*CHI:	0 . 8188287_8188837
+*FA2:	un ba [: beso] . 8188978_8189858
+%mor:	det:art|un&m=one n|beso&m=kiss .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*FA2:	a jugar a la pelota (.) gol ! 8191174_8195152
+%mor:	prepart|a=to inf|juga-INF=play prepart|a=to det:art|el&f&SG=the
+	n|pelota&f=ball n|gol&m=goal !
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|2|PUNCT
+%xds:	T
+*CHI:	0 . 8191728_8192565
+*FA2:	oh cómo juega el nene . 8195456_8198010
+%mor:	co|oh=oh pro:int|cómo=how v|juga-3S&PRES=play det:art|el&m&SG=the
+	n|nene&m=child .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%xds:	T
+*CHI:	0 . 8198532_8198978
+*FA2:	Bau juega a la pelota . 8198967_8201500
+%mor:	n:prop|Bau v|juga-3S&PRES=play prepart|a=to det:art|el&f&SG=the
+	n|pelota&f=ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+%xds:	T
+*CHI:	0 . 8201826_8202152
+*FA2:	ahí está . 8202163_8203119
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*FA2:	a jugar a la pelota (.) xxx esperá tomá . 8204184_8209793
+%mor:	prepart|a=to inf|juga-INF=play prepart|a=to det:art|el&f&SG=the
+	n|pelota&f=ball imp|espera-2S&IMP=wait imp|toma-2S&IMP=take .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|OBJ 6|5|MOD 7|5|MOD 8|2|PUNCT
+%xds:	T
+*MC2:	xxx . 8210228_8212663
+%xds:	T
+*FA2:	escuchâ (.) <Bau> [=! alarga] . 8212245_8214553
+%mor:	?|escuchâ n:prop|Bau .
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+%xds:	T
+*MC2:	xxx . 8215641_8217739
+%xds:	C
+*FA2:	traé la pelota ! 8215641_8217750
+%mor:	imp|trae-2S&IMP=carry det:art|el&f&SG=the n|pelota&f=ball !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%xds:	T
+*FA2:	Bau [=! alarga] . 8220880_8222543
+%mor:	n:prop|Bau .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	gol hace gol ba . 8222967_8226967
+%mor:	n|gol&m=goal v|hace-3S&PRES=do n|gol&m=goal ?|ba .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|MOD 5|2|PUNCT
+%xds:	T
+*CHI:	0 . 8225739_8226369
+*FA2:	gol [=! alarga] . 8228793_8230293
+%mor:	n|gol&m=goal .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	pará que te pongo el pañal y vamos . 8230293_8232239
+%mor:	imp|para-2S&IMP=stop pro:rel|que=that pro:obj|te=you
+	v|pone-1S&PRES=put det:art|el&m&SG=the n|pañal&m=napkin coord|y=and
+	co|vamos=go .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|CMOD 5|6|DET 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|1|PUNCT
+%xds:	T
+*FA2:	gol (.) ahí viene mirá . 8233369_8234837
+%mor:	n|gol&m=goal adv|ahí=there v|veni-3S&PRES=come co|mirá .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%xds:	T
+*CHI:	0 . 8235032_8236970
+*FA2:	trae la pelota ! 8237108_8238510
+%mor:	v|trae-3S&PRES=carry det:art|el&f&SG=the n|pelota&f=ball !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%xds:	T
+*CHI:	0 . 8237587_8238532
+*MC2:	no ! 8239119_8239804
+%mor:	adv|no=no !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FA2:	mirá . 8239804_8240315
+%mor:	co|mirá .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*MC2:	no . 8240391_8240793
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FA2:	Santi . 8240891_8242206
+%mor:	n:prop|Santi .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*MC2:	ay ay ay . 8242260_8244119
+%mor:	co|ay=ay co|ay=ay co|ay=ay .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%xds:	C
+*FA2:	xxx te golpeaste ? 8243326_8244674
+%mor:	pro:obj|te=you v|golpea-2S&PRET=beat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%xds:	C
+*MC2:	no me xxx ay xxx . 8244804_8249260
+%mor:	adv|no=no pro:obj|me=me co|ay=ay .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%xds:	C
+*FA2:	Santi ? 8248782_8250206
+%mor:	n:prop|Santi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*CHI:	0 . 8250924_8251663
+*FA2:	Santi ? 8251902_8253456
+%mor:	n:prop|Santi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*MC2:	xxx . 8254174_8254978
+%xds:	T
+*MC2:	ahh . 8256293_8259717
+%mor:	?|ahh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	ahí está xxx . 8259010_8260326
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*FA2:	no despacito . 8260597_8262750
+%mor:	adv|no=no adj|despacio-DIM=slowly .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*MC2:	xxx . 8262760_8263587
+%xds:	T
+*FA2:	despacito . 8263630_8265858
+%mor:	adj|despacio-DIM=slowly .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*MC2:	xxx . 8264956_8265956
+%xds:	T
+*FA2:	ahí está . 8266804_8267424
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*FA2:	él ya quiere andar en este me parece . 8267978_8270043
+%mor:	pro:sub|él&m=he adv|ya=already v|quere-3S&PRES=want
+	inf|anda-INF=walk prep|en=in det:dem|este=this pro:obj|me=me
+	v|parece-3S&PRES=seem .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|4|OBJ
+	9|3|PUNCT
+%xds:	C
+*FC1:	0 . 8270347_8273293
+%xds:	U
+*FA2:	ay está todo mojado . 8270924_8273282
+%mor:	co|ay=ay cop|esta-3S&PRES=be qn|todo-m=all
+	part|moja-PPART-m=moisten .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|AUX 4|2|PRED 5|2|PUNCT
+%xds:	T
+*FA2:	está todo mojado . 8273282_8274500
+%mor:	cop|esta-3S&PRES=be qn|todo-m=all part|moja-PPART-m=moisten .
+%gra:	1|0|ROOT 2|3|AUX 3|1|PRED 4|1|PUNCT
+%xds:	A
+*FC1:	0 . 8274847_8275228
+%xds:	U
+*FA2:	xxx viste . 8275358_8276521
+%mor:	v|ve-2S&PRET=see .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*FA2:	ya no hay qué . 8277043_8278293
+%mor:	adv|ya=already adv|no=no v|habe-3S&PRES&SPEC=have pro:int|qué=what
+	.
+%gra:	1|3|JCT 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%xds:	A
+*FC1:	0 . 8279076_8280445
+%xds:	U
+*MC2:	xxx . 8279391_8280358
+%xds:	C
+*MC2:	xxx . 8281043_8281760
+%xds:	C
+*FA2:	está todo mojado . 8281043_8282402
+%mor:	cop|esta-3S&PRES=be qn|todo-m=all part|moja-PPART-m=moisten .
+%gra:	1|0|ROOT 2|3|AUX 3|1|PRED 4|1|PUNCT
+%xds:	A
+*FC1:	0 . 8282652_8284228
+%xds:	U
+*MC1:	xxx . 8283010_8284130
+%xds:	A
+*FA2:	se le sale el cosito negro (.) sácale aparte y pónele en el
+	lavaropas . 8287695_8293097
+%mor:	pro:refl|se=itself pro:ind|le&m=him v|sali-3S&PRES=leave
+	det:art|el&m&SG=the n|cosa&m-DIM=thing adj|negro-m=black
+	imp|saca-2S&IMP~pro:clit|3S=bring_out adv|aparte=aside coord|y=and
+	imp|pone-2S&IMP~pro:clit|3S=put prep|en=in det:art|el&m&SG=the
+	n|+v|lava+n|ropa&m-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|MOD 7|5|MOD 8|7|OBJ2
+	9|7|JCT 10|9|CONJ 11|10|COORD 12|3|OBJ 13|12|JCT 14|15|DET 15|13|POBJ
+	16|3|PUNCT
+%xds:	A
+*note:	RandomSampling para variation sets con ACLEW 8943187_9243187
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 8943187_9243187
+*EE1:	xxx . 9063180_9183100
+*code_num:	7 9063187_9183187
+%mor:	?|7
+%gra:	1|0|ROOT
+*code:	 9063187_9183187
+*on_off:	9063187_9183187 9063187_9183187
+%mor:	?|9063187_9183187
+%gra:	1|0|ROOT
+*FA1:	&=ríe . 9066730_9067600
+%xds:	T
+*MC1:	yo lo tengo [/] yo lo tengo . 9068190_9071200
+%mor:	pro:sub|yo=I pro:obj|le-m=him pro:sub|yo=I pro:obj|le-m=him
+	v|tene-1S&PRES=have .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%xds:	T
+*MC1:	uh [=! ríe] . 9072130_9073790
+%mor:	co|uh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*MC1:	xxx . 9074530_9076920
+%xds:	T
+*MC1:	xxx . 9081200_9082184
+%xds:	T
+*CHI:	0 . 9082184_9082898
+*MC1:	abuela . 9083980_9084780
+%mor:	n|abuelo-f=grandparent .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*MC1:	xxx . 9107940_9112020
+%xds:	T
+*MC2:	xxx . 9118340_9120560
+%xds:	U
+*FC1:	0 . 9134540_9135490
+%xds:	U
+*FC1:	0 . 9138230_9139230
+%xds:	U
+*MC2:	&=ríe . 9152910_9153670
+%xds:	T
+*MC2:	&=ríe . 9155390_9156530
+%xds:	T
+*MC2:	&=ríe . 9159980_9160720
+%xds:	T
+*CHI:	0 . 9160240_9161170
+*CHI:	0 . 9161220_9161960
+*MC2:	&=ríe . 9170830_9172320
+%xds:	T
+*MC2:	xxx . 9172860_9173860
+%xds:	T
+*note:	RandomSampling para variation sets con ACLEW 9844387_10144387
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 9844387_10144387
+*code_num:	6 9964387_10084387
+%mor:	?|6
+%gra:	1|0|ROOT
+*code:	 9964387_10084387
+*on_off:	9964387_10084387 9964387_10084387
+%mor:	?|9964387_10084387
+%gra:	1|0|ROOT
+*EE1:	xxx . 9964393_10084300
+*CHI:	0 . 9965298_9965905
+*MC2:	xxx . 9968250_9974012
+%xds:	U
+*MC2:	xxx . 9974357_9977060
+%xds:	U
+*MC2:	xxx . 9978310_9979310
+%xds:	U
+*MC2:	xxx . 9979429_9983369
+%xds:	U
+*MC2:	xxx . 9987012_9988584
+%xds:	U
+*MC2:	xxx . 9988584_9990000
+%xds:	U
+*MC2:	xxx . 9990238_9991536
+%xds:	U
+*MC2:	xxx . 9993631_9999000
+%xds:	U
+*CHI:	0 . 10000036_10000810
+*MC2:	xxx . 10001893_10002893
+%xds:	U
+*MC2:	xxx . 10004167_10008500
+%xds:	U
+*MC2:	xxx . 10012953_10023667
+%xds:	U
+*CHI:	0 . 10017512_10018381
+*CHI:	0 . 10024310_10025310
+*CHI:	0 . 10028643_10029286
+*CHI:	0 . 10029786_10030357
+*MC2:	xxx . 10030976_10033450
+%xds:	U
+*CHI:	0 . 10033429_10035988
+*CHI:	0 . 10042441_10044679
+*CHI:	0 . 10046036_10047399
+*CHI:	0 . 10048357_10049084
+*CHI:	0 . 10049607_10050405
+*MC2:	ayy . 10055929_10057500
+%mor:	?|ayy .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	U
+*MC2:	xxx . 10061726_10065631
+%xds:	U
+*CHI:	0 . 10065631_10069726
+*FC1:	0 . 10069726_10071596
+%xds:	C
+*FA1:	Luca ! 10069834_10071215
+%mor:	n:prop|Luca !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FA1:	sácale la pelotita dale ! 10073024_10074524
+%mor:	imp|saca-2S&IMP~pro:clit|3S=bring_out det:art|el&f&SG=the
+	n|pelota&f-DIM=ball imp|da-2S&IMP~pro:clit|3S=give !
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|4|MOD 6|5|OBJ2 7|1|PUNCT
+%xds:	C
+*MC2:	a mí . 10074524_10075417
+%mor:	prepart|a=to pro:prep|mí=me .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%xds:	C
+*note:	RandomSampling para variation sets con ACLEW 10156113_10456113
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 10156113_10456113
+*MC2:	aquí yo ! 10275791_10277322
+%mor:	adv|aquí=here pro:sub|yo=I !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*code_num:	8 10276113_10396113
+%mor:	?|8
+%gra:	1|0|ROOT
+*code:	 10276113_10396113
+*on_off:	10276113_10396113 10276113_10396113
+%mor:	?|10276113_10396113
+%gra:	1|0|ROOT
+*EE1:	xxx . 10276114_10396100
+*MC2:	xxx . 10277874_10278822
+%xds:	T
+*CHI:	0 . 10280562_10281447
+*MC2:	xxx . 10282135_10282791
+%xds:	T
+*CHI:	0 . 10287437_10288114
+*MC2:	xxx . 10290687_10291770
+%xds:	T
+*MC2:	xxx . 10296479_10299104
+%xds:	T
+*MC2:	xxx . 10299656_10301947
+%xds:	T
+*MC2:	xxx . 10302354_10303447
+%xds:	T
+*MC2:	xxx . 10305645_10305999
+%xds:	T
+*MC2:	eh . 10306812_10307156
+%mor:	co|eh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*CHI:	0 . 10314072_10315385
+*CHI:	0 . 10329145_10330760
+*CHI:	0 . 10333041_10335895
+*CHI:	0 . 10339156_10342041
+*CHI:	0 . 10346343_10350604
+*CHI:	0 . 10351666_10352718
+*MC2:	xxx la pelota . 10354447_10356114
+%mor:	det:art|el&f&SG=the n|pelota&f=ball .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%xds:	T
+*CHI:	0 . 10356583_10357718
+*MC2:	xxx . 10357718_10358926
+%xds:	T
+*CHI:	0 . 10358958_10359958
+*CHI:	0 . 10363801_10364614
+*CHI:	0 . 10365104_10365885
+*CHI:	0 . 10388354_10389051
+*note:	RandomSampling para variation sets con ACLEW 10478497_10778497
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 10478497_10778497
+*FA3:	qué es ese chaleco ? 10597810_10599227
+%mor:	pro:int|qué=what cop|se-3S&PRES=be det:dem|ese=that
+	n|chaleco&m=vest ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%xds:	T
+*EE1:	xxx . 10598477_10718600
+*code_num:	11 10598497_10718497
+%mor:	?|11
+%gra:	1|0|ROOT
+*code:	 10598497_10718497
+*on_off:	10598497_10718497 10598497_10718497
+%mor:	?|10598497_10718497
+%gra:	1|0|ROOT
+*CHI:	0 . 10599250_10600191
+*MC2:	xxx mirá qué me dieron (.) viste . 10601167_10604262
+%mor:	co|mirá pro:int|qué=what pro:obj|me=me v|da-3P&PRET=give
+	v|ve-2S&PRET=see .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%xds:	A
+*FA3:	ahh . 10604238_10605227
+%mor:	?|ahh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	C
+*FA3:	ah es el chaleco de xxx . 10605227_10607631
+%mor:	co|ah cop|se-3S&PRES=be det:art|el&m&SG=the n|chaleco&m=vest
+	prep|de=of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|JCT 6|2|PUNCT
+%xds:	A
+*MC1:	el chaleco . 10607707_10608603
+%mor:	det:art|el&m&SG=the n|chaleco&m=vest .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+%xds:	A
+*FA1:	no te podés sacar xxx . 10608845_10610024
+%mor:	adv|no=no pro:obj|te=you v|pode-2S&PRES=can inf|saca-INF=bring_out
+	.
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|3|PUNCT
+%xds:	T
+*FA3:	lindo ? 10610000_10610607
+%mor:	adj|lindo-m=pretty ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	xxx . 10610562_10610953
+%xds:	U
+*MC2:	se fue (.) au . 10611036_10612643
+%mor:	pro:refl|se=itself v|i-3S&PRET=go co|au=ow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%xds:	A
+*FA3:	hola hermosa (.) hola xxx (.) hola bonita ! 10614310_10619131
+%mor:	co|hola=hi adj|hermoso-f=beautiful co|hola=hi co|hola=hi
+	co|bonita=pretty !
+%gra:	1|0|ROOT 2|1|MOD 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+%xds:	C
+*MC2:	xxx . 10616155_10616977
+%xds:	U
+*FA1:	qué hacen ? 10619869_10620536
+%mor:	pro:int|qué=what v|hace-3P&PRES=do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%xds:	A
+*MC2:	xxx . 10620905_10621905
+%xds:	U
+*FA3:	están solos ? 10621857_10622607
+%mor:	cop|esta-3P&PRES=be adj|solo-m-PL=alone ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%xds:	A
+*FA1:	no te podés sacar el chaleco porque te van a controlar . 10624060_10629810
+%mor:	adv|no=no pro:obj|te=you v|pode-2S&PRES=can inf|saca-INF=bring_out
+	det:art|el&m&SG=the n|chaleco&m=vest conj|porque=because
+	pro:obj|te=you v|i-3P&PRES=go prepart|a=to inf|controla-INF=control
+	.
+%gra:	1|2|JCT 2|0|ROOT 3|2|COMP 4|3|COMP 5|6|DET 6|4|OBJ 7|6|MOD 8|4|OBJ
+	9|8|COMP 10|11|INF 11|9|COMP 12|2|PUNCT
+%xds:	T
+*MC2:	xxx puedo sacar . 10632191_10634453
+%mor:	v|pode-1S&PRES=can inf|saca-INF=bring_out .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+%xds:	T
+*FA2:	gritá [/] gritá eh lo loquito que sos . 10634834_10637334
+%mor:	imp|grita-2S&IMP=shout co|eh pro:obj|le-m=him adj|loco-DIM=crazy
+	pro:rel|que=that cop|se-3S&PRES=be .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|MOD 5|4|REL 6|5|CMOD 7|1|PUNCT
+%xds:	T
+*CHI:	0 . 10637381_10637965
+*CHI:	0 . 10638881_10640322
+*FA2:	y no tenés xxx que tení(as) ? 10638893_10640346
+%mor:	coord|y=and adv|no=no v|tene-2S&PRES=have pro:rel|que=that
+	v|tene-2S&PAS=have ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|COORD 4|3|REL 5|4|CMOD 6|1|COORD
+%xds:	A
+*FA3:	es a partir de ocho meses . 10640691_10642119
+%mor:	cop|se-3S&PRES=be prepart|a=to inf|parti-INF=divide prep|de=of
+	n|ocho&m=number_eight n|mes&m-PL=month .
+%gra:	1|0|ROOT 2|1|PRED 3|2|COMP 4|3|JCT 5|4|POBJ 6|5|MOD 7|1|PUNCT
+%xds:	A
+*FA2:	y sí . 10642893_10643738
+%mor:	coord|y=and co|sí=yes .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+%xds:	A
+*CHI:	0 . 10645429_10646727
+*FA3:	xxx ocho xxx . 10647191_10649834
+%mor:	n|ocho&m=number_eight .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*FA2:	xxx . 10650810_10653857
+%xds:	A
+*MC2:	xxx cuidado ! 10654322_10658631
+%mor:	co|cuidado=careful !
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*MC2:	uaw . 10659107_10660417
+%mor:	?|uaw .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA3:	xxx cansa la caminata . 10661488_10663631
+%mor:	v|cansa-3S&PRES=tire det:art|el&f&SG=the n|caminata&f=promenade .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%xds:	A
+*MC2:	auh . 10664774_10666917
+%mor:	?|auh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA3:	entro [/] entro y está en el fondo la xxx . 10665988_10668203
+%mor:	v|entra-1S&PRES=come_in coord|y=and imp|esta-2S&IMP=be prep|en=in
+	det:art|el&m&SG=the n|fondo&m=bottom det:art|el&f&SG=the .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|JCT 5|6|DET 6|4|POBJ 7|6|MOD 8|1|PUNCT
+%xds:	A
+*FA1:	no . 10669798_10670596
+%mor:	adv|no=no .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*FA3:	de acá hasta los chinos . 10672762_10675429
+%mor:	prep|de=of adv|acá=here prep|hasta=until det:art|el&m-PL=the
+	adj|chino-m-PL .
+%gra:	1|0|ROOT 2|1|POBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%xds:	A
+*MC2:	uhh . 10674500_10675500
+%mor:	co|uhh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*MC2:	hhh . 10676727_10677727
+%mor:	?|hhh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*MC2:	ehh . 10679048_10680322
+%mor:	?|ehh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	y tu mamá xxx ? 10680453_10682215
+%mor:	coord|y=and det:poss|tu=your n|mamá&f=mommy ?
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD
+%xds:	A
+*FA3:	dónde es ? 10681953_10682393
+%mor:	pro:int|dónde=where cop|se-3S&PRES=be ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%xds:	A
+*FA3:	xxx . 10686834_10687357
+%xds:	A
+*FA1:	xxx . 10688453_10689643
+%xds:	A
+*MC2:	xxx . 10689048_10690215
+%xds:	T
+*MC2:	ahh . 10691727_10692655
+%mor:	?|ahh .
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	T
+*FA2:	xxx . 10692929_10696096
+%xds:	A
+*FA2:	xxx . 10698846_10701822
+%xds:	A
+*FC1:	0 . 10703191_10704703
+%xds:	U
+*FA3:	xxx una y de ahí se fue a xxx . 10704738_10707477
+%mor:	det:art|un-f=one coord|y=and prep|de=of adv|ahí=there
+	pro:refl|se=itself v|i-3S&PRET=go prepart|a=to .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|COORD 7|6|PRED 8|2|PUNCT
+%xds:	A
+*FA3:	xxx allá ? 10714738_10716179
+%mor:	adv|allá=there ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%xds:	A
+*FA1:	xxx . 10717572_10718572
+%xds:	A
+*note:	RandomSampling para variation sets con ACLEW 13806403_14106403
+%mor:	n:prop|RandomSampling prep|para=for ?|variation ?|sets
+	prep|con=with n:prop|ACLEW
+%gra:	1|0|ROOT 2|3|INF 3|1|CMOD 4|3|JCT 5|4|JCT 6|5|POBJ
+*context:	 13806403_14106403
+*code_num:	5 13926403_14046403
+%mor:	?|5
+%gra:	1|0|ROOT
+*code:	 13926403_14046403
+*on_off:	13926403_14046403 13926403_14046403
+%mor:	?|13926403_14046403
+%gra:	1|0|ROOT
+*EE1:	xxx . 13926416_14046500
+@End

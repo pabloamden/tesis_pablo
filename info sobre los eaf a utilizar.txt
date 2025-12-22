@@ -1,4 +1,0 @@
-Tengo tres corpus:
--HighVolubility (segmentos de alto contenido de habla)
--Random (segmentos aleatorios  que pueden contener fragmentos largos de silencio)
--Segunda vuelta de cada uno 
