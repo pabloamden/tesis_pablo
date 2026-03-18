@@ -11,10 +11,10 @@
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>CHI</String>
+        <String>code</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>4321745</Long>
+        <Long>0</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -73,60 +73,83 @@
         <Int>23</Int>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>4320360</Long>
+        <Long>0</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
+        <pref key="source_audio">
+            <String>C:/Users/pablo/OneDrive/Escritorio/bautista-a1-nsbLENA3-1.wav</String>
+        </pref>
     </prefGroup>
     <pref key="TimeScaleBeginTime">
-        <Long>4313760</Long>
+        <Long>10068280</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>4320360</Long>
+        <Long>10079459</Long>
     </pref>
     <prefGroup key="TierColors">
-        <pref key="EE1">
-            <Object class="java.awt.Color">160,160,90</Object>
+        <pref key="note">
+            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="code">
-            <Object class="java.awt.Color">90,160,90</Object>
+            <Object class="java.awt.Color">0,90,160</Object>
         </pref>
         <pref key="CHI">
-            <Object class="java.awt.Color">160,0,160</Object>
-        </pref>
-        <pref key="FA1">
-            <Object class="java.awt.Color">90,160,0</Object>
-        </pref>
-        <pref key="context">
-            <Object class="java.awt.Color">90,90,160</Object>
+            <Object class="java.awt.Color">90,90,0</Object>
         </pref>
         <pref key="on_off">
             <Object class="java.awt.Color">160,90,160</Object>
         </pref>
-        <pref key="MA1">
-            <Object class="java.awt.Color">0,0,160</Object>
+        <pref key="EE1">
+            <Object class="java.awt.Color">160,90,90</Object>
+        </pref>
+        <pref key="FC1">
+            <Object class="java.awt.Color">90,0,0</Object>
+        </pref>
+        <pref key="FA2">
+            <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+        <pref key="FA1">
+            <Object class="java.awt.Color">0,160,0</Object>
+        </pref>
+        <pref key="context">
+            <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
+        <pref key="FA3">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="MC1">
+            <Object class="java.awt.Color">90,160,0</Object>
         </pref>
         <pref key="code_num">
-            <Object class="java.awt.Color">160,160,0</Object>
+            <Object class="java.awt.Color">160,160,90</Object>
+        </pref>
+        <pref key="MC2">
+            <Object class="java.awt.Color">0,160,160</Object>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
-        <String>CHI</String>
-        <String>FA1</String>
-        <String>vcm@CHI</String>
-        <String>lex@CHI</String>
-        <String>mwu@CHI</String>
-        <String>xds@FA1</String>
         <String>code</String>
-        <String>context</String>
         <String>code_num</String>
         <String>on_off</String>
+        <String>context</String>
+        <String>note</String>
+        <String>FA1</String>
+        <String>CHI</String>
+        <String>MC1</String>
+        <String>FA2</String>
         <String>EE1</String>
-        <String>xds@EE1</String>
-        <String>MA1</String>
-        <String>xds@MA1</String>
+        <String>MC2</String>
+        <String>FC1</String>
+        <String>FA3</String>
+        <String>xds@FA1</String>
+        <String>xds@MC1</String>
+        <String>xds@FA2</String>
+        <String>xds@MC2</String>
+        <String>xds@FC1</String>
+        <String>xds@FA3</String>
     </prefList>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
