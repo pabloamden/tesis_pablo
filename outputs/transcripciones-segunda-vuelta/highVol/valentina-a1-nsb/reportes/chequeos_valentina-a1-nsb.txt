@@ -1,0 +1,13 @@
+Archivo: valentina-a1-nsb
+
+Conteo Elan_SIL:
+Elan_SIL
+1    255663
+0    104337
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    278439
+1     81561
+Name: count, dtype: int64
