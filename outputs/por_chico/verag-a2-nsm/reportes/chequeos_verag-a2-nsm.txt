@@ -1,0 +1,13 @@
+Archivo: verag-a2-nsm
+
+Conteo Elan_SIL:
+Elan_SIL
+1    105679
+0     62321
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    91225
+0    76775
+Name: count, dtype: int64

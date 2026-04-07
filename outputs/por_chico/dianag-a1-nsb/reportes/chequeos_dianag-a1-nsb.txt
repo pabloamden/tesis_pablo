@@ -1,0 +1,13 @@
+Archivo: dianag-a1-nsb
+
+Conteo Elan_SIL:
+Elan_SIL
+0    90840
+1    89160
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    101518
+1     78482
+Name: count, dtype: int64

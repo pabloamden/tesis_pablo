@@ -1,0 +1,13 @@
+Archivo: julietap-a1-nsm
+
+Conteo Elan_SIL:
+Elan_SIL
+1    125677
+0     54323
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    117529
+0     62471
+Name: count, dtype: int64

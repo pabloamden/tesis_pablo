@@ -1,0 +1,13 @@
+Archivo: lucasyoelp-a2-nsb
+
+Conteo Elan_SIL:
+Elan_SIL
+1    129216
+0     50784
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    110315
+0     69685
+Name: count, dtype: int64

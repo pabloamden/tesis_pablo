@@ -1,0 +1,13 @@
+Archivo: lucior-a2-nsm
+
+Conteo Elan_SIL:
+Elan_SIL
+0    104362
+1     75638
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    112001
+1     67999
+Name: count, dtype: int64

@@ -1,0 +1,13 @@
+Archivo: jeremiasc-a1-nsm
+
+Conteo Elan_SIL:
+Elan_SIL
+1    220676
+0    139324
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    342104
+0     17896
+Name: count, dtype: int64

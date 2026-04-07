@@ -1,0 +1,13 @@
+Archivo: dantep-a1-nsm
+
+Conteo Elan_SIL:
+Elan_SIL
+1    102924
+0     77076
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    98308
+0    81692
+Name: count, dtype: int64

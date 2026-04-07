@@ -1,0 +1,13 @@
+Archivo: angelinap-a1-nsm
+
+Conteo Elan_SIL:
+Elan_SIL
+1    124677
+0     55323
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    98882
+0    81118
+Name: count, dtype: int64

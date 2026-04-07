@@ -1,0 +1,13 @@
+Archivo: biancak-a2-nsb
+
+Conteo Elan_SIL:
+Elan_SIL
+0    90392
+1    89608
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    93037
+1    86963
+Name: count, dtype: int64
