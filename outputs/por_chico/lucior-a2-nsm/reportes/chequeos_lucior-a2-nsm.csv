@@ -1,0 +1,25 @@
+Archivo: lucior-a2-nsm
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+1    104362
+0     75638
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    112001
+0     67999
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+0    104362
+1     75638
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    112001
+1     67999
+Name: count, dtype: int64

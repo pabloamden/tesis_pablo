@@ -1,0 +1,25 @@
+Archivo: amparol-a1-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+1    109758
+0     70242
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    110277
+0     69723
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+0    109758
+1     70242
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    110277
+1     69723
+Name: count, dtype: int64

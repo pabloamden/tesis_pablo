@@ -1,0 +1,25 @@
+Archivo: Gaell-a1-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    92199
+1    87801
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+0    121502
+1     58498
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    92199
+0    87801
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    121502
+0     58498
+Name: count, dtype: int64

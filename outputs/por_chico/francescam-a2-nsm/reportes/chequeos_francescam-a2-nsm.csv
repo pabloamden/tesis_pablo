@@ -1,0 +1,25 @@
+Archivo: francescam-a2-nsm
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    138892
+1     41108
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+0    112147
+1     67853
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    138892
+0     41108
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    112147
+0     67853
+Name: count, dtype: int64

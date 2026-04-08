@@ -1,0 +1,25 @@
+Archivo: dianag-a1-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+1    90840
+0    89160
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    101518
+0     78482
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+0    90840
+1    89160
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    101518
+1     78482
+Name: count, dtype: int64

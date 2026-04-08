@@ -1,0 +1,25 @@
+Archivo: jeremiasc-a1-nsm
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    220676
+1    139324
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+0    342104
+1     17896
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    220676
+0    139324
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    342104
+0     17896
+Name: count, dtype: int64

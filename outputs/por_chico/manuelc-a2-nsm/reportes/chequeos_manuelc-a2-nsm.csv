@@ -1,0 +1,25 @@
+Archivo: manuelc-a2-nsm
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    159357
+1     20643
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+0    154526
+1     25474
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    159357
+0     20643
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    154526
+0     25474
+Name: count, dtype: int64

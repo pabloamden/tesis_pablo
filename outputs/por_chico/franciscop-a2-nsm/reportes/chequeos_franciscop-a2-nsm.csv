@@ -1,0 +1,25 @@
+Archivo: franciscop-a2-nsm
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    113222
+1     66778
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+0    101128
+1     78872
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    113222
+0     66778
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    101128
+0     78872
+Name: count, dtype: int64

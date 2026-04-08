@@ -1,0 +1,25 @@
+Archivo: alma-a1-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    111266
+1     68734
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    92504
+0    87496
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    111266
+0     68734
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    92504
+1    87496
+Name: count, dtype: int64

@@ -1,0 +1,25 @@
+Archivo: camilop-a2-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    130643
+1     49357
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+0    153761
+1     26239
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    130643
+0     49357
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    153761
+0     26239
+Name: count, dtype: int64

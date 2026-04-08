@@ -1,0 +1,25 @@
+Archivo: dantec-a1-nsm
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    115877
+1     64125
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+0    110338
+1     69664
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    115877
+0     64125
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    110338
+0     69664
+Name: count, dtype: int64

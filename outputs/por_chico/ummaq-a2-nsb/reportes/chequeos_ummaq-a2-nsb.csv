@@ -1,0 +1,25 @@
+Archivo: ummaq-a2-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    110573
+1     69427
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    90991
+0    89009
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    110573
+0     69427
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    90991
+1    89009
+Name: count, dtype: int64

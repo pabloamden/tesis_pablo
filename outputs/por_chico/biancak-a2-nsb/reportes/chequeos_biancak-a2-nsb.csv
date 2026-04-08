@@ -1,0 +1,25 @@
+Archivo: biancak-a2-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+1    90392
+0    89608
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    93037
+0    86963
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+0    90392
+1    89608
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    93037
+1    86963
+Name: count, dtype: int64

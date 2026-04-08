@@ -1,0 +1,25 @@
+Archivo: verag-a2-nsm
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    105679
+1     62321
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+0    91225
+1    76775
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    105679
+0     62321
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    91225
+0    76775
+Name: count, dtype: int64

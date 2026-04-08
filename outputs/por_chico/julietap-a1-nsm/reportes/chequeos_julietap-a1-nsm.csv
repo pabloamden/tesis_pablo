@@ -1,0 +1,25 @@
+Archivo: julietap-a1-nsm
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    125677
+1     54323
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+0    117529
+1     62471
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    125677
+0     54323
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    117529
+0     62471
+Name: count, dtype: int64
