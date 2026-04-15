@@ -1,0 +1,25 @@
+Archivo: camilob-a1-nsm
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    123892
+1     56108
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    147113
+0     32887
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    123892
+0     56108
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    147113
+1     32887
+Name: count, dtype: int64

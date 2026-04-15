@@ -1,0 +1,13 @@
+Archivo: lisandroh-a2-nsm
+
+Conteo Elan_SIL:
+Elan_SIL
+0    90951
+1    89049
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    105270
+1     74730
+Name: count, dtype: int64

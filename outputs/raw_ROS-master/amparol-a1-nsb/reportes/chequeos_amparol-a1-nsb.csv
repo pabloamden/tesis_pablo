@@ -1,0 +1,13 @@
+Archivo: amparol-a1-nsb
+
+Conteo Elan_SIL:
+Elan_SIL
+0    109758
+1     70242
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    110277
+1     69723
+Name: count, dtype: int64

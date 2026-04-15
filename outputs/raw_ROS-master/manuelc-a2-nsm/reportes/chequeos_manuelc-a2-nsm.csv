@@ -1,0 +1,13 @@
+Archivo: manuelc-a2-nsm
+
+Conteo Elan_SIL:
+Elan_SIL
+1    159357
+0     20643
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+1    154526
+0     25474
+Name: count, dtype: int64

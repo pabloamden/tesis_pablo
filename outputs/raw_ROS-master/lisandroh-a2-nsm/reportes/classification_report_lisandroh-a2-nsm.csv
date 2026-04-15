@@ -1,0 +1,33 @@
+Matriz de confusión para la etiqueta KCHI:
+[[167846   6710]
+ [  1446   3998]]
+
+Matriz de confusión para la etiqueta OCH:
+[[132498   4774]
+ [ 32313  10415]]
+
+Matriz de confusión para la etiqueta FEM:
+[[119367  22281]
+ [ 11474  26878]]
+
+Matriz de confusión para la etiqueta MAL:
+[[153876   9207]
+ [ 10186   6731]]
+
+Matriz de confusión para la etiqueta SIL:
+[[76386 14565]
+ [28884 60165]]
+
+Informe de clasificación:
+              precision    recall  f1-score   support
+
+        KCHI       0.37      0.73      0.50      5444
+         OCH       0.69      0.24      0.36     42728
+         FEM       0.55      0.70      0.61     38352
+         MAL       0.42      0.40      0.41     16917
+         SIL       0.81      0.68      0.73     89049
+
+   micro avg       0.65      0.56      0.60    192490
+   macro avg       0.57      0.55      0.52    192490
+weighted avg       0.68      0.56      0.59    192490
+ samples avg       0.57      0.57      0.56    192490

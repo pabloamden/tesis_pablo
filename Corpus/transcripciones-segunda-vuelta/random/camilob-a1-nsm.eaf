@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="unspecified"
-    DATE="2022-12-02T11:32:15-03:00" FORMAT="3.0" VERSION="3.0"
+    DATE="2026-04-15T14:56:38-03:00" FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///Users/cgiordano/ciipme/ParesSamplingVSaclew SegundaVuelta/ACLEW RandomSampling/camilob-a1-nsm.mp3"
-            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./camilob-a1-nsm.mp3"/>
+            MEDIA_URL="file:///C:/Users/pablo/OneDrive/Escritorio/camilob-a1-nsm.mp3"
+            MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="../../../../../OneDrive/Escritorio/camilob-a1-nsm.mp3"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c903af1b-0c57-4e93-a6f2-c921143248de</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">676</PROPERTY>
     </HEADER>

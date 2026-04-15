@@ -1,0 +1,13 @@
+Archivo: alma-a1-nsb
+
+Conteo Elan_SIL:
+Elan_SIL
+1    111266
+0     68734
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    92504
+1    87496
+Name: count, dtype: int64
