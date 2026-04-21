@@ -1,0 +1,25 @@
+Archivo: brandona-a1-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    534516
+1     65484
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    372740
+0    227260
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    534516
+0     65484
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    372740
+1    227260
+Name: count, dtype: int64

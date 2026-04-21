@@ -1,0 +1,25 @@
+Archivo: valentina-a1-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    255663
+1    104337
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    278439
+0     81561
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    255663
+0    104337
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    278439
+1     81561
+Name: count, dtype: int64
