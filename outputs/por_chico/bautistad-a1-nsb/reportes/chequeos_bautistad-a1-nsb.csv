@@ -1,0 +1,25 @@
+Archivo: bautistad-a1-nsb
+
+Conteo Elan_SPEECH:
+Elan_SPEECH
+0    115496
+1     64504
+Name: count, dtype: int64
+
+Conteo Diar_SPEECH:
+Diar_SPEECH
+1    115691
+0     64309
+Name: count, dtype: int64
+
+Conteo Elan_SIL:
+Elan_SIL
+1    115496
+0     64504
+Name: count, dtype: int64
+
+Conteo Diar_SIL:
+Diar_SIL
+0    115691
+1     64309
+Name: count, dtype: int64
